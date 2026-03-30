@@ -1,0 +1,374 @@
+{
+  "country": "yemen",
+  "last_updated": "2026-03-30T00:33:24Z",
+  "categories": [
+    "Diplomacy",
+    "Military",
+    "Energy",
+    "Economy",
+    "Local Events"
+  ],
+  "stories": {
+    "Diplomacy": [
+      {
+        "_id": "7379a3aa88c5",
+        "title": "Quartet Committee: Little progress to reduce the escalation of the war in the Gulf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421613",
+        "published_date": "2026-03-29T21:11:36Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "02ba1a11866e",
+        "title": "Lebanon.. The Saudi Embassy renews its call for Saudi citizens to leave",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421610",
+        "published_date": "2026-03-29T20:45:29Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "15fd5336e401",
+        "title": "Tehran warns of American “ground movements” coinciding with a regional movement in Islamabad",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421602",
+        "published_date": "2026-03-29T19:38:58Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fc69a712bfc7",
+        "title": "The UN envoy to Yemen warns against dragging the country into a regional war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421599",
+        "published_date": "2026-03-29T19:08:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "525feeb17a35",
+        "title": "The hearing team warns of the dangers of continuing the war on Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421597",
+        "published_date": "2026-03-29T18:24:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "49adb0ba44d0",
+        "title": "The Arab League Council approves the appointment of a new Secretary-General to succeed Aboul Gheit",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421594",
+        "published_date": "2026-03-29T15:26:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7d8cf3e66d90",
+        "title": "Islamabad is embracing a quadripartite movement to reduce regional escalation and Pakistani-Iranian discussions to enhance calm",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421566",
+        "published_date": "2026-03-28T21:23:55Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1633866198ce",
+        "title": "The death of a famous sports commentator in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421541",
+        "published_date": "2026-03-28T13:25:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d5209b25159b",
+        "title": "An upcoming quartet meeting in Pakistan to find a way out of the Gulf War",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421534",
+        "published_date": "2026-03-28T11:49:47Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "01460905104b",
+        "title": "A crisis of awareness and behavior",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421532",
+        "published_date": "2026-03-28T11:32:02Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c138ab250057",
+        "title": "Quick: Our hands are on the trigger if other powers intervene against Iran or use the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421502",
+        "published_date": "2026-03-27T20:46:16Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9a04d137af33",
+        "title": "A widespread military escalation in the Gulf, warnings of the expansion of the conflict, and European diplomatic movements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421486",
+        "published_date": "2026-03-27T12:51:56Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "70bd440c193c",
+        "title": "Newspaper: A Gulf country informs Washington of its readiness to participate in a naval task force to open the Strait of Hormuz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421480",
+        "published_date": "2026-03-27T11:46:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fe685d1692e3",
+        "title": "Escalation of tensions between Washington and Tehran amid Iranian rejection of the American proposal to stop the fighting",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421468",
+        "published_date": "2026-03-26T21:48:54Z",
+        "category": "Diplomacy"
+      }
+    ],
+    "Military": [
+      {
+        "_id": "bb939e32c039",
+        "title": "The Kuwaiti Army announces that one of its camps was subjected to a hostile attack and casualties occurred",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421620",
+        "published_date": "2026-03-29T21:38:33Z",
+        "category": "Military"
+      },
+      {
+        "_id": "7604f26f738d",
+        "title": "Al-Mahra Customs announces the seizure of device No. “16” for mining digital currencies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421607",
+        "published_date": "2026-03-29T20:21:46Z",
+        "category": "Military"
+      },
+      {
+        "_id": "380bbdeaadd8",
+        "title": "American military movements in the Middle East and reports of plans for ground operations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421577",
+        "published_date": "2026-03-29T13:25:46Z",
+        "category": "Military"
+      },
+      {
+        "_id": "ad1516ab7d4c",
+        "title": "Saree announces a military operation in southern occupied Palestine",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421559",
+        "published_date": "2026-03-28T20:18:40Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e25753c14b03",
+        "title": "The bone breaking phase is over",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421537",
+        "published_date": "2026-03-28T12:04:57Z",
+        "category": "Military"
+      },
+      {
+        "_id": "5ec07524cd77",
+        "title": "Saree announces the implementation of the first military operation against Israeli targets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421524",
+        "published_date": "2026-03-28T11:01:12Z",
+        "category": "Military"
+      },
+      {
+        "_id": "252ce313ceee",
+        "title": "Al-Sama'i: Hezbollah is fighting the epics of steadfast heroes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421466",
+        "published_date": "2026-03-26T21:28:31Z",
+        "category": "Military"
+      }
+    ],
+    "Energy": [],
+    "Economy": [
+      {
+        "_id": "281e3e10ad9b",
+        "title": "Aden.. The Board of Directors of the Central Bank takes a number of regulatory decisions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421623",
+        "published_date": "2026-03-29T22:12:07Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "89205768ee01",
+        "title": "Vocal phenomena in Mahmoud Darwish’s poetry, a rhetorical and stylistic reading in shaping meaning",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421590",
+        "published_date": "2026-03-29T14:58:26Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "4a5f55b1b43b",
+        "title": "Governor of Hadhramaut: We stopped supplying to Aden until an agreement was reached on the rights of the governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421554",
+        "published_date": "2026-03-28T19:48:48Z",
+        "category": "Economy"
+      }
+    ],
+    "Local Events": [
+      {
+        "_id": "eceb94cc27c4",
+        "title": "About the obscene statements of US President Donald Trump",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421592",
+        "published_date": "2026-03-29T15:09:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7dd28ae316b1",
+        "title": "Aden.. A groom was transferred to intensive care due to an aphrodisiac",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421586",
+        "published_date": "2026-03-29T14:29:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c147b2ca613a",
+        "title": "Sanaa.. An abandoned house in Sanhan claimed the lives of three people",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421582",
+        "published_date": "2026-03-29T14:00:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "35d91d63293e",
+        "title": "Average gold prices in Sanaa and Aden, Sunday, March 29, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421580",
+        "published_date": "2026-03-29T13:39:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f88b6a99ebf",
+        "title": "The oppressed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421572",
+        "published_date": "2026-03-29T11:51:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "19799d504a6a",
+        "title": "Meteorology lowers the warning to a warning and expects thunderstorms of varying intensity in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421570",
+        "published_date": "2026-03-29T11:16:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6adcb7e8083a",
+        "title": "Yemeni intellectuals call for the protection of the director of Taiz Park and condemn the racist behavior, assault, and threats to which she was exposed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421563",
+        "published_date": "2026-03-28T20:55:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a5cc6de29cb",
+        "title": "The lineage of meaning",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421556",
+        "published_date": "2026-03-28T20:06:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e700b4abf913",
+        "title": "Taiz: Deep cracks appear in the soil in Mount Habashi, and geologists explain the phenomenon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421547",
+        "published_date": "2026-03-28T14:15:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2e6f8f87a93d",
+        "title": "Meteorology: Thunderstorms are expected to continue in most Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421527",
+        "published_date": "2026-03-28T11:19:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a41c90cb5a60",
+        "title": "Floods west of Taiz cause massive damage and record more than ten casualties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421521",
+        "published_date": "2026-03-28T10:17:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "127566b03fc7",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, March 28, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421518",
+        "published_date": "2026-03-28T09:31:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "59275757c400",
+        "title": "Two earthquakes were recorded from the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421515",
+        "published_date": "2026-03-28T09:10:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0785d507a170",
+        "title": "Hashid... people like you are needed by the whole country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421510",
+        "published_date": "2026-03-27T22:00:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a36e7bad0690",
+        "title": "Taiz police announce the arrest of suspects in the killing of a journalist",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421506",
+        "published_date": "2026-03-27T21:32:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "40cd5064b3e5",
+        "title": "Weather expert: The depression is moving towards Hadhramaut and record amounts of rain are expected",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421499",
+        "published_date": "2026-03-27T16:13:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "93d81303b86f",
+        "title": "Average gold prices in Sanaa and Aden Friday, March 27, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421497",
+        "published_date": "2026-03-27T15:33:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e4ae3c48f4ad",
+        "title": "Taiz.. torrential torrential rains drown a residential city and villages in Al Mokha District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421491",
+        "published_date": "2026-03-27T14:19:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "02cfd450c1a4",
+        "title": "Fireworks burn a wedding tent in Abyan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421488",
+        "published_date": "2026-03-27T13:44:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "611a80dff632",
+        "title": "Tahrir Square turns into a pool of water and there are calls for the intervention of the competent authorities after the water penetrated into the shops",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421483",
+        "published_date": "2026-03-27T12:10:18Z",
+        "category": "Local Events"
+      }
+    ]
+  }
+}
