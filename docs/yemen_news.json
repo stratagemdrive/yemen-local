@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-03-30T00:33:24Z",
+  "last_updated": "2026-03-30T14:58:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ec4aff9c77de",
+        "title": "Trump threatens to attack vital facilities if the Strait of Hormuz is not opened",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421636",
+        "published_date": "2026-03-30T14:33:13Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "7379a3aa88c5",
         "title": "Quartet Committee: Little progress to reduce the escalation of the war in the Gulf",
@@ -125,6 +133,14 @@
     ],
     "Military": [
       {
+        "_id": "a7d57892fdae",
+        "title": "Hadramaut “document”: a circular banning the carrying of weapons in the governorate, and the governor directs the army and security to implement it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421630",
+        "published_date": "2026-03-30T13:00:20Z",
+        "category": "Military"
+      },
+      {
         "_id": "bb939e32c039",
         "title": "The Kuwaiti Army announces that one of its camps was subjected to a hostile attack and casualties occurred",
         "source": "Yemenat",
@@ -171,14 +187,6 @@
         "url": "https://yemenat.net/archives/421524",
         "published_date": "2026-03-28T11:01:12Z",
         "category": "Military"
-      },
-      {
-        "_id": "252ce313ceee",
-        "title": "Al-Sama'i: Hezbollah is fighting the epics of steadfast heroes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421466",
-        "published_date": "2026-03-26T21:28:31Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -209,6 +217,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "e5b7dba9e5a8",
+        "title": "Average gold prices in Sanaa and Aden, Monday, March 30, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421634",
+        "published_date": "2026-03-30T13:36:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "301bc3e6b818",
+        "title": "Meteorology warns of thunderstorms and collapses, and it is advised not to be near electricity poles and trees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421626",
+        "published_date": "2026-03-30T12:21:14Z",
+        "category": "Local Events"
+      },
       {
         "_id": "eceb94cc27c4",
         "title": "About the obscene statements of US President Donald Trump",
@@ -351,22 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421491",
         "published_date": "2026-03-27T14:19:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "02cfd450c1a4",
-        "title": "Fireworks burn a wedding tent in Abyan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421488",
-        "published_date": "2026-03-27T13:44:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "611a80dff632",
-        "title": "Tahrir Square turns into a pool of water and there are calls for the intervention of the competent authorities after the water penetrated into the shops",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421483",
-        "published_date": "2026-03-27T12:10:18Z",
         "category": "Local Events"
       }
     ]
