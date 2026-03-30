@@ -1,0 +1,44 @@
+name: Fetch Yemen News
+
+on:
+  schedule:
+    # 6 AM EST  = 11:00 UTC  (UTC-5 in winter / UTC-4 in summer; use 11:00 UTC to target 6 AM EST year-round)
+    - cron: "0 11 * * *"
+    # 6 PM EST  = 23:00 UTC
+    - cron: "0 23 * * *"
+  workflow_dispatch:   # allow manual runs from the Actions tab
+
+permissions:
+  contents: write      # needed to push docs/yemen_news.json back to the repo
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetcher
+        run: python fetch_news.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/yemen_news.json
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update yemen_news.json [$(date -u '+%Y-%m-%dT%H:%M:%SZ')]"
+            git push
+          fi
