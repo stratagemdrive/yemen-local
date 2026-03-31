@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-03-30T14:58:01Z",
+  "last_updated": "2026-03-31T00:06:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,46 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0acc75faa828",
+        "title": "The White House: Trump will call on Arab countries to contribute to financing the war on Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421666",
+        "published_date": "2026-03-30T21:46:58Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "200c1e3517da",
+        "title": "UN report: Food security in Yemen has improved slightly",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421662",
+        "published_date": "2026-03-30T21:06:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "39bec5b354ba",
+        "title": "Houses that do not die",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421660",
+        "published_date": "2026-03-30T21:00:51Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a88e022dcee9",
+        "title": "Arrangements in the Ministry of Foreign Affairs for changes in diplomatic missions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421653",
+        "published_date": "2026-03-30T20:08:53Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ebd388ae23ae",
+        "title": "Agency: American paratroopers arrive in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421649",
+        "published_date": "2026-03-30T19:34:53Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ec4aff9c77de",
         "title": "Trump threatens to attack vital facilities if the Strait of Hormuz is not opened",
@@ -97,38 +137,6 @@
         "url": "https://yemenat.net/archives/421532",
         "published_date": "2026-03-28T11:32:02Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c138ab250057",
-        "title": "Quick: Our hands are on the trigger if other powers intervene against Iran or use the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421502",
-        "published_date": "2026-03-27T20:46:16Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9a04d137af33",
-        "title": "A widespread military escalation in the Gulf, warnings of the expansion of the conflict, and European diplomatic movements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421486",
-        "published_date": "2026-03-27T12:51:56Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "70bd440c193c",
-        "title": "Newspaper: A Gulf country informs Washington of its readiness to participate in a naval task force to open the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421480",
-        "published_date": "2026-03-27T11:46:11Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "fe685d1692e3",
-        "title": "Escalation of tensions between Washington and Tehran amid Iranian rejection of the American proposal to stop the fighting",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421468",
-        "published_date": "2026-03-26T21:48:54Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -192,6 +200,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "9d46bf9e9d83",
+        "title": "A fire broke out in an oil tanker after it was targeted in the Arabian Gulf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421670",
+        "published_date": "2026-03-30T22:11:34Z",
+        "category": "Economy"
+      },
+      {
         "_id": "281e3e10ad9b",
         "title": "Aden.. The Board of Directors of the Central Bank takes a number of regulatory decisions",
         "source": "Yemenat",
@@ -217,6 +233,54 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "ed49364e99c4",
+        "title": "Taiz police announce the arrest of the second accused in the assassination of the martyr Efthan Al-Mashahri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421673",
+        "published_date": "2026-03-30T22:35:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5a4e7ae4cb22",
+        "title": "Russian-Saudi discussions on the Yemeni issue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421657",
+        "published_date": "2026-03-30T20:34:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f70f7fcfe360",
+        "title": "FAO warns of floods in Yemen and identifies areas at risk",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421645",
+        "published_date": "2026-03-30T19:10:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1bbc65d55cef",
+        "title": "Spiritual Literature between Meditation and Philosophy: A Critical Reading of “Spiritual Explanations and Explanations” by “Khawla Al-Asaad”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421642",
+        "published_date": "2026-03-30T17:51:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d0c64d335bc9",
+        "title": "Sirens sound in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421640",
+        "published_date": "2026-03-30T17:16:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "04d19d931f90",
+        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421638",
+        "published_date": "2026-03-30T15:14:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e5b7dba9e5a8",
         "title": "Average gold prices in Sanaa and Aden, Monday, March 30, 2026",
@@ -327,54 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421518",
         "published_date": "2026-03-28T09:31:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "59275757c400",
-        "title": "Two earthquakes were recorded from the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421515",
-        "published_date": "2026-03-28T09:10:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0785d507a170",
-        "title": "Hashid... people like you are needed by the whole country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421510",
-        "published_date": "2026-03-27T22:00:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a36e7bad0690",
-        "title": "Taiz police announce the arrest of suspects in the killing of a journalist",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421506",
-        "published_date": "2026-03-27T21:32:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40cd5064b3e5",
-        "title": "Weather expert: The depression is moving towards Hadhramaut and record amounts of rain are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421499",
-        "published_date": "2026-03-27T16:13:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "93d81303b86f",
-        "title": "Average gold prices in Sanaa and Aden Friday, March 27, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421497",
-        "published_date": "2026-03-27T15:33:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e4ae3c48f4ad",
-        "title": "Taiz.. torrential torrential rains drown a residential city and villages in Al Mokha District",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421491",
-        "published_date": "2026-03-27T14:19:19Z",
         "category": "Local Events"
       }
     ]
