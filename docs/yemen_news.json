@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-03-31T14:53:28Z",
+  "last_updated": "2026-04-01T00:05:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0825ed8ae71a",
+        "title": "Newspaper: Trump is moving to end the military campaign against Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421708",
+        "published_date": "2026-03-31T21:12:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "32bb7654a1d8",
+        "title": "The UN mission in Hodeidah announces the end of its duties and the transfer of its work to the Office of the UN Envoy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421706",
+        "published_date": "2026-03-31T20:35:49Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "691ace936d4c",
         "title": "US Secretary of Defense: Russia and China support Iran and talks to end the war are gaining great momentum",
@@ -121,33 +137,17 @@
         "url": "https://yemenat.net/archives/421566",
         "published_date": "2026-03-28T21:23:55Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1633866198ce",
-        "title": "The death of a famous sports commentator in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421541",
-        "published_date": "2026-03-28T13:25:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d5209b25159b",
-        "title": "An upcoming quartet meeting in Pakistan to find a way out of the Gulf War",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421534",
-        "published_date": "2026-03-28T11:49:47Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "01460905104b",
-        "title": "A crisis of awareness and behavior",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421532",
-        "published_date": "2026-03-28T11:32:02Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "5bc163c3010c",
+        "title": "Netanyahu: The war with Iran will incur heavy costs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421702",
+        "published_date": "2026-03-31T19:58:28Z",
+        "category": "Military"
+      },
       {
         "_id": "a7d57892fdae",
         "title": "Hadramaut “document”: a circular banning the carrying of weapons in the governorate, and the governor directs the army and security to implement it",
@@ -187,26 +187,18 @@
         "url": "https://yemenat.net/archives/421559",
         "published_date": "2026-03-28T20:18:40Z",
         "category": "Military"
-      },
-      {
-        "_id": "e25753c14b03",
-        "title": "The bone breaking phase is over",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421537",
-        "published_date": "2026-03-28T12:04:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "5ec07524cd77",
-        "title": "Saree announces the implementation of the first military operation against Israeli targets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421524",
-        "published_date": "2026-03-28T11:01:12Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "4297a33bd955",
+        "title": "Yemenia sets the date for resuming its flights to Jordan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421696",
+        "published_date": "2026-03-31T15:19:22Z",
+        "category": "Economy"
+      },
       {
         "_id": "18a72e282fcd",
         "title": "The trend...the revolution of normalization and reformulation of concepts",
@@ -249,6 +241,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "9d9cdd9d17e7",
+        "title": "Why did they assassinate Samed Al-Qadi?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421704",
+        "published_date": "2026-03-31T20:14:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2b07b6ead918",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421700",
+        "published_date": "2026-03-31T16:20:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "00198a444ffb",
+        "title": "Taiz.. A tribal mediator close to Al-Barakani was killed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421698",
+        "published_date": "2026-03-31T15:53:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "21f8217df77d",
         "title": "Average gold prices in Sanaa and Aden, Tuesday, March 31, 2026",
@@ -383,30 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421563",
         "published_date": "2026-03-28T20:55:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a5cc6de29cb",
-        "title": "The lineage of meaning",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421556",
-        "published_date": "2026-03-28T20:06:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e700b4abf913",
-        "title": "Taiz: Deep cracks appear in the soil in Mount Habashi, and geologists explain the phenomenon",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421547",
-        "published_date": "2026-03-28T14:15:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e6f8f87a93d",
-        "title": "Meteorology: Thunderstorms are expected to continue in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421527",
-        "published_date": "2026-03-28T11:19:06Z",
         "category": "Local Events"
       }
     ]
