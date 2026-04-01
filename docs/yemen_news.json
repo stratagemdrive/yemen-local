@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-01T00:05:24Z",
+  "last_updated": "2026-04-01T14:59:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "d93fe60d4591",
+        "title": "Trump and his Secretary of State: The Iran war will end soon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421714",
+        "published_date": "2026-04-01T11:57:03Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0825ed8ae71a",
         "title": "Newspaper: Trump is moving to end the military campaign against Iran",
@@ -72,6 +80,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421649",
         "published_date": "2026-03-30T19:34:53Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "04d19d931f90",
+        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421638",
+        "published_date": "2026-03-30T15:14:52Z",
         "category": "Diplomacy"
       },
       {
@@ -140,6 +156,14 @@
       }
     ],
     "Military": [
+      {
+        "_id": "5ae774a6e168",
+        "title": "Saree announces a military missile operation in occupied Palestine",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421710",
+        "published_date": "2026-04-01T10:14:23Z",
+        "category": "Military"
+      },
       {
         "_id": "5bc163c3010c",
         "title": "Netanyahu: The war with Iran will incur heavy costs",
@@ -230,17 +254,17 @@
         "url": "https://yemenat.net/archives/421590",
         "published_date": "2026-03-29T14:58:26Z",
         "category": "Economy"
-      },
-      {
-        "_id": "4a5f55b1b43b",
-        "title": "Governor of Hadhramaut: We stopped supplying to Aden until an agreement was reached on the rights of the governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421554",
-        "published_date": "2026-03-28T19:48:48Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "08fe8d8c715f",
+        "title": "Meteorology warns of thunderstorms of varying intensity over large areas of the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421712",
+        "published_date": "2026-04-01T10:42:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9d9cdd9d17e7",
         "title": "Why did they assassinate Samed Al-Qadi?",
@@ -319,14 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421640",
         "published_date": "2026-03-30T17:16:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "04d19d931f90",
-        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421638",
-        "published_date": "2026-03-30T15:14:52Z",
         "category": "Local Events"
       },
       {
