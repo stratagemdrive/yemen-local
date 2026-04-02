@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-01T14:59:27Z",
+  "last_updated": "2026-04-02T00:03:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "241a23ac1b82",
+        "title": "Newspaper: Iran is not ready to enter into negotiations with the United States to end the war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421749",
+        "published_date": "2026-04-01T22:25:55Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3fb346410b07",
+        "title": "The UAE Foreign Ministry clarifies the situation of the Iranian community",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421747",
+        "published_date": "2026-04-01T21:49:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "917ea55bc0cc",
+        "title": "Lamentations of the Resurrection",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421744",
+        "published_date": "2026-04-01T20:17:32Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a8f942a01efa",
+        "title": "The Maritime Affairs Authority in Hadramaut: The ports of the Arabian Sea have the potential to transform into global logistics centers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421728",
+        "published_date": "2026-04-01T17:12:54Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "d93fe60d4591",
         "title": "Trump and his Secretary of State: The Iran war will end soon",
@@ -83,14 +115,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "04d19d931f90",
-        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421638",
-        "published_date": "2026-03-30T15:14:52Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "ec4aff9c77de",
         "title": "Trump threatens to attack vital facilities if the Strait of Hormuz is not opened",
         "source": "Yemenat",
@@ -145,14 +169,6 @@
         "url": "https://yemenat.net/archives/421594",
         "published_date": "2026-03-29T15:26:54Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "7d8cf3e66d90",
-        "title": "Islamabad is embracing a quadripartite movement to reduce regional escalation and Pakistani-Iranian discussions to enhance calm",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421566",
-        "published_date": "2026-03-28T21:23:55Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -195,22 +211,6 @@
         "url": "https://yemenat.net/archives/421607",
         "published_date": "2026-03-29T20:21:46Z",
         "category": "Military"
-      },
-      {
-        "_id": "380bbdeaadd8",
-        "title": "American military movements in the Middle East and reports of plans for ground operations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421577",
-        "published_date": "2026-03-29T13:25:46Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ad1516ab7d4c",
-        "title": "Saree announces a military operation in southern occupied Palestine",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421559",
-        "published_date": "2026-03-28T20:18:40Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -246,17 +246,65 @@
         "url": "https://yemenat.net/archives/421623",
         "published_date": "2026-03-29T22:12:07Z",
         "category": "Economy"
-      },
-      {
-        "_id": "89205768ee01",
-        "title": "Vocal phenomena in Mahmoud Darwish’s poetry, a rhetorical and stylistic reading in shaping meaning",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421590",
-        "published_date": "2026-03-29T14:58:26Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "2a4f48888408",
+        "title": "Yemeni intellectuals call for a transparent investigation into the circumstances of Al-Alimi’s death in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421753",
+        "published_date": "2026-04-01T23:13:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ada591c09db2",
+        "title": "Trump's upcoming speech: goals and consequences",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421751",
+        "published_date": "2026-04-01T22:52:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2ef5b263b481",
+        "title": "A military commander close to the Brotherhood returns to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421733",
+        "published_date": "2026-04-01T18:19:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cc2edcd29652",
+        "title": "Shabwa...doctors and nurses threaten to suspend work if their demands are not met",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421724",
+        "published_date": "2026-04-01T16:49:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3bac22664160",
+        "title": "A slight increase...the average price of gold in Sanaa and Aden, Wednesday, April 1, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421722",
+        "published_date": "2026-04-01T16:26:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a9bbc0a7188",
+        "title": "Al-Samai: The Israeli Knesset law is a crime of genocide and a disgrace to the international community",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421719",
+        "published_date": "2026-04-01T16:06:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f7473870247",
+        "title": "Faisal Saeed Farea... is one of those who stay",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421716",
+        "published_date": "2026-04-01T15:44:21Z",
+        "category": "Local Events"
+      },
       {
         "_id": "08fe8d8c715f",
         "title": "Meteorology warns of thunderstorms of varying intensity over large areas of the country",
@@ -346,75 +394,19 @@
         "category": "Local Events"
       },
       {
+        "_id": "04d19d931f90",
+        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421638",
+        "published_date": "2026-03-30T15:14:52Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "e5b7dba9e5a8",
         "title": "Average gold prices in Sanaa and Aden, Monday, March 30, 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421634",
         "published_date": "2026-03-30T13:36:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "301bc3e6b818",
-        "title": "Meteorology warns of thunderstorms and collapses, and it is advised not to be near electricity poles and trees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421626",
-        "published_date": "2026-03-30T12:21:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eceb94cc27c4",
-        "title": "About the obscene statements of US President Donald Trump",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421592",
-        "published_date": "2026-03-29T15:09:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7dd28ae316b1",
-        "title": "Aden.. A groom was transferred to intensive care due to an aphrodisiac",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421586",
-        "published_date": "2026-03-29T14:29:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c147b2ca613a",
-        "title": "Sanaa.. An abandoned house in Sanhan claimed the lives of three people",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421582",
-        "published_date": "2026-03-29T14:00:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "35d91d63293e",
-        "title": "Average gold prices in Sanaa and Aden, Sunday, March 29, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421580",
-        "published_date": "2026-03-29T13:39:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7f88b6a99ebf",
-        "title": "The oppressed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421572",
-        "published_date": "2026-03-29T11:51:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "19799d504a6a",
-        "title": "Meteorology lowers the warning to a warning and expects thunderstorms of varying intensity in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421570",
-        "published_date": "2026-03-29T11:16:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6adcb7e8083a",
-        "title": "Yemeni intellectuals call for the protection of the director of Taiz Park and condemn the racist behavior, assault, and threats to which she was exposed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421563",
-        "published_date": "2026-03-28T20:55:29Z",
         "category": "Local Events"
       }
     ]
