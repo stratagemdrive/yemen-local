@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-02T00:03:07Z",
+  "last_updated": "2026-04-02T14:43:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "254a6b205cdc",
+        "title": "Trump dashes hopes of ending the war, oil prices jump, stocks fall, and Zulfiqari threatens",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421759",
+        "published_date": "2026-04-02T12:28:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "69b8d313723a",
+        "title": "Meteorology lowers the warning level to “alert” and an air spike affects the country’s atmosphere",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421757",
+        "published_date": "2026-04-02T11:44:58Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "241a23ac1b82",
         "title": "Newspaper: Iran is not ready to enter into negotiations with the United States to end the war",
@@ -137,38 +153,6 @@
         "url": "https://yemenat.net/archives/421610",
         "published_date": "2026-03-29T20:45:29Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "15fd5336e401",
-        "title": "Tehran warns of American “ground movements” coinciding with a regional movement in Islamabad",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421602",
-        "published_date": "2026-03-29T19:38:58Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "fc69a712bfc7",
-        "title": "The UN envoy to Yemen warns against dragging the country into a regional war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421599",
-        "published_date": "2026-03-29T19:08:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "525feeb17a35",
-        "title": "The hearing team warns of the dangers of continuing the war on Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421597",
-        "published_date": "2026-03-29T18:24:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "49adb0ba44d0",
-        "title": "The Arab League Council approves the appointment of a new Secretary-General to succeed Aboul Gheit",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421594",
-        "published_date": "2026-03-29T15:26:54Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -203,18 +187,26 @@
         "url": "https://yemenat.net/archives/421620",
         "published_date": "2026-03-29T21:38:33Z",
         "category": "Military"
-      },
-      {
-        "_id": "7604f26f738d",
-        "title": "Al-Mahra Customs announces the seizure of device No. “16” for mining digital currencies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421607",
-        "published_date": "2026-03-29T20:21:46Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "d3c99181712f",
+        "title": "News of an attempted air landing in Bab al-Mandab, and the Coast Guard comments on the circulating news",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421767",
+        "published_date": "2026-04-02T13:44:21Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "2046eb9d7388",
+        "title": "Average gold prices in Sanaa and Aden on Thursday, April 2, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421762",
+        "published_date": "2026-04-02T12:52:36Z",
+        "category": "Economy"
+      },
       {
         "_id": "4297a33bd955",
         "title": "Yemenia sets the date for resuming its flights to Jordan",
@@ -249,6 +241,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "f3ae661f7642",
+        "title": "Trend Waves: A Revolution of Normalization and the Reframing of Concepts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421765",
+        "published_date": "2026-04-02T13:13:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2a4f48888408",
         "title": "Yemeni intellectuals call for a transparent investigation into the circumstances of Al-Alimi’s death in Aden",
@@ -399,14 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421638",
         "published_date": "2026-03-30T15:14:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e5b7dba9e5a8",
-        "title": "Average gold prices in Sanaa and Aden, Monday, March 30, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421634",
-        "published_date": "2026-03-30T13:36:34Z",
         "category": "Local Events"
       }
     ]
