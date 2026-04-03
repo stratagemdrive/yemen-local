@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-03T00:05:24Z",
+  "last_updated": "2026-04-03T12:06:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "7b97365185d6",
+        "title": "Parliamentarian Hashid is heading to sue the internationally recognized Yemeni government",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421785",
+        "published_date": "2026-04-03T09:41:06Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "a65dc92362a5",
         "title": "The Listening Team: America's battle with Iran may be the last outside its borders",
@@ -137,17 +145,17 @@
         "url": "https://yemenat.net/archives/421649",
         "published_date": "2026-03-30T19:34:53Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ec4aff9c77de",
-        "title": "Trump threatens to attack vital facilities if the Strait of Hormuz is not opened",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421636",
-        "published_date": "2026-03-30T14:33:13Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "0cf9777c7990",
+        "title": "Lahj.. Victims in an armed clash in the middle of Al-Habilain market",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421792",
+        "published_date": "2026-04-03T11:36:56Z",
+        "category": "Military"
+      },
       {
         "_id": "76179625ce51",
         "title": "Saree announces the implementation of a military operation in occupied Palestine",
@@ -170,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421702",
         "published_date": "2026-03-31T19:58:28Z",
-        "category": "Military"
-      },
-      {
-        "_id": "a7d57892fdae",
-        "title": "Hadramaut “document”: a circular banning the carrying of weapons in the governorate, and the governor directs the army and security to implement it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421630",
-        "published_date": "2026-03-30T13:00:20Z",
         "category": "Military"
       }
     ],
@@ -233,6 +233,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "243f5032c276",
+        "title": "An earthquake strikes Shabwa Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421789",
+        "published_date": "2026-04-03T10:20:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1f30c21cd40e",
+        "title": "Meteorology: Thunderstorms in parts of 10 governorates and scattered in parts of four others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421783",
+        "published_date": "2026-04-03T08:56:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8be3d700ff57",
         "title": "On the occasion of the opening of the Center for Ophthalmology and Surgery.. “Al-Yemen Al-Saeed” Hospital launches a charity week for eye treatment and surgery",
@@ -375,22 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421657",
         "published_date": "2026-03-30T20:34:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f70f7fcfe360",
-        "title": "FAO warns of floods in Yemen and identifies areas at risk",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421645",
-        "published_date": "2026-03-30T19:10:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1bbc65d55cef",
-        "title": "Spiritual Literature between Meditation and Philosophy: A Critical Reading of “Spiritual Explanations and Explanations” by “Khawla Al-Asaad”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421642",
-        "published_date": "2026-03-30T17:51:19Z",
         "category": "Local Events"
       }
     ]
