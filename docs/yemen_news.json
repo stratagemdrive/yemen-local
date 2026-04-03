@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-02T14:43:02Z",
+  "last_updated": "2026-04-03T00:05:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a65dc92362a5",
+        "title": "The Listening Team: America's battle with Iran may be the last outside its borders",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421769",
+        "published_date": "2026-04-02T16:03:39Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "254a6b205cdc",
         "title": "Trump dashes hopes of ending the war, oil prices jump, stocks fall, and Zulfiqari threatens",
@@ -137,25 +145,17 @@
         "url": "https://yemenat.net/archives/421636",
         "published_date": "2026-03-30T14:33:13Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "7379a3aa88c5",
-        "title": "Quartet Committee: Little progress to reduce the escalation of the war in the Gulf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421613",
-        "published_date": "2026-03-29T21:11:36Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "02ba1a11866e",
-        "title": "Lebanon.. The Saudi Embassy renews its call for Saudi citizens to leave",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421610",
-        "published_date": "2026-03-29T20:45:29Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "76179625ce51",
+        "title": "Saree announces the implementation of a military operation in occupied Palestine",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421775",
+        "published_date": "2026-04-02T18:50:14Z",
+        "category": "Military"
+      },
       {
         "_id": "5ae774a6e168",
         "title": "Saree announces a military missile operation in occupied Palestine",
@@ -179,18 +179,18 @@
         "url": "https://yemenat.net/archives/421630",
         "published_date": "2026-03-30T13:00:20Z",
         "category": "Military"
-      },
-      {
-        "_id": "bb939e32c039",
-        "title": "The Kuwaiti Army announces that one of its camps was subjected to a hostile attack and casualties occurred",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421620",
-        "published_date": "2026-03-29T21:38:33Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "1e1ebc07e7ee",
+        "title": "Sanaa announces the departure of a Russian sailor and a number of stranded and sick people, and the return of others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421777",
+        "published_date": "2026-04-02T19:25:56Z",
+        "category": "Economy"
+      },
       {
         "_id": "d3c99181712f",
         "title": "News of an attempted air landing in Bab al-Mandab, and the Coast Guard comments on the circulating news",
@@ -230,17 +230,25 @@
         "url": "https://yemenat.net/archives/421670",
         "published_date": "2026-03-30T22:11:34Z",
         "category": "Economy"
-      },
-      {
-        "_id": "281e3e10ad9b",
-        "title": "Aden.. The Board of Directors of the Central Bank takes a number of regulatory decisions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421623",
-        "published_date": "2026-03-29T22:12:07Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8be3d700ff57",
+        "title": "On the occasion of the opening of the Center for Ophthalmology and Surgery.. “Al-Yemen Al-Saeed” Hospital launches a charity week for eye treatment and surgery",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421780",
+        "published_date": "2026-04-02T19:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0516eb82e75a",
+        "title": "Taiz.. Tension in Al-Waziyah following clashes between gunmen and a security campaign",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421772",
+        "published_date": "2026-04-02T18:24:11Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f3ae661f7642",
         "title": "Trend Waves: A Revolution of Normalization and the Reframing of Concepts",
@@ -383,22 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421642",
         "published_date": "2026-03-30T17:51:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d0c64d335bc9",
-        "title": "Sirens sound in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421640",
-        "published_date": "2026-03-30T17:16:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "04d19d931f90",
-        "title": "Aden.. Appointment of a head of the Immigration, Passports and Nationality Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421638",
-        "published_date": "2026-03-30T15:14:52Z",
         "category": "Local Events"
       }
     ]
