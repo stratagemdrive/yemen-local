@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-03T12:06:46Z",
+  "last_updated": "2026-04-04T00:03:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "bf0694c88441",
+        "title": "The listening team: Iran's steadfastness and deterrence power may bring strategic surprises that re-arrange the international scene",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421805",
+        "published_date": "2026-04-03T21:00:59Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "7b97365185d6",
         "title": "Parliamentarian Hashid is heading to sue the internationally recognized Yemeni government",
@@ -137,17 +145,17 @@
         "url": "https://yemenat.net/archives/421653",
         "published_date": "2026-03-30T20:08:53Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ebd388ae23ae",
-        "title": "Agency: American paratroopers arrive in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421649",
-        "published_date": "2026-03-30T19:34:53Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "0d6ca1358a71",
+        "title": "Military escalation between the United States and Iran: attacks on civilian infrastructure and mutual threats",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421797",
+        "published_date": "2026-04-03T14:49:13Z",
+        "category": "Military"
+      },
       {
         "_id": "0cf9777c7990",
         "title": "Lahj.. Victims in an armed clash in the middle of Al-Habilain market",
@@ -233,6 +241,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "47a9f8f96c6d",
+        "title": "Saudi military reinforcements heading to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421802",
+        "published_date": "2026-04-03T16:04:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b64d9304f4bd",
+        "title": "Abyan.. A leader in the transitional council was injured by bullets from an unknown gunman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421800",
+        "published_date": "2026-04-03T15:12:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "243f5032c276",
         "title": "An earthquake strikes Shabwa Governorate",
@@ -375,22 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421681",
         "published_date": "2026-03-31T13:13:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ed49364e99c4",
-        "title": "Taiz police announce the arrest of the second accused in the assassination of the martyr Efthan Al-Mashahri",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421673",
-        "published_date": "2026-03-30T22:35:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5a4e7ae4cb22",
-        "title": "Russian-Saudi discussions on the Yemeni issue",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421657",
-        "published_date": "2026-03-30T20:34:00Z",
         "category": "Local Events"
       }
     ]
