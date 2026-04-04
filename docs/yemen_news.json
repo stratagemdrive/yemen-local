@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-04T00:03:07Z",
+  "last_updated": "2026-04-04T11:56:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c1b4f4198739",
+        "title": "Parliamentarian Hashed addresses the International Parliament: I am being subjected to systematic political blackmail and deliberate denial of treatment that amounts to a direct threat to the right to life.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421815",
+        "published_date": "2026-04-04T11:00:25Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "8713ea6ee438",
+        "title": "Fog of war over the Gulf: An American pilot is missing and Iran is scouring the region to capture him",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421811",
+        "published_date": "2026-04-04T09:44:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "bf0694c88441",
         "title": "The listening team: Iran's steadfastness and deterrence power may bring strategic surprises that re-arrange the international scene",
@@ -113,38 +129,6 @@
         "url": "https://yemenat.net/archives/421684",
         "published_date": "2026-03-31T13:46:44Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0acc75faa828",
-        "title": "The White House: Trump will call on Arab countries to contribute to financing the war on Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421666",
-        "published_date": "2026-03-30T21:46:58Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "200c1e3517da",
-        "title": "UN report: Food security in Yemen has improved slightly",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421662",
-        "published_date": "2026-03-30T21:06:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "39bec5b354ba",
-        "title": "Houses that do not die",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421660",
-        "published_date": "2026-03-30T21:00:51Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a88e022dcee9",
-        "title": "Arrangements in the Ministry of Foreign Affairs for changes in diplomatic missions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421653",
-        "published_date": "2026-03-30T20:08:53Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -241,6 +225,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "48c3402fb2fd",
+        "title": "Voice of Memory: Creative Women between Innovative Literature and Cultural Digital Creativity, an analytical approach to the transformations of contemporary feminist discourse",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421819",
+        "published_date": "2026-04-04T11:53:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1cfb38cc9e7d",
+        "title": "Al-Mahra is threatened by darkness.. The problems of the electricity sector return to the forefront, and the Al-Zindani government is facing its first real test",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421813",
+        "published_date": "2026-04-04T10:15:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b497cbb4499",
+        "title": "Meteorology: Scattered rain on parts of the highlands and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421807",
+        "published_date": "2026-04-04T09:10:38Z",
+        "category": "Local Events"
+      },
       {
         "_id": "47a9f8f96c6d",
         "title": "Saudi military reinforcements heading to Aden",
@@ -375,30 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421700",
         "published_date": "2026-03-31T16:20:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "00198a444ffb",
-        "title": "Taiz.. A tribal mediator close to Al-Barakani was killed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421698",
-        "published_date": "2026-03-31T15:53:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "21f8217df77d",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, March 31, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421688",
-        "published_date": "2026-03-31T14:01:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a5ad49a96444",
-        "title": "Meteorology expects continued thunderstorms and warns of collapses, slides, and low horizontal visibility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421681",
-        "published_date": "2026-03-31T13:13:03Z",
         "category": "Local Events"
       }
     ]
