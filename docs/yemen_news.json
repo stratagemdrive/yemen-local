@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-05T00:04:34Z",
+  "last_updated": "2026-04-05T11:58:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3c8dd35e875e",
+        "title": "Iranian officials announce the destruction of American aircraft while searching for a missing pilot",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421852",
+        "published_date": "2026-04-05T11:19:42Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "36c55c69e024",
         "title": "Al-Sami: Iran is fighting the Zionist enemy on behalf of the Islamic nation",
@@ -43,6 +51,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "0d6ca1358a71",
+        "title": "Military escalation between the United States and Iran: attacks on civilian infrastructure and mutual threats",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421797",
+        "published_date": "2026-04-03T14:49:13Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "7b97365185d6",
         "title": "Parliamentarian Hashid is heading to sue the internationally recognized Yemeni government",
         "source": "Yemenat",
@@ -67,14 +83,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "69b8d313723a",
-        "title": "Meteorology lowers the warning level to “alert” and an air spike affects the country’s atmosphere",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421757",
-        "published_date": "2026-04-02T11:44:58Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "241a23ac1b82",
         "title": "Newspaper: Iran is not ready to enter into negotiations with the United States to end the war",
         "source": "Yemenat",
@@ -88,22 +96,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421747",
         "published_date": "2026-04-01T21:49:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "917ea55bc0cc",
-        "title": "Lamentations of the Resurrection",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421744",
-        "published_date": "2026-04-01T20:17:32Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a8f942a01efa",
-        "title": "The Maritime Affairs Authority in Hadramaut: The ports of the Arabian Sea have the potential to transform into global logistics centers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421728",
-        "published_date": "2026-04-01T17:12:54Z",
         "category": "Diplomacy"
       },
       {
@@ -129,23 +121,23 @@
         "url": "https://yemenat.net/archives/421706",
         "published_date": "2026-03-31T20:35:49Z",
         "category": "Diplomacy"
+      },
+      {
+        "_id": "5bc163c3010c",
+        "title": "Netanyahu: The war with Iran will incur heavy costs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421702",
+        "published_date": "2026-03-31T19:58:28Z",
+        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
-        "_id": "0d6ca1358a71",
-        "title": "Military escalation between the United States and Iran: attacks on civilian infrastructure and mutual threats",
+        "_id": "6e9029c12bde",
+        "title": "Military reinforcements arrive in Aden",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421797",
-        "published_date": "2026-04-03T14:49:13Z",
-        "category": "Military"
-      },
-      {
-        "_id": "0cf9777c7990",
-        "title": "Lahj.. Victims in an armed clash in the middle of Al-Habilain market",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421792",
-        "published_date": "2026-04-03T11:36:56Z",
+        "url": "https://yemenat.net/archives/421823",
+        "published_date": "2026-04-04T13:36:13Z",
         "category": "Military"
       },
       {
@@ -157,32 +149,24 @@
         "category": "Military"
       },
       {
+        "_id": "2ef5b263b481",
+        "title": "A military commander close to the Brotherhood returns to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421733",
+        "published_date": "2026-04-01T18:19:31Z",
+        "category": "Military"
+      },
+      {
         "_id": "5ae774a6e168",
         "title": "Saree announces a military missile operation in occupied Palestine",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421710",
         "published_date": "2026-04-01T10:14:23Z",
         "category": "Military"
-      },
-      {
-        "_id": "5bc163c3010c",
-        "title": "Netanyahu: The war with Iran will incur heavy costs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421702",
-        "published_date": "2026-03-31T19:58:28Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
-      {
-        "_id": "1e1ebc07e7ee",
-        "title": "Sanaa announces the departure of a Russian sailor and a number of stranded and sick people, and the return of others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421777",
-        "published_date": "2026-04-02T19:25:56Z",
-        "category": "Economy"
-      },
       {
         "_id": "d3c99181712f",
         "title": "News of an attempted air landing in Bab al-Mandab, and the Coast Guard comments on the circulating news",
@@ -192,45 +176,45 @@
         "category": "Economy"
       },
       {
-        "_id": "2046eb9d7388",
-        "title": "Average gold prices in Sanaa and Aden on Thursday, April 2, 2026",
+        "_id": "ada591c09db2",
+        "title": "Trump's upcoming speech: goals and consequences",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421762",
-        "published_date": "2026-04-02T12:52:36Z",
+        "url": "https://yemenat.net/archives/421751",
+        "published_date": "2026-04-01T22:52:35Z",
         "category": "Economy"
       },
       {
-        "_id": "4297a33bd955",
-        "title": "Yemenia sets the date for resuming its flights to Jordan",
+        "_id": "a8f942a01efa",
+        "title": "The Maritime Affairs Authority in Hadramaut: The ports of the Arabian Sea have the potential to transform into global logistics centers",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421696",
-        "published_date": "2026-03-31T15:19:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "18a72e282fcd",
-        "title": "The trend...the revolution of normalization and reformulation of concepts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421690",
-        "published_date": "2026-03-31T14:38:26Z",
+        "url": "https://yemenat.net/archives/421728",
+        "published_date": "2026-04-01T17:12:54Z",
         "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8b4c6a475b43",
+        "title": "After long hours of searching, the body of a child who drowned on the coast of Mokha, Taiz, was recovered",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421855",
+        "published_date": "2026-04-05T11:54:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d108ec556f14",
+        "title": "Meteorology raises the alert level to warning and expects thunderstorms in most governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421848",
+        "published_date": "2026-04-05T10:43:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "02a7d8738c41",
         "title": "Tension is rising in Hadhramaut Governorate and there are fears of a return to the influence struggle",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421832",
         "published_date": "2026-04-04T19:57:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6e9029c12bde",
-        "title": "Military reinforcements arrive in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421823",
-        "published_date": "2026-04-04T13:36:13Z",
         "category": "Local Events"
       },
       {
@@ -282,6 +266,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "0cf9777c7990",
+        "title": "Lahj.. Victims in an armed clash in the middle of Al-Habilain market",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421792",
+        "published_date": "2026-04-03T11:36:56Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "243f5032c276",
         "title": "An earthquake strikes Shabwa Governorate",
         "source": "Yemenat",
@@ -306,6 +298,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "1e1ebc07e7ee",
+        "title": "Sanaa announces the departure of a Russian sailor and a number of stranded and sick people, and the return of others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421777",
+        "published_date": "2026-04-02T19:25:56Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "0516eb82e75a",
         "title": "Taiz.. Tension in Al-Waziyah following clashes between gunmen and a security campaign",
         "source": "Yemenat",
@@ -322,6 +322,22 @@
         "category": "Local Events"
       },
       {
+        "_id": "2046eb9d7388",
+        "title": "Average gold prices in Sanaa and Aden on Thursday, April 2, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421762",
+        "published_date": "2026-04-02T12:52:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "69b8d313723a",
+        "title": "Meteorology lowers the warning level to “alert” and an air spike affects the country’s atmosphere",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421757",
+        "published_date": "2026-04-02T11:44:58Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "2a4f48888408",
         "title": "Yemeni intellectuals call for a transparent investigation into the circumstances of Al-Alimi’s death in Aden",
         "source": "Yemenat",
@@ -330,51 +346,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "ada591c09db2",
-        "title": "Trump's upcoming speech: goals and consequences",
+        "_id": "917ea55bc0cc",
+        "title": "Lamentations of the Resurrection",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421751",
-        "published_date": "2026-04-01T22:52:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2ef5b263b481",
-        "title": "A military commander close to the Brotherhood returns to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421733",
-        "published_date": "2026-04-01T18:19:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cc2edcd29652",
-        "title": "Shabwa...doctors and nurses threaten to suspend work if their demands are not met",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421724",
-        "published_date": "2026-04-01T16:49:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3bac22664160",
-        "title": "A slight increase...the average price of gold in Sanaa and Aden, Wednesday, April 1, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421722",
-        "published_date": "2026-04-01T16:26:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a9bbc0a7188",
-        "title": "Al-Samai: The Israeli Knesset law is a crime of genocide and a disgrace to the international community",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421719",
-        "published_date": "2026-04-01T16:06:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7f7473870247",
-        "title": "Faisal Saeed Farea... is one of those who stay",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421716",
-        "published_date": "2026-04-01T15:44:21Z",
+        "url": "https://yemenat.net/archives/421744",
+        "published_date": "2026-04-01T20:17:32Z",
         "category": "Local Events"
       }
     ]
