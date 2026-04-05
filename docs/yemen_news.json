@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-04T11:56:38Z",
+  "last_updated": "2026-04-05T00:04:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "36c55c69e024",
+        "title": "Al-Sami: Iran is fighting the Zionist enemy on behalf of the Islamic nation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421828",
+        "published_date": "2026-04-04T18:59:56Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c1b4f4198739",
         "title": "Parliamentarian Hashed addresses the International Parliament: I am being subjected to systematic political blackmail and deliberate denial of treatment that amounts to a direct threat to the right to life.",
@@ -52,7 +60,7 @@
       },
       {
         "_id": "254a6b205cdc",
-        "title": "Trump dashes hopes of ending the war, oil prices jump, stocks fall, and Zulfiqari threatens",
+        "title": "Trump dashes hopes of ending the war, oil prices rise, stocks fall, and Zulfiqari threatens",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421759",
         "published_date": "2026-04-02T12:28:03Z",
@@ -120,14 +128,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421706",
         "published_date": "2026-03-31T20:35:49Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "691ace936d4c",
-        "title": "US Secretary of Defense: Russia and China support Iran and talks to end the war are gaining great momentum",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421684",
-        "published_date": "2026-03-31T13:46:44Z",
         "category": "Diplomacy"
       }
     ],
@@ -214,17 +214,33 @@
         "url": "https://yemenat.net/archives/421690",
         "published_date": "2026-03-31T14:38:26Z",
         "category": "Economy"
-      },
-      {
-        "_id": "9d46bf9e9d83",
-        "title": "A fire broke out in an oil tanker after it was targeted in the Arabian Gulf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421670",
-        "published_date": "2026-03-30T22:11:34Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "02a7d8738c41",
+        "title": "Tension is rising in Hadhramaut Governorate and there are fears of a return to the influence struggle",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421832",
+        "published_date": "2026-04-04T19:57:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e9029c12bde",
+        "title": "Military reinforcements arrive in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421823",
+        "published_date": "2026-04-04T13:36:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1dad113d7733",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, April 4, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421821",
+        "published_date": "2026-04-04T12:02:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "48c3402fb2fd",
         "title": "Voice of Memory: Creative Women between Innovative Literature and Cultural Digital Creativity, an analytical approach to the transformations of contemporary feminist discourse",
@@ -359,30 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421716",
         "published_date": "2026-04-01T15:44:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "08fe8d8c715f",
-        "title": "Meteorology warns of thunderstorms of varying intensity over large areas of the country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421712",
-        "published_date": "2026-04-01T10:42:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9d9cdd9d17e7",
-        "title": "Why did they assassinate Samed Al-Qadi?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421704",
-        "published_date": "2026-03-31T20:14:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2b07b6ead918",
-        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421700",
-        "published_date": "2026-03-31T16:20:21Z",
         "category": "Local Events"
       }
     ]
