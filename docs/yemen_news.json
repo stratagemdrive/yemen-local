@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-06T00:03:47Z",
+  "last_updated": "2026-04-06T14:32:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "8644e0898e76",
+        "title": "Washington and Tehran receive a plan to end the war, and Islamabad stands in the middle, while Hormuz is still in the eye of the storm",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421896",
+        "published_date": "2026-04-06T10:11:50Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "14e62497722b",
         "title": "Gulf stock exchanges decline due to escalating geopolitical risks",
@@ -113,17 +121,17 @@
         "url": "https://yemenat.net/archives/421749",
         "published_date": "2026-04-01T22:25:55Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3fb346410b07",
-        "title": "The UAE Foreign Ministry clarifies the situation of the Iranian community",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421747",
-        "published_date": "2026-04-01T21:49:18Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "8d20128cc7f2",
+        "title": "Yemeni intellectuals call on the Sanaa authorities to protect journalist Abdullah Abdul Ilah and his family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421900",
+        "published_date": "2026-04-06T11:18:24Z",
+        "category": "Military"
+      },
       {
         "_id": "2442284f76fa",
         "title": "Sanaa.. The Judges Club accuses the Minister of Finance of committing a “constitutional crime” and warns of complete paralysis in prosecutors",
@@ -147,18 +155,18 @@
         "url": "https://yemenat.net/archives/421775",
         "published_date": "2026-04-02T18:50:14Z",
         "category": "Military"
-      },
-      {
-        "_id": "2ef5b263b481",
-        "title": "A military commander close to the Brotherhood returns to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421733",
-        "published_date": "2026-04-01T18:19:31Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "73200625d32c",
+        "title": "In the first reaction to the Sanaa government’s cancellation of thousands of commercial agencies... Al-Aqel Company warns against claiming to be the exclusive agency for Volvo products.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421905",
+        "published_date": "2026-04-06T14:24:55Z",
+        "category": "Economy"
+      },
       {
         "_id": "33c914f0f460",
         "title": "A weather expert predicts areas of heavy rain in Yemen in the coming days",
@@ -198,17 +206,33 @@
         "url": "https://yemenat.net/archives/421751",
         "published_date": "2026-04-01T22:52:35Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a8f942a01efa",
-        "title": "The Maritime Affairs Authority in Hadramaut: The ports of the Arabian Sea have the potential to transform into global logistics centers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421728",
-        "published_date": "2026-04-01T17:12:54Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "fc821988ccee",
+        "title": "Average gold prices in Sanaa and Aden, Monday, April 6, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421903",
+        "published_date": "2026-04-06T12:17:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8be4f835f4c3",
+        "title": "Raising the ceiling for printing passports in four branches of the Immigration and Passports Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421898",
+        "published_date": "2026-04-06T10:45:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1668f16fbea1",
+        "title": "Meteorology forecasts thunderstorms of varying intensity in most Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421894",
+        "published_date": "2026-04-06T09:16:21Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4ace505b42e9",
         "title": "Aden.. The eye print sparks military protests and anger against Saudi Arabia",
@@ -343,30 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421780",
         "published_date": "2026-04-02T19:53:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1e1ebc07e7ee",
-        "title": "Sanaa announces the departure of a Russian sailor and a number of stranded and sick people, and the return of others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421777",
-        "published_date": "2026-04-02T19:25:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0516eb82e75a",
-        "title": "Taiz.. Tension in Al-Waziyah following clashes between gunmen and a security campaign",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421772",
-        "published_date": "2026-04-02T18:24:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f3ae661f7642",
-        "title": "Trend Waves: A Revolution of Normalization and the Reframing of Concepts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421765",
-        "published_date": "2026-04-02T13:13:45Z",
         "category": "Local Events"
       }
     ]
