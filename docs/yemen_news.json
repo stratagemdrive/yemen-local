@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-07T05:30:59Z",
+  "last_updated": "2026-04-07T15:00:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "2380be5d19ce",
+        "title": "Trump threatens the extinction of civilization after talking about peace",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421943",
+        "published_date": "2026-04-07T14:18:55Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4b0216a21db2",
+        "title": "Agency: Iran sets conditions for permanent peace talks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421933",
+        "published_date": "2026-04-07T12:38:09Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e46ebe2c48e2",
         "title": "Salt resurrection",
@@ -121,14 +137,6 @@
         "url": "https://yemenat.net/archives/421785",
         "published_date": "2026-04-03T09:41:06Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a65dc92362a5",
-        "title": "The Listening Team: America's battle with Iran may be the last outside its borders",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421769",
-        "published_date": "2026-04-02T16:03:39Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -171,14 +179,6 @@
         "url": "https://yemenat.net/archives/421823",
         "published_date": "2026-04-04T13:36:13Z",
         "category": "Military"
-      },
-      {
-        "_id": "76179625ce51",
-        "title": "Saree announces the implementation of a military operation in occupied Palestine",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421775",
-        "published_date": "2026-04-02T18:50:14Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -217,6 +217,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "c2998a93bb88",
+        "title": "The Governor of Al-Dhalea was involved in a traffic accident",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421938",
+        "published_date": "2026-04-07T13:47:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "107e72442b64",
+        "title": "Shabwa...an unprecedented security deployment in Ataq",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421935",
+        "published_date": "2026-04-07T13:13:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0829c21ec429",
+        "title": "Average gold prices in Sanaa and Aden, Tuesday, April 7, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421931",
+        "published_date": "2026-04-07T12:20:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1d8c0b19cbdc",
         "title": "The listening team: What is happening in the region reflects major strategic shifts in the balance of power",
@@ -351,30 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421807",
         "published_date": "2026-04-04T09:10:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "47a9f8f96c6d",
-        "title": "Saudi military reinforcements heading to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421802",
-        "published_date": "2026-04-03T16:04:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b64d9304f4bd",
-        "title": "Abyan.. A leader in the transitional council was injured by bullets from an unknown gunman",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421800",
-        "published_date": "2026-04-03T15:12:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0cf9777c7990",
-        "title": "Lahj.. Victims in an armed clash in the middle of Al-Habilain market",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421792",
-        "published_date": "2026-04-03T11:36:56Z",
         "category": "Local Events"
       }
     ]
