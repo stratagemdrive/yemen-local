@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-06T14:32:31Z",
+  "last_updated": "2026-04-07T05:30:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e46ebe2c48e2",
+        "title": "Salt resurrection",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421929",
+        "published_date": "2026-04-07T01:01:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "904586ae06c1",
+        "title": "Options for dealing with threats to the Strait of Hormuz: between military force and diplomatic pressure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421926",
+        "published_date": "2026-04-06T20:58:48Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4307dc784349",
+        "title": "The UN envoy arrives in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421914",
+        "published_date": "2026-04-06T17:23:54Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "8644e0898e76",
         "title": "Washington and Tehran receive a plan to end the war, and Islamabad stands in the middle, while Hormuz is still in the eye of the storm",
@@ -105,25 +129,25 @@
         "url": "https://yemenat.net/archives/421769",
         "published_date": "2026-04-02T16:03:39Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "254a6b205cdc",
-        "title": "Trump dashes hopes of ending the war, oil prices rise, stocks fall, and Zulfiqari threatens",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421759",
-        "published_date": "2026-04-02T12:28:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "241a23ac1b82",
-        "title": "Newspaper: Iran is not ready to enter into negotiations with the United States to end the war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421749",
-        "published_date": "2026-04-01T22:25:55Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "6149bb96600a",
+        "title": "Image and reflection",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421912",
+        "published_date": "2026-04-06T16:17:33Z",
+        "category": "Military"
+      },
+      {
+        "_id": "8fa9af636828",
+        "title": "Saree announces a joint military operation in southern occupied Palestine",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421910",
+        "published_date": "2026-04-06T14:52:11Z",
+        "category": "Military"
+      },
       {
         "_id": "8d20128cc7f2",
         "title": "Yemeni intellectuals call on the Sanaa authorities to protect journalist Abdullah Abdul Ilah and his family",
@@ -190,25 +214,33 @@
         "url": "https://yemenat.net/archives/421857",
         "published_date": "2026-04-05T12:45:40Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d3c99181712f",
-        "title": "News of an attempted air landing in Bab al-Mandab, and the Coast Guard comments on the circulating news",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421767",
-        "published_date": "2026-04-02T13:44:21Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "ada591c09db2",
-        "title": "Trump's upcoming speech: goals and consequences",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421751",
-        "published_date": "2026-04-01T22:52:35Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "1d8c0b19cbdc",
+        "title": "The listening team: What is happening in the region reflects major strategic shifts in the balance of power",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421924",
+        "published_date": "2026-04-06T20:39:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1bcef51f387",
+        "title": "Ibb.. The donation campaign for a road project in Al-Sha’ar District continues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421921",
+        "published_date": "2026-04-06T19:41:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea9445634639",
+        "title": "Abil Hasanov: To Read Is to Think, and To Think Is the Beginning of Freedom",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421917",
+        "published_date": "2026-04-06T17:49:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "fc821988ccee",
         "title": "Average gold prices in Sanaa and Aden, Monday, April 6, 2026",
@@ -343,30 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421792",
         "published_date": "2026-04-03T11:36:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "243f5032c276",
-        "title": "An earthquake strikes Shabwa Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421789",
-        "published_date": "2026-04-03T10:20:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f30c21cd40e",
-        "title": "Meteorology: Thunderstorms in parts of 10 governorates and scattered in parts of four others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421783",
-        "published_date": "2026-04-03T08:56:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8be3d700ff57",
-        "title": "On the occasion of the opening of the Center for Ophthalmology and Surgery.. “Al-Yemen Al-Saeed” Hospital launches a charity week for eye treatment and surgery",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421780",
-        "published_date": "2026-04-02T19:53:09Z",
         "category": "Local Events"
       }
     ]
