@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-09T00:05:29Z",
+  "last_updated": "2026-04-09T16:11:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ace8f43c67b8",
+        "title": "Dilshad the Enchantress",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422021",
+        "published_date": "2026-04-09T15:25:47Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "233fa64083e8",
+        "title": "Lebanon raises disagreements amid relative commitment to the ceasefire and Hormuz remains closed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422012",
+        "published_date": "2026-04-09T13:18:35Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "7402fe6bcfc7",
         "title": "The witch Dilshad",
@@ -145,14 +161,6 @@
         "url": "https://yemenat.net/archives/421874",
         "published_date": "2026-04-05T19:44:43Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "5d04448a81d5",
-        "title": "Trump sets the date for targeting infrastructure in Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421863",
-        "published_date": "2026-04-05T13:28:04Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -230,25 +238,33 @@
         "url": "https://yemenat.net/archives/421905",
         "published_date": "2026-04-06T14:24:55Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0ef01c574558",
-        "title": "The Listening Team: The cancellation of more than 4,000 commercial agencies has destroyed what remains of the Yemeni economy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421860",
-        "published_date": "2026-04-05T13:06:03Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f9c2cbe74a40",
-        "title": "Sanaa.. Thousands of commercial agencies were canceled by a ministerial decision",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421857",
-        "published_date": "2026-04-05T12:45:40Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "037476fcf2f5",
+        "title": "The Journalists Syndicate welcomes the decision of the Press Prosecution in Aden regarding the case brought against journalist Abdul Rahman Anis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422018",
+        "published_date": "2026-04-09T14:16:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "63985d872eac",
+        "title": "Average gold prices in Sanaa and Aden on Thursday, April 9, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422014",
+        "published_date": "2026-04-09T13:35:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0af7d73162ab",
+        "title": "Meteorology warns of rockslides and low horizontal visibility on mountain roads",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422009",
+        "published_date": "2026-04-09T12:37:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c901b9c4f715",
         "title": "The execution of the murderer of the doctor Al-Imtiaz Jamaan Al-Sami",
@@ -383,30 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421894",
         "published_date": "2026-04-06T09:16:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4ace505b42e9",
-        "title": "Aden.. The eye print sparks military protests and anger against Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421879",
-        "published_date": "2026-04-05T21:25:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7b5c54a9f14a",
-        "title": "Abel Hasanov: Reading is thinking... and thinking is the beginning of freedom",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421876",
-        "published_date": "2026-04-05T20:10:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d32064f9a822",
-        "title": "A leader in the National Resistance was killed in Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421868",
-        "published_date": "2026-04-05T19:00:03Z",
         "category": "Local Events"
       }
     ]
