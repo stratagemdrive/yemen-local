@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-08T16:04:31Z",
+  "last_updated": "2026-04-09T00:05:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "7402fe6bcfc7",
+        "title": "The witch Dilshad",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422003",
+        "published_date": "2026-04-08T20:47:19Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "607ae888e3e8",
         "title": "Lebanon is outside the ceasefire agreement, and Israel launches its most violent raids and Iranian escalation in the Gulf",
@@ -108,7 +116,7 @@
       },
       {
         "_id": "8644e0898e76",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Washington and Tehran receive a plan to end the war, and Islamabad stands in the middle, while Hormuz is still in the eye of the storm",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421896",
         "published_date": "2026-04-06T10:11:50Z",
@@ -144,14 +152,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421863",
         "published_date": "2026-04-05T13:28:04Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3c8dd35e875e",
-        "title": "Iranian officials announce the destruction of American aircraft while searching for a missing pilot",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421852",
-        "published_date": "2026-04-05T11:19:42Z",
         "category": "Diplomacy"
       }
     ],
@@ -250,6 +250,30 @@
     ],
     "Local Events": [
       {
+        "_id": "c901b9c4f715",
+        "title": "The execution of the murderer of the doctor Al-Imtiaz Jamaan Al-Sami",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422006",
+        "published_date": "2026-04-08T21:48:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "047377649411",
+        "title": "Military objects were found in a remote area on the Hadhramaut Plateau",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422000",
+        "published_date": "2026-04-08T18:17:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9e71df51df1c",
+        "title": "Aden.. The Ministry of Electricity and Energy contracts with an Egyptian company to rehabilitate power plants",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/421998",
+        "published_date": "2026-04-08T17:00:25Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "09e603ee4eaa",
         "title": "Meteorology expects thunderstorms in most Yemeni governorates",
         "source": "Yemenat",
@@ -347,7 +371,7 @@
       },
       {
         "_id": "8be4f835f4c3",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Raising the ceiling for printing passports in four branches of the Immigration and Passports Authority",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421898",
         "published_date": "2026-04-06T10:45:38Z",
@@ -383,30 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421868",
         "published_date": "2026-04-05T19:00:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "829e689dca66",
-        "title": "Sanaa.. The Central Bank re-deals with an exchange company",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421865",
-        "published_date": "2026-04-05T14:06:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8b4c6a475b43",
-        "title": "After long hours of searching, the body of a child who drowned on the coast of Mokha, Taiz, was recovered",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421855",
-        "published_date": "2026-04-05T11:54:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d108ec556f14",
-        "title": "Meteorology raises the alert level to warning and expects thunderstorms in most governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421848",
-        "published_date": "2026-04-05T10:43:29Z",
         "category": "Local Events"
       }
     ]
