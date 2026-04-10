@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-10T14:37:30Z",
+  "last_updated": "2026-04-10T23:42:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -145,25 +145,17 @@
         "url": "https://yemenat.net/archives/421926",
         "published_date": "2026-04-06T20:58:48Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1d8c0b19cbdc",
-        "title": "The listening team: What is happening in the region reflects major strategic shifts in the balance of power",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421924",
-        "published_date": "2026-04-06T20:39:04Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4307dc784349",
-        "title": "The UN envoy arrives in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421914",
-        "published_date": "2026-04-06T17:23:54Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "e01b5f75cfc5",
+        "title": "The hearing team directs the heads of the security services to release the remaining detainees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422079",
+        "published_date": "2026-04-10T19:22:56Z",
+        "category": "Military"
+      },
       {
         "_id": "a9335eb3dd31",
         "title": "The hearing team condemns the Israeli attacks on Lebanon",
@@ -178,22 +170,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421950",
         "published_date": "2026-04-07T16:07:39Z",
-        "category": "Military"
-      },
-      {
-        "_id": "6149bb96600a",
-        "title": "Image and reflection",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421912",
-        "published_date": "2026-04-06T16:17:33Z",
-        "category": "Military"
-      },
-      {
-        "_id": "8fa9af636828",
-        "title": "Saree announces a joint military operation in southern occupied Palestine",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421910",
-        "published_date": "2026-04-06T14:52:11Z",
         "category": "Military"
       }
     ],
@@ -225,6 +201,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "7890aeeabe4c",
+        "title": "Two earthquakes were recorded from Yafaa Lahj",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422076",
+        "published_date": "2026-04-10T18:41:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9e26a58835c3",
+        "title": "The hearing team offers its condolences on the death of the child September Aiban",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422073",
+        "published_date": "2026-04-10T17:56:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3a6af6569c16",
+        "title": "Sanaa.. A fire devours a commercial center, and the Civil Defense reveals the causes of the fire",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422070",
+        "published_date": "2026-04-10T17:22:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d0cc00a83a7a",
+        "title": "Taiz: Rockslides in Mount Sabr cut off a main road",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422064",
+        "published_date": "2026-04-10T16:13:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "997ce243467d",
+        "title": "Alwan's alienation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422061",
+        "published_date": "2026-04-10T15:25:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b9efadb4f4e1",
         "title": "Floods sweep away a second child in the city of Taiz",
@@ -343,46 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421973",
         "published_date": "2026-04-07T22:53:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "754832482428",
-        "title": "Night rain falls in Sanaa and its suburbs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421971",
-        "published_date": "2026-04-07T22:14:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d385b02bc117",
-        "title": "Aden.. Gas stations refuse to deal in specific denominations of paper currencies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421963",
-        "published_date": "2026-04-07T21:24:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3577845b4409",
-        "title": "Al-Dhalea.. An assault on an educator after he revealed a case of cheating in the high school exams",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421953",
-        "published_date": "2026-04-07T16:44:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cdaabc6c375c",
-        "title": "Image and the Reflection",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421948",
-        "published_date": "2026-04-07T15:32:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c2998a93bb88",
-        "title": "The Governor of Al-Dhalea was involved in a traffic accident",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421938",
-        "published_date": "2026-04-07T13:47:17Z",
         "category": "Local Events"
       }
     ]
