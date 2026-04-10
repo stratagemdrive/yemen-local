@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-09T16:11:37Z",
+  "last_updated": "2026-04-10T06:11:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e4ed3c3ca7fe",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to release civil activist Fatima Al-Arouli",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422035",
+        "published_date": "2026-04-09T21:17:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "05d5aec1a609",
+        "title": "Netanyahu announces under-fire talks with Lebanon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422027",
+        "published_date": "2026-04-09T20:02:44Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ace8f43c67b8",
         "title": "Dilshad the Enchantress",
@@ -145,25 +161,17 @@
         "url": "https://yemenat.net/archives/421886",
         "published_date": "2026-04-05T22:26:38Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "33c914f0f460",
-        "title": "A weather expert predicts areas of heavy rain in Yemen in the coming days",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421882",
-        "published_date": "2026-04-05T21:53:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bfe36affc2fc",
-        "title": "Trump announces the possibility of reaching an agreement with Iran, and Moscow demands that Washington reduce the language of ultimatums",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421874",
-        "published_date": "2026-04-05T19:44:43Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "a9335eb3dd31",
+        "title": "The hearing team condemns the Israeli attacks on Lebanon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422030",
+        "published_date": "2026-04-09T20:25:07Z",
+        "category": "Military"
+      },
       {
         "_id": "644d14af75a9",
         "title": "The Iranian Revolutionary Guard announces the targeting of the largest petrochemical complex in Saudi Arabia",
@@ -241,6 +249,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "dc4e59f26874",
+        "title": "Mystery surrounds the fate of a child who was swept away by floods in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422024",
+        "published_date": "2026-04-09T16:54:44Z",
+        "category": "Local Events"
+      },
       {
         "_id": "037476fcf2f5",
         "title": "The Journalists Syndicate welcomes the decision of the Press Prosecution in Aden regarding the case brought against journalist Abdul Rahman Anis",
@@ -391,14 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421898",
         "published_date": "2026-04-06T10:45:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1668f16fbea1",
-        "title": "Meteorology forecasts thunderstorms of varying intensity in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421894",
-        "published_date": "2026-04-06T09:16:21Z",
         "category": "Local Events"
       }
     ]
