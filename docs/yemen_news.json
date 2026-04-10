@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-10T06:11:31Z",
+  "last_updated": "2026-04-10T14:37:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0f8bc0754713",
+        "title": "Tensions escalate ahead of Pakistan negotiations: mutual accusations over the Strait of Hormuz and continued Israeli attacks on Lebanon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422045",
+        "published_date": "2026-04-10T11:33:10Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "94a5c49b06e0",
+        "title": "Rawabi Awtani",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422043",
+        "published_date": "2026-04-10T10:49:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e4ed3c3ca7fe",
         "title": "Yemeni intellectuals appeal to the Sanaa authority to release civil activist Fatima Al-Arouli",
@@ -145,22 +161,6 @@
         "url": "https://yemenat.net/archives/421914",
         "published_date": "2026-04-06T17:23:54Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8644e0898e76",
-        "title": "Washington and Tehran receive a plan to end the war, and Islamabad stands in the middle, while Hormuz is still in the eye of the storm",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421896",
-        "published_date": "2026-04-06T10:11:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "14e62497722b",
-        "title": "Gulf stock exchanges decline due to escalating geopolitical risks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421886",
-        "published_date": "2026-04-05T22:26:38Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -195,22 +195,6 @@
         "url": "https://yemenat.net/archives/421910",
         "published_date": "2026-04-06T14:52:11Z",
         "category": "Military"
-      },
-      {
-        "_id": "8d20128cc7f2",
-        "title": "Yemeni intellectuals call on the Sanaa authorities to protect journalist Abdullah Abdul Ilah and his family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421900",
-        "published_date": "2026-04-06T11:18:24Z",
-        "category": "Military"
-      },
-      {
-        "_id": "2442284f76fa",
-        "title": "Sanaa.. The Judges Club accuses the Minister of Finance of committing a “constitutional crime” and warns of complete paralysis in prosecutors",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421891",
-        "published_date": "2026-04-05T23:40:25Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -238,17 +222,57 @@
         "url": "https://yemenat.net/archives/421959",
         "published_date": "2026-04-07T17:45:14Z",
         "category": "Economy"
-      },
-      {
-        "_id": "73200625d32c",
-        "title": "In the first reaction to the Sanaa government’s cancellation of thousands of commercial agencies... Al-Aqel Company warns against claiming to be the exclusive agency for Volvo products.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421905",
-        "published_date": "2026-04-06T14:24:55Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "b9efadb4f4e1",
+        "title": "Floods sweep away a second child in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422058",
+        "published_date": "2026-04-10T13:36:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "514f69aba686",
+        "title": "Earthquake in Yafa' Lahj",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422055",
+        "published_date": "2026-04-10T12:58:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5facdd28f62b",
+        "title": "Aden.. Two workers died under the rubble of a dilapidated building",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422052",
+        "published_date": "2026-04-10T12:38:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "172317c38bf5",
+        "title": "Taiz.. Huge crowds attend the funeral of the child September Al-Sami’i",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422049",
+        "published_date": "2026-04-10T12:09:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6487bb2406fa",
+        "title": "Meteorology: Thunderstorms on parts of the highlands and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422041",
+        "published_date": "2026-04-10T10:35:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "24293c149c92",
+        "title": "The body of a child was found in Taiz after hours of continuous search in flood drains",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422038",
+        "published_date": "2026-04-10T09:35:46Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dc4e59f26874",
         "title": "Mystery surrounds the fate of a child who was swept away by floods in the city of Taiz",
@@ -359,54 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/421938",
         "published_date": "2026-04-07T13:47:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "107e72442b64",
-        "title": "Shabwa...an unprecedented security deployment in Ataq",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421935",
-        "published_date": "2026-04-07T13:13:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0829c21ec429",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, April 7, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421931",
-        "published_date": "2026-04-07T12:20:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1bcef51f387",
-        "title": "Ibb.. The donation campaign for a road project in Al-Sha’ar District continues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421921",
-        "published_date": "2026-04-06T19:41:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ea9445634639",
-        "title": "Abil Hasanov: To Read Is to Think, and To Think Is the Beginning of Freedom",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421917",
-        "published_date": "2026-04-06T17:49:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fc821988ccee",
-        "title": "Average gold prices in Sanaa and Aden, Monday, April 6, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421903",
-        "published_date": "2026-04-06T12:17:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8be4f835f4c3",
-        "title": "Raising the ceiling for printing passports in four branches of the Immigration and Passports Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421898",
-        "published_date": "2026-04-06T10:45:38Z",
         "category": "Local Events"
       }
     ]
