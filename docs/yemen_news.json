@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-11T11:38:32Z",
+  "last_updated": "2026-04-11T23:40:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1a9f92d59673",
+        "title": "The listening team: National reconciliation in Yemen is the solution",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422122",
+        "published_date": "2026-04-11T20:27:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f4d0b67310a9",
+        "title": "The “crisis transfer” strategy: The Middle East between restructuring balances and American retreat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422114",
+        "published_date": "2026-04-11T19:08:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0a39cdddf350",
+        "title": "“Islamabad” negotiations: a historic diplomatic breakthrough between Washington and Tehran to end the six-week war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422109",
+        "published_date": "2026-04-11T16:45:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bfdb52b41ddb",
+        "title": "When diversity becomes an accusation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422099",
+        "published_date": "2026-04-11T11:52:41Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "00f7ef09f951",
         "title": "Iranian media explains the fact that four countries are participating in the Islamabad negotiations and the duration of the negotiations",
@@ -113,33 +145,17 @@
         "url": "https://yemenat.net/archives/421976",
         "published_date": "2026-04-07T23:17:09Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4900b58aec9a",
-        "title": "The Pakistani mediator directs a request to 'Washington and Tehran' before Trump's deadline expires",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421968",
-        "published_date": "2026-04-07T21:55:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c98329add104",
-        "title": "Newspaper: Tehran stopped efforts to negotiate with Washington after Trump’s statements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421956",
-        "published_date": "2026-04-07T17:11:27Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "2380be5d19ce",
-        "title": "Trump threatens the extinction of civilization after talking about peace",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421943",
-        "published_date": "2026-04-07T14:18:55Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "ad9f8b975bf1",
+        "title": "Trump announces the start of clearing the Strait of Hormuz of mines",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422123",
+        "published_date": "2026-04-11T20:50:40Z",
+        "category": "Military"
+      },
       {
         "_id": "e01b5f75cfc5",
         "title": "The hearing team directs the heads of the security services to release the remaining detainees",
@@ -154,14 +170,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422030",
         "published_date": "2026-04-09T20:25:07Z",
-        "category": "Military"
-      },
-      {
-        "_id": "644d14af75a9",
-        "title": "The Iranian Revolutionary Guard announces the targeting of the largest petrochemical complex in Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421950",
-        "published_date": "2026-04-07T16:07:39Z",
         "category": "Military"
       }
     ],
@@ -182,17 +190,49 @@
         "url": "https://yemenat.net/archives/421989",
         "published_date": "2026-04-08T12:45:41Z",
         "category": "Economy"
-      },
-      {
-        "_id": "b9bf62b69808",
-        "title": "Collapse of a historic wall on the coast of Hadramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421959",
-        "published_date": "2026-04-07T17:45:14Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5832eb56350e",
+        "title": "Al-Bayda.. Assassination of a tribal sheikh and leader in the General People’s Congress",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422133",
+        "published_date": "2026-04-11T23:05:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e50ed14f4367",
+        "title": "Activists warn of the collapse of part of the wall of the old city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422119",
+        "published_date": "2026-04-11T20:50:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebaefa843c76",
+        "title": "Water memory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422112",
+        "published_date": "2026-04-11T17:18:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4c7cd0d802ab",
+        "title": "Sanaa.. The Central Bank stops dealing with three exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422107",
+        "published_date": "2026-04-11T16:06:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2f485a803c42",
+        "title": "Taiz: Rockslides near Cairo Citadel cause material and human damage",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422102",
+        "published_date": "2026-04-11T15:31:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6fb1677cdaef",
         "title": "Preventing the entry of fuel into the city of Ma’rib amid tribal-military tension in Safer",
@@ -311,46 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422038",
         "published_date": "2026-04-10T09:35:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dc4e59f26874",
-        "title": "Mystery surrounds the fate of a child who was swept away by floods in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422024",
-        "published_date": "2026-04-09T16:54:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "037476fcf2f5",
-        "title": "The Journalists Syndicate welcomes the decision of the Press Prosecution in Aden regarding the case brought against journalist Abdul Rahman Anis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422018",
-        "published_date": "2026-04-09T14:16:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "63985d872eac",
-        "title": "Average gold prices in Sanaa and Aden on Thursday, April 9, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422014",
-        "published_date": "2026-04-09T13:35:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0af7d73162ab",
-        "title": "Meteorology warns of rockslides and low horizontal visibility on mountain roads",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422009",
-        "published_date": "2026-04-09T12:37:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c901b9c4f715",
-        "title": "The execution of the murderer of the doctor Al-Imtiaz Jamaan Al-Sami",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422006",
-        "published_date": "2026-04-08T21:48:38Z",
         "category": "Local Events"
       }
     ]
