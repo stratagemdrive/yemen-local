@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-10T23:42:12Z",
+  "last_updated": "2026-04-11T11:38:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "00f7ef09f951",
+        "title": "Iranian media explains the fact that four countries are participating in the Islamabad negotiations and the duration of the negotiations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422097",
+        "published_date": "2026-04-11T11:31:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a25bf25200b6",
+        "title": "The delegations of Tehran and Washington arrive in Islamabad, and Lebanon is still the main point of disagreement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422086",
+        "published_date": "2026-04-11T09:56:41Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0f8bc0754713",
         "title": "Tensions escalate ahead of Pakistan negotiations: mutual accusations over the Strait of Hormuz and continued Israeli attacks on Lebanon",
@@ -121,30 +137,6 @@
         "url": "https://yemenat.net/archives/421943",
         "published_date": "2026-04-07T14:18:55Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4b0216a21db2",
-        "title": "Agency: Iran sets conditions for permanent peace talks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421933",
-        "published_date": "2026-04-07T12:38:09Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e46ebe2c48e2",
-        "title": "Salt resurrection",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421929",
-        "published_date": "2026-04-07T01:01:44Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "904586ae06c1",
-        "title": "Options for dealing with threats to the Strait of Hormuz: between military force and diplomatic pressure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421926",
-        "published_date": "2026-04-06T20:58:48Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -201,6 +193,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "6fb1677cdaef",
+        "title": "Preventing the entry of fuel into the city of Ma’rib amid tribal-military tension in Safer",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422094",
+        "published_date": "2026-04-11T11:03:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bcdc1af065fc",
+        "title": "Guards at an oil field in Shabwa complain about the violation of their rights and appeal to the governor to intervene",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422091",
+        "published_date": "2026-04-11T10:18:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6953d77070d0",
+        "title": "The procession of feminist creativity between the rhythm of dreaming and the invasion of cultural digital creativity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422084",
+        "published_date": "2026-04-11T09:02:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dad1addd8366",
+        "title": "Meteorology: Rain is expected in parts of the mountainous and coastal governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422082",
+        "published_date": "2026-04-11T08:47:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7890aeeabe4c",
         "title": "Two earthquakes were recorded from Yafaa Lahj",
@@ -327,38 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422006",
         "published_date": "2026-04-08T21:48:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "047377649411",
-        "title": "Military objects were found in a remote area on the Hadhramaut Plateau",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422000",
-        "published_date": "2026-04-08T18:17:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9e71df51df1c",
-        "title": "Aden.. The Ministry of Electricity and Energy contracts with an Egyptian company to rehabilitate power plants",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421998",
-        "published_date": "2026-04-08T17:00:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "09e603ee4eaa",
-        "title": "Meteorology expects thunderstorms in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421984",
-        "published_date": "2026-04-08T11:00:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "95a00c2cc201",
-        "title": "Fire and explosions cause panic in Wadi Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421973",
-        "published_date": "2026-04-07T22:53:03Z",
         "category": "Local Events"
       }
     ]
