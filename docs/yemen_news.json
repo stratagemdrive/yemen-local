@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-11T23:40:52Z",
+  "last_updated": "2026-04-12T11:40:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c34f2ccce748",
+        "title": "When Diversity Becomes an Indictment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422179",
+        "published_date": "2026-04-12T10:38:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0616443785d3",
+        "title": "“Islamabad” negotiations between Washington and Tehran falter... and the bombing expands in Lebanon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422161",
+        "published_date": "2026-04-12T02:53:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "1a9f92d59673",
         "title": "The listening team: National reconciliation in Yemen is the solution",
@@ -113,41 +129,17 @@
         "url": "https://yemenat.net/archives/422003",
         "published_date": "2026-04-08T20:47:19Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "607ae888e3e8",
-        "title": "Lebanon is outside the ceasefire agreement, and Israel launches its most violent raids and Iranian escalation in the Gulf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421995",
-        "published_date": "2026-04-08T15:59:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b932f4e4b8f5",
-        "title": "Araqchi announces Tehran’s position on the Pakistani request, and Netanyahu confirms Tel Aviv’s position",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421986",
-        "published_date": "2026-04-08T11:43:53Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "7ebe83a41917",
-        "title": "Russian-Chinese veto against a draft resolution on protecting navigation in the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421979",
-        "published_date": "2026-04-07T23:36:32Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bb6a8c6e21a2",
-        "title": "Trump takes decision on Pakistani request to suspend bombing of Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421976",
-        "published_date": "2026-04-07T23:17:09Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "f262750bf385",
+        "title": "Free tweets...opinion and position in times of war and flocks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422136",
+        "published_date": "2026-04-12T00:22:15Z",
+        "category": "Military"
+      },
       {
         "_id": "ad9f8b975bf1",
         "title": "Trump announces the start of clearing the Strait of Hormuz of mines",
@@ -174,25 +166,56 @@
       }
     ],
     "Energy": [],
-    "Economy": [
+    "Economy": [],
+    "Local Events": [
       {
-        "_id": "eb7dff0a27f7",
-        "title": "Al-Barakani: Coordination is underway to determine the appropriate time and place for the House of Representatives to convene",
+        "_id": "98a1c393e09f",
+        "title": "Average gold prices in Sanaa and Aden Sunday, April 12, 2026",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421991",
-        "published_date": "2026-04-08T14:53:46Z",
-        "category": "Economy"
+        "url": "https://yemenat.net/archives/422182",
+        "published_date": "2026-04-12T10:56:51Z",
+        "category": "Local Events"
       },
       {
-        "_id": "15aa81794440",
-        "title": "Average gold prices in Sanaa and Aden Wednesday, April 8, 2026",
+        "_id": "7d8c1a76d969",
+        "title": "Hadhramaut.. reopening the transitional headquarters in the city of Mukalla",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/421989",
-        "published_date": "2026-04-08T12:45:41Z",
-        "category": "Economy"
-      }
-    ],
-    "Local Events": [
+        "url": "https://yemenat.net/archives/422176",
+        "published_date": "2026-04-12T10:17:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "711ae7b66d31",
+        "title": "Meteorology warns of thunderstorms, rockslides and mudslides",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422173",
+        "published_date": "2026-04-12T09:41:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "39bfd7a581c6",
+        "title": "An earthquake in the center of Hodeidah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422170",
+        "published_date": "2026-04-12T09:26:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80f58d668cf9",
+        "title": "A fire broke out in a hangar south of the capital, Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422166",
+        "published_date": "2026-04-12T08:58:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "74cd7ce48d93",
+        "title": "“Video”... A girl commits suicide in Hajj by jumping from the third floor, and there are conflicting reports about the reasons",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422155",
+        "published_date": "2026-04-12T02:04:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5832eb56350e",
         "title": "Al-Bayda.. Assassination of a tribal sheikh and leader in the General People’s Congress",
@@ -303,54 +326,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422061",
         "published_date": "2026-04-10T15:25:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b9efadb4f4e1",
-        "title": "Floods sweep away a second child in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422058",
-        "published_date": "2026-04-10T13:36:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "514f69aba686",
-        "title": "Earthquake in Yafa' Lahj",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422055",
-        "published_date": "2026-04-10T12:58:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5facdd28f62b",
-        "title": "Aden.. Two workers died under the rubble of a dilapidated building",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422052",
-        "published_date": "2026-04-10T12:38:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "172317c38bf5",
-        "title": "Taiz.. Huge crowds attend the funeral of the child September Al-Sami’i",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422049",
-        "published_date": "2026-04-10T12:09:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6487bb2406fa",
-        "title": "Meteorology: Thunderstorms on parts of the highlands and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422041",
-        "published_date": "2026-04-10T10:35:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "24293c149c92",
-        "title": "The body of a child was found in Taiz after hours of continuous search in flood drains",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422038",
-        "published_date": "2026-04-10T09:35:46Z",
         "category": "Local Events"
       }
     ]
