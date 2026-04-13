@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-12T23:42:16Z",
+  "last_updated": "2026-04-13T12:08:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3114a9287479",
+        "title": "A Saudi-Israeli debate and an Israeli official threatens to occupy a Lebanese town",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422229",
+        "published_date": "2026-04-13T10:42:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "78138ffb1301",
+        "title": "Al-Saqladi reads the relationship between the Transitional Council and the UAE with Saudi Arabia in light of the complaint letter addressed to the Security Council",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422219",
+        "published_date": "2026-04-13T01:58:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "802f70b78249",
         "title": "A vow of comprehensive confrontation.. Trump directs to “tighten control” over Hormuz and Tehran threatens a firm response",
@@ -89,30 +105,6 @@
         "url": "https://yemenat.net/archives/422086",
         "published_date": "2026-04-11T09:56:41Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0f8bc0754713",
-        "title": "Tensions escalate ahead of Pakistan negotiations: mutual accusations over the Strait of Hormuz and continued Israeli attacks on Lebanon",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422045",
-        "published_date": "2026-04-10T11:33:10Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "94a5c49b06e0",
-        "title": "Rawabi Awtani",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422043",
-        "published_date": "2026-04-10T10:49:22Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e4ed3c3ca7fe",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to release civil activist Fatima Al-Arouli",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422035",
-        "published_date": "2026-04-09T21:17:42Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -143,6 +135,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "3ac59d3ef4d0",
+        "title": "New York as a Fragmented Linguistic Body: A Reading of Ahmed Al Zera’ei’s Poetry",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422225",
+        "published_date": "2026-04-13T10:14:35Z",
+        "category": "Economy"
+      },
       {
         "_id": "c2b98a796545",
         "title": "Aden.. The Central Bank sets interest rates for deposits and loans and financing and investment formulas",
@@ -177,6 +177,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "41ea11772734",
+        "title": "“Video”... Floods flood Tahrir Square in Sanaa and turn it into a swamp",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422231",
+        "published_date": "2026-04-13T11:22:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3b3e70168d0",
+        "title": "Meteorology: Thunderstorms in most highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422222",
+        "published_date": "2026-04-13T09:58:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6ca3edc6f896",
         "title": "Sanaa.. The Civil Defense Authority reveals the causes of a sponge factory fire in Al-Jarda and the nature of the losses",
@@ -319,22 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422084",
         "published_date": "2026-04-11T09:02:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dad1addd8366",
-        "title": "Meteorology: Rain is expected in parts of the mountainous and coastal governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422082",
-        "published_date": "2026-04-11T08:47:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7890aeeabe4c",
-        "title": "Two earthquakes were recorded from Yafaa Lahj",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422076",
-        "published_date": "2026-04-10T18:41:59Z",
         "category": "Local Events"
       }
     ]
