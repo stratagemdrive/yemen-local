@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-13T12:08:26Z",
+  "last_updated": "2026-04-13T23:50:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,54 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0f1576af4e27",
+        "title": "Towards a balanced Yemeni-Saudi partnership: from neighborhood sensitivities to the horizon of joint stability",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422268",
+        "published_date": "2026-04-13T19:58:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9d4c5152da65",
+        "title": "Aden.. A private airline company obtains operating permits to three Saudi airports",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422265",
+        "published_date": "2026-04-13T19:46:10Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a0b8e08833eb",
+        "title": "Washington announces “maritime control” and imposes a comprehensive blockade on the Iranian coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422262",
+        "published_date": "2026-04-13T16:55:28Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6e2a9584d220",
+        "title": "A story from the intensive care unit",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422259",
+        "published_date": "2026-04-13T16:36:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fededdbd43a0",
+        "title": "Italy offers to host talks between Lebanon and Israel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422237",
+        "published_date": "2026-04-13T12:53:09Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "293a75a04c89",
+        "title": "We will not forget you",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422243",
+        "published_date": "2026-04-13T12:45:43Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3114a9287479",
         "title": "A Saudi-Israeli debate and an Israeli official threatens to occupy a Lebanese town",
@@ -97,17 +145,25 @@
         "url": "https://yemenat.net/archives/422097",
         "published_date": "2026-04-11T11:31:21Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a25bf25200b6",
-        "title": "The delegations of Tehran and Washington arrive in Islamabad, and Lebanon is still the main point of disagreement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422086",
-        "published_date": "2026-04-11T09:56:41Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "69ddee4af224",
+        "title": "“Video” A children’s fight turns into a horrific crime in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422278",
+        "published_date": "2026-04-13T21:59:12Z",
+        "category": "Military"
+      },
+      {
+        "_id": "459321e504ee",
+        "title": "Sanaa.. Civil Defense issues a warning to owners of industrial facilities, warehouses, and commercial centers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422270",
+        "published_date": "2026-04-13T20:31:06Z",
+        "category": "Military"
+      },
       {
         "_id": "f262750bf385",
         "title": "Free tweets...opinion and position in times of war and flocks",
@@ -122,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422123",
         "published_date": "2026-04-11T20:50:40Z",
-        "category": "Military"
-      },
-      {
-        "_id": "e01b5f75cfc5",
-        "title": "The hearing team directs the heads of the security services to release the remaining detainees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422079",
-        "published_date": "2026-04-10T19:22:56Z",
         "category": "Military"
       }
     ],
@@ -177,6 +225,62 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "55b64f41086a",
+        "title": "The unknown fate of two brothers from Shabwa fishermen who went missing two days ago",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422275",
+        "published_date": "2026-04-13T21:15:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ed98708f0e99",
+        "title": "Escape into nothingness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422272",
+        "published_date": "2026-04-13T20:45:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "223467a65a3a",
+        "title": "The father of the child, Eylul Al-Sami, calls for launching an initiative to confront the damage caused by floods",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422257",
+        "published_date": "2026-04-13T16:09:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f45e5d27f145",
+        "title": "Hajjah.. Al-Mahabsha Police clarifies the incident of a girl committing suicide by jumping from the roof of her father’s house",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422254",
+        "published_date": "2026-04-13T14:42:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc0659305459",
+        "title": "Taiz.. Rockslides and mudslides in Jabal Habashi cause damage to property and obstruct traffic",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422248",
+        "published_date": "2026-04-13T14:13:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "216ebe9a4833",
+        "title": "Egyptian with a Yemeni flavour",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422242",
+        "published_date": "2026-04-13T12:49:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3fc73592fdf8",
+        "title": "Yemeni doctors are at the forefront of the medical scene in the United States",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422240",
+        "published_date": "2026-04-13T12:37:48Z",
+        "category": "Local Events"
+      },
       {
         "_id": "41ea11772734",
         "title": "“Video”... Floods flood Tahrir Square in Sanaa and turn it into a swamp",
@@ -279,62 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422133",
         "published_date": "2026-04-11T23:05:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e50ed14f4367",
-        "title": "Activists warn of the collapse of part of the wall of the old city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422119",
-        "published_date": "2026-04-11T20:50:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ebaefa843c76",
-        "title": "Water memory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422112",
-        "published_date": "2026-04-11T17:18:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4c7cd0d802ab",
-        "title": "Sanaa.. The Central Bank stops dealing with three exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422107",
-        "published_date": "2026-04-11T16:06:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2f485a803c42",
-        "title": "Taiz: Rockslides near Cairo Citadel cause material and human damage",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422102",
-        "published_date": "2026-04-11T15:31:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6fb1677cdaef",
-        "title": "Preventing the entry of fuel into the city of Ma’rib amid tribal-military tension in Safer",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422094",
-        "published_date": "2026-04-11T11:03:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bcdc1af065fc",
-        "title": "Guards at an oil field in Shabwa complain about the violation of their rights and appeal to the governor to intervene",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422091",
-        "published_date": "2026-04-11T10:18:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6953d77070d0",
-        "title": "The procession of feminist creativity between the rhythm of dreaming and the invasion of cultural digital creativity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422084",
-        "published_date": "2026-04-11T09:02:09Z",
         "category": "Local Events"
       }
     ]
