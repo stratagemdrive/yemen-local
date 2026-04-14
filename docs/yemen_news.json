@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-14T12:03:25Z",
+  "last_updated": "2026-04-14T23:49:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,46 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "2459da922a89",
+        "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422312",
+        "published_date": "2026-04-14T23:26:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6eea9b96ddb2",
+        "title": "Parliamentarian Moazib addresses the Yemeni Brotherhood: It is impossible for you to describe us politically and militarily, and you must accept the other",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422309",
+        "published_date": "2026-04-14T22:49:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "5f0812c8a98b",
+        "title": "Conflicting news about the effectiveness of the “siege” in Hormuz... and Trump hints at an upcoming negotiation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422302",
+        "published_date": "2026-04-14T21:43:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ae8cecb8eaaa",
+        "title": "Text of the briefing of the UN envoy to Yemen before the UN Security Council, Tuesday, April 14, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422296",
+        "published_date": "2026-04-14T20:43:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "06c165fc8b3b",
+        "title": "Embassies refuse to deal with the new version of the Yemeni passport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422294",
+        "published_date": "2026-04-14T12:56:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e13dca5aca19",
         "title": "The expected return of the Iranian and American negotiating teams to Islamabad",
@@ -121,30 +161,6 @@
         "url": "https://yemenat.net/archives/422161",
         "published_date": "2026-04-12T02:53:25Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1a9f92d59673",
-        "title": "The listening team: National reconciliation in Yemen is the solution",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422122",
-        "published_date": "2026-04-11T20:27:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f4d0b67310a9",
-        "title": "The “crisis transfer” strategy: The Middle East between restructuring balances and American retreat",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422114",
-        "published_date": "2026-04-11T19:08:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0a39cdddf350",
-        "title": "“Islamabad” negotiations: a historic diplomatic breakthrough between Washington and Tehran to end the six-week war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422109",
-        "published_date": "2026-04-11T16:45:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -170,14 +186,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422136",
         "published_date": "2026-04-12T00:22:15Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ad9f8b975bf1",
-        "title": "Trump announces the start of clearing the Strait of Hormuz of mines",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422123",
-        "published_date": "2026-04-11T20:50:40Z",
         "category": "Military"
       }
     ],
@@ -225,6 +233,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "b8476ebac561",
+        "title": "Search efforts for two fishermen missing on the coast of Shabwa failed, and the Coast Guard hoped for air support",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422306",
+        "published_date": "2026-04-14T22:04:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d11a9188681a",
+        "title": "The Capital Secretariat Police clarifies a murder incident in the Masik neighborhood of Azal District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422299",
+        "published_date": "2026-04-14T21:06:42Z",
+        "category": "Local Events"
+      },
       {
         "_id": "888c81fd75bb",
         "title": "Meteorology reduces the warning to alert and expects thunderstorms and dust-laden winds to affect four governorates",
@@ -367,22 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422170",
         "published_date": "2026-04-12T09:26:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80f58d668cf9",
-        "title": "A fire broke out in a hangar south of the capital, Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422166",
-        "published_date": "2026-04-12T08:58:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "74cd7ce48d93",
-        "title": "“Video”... A girl commits suicide in Hajj by jumping from the third floor, and there are conflicting reports about the reasons",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422155",
-        "published_date": "2026-04-12T02:04:03Z",
         "category": "Local Events"
       }
     ]
