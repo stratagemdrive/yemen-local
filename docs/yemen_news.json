@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-13T23:50:58Z",
+  "last_updated": "2026-04-14T12:03:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e13dca5aca19",
+        "title": "The expected return of the Iranian and American negotiating teams to Islamabad",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422292",
+        "published_date": "2026-04-14T10:59:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "5daea4ac1df4",
+        "title": "Warning for locomotives and trucks to adhere to weights and loads on the international road",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422289",
+        "published_date": "2026-04-14T10:18:50Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0f1576af4e27",
         "title": "Towards a balanced Yemeni-Saudi partnership: from neighborhood sensitivities to the horizon of joint stability",
@@ -129,22 +145,6 @@
         "url": "https://yemenat.net/archives/422109",
         "published_date": "2026-04-11T16:45:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bfdb52b41ddb",
-        "title": "When diversity becomes an accusation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422099",
-        "published_date": "2026-04-11T11:52:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "00f7ef09f951",
-        "title": "Iranian media explains the fact that four countries are participating in the Islamabad negotiations and the duration of the negotiations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422097",
-        "published_date": "2026-04-11T11:31:21Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -225,6 +225,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "888c81fd75bb",
+        "title": "Meteorology reduces the warning to alert and expects thunderstorms and dust-laden winds to affect four governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422287",
+        "published_date": "2026-04-14T09:54:55Z",
+        "category": "Local Events"
+      },
       {
         "_id": "55b64f41086a",
         "title": "The unknown fate of two brothers from Shabwa fishermen who went missing two days ago",
@@ -375,14 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422155",
         "published_date": "2026-04-12T02:04:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5832eb56350e",
-        "title": "Al-Bayda.. Assassination of a tribal sheikh and leader in the General People’s Congress",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422133",
-        "published_date": "2026-04-11T23:05:48Z",
         "category": "Local Events"
       }
     ]
