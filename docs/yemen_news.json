@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-14T23:49:26Z",
+  "last_updated": "2026-04-15T12:00:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2459da922a89",
         "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
@@ -165,6 +173,14 @@
     ],
     "Military": [
       {
+        "_id": "65b96886319f",
+        "title": "How ugly are those who represent the Yemeni government",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422318",
+        "published_date": "2026-04-15T08:32:55Z",
+        "category": "Military"
+      },
+      {
         "_id": "69ddee4af224",
         "title": "“Video” A children’s fight turns into a horrific crime in Sanaa",
         "source": "Yemenat",
@@ -178,14 +194,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422270",
         "published_date": "2026-04-13T20:31:06Z",
-        "category": "Military"
-      },
-      {
-        "_id": "f262750bf385",
-        "title": "Free tweets...opinion and position in times of war and flocks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422136",
-        "published_date": "2026-04-12T00:22:15Z",
         "category": "Military"
       }
     ],
@@ -233,6 +241,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "b95b03826e4f",
+        "title": "Meteorology: Dusty weather in four governorates and scattered rain in parts of the highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422315",
+        "published_date": "2026-04-15T08:18:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b8476ebac561",
         "title": "Search efforts for two fishermen missing on the coast of Shabwa failed, and the Coast Guard hoped for air support",
@@ -383,14 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422173",
         "published_date": "2026-04-12T09:41:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "39bfd7a581c6",
-        "title": "An earthquake in the center of Hodeidah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422170",
-        "published_date": "2026-04-12T09:26:03Z",
         "category": "Local Events"
       }
     ]
