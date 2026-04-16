@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-15T23:50:42Z",
+  "last_updated": "2026-04-16T12:04:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "af47f333175f",
+        "title": "Calls to form an emergency committee to mitigate the repercussions of the war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422348",
+        "published_date": "2026-04-16T11:04:45Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c38b2cf8978a",
         "title": "Agency: An Iranian proposal to secure navigation in the Strait of Hormuz",
@@ -35,8 +43,16 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "2459da922a89",
-        "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
+        "title": "A famous Yemeni artist died in the Egyptian capital, Cairo",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422312",
         "published_date": "2026-04-14T23:26:37Z",
@@ -153,14 +169,6 @@
         "url": "https://yemenat.net/archives/422219",
         "published_date": "2026-04-13T01:58:29Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "802f70b78249",
-        "title": "A vow of comprehensive confrontation.. Trump directs to “tighten control” over Hormuz and Tehran threatens a firm response",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422200",
-        "published_date": "2026-04-12T19:56:12Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -170,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422342",
         "published_date": "2026-04-15T22:36:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c66aa1047cde",
-        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422320",
-        "published_date": "2026-04-15T09:32:07Z",
         "category": "Military"
       },
       {
@@ -246,17 +246,25 @@
         "url": "https://yemenat.net/archives/422198",
         "published_date": "2026-04-12T17:04:41Z",
         "category": "Economy"
-      },
-      {
-        "_id": "40ac99e4599d",
-        "title": "Sanaa.. A fire in a sponge factory in Al-Jarda causes massive damage, and the smoke forces families to leave",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422187",
-        "published_date": "2026-04-12T12:21:12Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d2ee32ed95fc",
+        "title": "When the song becomes a refuge from the noise of the world...an alienation broken by a passing kindness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422351",
+        "published_date": "2026-04-16T11:23:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e23e160acfb",
+        "title": "Meteorology: Scattered rain in parts of seven governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422346",
+        "published_date": "2026-04-16T10:49:09Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9e52d6271c4e",
         "title": "Aden.. More than 1,200 victims caused by more than a thousand traffic accidents within three months",
@@ -399,22 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422206",
         "published_date": "2026-04-12T21:00:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8348aa041d23",
-        "title": "Aden.. Angry depositors close a commercial complex after the bankruptcy of Al-Muflihi Exchange Company",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422194",
-        "published_date": "2026-04-12T16:57:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "11c5daf1b13e",
-        "title": "Heavy rain falls on the capital, Sanaa, and sirens sound in Al-Saila",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422192",
-        "published_date": "2026-04-12T15:59:20Z",
         "category": "Local Events"
       }
     ]
