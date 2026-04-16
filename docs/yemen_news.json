@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-16T12:04:18Z",
+  "last_updated": "2026-04-16T23:50:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1d088bfe19f5",
+        "title": "Trump and Netanyahu announce a truce in Lebanon... and indicators of a “breakthrough” in the Iranian nuclear file",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422383",
+        "published_date": "2026-04-16T23:24:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9fa443b45f09",
+        "title": "The White Flag Ambassadors invite the Yemeni ambassador to Saudi Arabia to support them in reopening a border crossing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422378",
+        "published_date": "2026-04-16T22:31:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cfeb79a3023b",
+        "title": "The Sami team calls for a five-party Islamic alliance to achieve strategic balance",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422372",
+        "published_date": "2026-04-16T21:16:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c9d7f7d2627b",
+        "title": "Cautious optimism about the end of the “Iran War” and Pakistani mediation to untie the nuclear issue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422354",
+        "published_date": "2026-04-16T12:47:06Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "af47f333175f",
         "title": "Calls to form an emergency committee to mitigate the repercussions of the war",
@@ -43,16 +75,8 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "c66aa1047cde",
-        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422320",
-        "published_date": "2026-04-15T09:32:07Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "2459da922a89",
-        "title": "A famous Yemeni artist died in the Egyptian capital, Cairo",
+        "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422312",
         "published_date": "2026-04-14T23:26:37Z",
@@ -145,30 +169,6 @@
         "url": "https://yemenat.net/archives/422237",
         "published_date": "2026-04-13T12:53:09Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "293a75a04c89",
-        "title": "We will not forget you",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422243",
-        "published_date": "2026-04-13T12:45:43Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3114a9287479",
-        "title": "A Saudi-Israeli debate and an Israeli official threatens to occupy a Lebanese town",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422229",
-        "published_date": "2026-04-13T10:42:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "78138ffb1301",
-        "title": "Al-Saqladi reads the relationship between the Transitional Council and the UAE with Saudi Arabia in light of the complaint letter addressed to the Security Council",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422219",
-        "published_date": "2026-04-13T01:58:29Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -178,6 +178,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422342",
         "published_date": "2026-04-15T22:36:57Z",
+        "category": "Military"
+      },
+      {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
         "category": "Military"
       },
       {
@@ -208,47 +216,55 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "811bf2135ce7",
+        "title": "A call from a soul that did not die... a homeland groaning under the rubble",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422374",
+        "published_date": "2026-04-16T21:24:51Z",
+        "category": "Economy"
+      },
+      {
         "_id": "ed236eb44170",
         "title": "Searches for two fishermen in Shabwa failed, and reports suggested they were subjected to maritime piracy",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422332",
         "published_date": "2026-04-15T20:11:13Z",
         "category": "Economy"
-      },
-      {
-        "_id": "3ac59d3ef4d0",
-        "title": "New York as a Fragmented Linguistic Body: A Reading of Ahmed Al Zera’ei’s Poetry",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422225",
-        "published_date": "2026-04-13T10:14:35Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "c2b98a796545",
-        "title": "Aden.. The Central Bank sets interest rates for deposits and loans and financing and investment formulas",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422211",
-        "published_date": "2026-04-12T22:59:06Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "4ab4d1bd2ef1",
-        "title": "Funerals of light",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422203",
-        "published_date": "2026-04-12T20:38:00Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "bda1e1c53407",
-        "title": "The listening team appeals to the parties to the conflict in Yemen to move towards reconciliation and warns of a coming war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422198",
-        "published_date": "2026-04-12T17:04:41Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "b36d93eebe90",
+        "title": "A security leader accused of human rights violations returns to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422369",
+        "published_date": "2026-04-16T20:54:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "325ce667f5e3",
+        "title": "Abyan: The body of a missing fisherman was found on the coast of Shabwa, and searches are continuing for the body of his brother",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422366",
+        "published_date": "2026-04-16T15:18:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea479b5b92e9",
+        "title": "Ibb.. Pardoning on death row for a convict who spent more than a quarter of a century behind bars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422362",
+        "published_date": "2026-04-16T14:33:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d61749a2330e",
+        "title": "Average gold prices in Sanaa and Aden, Thursday, April 16, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422356",
+        "published_date": "2026-04-16T12:36:39Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d2ee32ed95fc",
         "title": "When the song becomes a refuge from the noise of the world...an alienation broken by a passing kindness",
@@ -375,38 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422240",
         "published_date": "2026-04-13T12:37:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41ea11772734",
-        "title": "“Video”... Floods flood Tahrir Square in Sanaa and turn it into a swamp",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422231",
-        "published_date": "2026-04-13T11:22:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3b3e70168d0",
-        "title": "Meteorology: Thunderstorms in most highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422222",
-        "published_date": "2026-04-13T09:58:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6ca3edc6f896",
-        "title": "Sanaa.. The Civil Defense Authority reveals the causes of a sponge factory fire in Al-Jarda and the nature of the losses",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422214",
-        "published_date": "2026-04-12T23:22:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cdb74c9edd8d",
-        "title": "Another account of a Mahabsha girl committing suicide by jumping from the roof of her father’s house",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422206",
-        "published_date": "2026-04-12T21:00:09Z",
         "category": "Local Events"
       }
     ]
