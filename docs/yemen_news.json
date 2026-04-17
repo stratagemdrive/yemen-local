@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-16T23:50:08Z",
+  "last_updated": "2026-04-17T11:57:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422328",
         "published_date": "2026-04-15T19:44:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
         "category": "Diplomacy"
       },
       {
@@ -161,14 +169,6 @@
         "url": "https://yemenat.net/archives/422259",
         "published_date": "2026-04-13T16:36:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "fededdbd43a0",
-        "title": "Italy offers to host talks between Lebanon and Israel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422237",
-        "published_date": "2026-04-13T12:53:09Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -178,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422342",
         "published_date": "2026-04-15T22:36:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c66aa1047cde",
-        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422320",
-        "published_date": "2026-04-15T09:32:07Z",
         "category": "Military"
       },
       {
