@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-17T23:45:20Z",
+  "last_updated": "2026-04-18T11:42:00Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -83,6 +83,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "2459da922a89",
         "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
         "source": "Yemenat",
@@ -161,14 +169,6 @@
         "url": "https://yemenat.net/archives/422262",
         "published_date": "2026-04-13T16:55:28Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "6e2a9584d220",
-        "title": "A story from the intensive care unit",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422259",
-        "published_date": "2026-04-13T16:36:23Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -178,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422342",
         "published_date": "2026-04-15T22:36:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c66aa1047cde",
-        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422320",
-        "published_date": "2026-04-15T09:32:07Z",
         "category": "Military"
       },
       {
@@ -363,7 +355,7 @@
       },
       {
         "_id": "888c81fd75bb",
-        "title": "Meteorology reduces the warning to alert and expects thunderstorms and dust-laden winds to affect four governorates",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422287",
         "published_date": "2026-04-14T09:54:55Z",
