@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-19T11:42:14Z",
+  "last_updated": "2026-04-19T23:42:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -153,22 +153,6 @@
         "url": "https://yemenat.net/archives/422302",
         "published_date": "2026-04-14T21:43:18Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ae8cecb8eaaa",
-        "title": "Text of the briefing of the UN envoy to Yemen before the UN Security Council, Tuesday, April 14, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422296",
-        "published_date": "2026-04-14T20:43:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "06c165fc8b3b",
-        "title": "Embassies refuse to deal with the new version of the Yemeni passport",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422294",
-        "published_date": "2026-04-14T12:56:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -225,6 +209,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "1f2170b00286",
+        "title": "A general director was injured in a raid on the Al-Dhalea Governorate office",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422457",
+        "published_date": "2026-04-19T18:17:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6e225d3e095",
+        "title": "Assassination of an officer in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422454",
+        "published_date": "2026-04-19T13:37:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1a71073b059e",
+        "title": "Lahj.. A person was killed in Al-Qabaytah due to land problems",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422449",
+        "published_date": "2026-04-19T12:31:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3fb4fe5fa560",
         "title": "The office of Al-Dhalea Governorate was stormed, and gunmen threatened to expel the governor, amid gunfire surrounding the building",
@@ -359,30 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422346",
         "published_date": "2026-04-16T10:49:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9e52d6271c4e",
-        "title": "Aden.. More than 1,200 victims caused by more than a thousand traffic accidents within three months",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422337",
-        "published_date": "2026-04-15T21:31:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bcf61643d7b6",
-        "title": "A drone crashed in a market west of Taiz Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422325",
-        "published_date": "2026-04-15T19:11:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eb634b8eedaf",
-        "title": "Average gold prices in Sanaa and Aden, Wednesday, April 15, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422323",
-        "published_date": "2026-04-15T13:06:32Z",
         "category": "Local Events"
       }
     ]
