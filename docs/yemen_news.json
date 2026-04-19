@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-18T23:40:37Z",
+  "last_updated": "2026-04-19T11:42:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,10 +9,382 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
-    "Military": [],
+    "Diplomacy": [
+      {
+        "_id": "4a11e6f57c42",
+        "title": "Parliamentarian Hashid reveals an imminent danger threatening his life and addresses the Inter-Parliamentary Union with an urgent report",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422443",
+        "published_date": "2026-04-19T09:33:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "af5a231570da",
+        "title": "Two years of separation...and death steals hope, “Surveyor”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422436",
+        "published_date": "2026-04-19T01:49:39Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6cfbf7e22160",
+        "title": "The hearing team warns of an upcoming world war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422427",
+        "published_date": "2026-04-18T19:17:36Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "2d8e7545162d",
+        "title": "Aden.. The Central Bank clarifies the printing of a 10,000 riyal banknote",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422415",
+        "published_date": "2026-04-18T13:41:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7de9e3ae38d8",
+        "title": "An Iranian announcement restricting the movement of ships in the Strait of Hormuz hours after it was opened to navigation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422413",
+        "published_date": "2026-04-18T13:25:27Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "48d7c0093cc4",
+        "title": "Araqchi announces allowing ships to cross the Strait of Hormuz, and Iranian television clarifies the conditions for crossing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422401",
+        "published_date": "2026-04-17T21:36:26Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1d088bfe19f5",
+        "title": "Trump and Netanyahu announce a truce in Lebanon... and indicators of a “breakthrough” in the Iranian nuclear file",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422383",
+        "published_date": "2026-04-16T23:24:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9fa443b45f09",
+        "title": "The White Flag Ambassadors invite the Yemeni ambassador to Saudi Arabia to support them in reopening a border crossing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422378",
+        "published_date": "2026-04-16T22:31:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cfeb79a3023b",
+        "title": "The Sami team calls for a five-party Islamic alliance to achieve strategic balance",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422372",
+        "published_date": "2026-04-16T21:16:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c9d7f7d2627b",
+        "title": "Cautious optimism about the end of the “Iran War” and Pakistani mediation to untie the nuclear issue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422354",
+        "published_date": "2026-04-16T12:47:06Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "af47f333175f",
+        "title": "Calls to form an emergency committee to mitigate the repercussions of the war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422348",
+        "published_date": "2026-04-16T11:04:45Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c38b2cf8978a",
+        "title": "Agency: An Iranian proposal to secure navigation in the Strait of Hormuz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422339",
+        "published_date": "2026-04-15T22:05:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "20c6bf9e728a",
+        "title": "Sanaa.. The Foreign Ministry comments on the UN envoy’s recent briefing before the UN Security Council",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422335",
+        "published_date": "2026-04-15T21:03:28Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "200af7e52c5c",
+        "title": "Members of Congress call on the Trump administration to extend temporary protected status for Yemenis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422328",
+        "published_date": "2026-04-15T19:44:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c66aa1047cde",
+        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422320",
+        "published_date": "2026-04-15T09:32:07Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "2459da922a89",
+        "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422312",
+        "published_date": "2026-04-14T23:26:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6eea9b96ddb2",
+        "title": "Parliamentarian Moazib addresses the Yemeni Brotherhood: It is impossible for you to describe us politically and militarily, and you must accept the other",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422309",
+        "published_date": "2026-04-14T22:49:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "5f0812c8a98b",
+        "title": "Conflicting news about the effectiveness of the “siege” in Hormuz... and Trump hints at an upcoming negotiation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422302",
+        "published_date": "2026-04-14T21:43:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ae8cecb8eaaa",
+        "title": "Text of the briefing of the UN envoy to Yemen before the UN Security Council, Tuesday, April 14, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422296",
+        "published_date": "2026-04-14T20:43:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "06c165fc8b3b",
+        "title": "Embassies refuse to deal with the new version of the Yemeni passport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422294",
+        "published_date": "2026-04-14T12:56:52Z",
+        "category": "Diplomacy"
+      }
+    ],
+    "Military": [
+      {
+        "_id": "281634738cc1",
+        "title": "Hadhramaut.. An officer was killed and soldiers from the National Shield Forces were wounded in an armed ambush",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422342",
+        "published_date": "2026-04-15T22:36:57Z",
+        "category": "Military"
+      },
+      {
+        "_id": "65b96886319f",
+        "title": "How ugly are those who represent the Yemeni government",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422318",
+        "published_date": "2026-04-15T08:32:55Z",
+        "category": "Military"
+      }
+    ],
     "Energy": [],
-    "Economy": [],
-    "Local Events": []
+    "Economy": [
+      {
+        "_id": "3f0385b4f466",
+        "title": "Depositors demand that the Sanaa authority find solutions for their funds held by banks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422429",
+        "published_date": "2026-04-18T20:00:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "8692c3282bfd",
+        "title": "Reading and interpretation of the poetic text (The Name When It Loses Its Body) by the poet Hussein Al-Sayyab: The aesthetics of erasure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422389",
+        "published_date": "2026-04-17T15:00:06Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "811bf2135ce7",
+        "title": "A call from a soul that did not die... a homeland groaning under the rubble",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422374",
+        "published_date": "2026-04-16T21:24:51Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ed236eb44170",
+        "title": "Searches for two fishermen in Shabwa failed, and reports suggested they were subjected to maritime piracy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422332",
+        "published_date": "2026-04-15T20:11:13Z",
+        "category": "Economy"
+      }
+    ],
+    "Local Events": [
+      {
+        "_id": "3fb4fe5fa560",
+        "title": "The office of Al-Dhalea Governorate was stormed, and gunmen threatened to expel the governor, amid gunfire surrounding the building",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422446",
+        "published_date": "2026-04-19T10:45:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e02d6b41eb5a",
+        "title": "Mystery surrounds the drowning of two fishermen after their bodies were found on the coast of Abyan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422439",
+        "published_date": "2026-04-19T02:24:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "241d92299763",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to release Bashir Al-Maqtari, advisor to the Civil Aviation Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422433",
+        "published_date": "2026-04-18T21:17:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fa2da2c7e0ce",
+        "title": "The June 20 camp raises disputes between the Ministry of Interior and the local authority in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422423",
+        "published_date": "2026-04-18T18:22:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c0ee9e4b3c79",
+        "title": "Hadhramaut.. The Geological Survey and Mineral Resources Authority warns of infringements on mineral resources",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422420",
+        "published_date": "2026-04-18T16:18:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5ff150be07ef",
+        "title": "When I was born a doctor",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422410",
+        "published_date": "2026-04-18T12:52:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ef3f221a9a48",
+        "title": "An earthquake was recorded in Hajjah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422407",
+        "published_date": "2026-04-18T12:23:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a466302b41d7",
+        "title": "Meteorology: Thunderstorms in some highlands and hot to very hot weather on the coasts and deserts.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422403",
+        "published_date": "2026-04-18T11:44:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d5df5edd76ca",
+        "title": "A directive to transform a camp in Aden into an integrated educational complex",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422397",
+        "published_date": "2026-04-17T20:56:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ad68a1bd83bc",
+        "title": "Yemeni intellectuals demand that the Attorney General in Sanaa provide full protection for lawyer Haneen Al-Sarari",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422394",
+        "published_date": "2026-04-17T19:51:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e119be47ca83",
+        "title": "Meteorology warns of hot weather in deserts and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422386",
+        "published_date": "2026-04-17T14:17:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b36d93eebe90",
+        "title": "A security leader accused of human rights violations returns to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422369",
+        "published_date": "2026-04-16T20:54:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "325ce667f5e3",
+        "title": "Abyan: The body of a missing fisherman was found on the coast of Shabwa, and searches are continuing for the body of his brother",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422366",
+        "published_date": "2026-04-16T15:18:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea479b5b92e9",
+        "title": "Ibb.. Pardoning on death row for a convict who spent more than a quarter of a century behind bars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422362",
+        "published_date": "2026-04-16T14:33:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d61749a2330e",
+        "title": "Average gold prices in Sanaa and Aden, Thursday, April 16, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422356",
+        "published_date": "2026-04-16T12:36:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d2ee32ed95fc",
+        "title": "When the song becomes a refuge from the noise of the world...an alienation broken by a passing kindness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422351",
+        "published_date": "2026-04-16T11:23:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e23e160acfb",
+        "title": "Meteorology: Scattered rain in parts of seven governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422346",
+        "published_date": "2026-04-16T10:49:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9e52d6271c4e",
+        "title": "Aden.. More than 1,200 victims caused by more than a thousand traffic accidents within three months",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422337",
+        "published_date": "2026-04-15T21:31:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bcf61643d7b6",
+        "title": "A drone crashed in a market west of Taiz Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422325",
+        "published_date": "2026-04-15T19:11:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eb634b8eedaf",
+        "title": "Average gold prices in Sanaa and Aden, Wednesday, April 15, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422323",
+        "published_date": "2026-04-15T13:06:32Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
