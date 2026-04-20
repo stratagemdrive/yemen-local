@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-20T12:10:32Z",
+  "last_updated": "2026-04-20T23:51:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "76ba2a21f4a7",
+        "title": "The Sultanate of Oman grants its citizenship to a Yemeni geologist and his family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422483",
+        "published_date": "2026-04-20T15:54:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "01371dbbb32d",
         "title": "Iranian Foreign Ministry: The decision to participate in the Islamabad talks has not been taken, and the naval blockade has violated the ceasefire",
@@ -145,14 +153,6 @@
         "url": "https://yemenat.net/archives/422328",
         "published_date": "2026-04-15T19:44:52Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c66aa1047cde",
-        "title": "Newspaper: Iran received Chinese logistical support to target American bases in the Middle East",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422320",
-        "published_date": "2026-04-15T09:32:07Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -202,8 +202,16 @@
     ],
     "Local Events": [
       {
+        "_id": "df94037404b7",
+        "title": "Agency: The Yemeni government is facing the most severe cash crisis since 2015",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422487",
+        "published_date": "2026-04-20T16:20:52Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "104c6cb00fd1",
-        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
+        "title": "The Hadhramaut Specialized Penal Court orders the imprisonment of the kidnappers of 14 children between 25 and 50 years old",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422480",
         "published_date": "2026-04-20T09:10:34Z",
@@ -351,14 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422369",
         "published_date": "2026-04-16T20:54:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "325ce667f5e3",
-        "title": "Abyan: The body of a missing fisherman was found on the coast of Shabwa, and searches are continuing for the body of his brother",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422366",
-        "published_date": "2026-04-16T15:18:16Z",
         "category": "Local Events"
       }
     ]
