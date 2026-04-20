@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-19T23:42:59Z",
+  "last_updated": "2026-04-20T12:10:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "01371dbbb32d",
+        "title": "Iranian Foreign Ministry: The decision to participate in the Islamabad talks has not been taken, and the naval blockade has violated the ceasefire",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422476",
+        "published_date": "2026-04-20T08:02:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "451c1c052f33",
+        "title": "An international warning of an unprecedented escalation of the humanitarian crisis in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422472",
+        "published_date": "2026-04-20T07:29:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bd85bb162793",
+        "title": "Announcing an attack on an Iranian ship near the Strait of Hormuz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422459",
+        "published_date": "2026-04-20T05:25:57Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4a11e6f57c42",
         "title": "Parliamentarian Hashid reveals an imminent danger threatening his life and addresses the Inter-Parliamentary Union with an urgent report",
@@ -129,30 +153,6 @@
         "url": "https://yemenat.net/archives/422320",
         "published_date": "2026-04-15T09:32:07Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "2459da922a89",
-        "title": "The death of a famous Yemeni artist in the Egyptian capital, Cairo",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422312",
-        "published_date": "2026-04-14T23:26:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6eea9b96ddb2",
-        "title": "Parliamentarian Moazib addresses the Yemeni Brotherhood: It is impossible for you to describe us politically and militarily, and you must accept the other",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422309",
-        "published_date": "2026-04-14T22:49:44Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "5f0812c8a98b",
-        "title": "Conflicting news about the effectiveness of the “siege” in Hormuz... and Trump hints at an upcoming negotiation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422302",
-        "published_date": "2026-04-14T21:43:18Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -162,14 +162,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422342",
         "published_date": "2026-04-15T22:36:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "65b96886319f",
-        "title": "How ugly are those who represent the Yemeni government",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422318",
-        "published_date": "2026-04-15T08:32:55Z",
         "category": "Military"
       }
     ],
@@ -209,6 +201,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "104c6cb00fd1",
+        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422480",
+        "published_date": "2026-04-20T09:10:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "13a8482b5c1b",
+        "title": "A shipment of dangerous pesticides hinders the work of the Lahj Prosecution Office after directives were issued by the Public Prosecutor to stop destroying them",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422468",
+        "published_date": "2026-04-20T06:43:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "94aba1d50a64",
+        "title": "In the beginning was glass",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422466",
+        "published_date": "2026-04-20T06:10:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "41b439def419",
+        "title": "An explosion south of Al Bayda Governorate and reports of a drone strike",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422463",
+        "published_date": "2026-04-20T05:57:40Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1f2170b00286",
         "title": "A general director was injured in a raid on the Al-Dhalea Governorate office",
@@ -335,38 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422366",
         "published_date": "2026-04-16T15:18:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ea479b5b92e9",
-        "title": "Ibb.. Pardoning on death row for a convict who spent more than a quarter of a century behind bars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422362",
-        "published_date": "2026-04-16T14:33:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d61749a2330e",
-        "title": "Average gold prices in Sanaa and Aden, Thursday, April 16, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422356",
-        "published_date": "2026-04-16T12:36:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d2ee32ed95fc",
-        "title": "When the song becomes a refuge from the noise of the world...an alienation broken by a passing kindness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422351",
-        "published_date": "2026-04-16T11:23:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6e23e160acfb",
-        "title": "Meteorology: Scattered rain in parts of seven governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422346",
-        "published_date": "2026-04-16T10:49:09Z",
         "category": "Local Events"
       }
     ]
