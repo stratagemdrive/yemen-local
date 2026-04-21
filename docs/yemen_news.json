@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-21T12:04:19Z",
+  "last_updated": "2026-04-21T23:40:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c149d908e4b1",
+        "title": "A military boat sank near Mayun Island, and mystery surrounds the fate of its crew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422500",
+        "published_date": "2026-04-21T13:03:49Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "032fe7e6ab81",
         "title": "Al-Qirbi: A looming indicator of the start of implementation of the roadmap understandings in Yemen",
@@ -145,36 +153,35 @@
         "url": "https://yemenat.net/archives/422354",
         "published_date": "2026-04-16T12:47:06Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "af47f333175f",
-        "title": "Calls to form an emergency committee to mitigate the repercussions of the war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422348",
-        "published_date": "2026-04-16T11:04:45Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c38b2cf8978a",
-        "title": "Agency: An Iranian proposal to secure navigation in the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422339",
-        "published_date": "2026-04-15T22:05:13Z",
-        "category": "Diplomacy"
       }
     ],
-    "Military": [
-      {
-        "_id": "281634738cc1",
-        "title": "Hadhramaut.. An officer was killed and soldiers from the National Shield Forces were wounded in an armed ambush",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422342",
-        "published_date": "2026-04-15T22:36:57Z",
-        "category": "Military"
-      }
-    ],
+    "Military": [],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "d52f76a5c66e",
+        "title": "Al-Saqladi: The transitional desire to remain politically alive requires review and frankness free of the “cholesterol” of flattery.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422514",
+        "published_date": "2026-04-21T22:12:44Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "c3ee22105357",
+        "title": "Missing people in a military boat sinking in Bab al-Mandab, and rescue teams recover two bodies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422485",
+        "published_date": "2026-04-21T16:10:28Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9b7ac512e280",
+        "title": "The hearing team meets Sheikh Himyar Al-Ahmar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422503",
+        "published_date": "2026-04-21T14:47:51Z",
+        "category": "Economy"
+      },
       {
         "_id": "3f0385b4f466",
         "title": "Depositors demand that the Sanaa authority find solutions for their funds held by banks",
@@ -202,6 +209,22 @@
     ],
     "Local Events": [
       {
+        "_id": "2a902c3eb881",
+        "title": "Taiz: A severe judicial ruling against those convicted of forging an official document and forging a stamp",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422510",
+        "published_date": "2026-04-21T21:32:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f2ffb029e048",
+        "title": "A fire broke out in a closed shop in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422508",
+        "published_date": "2026-04-21T20:26:50Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "cc5429d70e63",
         "title": "Meteorology: A state of unstable weather and an influx of moisture from the Red Sea and the Gulf of Aden",
         "source": "Yemenat",
@@ -227,7 +250,7 @@
       },
       {
         "_id": "104c6cb00fd1",
-        "title": "The Hadhramaut Specialized Penal Court orders the imprisonment of the kidnappers of 14 children between 25 and 50 years old",
+        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422480",
         "published_date": "2026-04-20T09:10:34Z",
@@ -343,22 +366,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422403",
         "published_date": "2026-04-18T11:44:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d5df5edd76ca",
-        "title": "A directive to transform a camp in Aden into an integrated educational complex",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422397",
-        "published_date": "2026-04-17T20:56:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ad68a1bd83bc",
-        "title": "Yemeni intellectuals demand that the Attorney General in Sanaa provide full protection for lawyer Haneen Al-Sarari",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422394",
-        "published_date": "2026-04-17T19:51:32Z",
         "category": "Local Events"
       }
     ]
