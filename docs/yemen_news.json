@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-20T23:51:12Z",
+  "last_updated": "2026-04-21T12:04:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "032fe7e6ab81",
+        "title": "Al-Qirbi: A looming indicator of the start of implementation of the roadmap understandings in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422498",
+        "published_date": "2026-04-21T10:40:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "693a89c0bf38",
+        "title": "The Saudi Supreme Court determines the first day of the month of Dhul-Qi’dah 1447 AH",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422491",
+        "published_date": "2026-04-21T09:00:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0034e13fcfcf",
+        "title": "The Office of the UN Envoy announces a military meeting that brought together representatives from Sanaa and Riyadh to discuss the ceasefire and security arrangements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422489",
+        "published_date": "2026-04-21T07:59:11Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "76ba2a21f4a7",
         "title": "The Sultanate of Oman grants its citizenship to a Yemeni geologist and his family",
@@ -137,22 +161,6 @@
         "url": "https://yemenat.net/archives/422339",
         "published_date": "2026-04-15T22:05:13Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "20c6bf9e728a",
-        "title": "Sanaa.. The Foreign Ministry comments on the UN envoy’s recent briefing before the UN Security Council",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422335",
-        "published_date": "2026-04-15T21:03:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "200af7e52c5c",
-        "title": "Members of Congress call on the Trump administration to extend temporary protected status for Yemenis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422328",
-        "published_date": "2026-04-15T19:44:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -190,17 +198,25 @@
         "url": "https://yemenat.net/archives/422374",
         "published_date": "2026-04-16T21:24:51Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ed236eb44170",
-        "title": "Searches for two fishermen in Shabwa failed, and reports suggested they were subjected to maritime piracy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422332",
-        "published_date": "2026-04-15T20:11:13Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "cc5429d70e63",
+        "title": "Meteorology: A state of unstable weather and an influx of moisture from the Red Sea and the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422496",
+        "published_date": "2026-04-21T10:09:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3f368e2f0953",
+        "title": "The death of Kuwaiti artist Hayat Al-Fahd",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422493",
+        "published_date": "2026-04-21T09:29:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "df94037404b7",
         "title": "Agency: The Yemeni government is facing the most severe cash crisis since 2015",
@@ -343,22 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422394",
         "published_date": "2026-04-17T19:51:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e119be47ca83",
-        "title": "Meteorology warns of hot weather in deserts and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422386",
-        "published_date": "2026-04-17T14:17:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b36d93eebe90",
-        "title": "A security leader accused of human rights violations returns to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422369",
-        "published_date": "2026-04-16T20:54:03Z",
         "category": "Local Events"
       }
     ]
