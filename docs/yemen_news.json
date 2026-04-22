@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-21T23:40:43Z",
+  "last_updated": "2026-04-22T12:03:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -145,14 +145,6 @@
         "url": "https://yemenat.net/archives/422372",
         "published_date": "2026-04-16T21:16:11Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c9d7f7d2627b",
-        "title": "Cautious optimism about the end of the “Iran War” and Pakistani mediation to untie the nuclear issue",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422354",
-        "published_date": "2026-04-16T12:47:06Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
@@ -208,6 +200,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "bc3890798386",
+        "title": "Meteorology: Thunderstorms in most governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422523",
+        "published_date": "2026-04-22T09:45:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f8011139d332",
+        "title": "Earthquake in Hajjah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422520",
+        "published_date": "2026-04-22T09:02:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9ba746134acf",
+        "title": "A Yemeni judge throws down the hammer of justice and steps down... “blatant interference” besieges the judiciary!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422517",
+        "published_date": "2026-04-22T01:22:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2a902c3eb881",
         "title": "Taiz: A severe judicial ruling against those convicted of forging an official document and forging a stamp",
@@ -342,30 +358,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422420",
         "published_date": "2026-04-18T16:18:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5ff150be07ef",
-        "title": "When I was born a doctor",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422410",
-        "published_date": "2026-04-18T12:52:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ef3f221a9a48",
-        "title": "An earthquake was recorded in Hajjah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422407",
-        "published_date": "2026-04-18T12:23:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a466302b41d7",
-        "title": "Meteorology: Thunderstorms in some highlands and hot to very hot weather on the coasts and deserts.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422403",
-        "published_date": "2026-04-18T11:44:15Z",
         "category": "Local Events"
       }
     ]
