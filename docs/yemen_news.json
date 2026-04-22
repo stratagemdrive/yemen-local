@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-22T12:03:03Z",
+  "last_updated": "2026-04-22T23:51:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e87f221e87c5",
+        "title": "Bias dictated by the jurisprudence of necessity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422548",
+        "published_date": "2026-04-22T21:03:00Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "edf13af6dda1",
+        "title": "A Yemeni astronomer expects a noticeable expansion of the rain condition that Yemen is witnessing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422545",
+        "published_date": "2026-04-22T20:46:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f1da78d05979",
+        "title": "Grundberg concludes his visit to Muscat after discussing ways to enhance progress in the mediation process",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422532",
+        "published_date": "2026-04-22T15:31:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9942f759f27a",
+        "title": "Papers in the life of the great journalist and political writer Sadiq Nasher",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422527",
+        "published_date": "2026-04-22T15:11:30Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c149d908e4b1",
         "title": "A military boat sank near Mayun Island, and mystery surrounds the fate of its crew",
@@ -121,30 +153,6 @@
         "url": "https://yemenat.net/archives/422401",
         "published_date": "2026-04-17T21:36:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1d088bfe19f5",
-        "title": "Trump and Netanyahu announce a truce in Lebanon... and indicators of a “breakthrough” in the Iranian nuclear file",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422383",
-        "published_date": "2026-04-16T23:24:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9fa443b45f09",
-        "title": "The White Flag Ambassadors invite the Yemeni ambassador to Saudi Arabia to support them in reopening a border crossing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422378",
-        "published_date": "2026-04-16T22:31:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cfeb79a3023b",
-        "title": "The Sami team calls for a five-party Islamic alliance to achieve strategic balance",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422372",
-        "published_date": "2026-04-16T21:16:11Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
@@ -189,17 +197,25 @@
         "url": "https://yemenat.net/archives/422389",
         "published_date": "2026-04-17T15:00:06Z",
         "category": "Economy"
-      },
-      {
-        "_id": "811bf2135ce7",
-        "title": "A call from a soul that did not die... a homeland groaning under the rubble",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422374",
-        "published_date": "2026-04-16T21:24:51Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "f02fb822cd26",
+        "title": "Yemeni intellectuals demand that the authorities in Aden provide a medical grant for the freedom fighter Abdul Wahed Al-Muradi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422541",
+        "published_date": "2026-04-22T20:18:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e2c8a64b75b5",
+        "title": "Taiz.. A wedding in Mount Sabr turns into acts of sabotage under the banner of customs and traditions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422536",
+        "published_date": "2026-04-22T18:16:02Z",
+        "category": "Local Events"
+      },
       {
         "_id": "bc3890798386",
         "title": "Meteorology: Thunderstorms in most governorates",
@@ -266,7 +282,7 @@
       },
       {
         "_id": "104c6cb00fd1",
-        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
+        "title": "The Hadhramaut Specialized Penal Court orders the imprisonment of the kidnappers of 14 children between 25 and 50 years old",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422480",
         "published_date": "2026-04-20T09:10:34Z",
@@ -342,22 +358,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422433",
         "published_date": "2026-04-18T21:17:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fa2da2c7e0ce",
-        "title": "The June 20 camp raises disputes between the Ministry of Interior and the local authority in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422423",
-        "published_date": "2026-04-18T18:22:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c0ee9e4b3c79",
-        "title": "Hadhramaut.. The Geological Survey and Mineral Resources Authority warns of infringements on mineral resources",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422420",
-        "published_date": "2026-04-18T16:18:05Z",
         "category": "Local Events"
       }
     ]
