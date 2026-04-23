@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-23T12:03:41Z",
+  "last_updated": "2026-04-23T23:54:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "2eff754f943d",
+        "title": "An American proposal to replace Iran in the next World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422567",
+        "published_date": "2026-04-23T18:47:28Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e87f221e87c5",
         "title": "Bias dictated by the jurisprudence of necessity",
@@ -145,14 +153,6 @@
         "url": "https://yemenat.net/archives/422413",
         "published_date": "2026-04-18T13:25:27Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "48d7c0093cc4",
-        "title": "Araqchi announces allowing ships to cross the Strait of Hormuz, and Iranian television clarifies the conditions for crossing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422401",
-        "published_date": "2026-04-17T21:36:26Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
@@ -192,6 +192,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "f2bb00c42403",
+        "title": "Abyan.. Two security officers survived an assassination attempt after a security raid in the Ahwar coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422570",
+        "published_date": "2026-04-23T19:19:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7fffbbf29de9",
+        "title": "Aden.. The Geological Survey warns against the continued implementation of a mountain road in Yafa’ without seeking the help of geological expertise",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422564",
+        "published_date": "2026-04-23T18:19:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "64fa0f8dfa1a",
+        "title": "Taiz.. Armed men arrest a journalist and transfer him to an unknown prison",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422561",
+        "published_date": "2026-04-23T17:46:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1eaaeb2b7737",
+        "title": "Meteorology: Thunderstorms continue over large areas of the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422558",
+        "published_date": "2026-04-23T17:08:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "439ac6df3230",
+        "title": "Journalist, cultural and literary activist Muhammad Al-Sahbani",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422554",
+        "published_date": "2026-04-23T16:07:28Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1f71869379ed",
         "title": "Sanaa.. The Money Exchange Association issued a circular to stop dealing with an exchange company",
@@ -282,7 +322,7 @@
       },
       {
         "_id": "104c6cb00fd1",
-        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
+        "title": "The Hadhramaut Specialized Penal Court orders the imprisonment of the kidnappers of 14 children between 25 and 50 years old",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422480",
         "published_date": "2026-04-20T09:10:34Z",
@@ -310,46 +350,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422463",
         "published_date": "2026-04-20T05:57:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f2170b00286",
-        "title": "A general director was injured in a raid on the Al-Dhalea Governorate office",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422457",
-        "published_date": "2026-04-19T18:17:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b6e225d3e095",
-        "title": "Assassination of an officer in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422454",
-        "published_date": "2026-04-19T13:37:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1a71073b059e",
-        "title": "Lahj.. A person was killed in Al-Qabaytah due to land problems",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422449",
-        "published_date": "2026-04-19T12:31:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3fb4fe5fa560",
-        "title": "The office of Al-Dhalea Governorate was stormed, and gunmen threatened to expel the governor, amid gunfire surrounding the building",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422446",
-        "published_date": "2026-04-19T10:45:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e02d6b41eb5a",
-        "title": "Mystery surrounds the drowning of two fishermen after their bodies were found on the coast of Abyan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422439",
-        "published_date": "2026-04-19T02:24:51Z",
         "category": "Local Events"
       }
     ]
