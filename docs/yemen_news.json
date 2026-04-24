@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-24T12:03:07Z",
+  "last_updated": "2026-04-24T23:45:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "af4a3d5109a2",
+        "title": "The UN envoy confirms continuing efforts to ensure regional and international support for peace in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422581",
+        "published_date": "2026-04-24T18:45:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2eff754f943d",
         "title": "An American proposal to replace Iran in the next World Cup",
@@ -137,27 +145,19 @@
         "url": "https://yemenat.net/archives/422427",
         "published_date": "2026-04-18T19:17:36Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "2d8e7545162d",
-        "title": "Aden.. The Central Bank clarifies the printing of a 10,000 riyal banknote",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422415",
-        "published_date": "2026-04-18T13:41:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "7de9e3ae38d8",
-        "title": "An Iranian announcement restricting the movement of ships in the Strait of Hormuz hours after it was opened to navigation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422413",
-        "published_date": "2026-04-18T13:25:27Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "600a885f86e4",
+        "title": "He remained at the door",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422578",
+        "published_date": "2026-04-24T18:17:59Z",
+        "category": "Economy"
+      },
       {
         "_id": "d52f76a5c66e",
         "title": "Al-Saqladi: The transitional desire to remain politically alive requires review and frankness free of the “cholesterol” of flattery.",
@@ -192,6 +192,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "9940253cc061",
+        "title": "Pictures of Trump appear in the streets of Sanaa... and Al-Samii calls for their tearing down",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422574",
+        "published_date": "2026-04-24T17:56:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f2bb00c42403",
         "title": "Abyan.. Two security officers survived an assassination attempt after a security raid in the Ahwar coast",
@@ -342,14 +350,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422466",
         "published_date": "2026-04-20T06:10:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41b439def419",
-        "title": "An explosion south of Al Bayda Governorate and reports of a drone strike",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422463",
-        "published_date": "2026-04-20T05:57:40Z",
         "category": "Local Events"
       }
     ]
