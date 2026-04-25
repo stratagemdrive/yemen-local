@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-25T11:44:14Z",
+  "last_updated": "2026-04-25T23:44:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "60959db714f4",
+        "title": "FAO: A wide sector of agricultural families in Yemen are included in the lists of families in need",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422618",
+        "published_date": "2026-04-25T20:21:38Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cba188c61e6b",
+        "title": "After Araqchi left, Trump announced the cancellation of the American delegation’s visit to Pakistan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422613",
+        "published_date": "2026-04-25T19:27:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "5de960abaf87",
+        "title": "Araqchi leaves Islamabad amid uncertainty surrounding the future of negotiations with Washington",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422608",
+        "published_date": "2026-04-25T18:49:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e87fe268c782",
+        "title": "Aden.. The oil company warns of running out of aviation fuel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422593",
+        "published_date": "2026-04-25T17:01:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "af4a3d5109a2",
         "title": "The UN envoy confirms continuing efforts to ensure regional and international support for peace in Yemen",
@@ -113,35 +145,43 @@
         "url": "https://yemenat.net/archives/422472",
         "published_date": "2026-04-20T07:29:34Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bd85bb162793",
-        "title": "Announcing an attack on an Iranian ship near the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422459",
-        "published_date": "2026-04-20T05:25:57Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4a11e6f57c42",
-        "title": "Parliamentarian Hashid reveals an imminent danger threatening his life and addresses the Inter-Parliamentary Union with an urgent report",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422443",
-        "published_date": "2026-04-19T09:33:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "af5a231570da",
-        "title": "Two years of separation...and death steals hope, “Surveyor”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422436",
-        "published_date": "2026-04-19T01:49:39Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "472a52858c6f",
+        "title": "A stroke of “integrity” afflicts Judge Muhammad Al-Khayal: a cry for help that exposes the policy of systematic impoverishment of the judiciary in Sana’a",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422610",
+        "published_date": "2026-04-25T19:09:36Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f94d5fdefa10",
+        "title": "A stifling gas crisis is taking place in the city of Marib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422605",
+        "published_date": "2026-04-25T18:24:39Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9827cf153e7b",
+        "title": "After writing off more than 4,000 commercial agencies, the Ministry of Economy in Sanaa gives agency owners an opportunity to renew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422596",
+        "published_date": "2026-04-25T17:35:48Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "baeef287a129",
+        "title": "Yemeni merchants complain about a shipping company that piled up their goods in Dubai Port and describe its behavior as “extortionate.”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422590",
+        "published_date": "2026-04-25T16:36:26Z",
+        "category": "Economy"
+      },
       {
         "_id": "600a885f86e4",
         "title": "He remained at the door",
@@ -173,17 +213,25 @@
         "url": "https://yemenat.net/archives/422503",
         "published_date": "2026-04-21T14:47:51Z",
         "category": "Economy"
-      },
-      {
-        "_id": "3f0385b4f466",
-        "title": "Depositors demand that the Sanaa authority find solutions for their funds held by banks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422429",
-        "published_date": "2026-04-18T20:00:55Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "52266d2551f4",
+        "title": "A song of longing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422616",
+        "published_date": "2026-04-25T20:06:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b75e34883bf",
+        "title": "He died walking",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422601",
+        "published_date": "2026-04-25T17:52:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "430dd37cced5",
         "title": "Meteorology forecasts thunderstorms in most Yemeni governorates",
@@ -326,22 +374,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422493",
         "published_date": "2026-04-21T09:29:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "df94037404b7",
-        "title": "Agency: The Yemeni government is facing the most severe cash crisis since 2015",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422487",
-        "published_date": "2026-04-20T16:20:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "104c6cb00fd1",
-        "title": "The Hadhramaut Specialized Penal Court sentences the kidnappers of 14 children between 25 and 50 years to prison",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422480",
-        "published_date": "2026-04-20T09:10:34Z",
         "category": "Local Events"
       }
     ]
