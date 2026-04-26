@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-26T11:44:39Z",
+  "last_updated": "2026-04-26T23:45:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "79e38b68db5f",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to release Dr. Ali Al-Madhawi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422638",
+        "published_date": "2026-04-26T18:39:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "60959db714f4",
         "title": "FAO: A wide sector of agricultural families in Yemen are included in the lists of families in need",
@@ -121,33 +129,17 @@
         "url": "https://yemenat.net/archives/422489",
         "published_date": "2026-04-21T07:59:11Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "76ba2a21f4a7",
-        "title": "The Sultanate of Oman grants its citizenship to a Yemeni geologist and his family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422483",
-        "published_date": "2026-04-20T15:54:40Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "01371dbbb32d",
-        "title": "Iranian Foreign Ministry: The decision to participate in the Islamabad talks has not been taken, and the naval blockade has violated the ceasefire",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422476",
-        "published_date": "2026-04-20T08:02:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "451c1c052f33",
-        "title": "An international warning of an unprecedented escalation of the humanitarian crisis in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422472",
-        "published_date": "2026-04-20T07:29:34Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "d8755c6168a2",
+        "title": "Casualties in targeting a military patrol on the coast of Hadramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422642",
+        "published_date": "2026-04-26T19:01:22Z",
+        "category": "Military"
+      },
       {
         "_id": "ed3f051c03d2",
         "title": "Aden.. Military and security forces are deployed in the vicinity of Ma’ashiq Palace and nearby vital facilities",
@@ -159,6 +151,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "c9ab447f0e77",
+        "title": "The Yemeni Embassy in Riyadh reveals the existence of insurance claims for Yemenis with Saudi insurance (list of names)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422645",
+        "published_date": "2026-04-26T19:28:10Z",
+        "category": "Economy"
+      },
       {
         "_id": "472a52858c6f",
         "title": "A stroke of “integrity” afflicts Judge Muhammad Al-Khayal: a cry for help that exposes the policy of systematic impoverishment of the judiciary in Sana’a",
@@ -225,6 +225,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "be2bc25c35a0",
+        "title": "Old Sana’a: The Elegance of Women and the Memory of Place",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422659",
+        "published_date": "2026-04-26T19:53:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c05e49bd9e4c",
+        "title": "Lahj.. A terrible traffic accident involving a car carrying educators in Al-Qabaytah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422633",
+        "published_date": "2026-04-26T15:28:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "27363d7a4c85",
         "title": "The Yemeni Football Association sets the start date for the football season for first-class clubs",
@@ -367,22 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422510",
         "published_date": "2026-04-21T21:32:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f2ffb029e048",
-        "title": "A fire broke out in a closed shop in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422508",
-        "published_date": "2026-04-21T20:26:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cc5429d70e63",
-        "title": "Meteorology: A state of unstable weather and an influx of moisture from the Red Sea and the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422496",
-        "published_date": "2026-04-21T10:09:52Z",
         "category": "Local Events"
       }
     ]
