@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-27T12:23:32Z",
+  "last_updated": "2026-04-27T23:58:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c36fcf74ee81",
+        "title": "A female student opened fire inside the Aden University campus",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422704",
+        "published_date": "2026-04-27T20:24:46Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "79e38b68db5f",
         "title": "Yemeni intellectuals appeal to the Sanaa authority to release Dr. Ali Al-Madhawi",
@@ -91,19 +99,11 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "c149d908e4b1",
-        "title": "A military boat sank near Mayun Island, and mystery surrounds the fate of its crew",
+        "_id": "9942f759f27a",
+        "title": "Papers in the life of the great journalist and political writer Sadiq Nasher",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422500",
-        "published_date": "2026-04-21T13:03:49Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "032fe7e6ab81",
-        "title": "Al-Qirbi: A looming indicator of the start of implementation of the roadmap understandings in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422498",
-        "published_date": "2026-04-21T10:40:01Z",
+        "url": "https://yemenat.net/archives/422527",
+        "published_date": "2026-04-22T15:11:30Z",
         "category": "Diplomacy"
       }
     ],
@@ -182,25 +182,49 @@
         "url": "https://yemenat.net/archives/422514",
         "published_date": "2026-04-21T22:12:44Z",
         "category": "Economy"
-      },
-      {
-        "_id": "c3ee22105357",
-        "title": "Missing people in a military boat sinking in Bab al-Mandab, and rescue teams recover two bodies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422485",
-        "published_date": "2026-04-21T16:10:28Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "9b7ac512e280",
-        "title": "The hearing team meets Sheikh Himyar Al-Ahmar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422503",
-        "published_date": "2026-04-21T14:47:51Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "93e50f5ce1ca",
+        "title": "Sanaa.. Heavy cold showers in Bani Matar District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422700",
+        "published_date": "2026-04-27T16:52:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f122a4ef08d",
+        "title": "A battery burns a citizen's house in Jabal Saber, causing the death of livestock",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422691",
+        "published_date": "2026-04-27T15:55:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "634a9ddb63d6",
+        "title": "Circulating: A Yemeni fisherman finds an amount of “whale ambergris” worth thousands of dollars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422688",
+        "published_date": "2026-04-27T13:32:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d92f6d71e27b",
+        "title": "Students at Taiz University are demanding the implementation of the decision to unify fees and complaining about being denied admission to exams",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422685",
+        "published_date": "2026-04-27T13:01:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf0ca9f118f5",
+        "title": "Taiz.. Activists warn against burying tons of garbage in the city of Al-Turbah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422681",
+        "published_date": "2026-04-27T12:23:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c745c439df25",
         "title": "Two traffic accidents close a road linking Taiz and Aden",
@@ -319,46 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422561",
         "published_date": "2026-04-23T17:46:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1eaaeb2b7737",
-        "title": "Meteorology: Thunderstorms continue over large areas of the country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422558",
-        "published_date": "2026-04-23T17:08:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "439ac6df3230",
-        "title": "Journalist, cultural and literary activist Muhammad Al-Sahbani",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422554",
-        "published_date": "2026-04-23T16:07:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f71869379ed",
-        "title": "Sanaa.. The Money Exchange Association issued a circular to stop dealing with an exchange company",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422552",
-        "published_date": "2026-04-23T09:08:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f02fb822cd26",
-        "title": "Yemeni intellectuals demand that the authorities in Aden provide a medical grant for the freedom fighter Abdul Wahed Al-Muradi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422541",
-        "published_date": "2026-04-22T20:18:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e2c8a64b75b5",
-        "title": "Taiz.. A wedding in Mount Sabr turns into acts of sabotage under the banner of customs and traditions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422536",
-        "published_date": "2026-04-22T18:16:02Z",
         "category": "Local Events"
       }
     ]
