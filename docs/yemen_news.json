@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-26T23:45:57Z",
+  "last_updated": "2026-04-27T12:23:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -91,14 +91,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "9942f759f27a",
-        "title": "Papers in the life of the great journalist and political writer Sadiq Nasher",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422527",
-        "published_date": "2026-04-22T15:11:30Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "c149d908e4b1",
         "title": "A military boat sank near Mayun Island, and mystery surrounds the fate of its crew",
         "source": "Yemenat",
@@ -112,22 +104,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422498",
         "published_date": "2026-04-21T10:40:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "693a89c0bf38",
-        "title": "The Saudi Supreme Court determines the first day of the month of Dhul-Qi’dah 1447 AH",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422491",
-        "published_date": "2026-04-21T09:00:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0034e13fcfcf",
-        "title": "The Office of the UN Envoy announces a military meeting that brought together representatives from Sanaa and Riyadh to discuss the ceasefire and security arrangements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422489",
-        "published_date": "2026-04-21T07:59:11Z",
         "category": "Diplomacy"
       }
     ],
@@ -225,6 +201,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "c745c439df25",
+        "title": "Two traffic accidents close a road linking Taiz and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422675",
+        "published_date": "2026-04-27T11:21:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "249cefb787c5",
+        "title": "Taiz.. The police refer the “wedding loan” case to the prosecution",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422673",
+        "published_date": "2026-04-27T09:51:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1e1c158a19c",
+        "title": "Calls in Aden to establish a specialized center to treat addiction",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422670",
+        "published_date": "2026-04-27T09:26:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "99d35ccb2759",
+        "title": "Meteorology expects continued rainfall and warns residents of deserts and coastal plains",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422668",
+        "published_date": "2026-04-27T08:44:18Z",
+        "category": "Local Events"
+      },
       {
         "_id": "be2bc25c35a0",
         "title": "Old Sana’a: The Elegance of Women and the Memory of Place",
@@ -351,38 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422536",
         "published_date": "2026-04-22T18:16:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc3890798386",
-        "title": "Meteorology: Thunderstorms in most governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422523",
-        "published_date": "2026-04-22T09:45:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f8011139d332",
-        "title": "Earthquake in Hajjah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422520",
-        "published_date": "2026-04-22T09:02:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9ba746134acf",
-        "title": "A Yemeni judge throws down the hammer of justice and steps down... “blatant interference” besieges the judiciary!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422517",
-        "published_date": "2026-04-22T01:22:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2a902c3eb881",
-        "title": "Taiz: A severe judicial ruling against those convicted of forging an official document and forging a stamp",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422510",
-        "published_date": "2026-04-21T21:32:25Z",
         "category": "Local Events"
       }
     ]
