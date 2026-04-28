@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-27T23:58:53Z",
+  "last_updated": "2026-04-28T12:27:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -109,6 +109,14 @@
     ],
     "Military": [
       {
+        "_id": "c758149dccfc",
+        "title": "Baoum reveals some of the details of the battle of Hadramaut, the dissolution of the transitional council, and the departure of Al-Zubaidi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422716",
+        "published_date": "2026-04-28T12:05:33Z",
+        "category": "Military"
+      },
+      {
         "_id": "d8755c6168a2",
         "title": "Casualties in targeting a military patrol on the coast of Hadramaut",
         "source": "Yemenat",
@@ -174,17 +182,41 @@
         "url": "https://yemenat.net/archives/422578",
         "published_date": "2026-04-24T18:17:59Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d52f76a5c66e",
-        "title": "Al-Saqladi: The transitional desire to remain politically alive requires review and frankness free of the “cholesterol” of flattery.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422514",
-        "published_date": "2026-04-21T22:12:44Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d6ecefd035e1",
+        "title": "Average gold prices in Sanaa and Aden Tuesday, April 28, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422714",
+        "published_date": "2026-04-28T11:30:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "56963cf14ab9",
+        "title": "Sanaa.. The police reveal the details of the murder of a child in Bani Al-Harith",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422711",
+        "published_date": "2026-04-28T11:11:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "563c0479459d",
+        "title": "Meteorology raises the alert to a warning: unstable weather returns again, and rain showers are expected on the highlands and coasts.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422709",
+        "published_date": "2026-04-28T09:46:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6beadbf400ff",
+        "title": "Sana'a University announces the date and controls for admission tests to the College of Medicine and Health Sciences for the academic year 2026/2027 AD",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422707",
+        "published_date": "2026-04-28T09:07:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "93e50f5ce1ca",
         "title": "Sanaa.. Heavy cold showers in Bani Matar District",
@@ -311,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422584",
         "published_date": "2026-04-25T09:12:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9940253cc061",
-        "title": "Pictures of Trump appear in the streets of Sanaa... and Al-Samii calls for their tearing down",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422574",
-        "published_date": "2026-04-24T17:56:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f2bb00c42403",
-        "title": "Abyan.. Two security officers survived an assassination attempt after a security raid in the Ahwar coast",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422570",
-        "published_date": "2026-04-23T19:19:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7fffbbf29de9",
-        "title": "Aden.. The Geological Survey warns against the continued implementation of a mountain road in Yafa’ without seeking the help of geological expertise",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422564",
-        "published_date": "2026-04-23T18:19:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "64fa0f8dfa1a",
-        "title": "Taiz.. Armed men arrest a journalist and transfer him to an unknown prison",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422561",
-        "published_date": "2026-04-23T17:46:06Z",
         "category": "Local Events"
       }
     ]
