@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-29T00:00:16Z",
+  "last_updated": "2026-04-29T12:20:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -166,17 +166,25 @@
         "url": "https://yemenat.net/archives/422578",
         "published_date": "2026-04-24T18:17:59Z",
         "category": "Economy"
-      },
-      {
-        "_id": "439ac6df3230",
-        "title": "Journalist, cultural and literary activist Muhammad Al-Sahbani",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422554",
-        "published_date": "2026-04-23T16:07:28Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5224e6d4030d",
+        "title": "Meteorology: Thunderstorms in most Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422727",
+        "published_date": "2026-04-29T09:32:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eeaf20b30da1",
+        "title": "Aden.. Two young men died and a third was admitted to intensive care due to drug abuse",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422724",
+        "published_date": "2026-04-29T08:54:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "58e8c61d67c1",
         "title": "Directions to stop burying waste in a sports stadium in Taiz",
@@ -319,22 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422627",
         "published_date": "2026-04-26T09:17:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "92d545aa6dfe",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422623",
-        "published_date": "2026-04-26T08:45:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "52266d2551f4",
-        "title": "A song of longing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422616",
-        "published_date": "2026-04-25T20:06:43Z",
         "category": "Local Events"
       }
     ]
