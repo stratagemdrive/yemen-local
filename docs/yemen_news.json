@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-28T12:27:04Z",
+  "last_updated": "2026-04-29T00:00:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,22 +89,6 @@
         "url": "https://yemenat.net/archives/422545",
         "published_date": "2026-04-22T20:46:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "f1da78d05979",
-        "title": "Grundberg concludes his visit to Muscat after discussing ways to enhance progress in the mediation process",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422532",
-        "published_date": "2026-04-22T15:31:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9942f759f27a",
-        "title": "Papers in the life of the great journalist and political writer Sadiq Nasher",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422527",
-        "published_date": "2026-04-22T15:11:30Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -182,9 +166,33 @@
         "url": "https://yemenat.net/archives/422578",
         "published_date": "2026-04-24T18:17:59Z",
         "category": "Economy"
+      },
+      {
+        "_id": "439ac6df3230",
+        "title": "Journalist, cultural and literary activist Muhammad Al-Sahbani",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422554",
+        "published_date": "2026-04-23T16:07:28Z",
+        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "58e8c61d67c1",
+        "title": "Directions to stop burying waste in a sports stadium in Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422722",
+        "published_date": "2026-04-28T16:52:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b47453d1ebf9",
+        "title": "Sana'a University announces the opening of admission and coordination for graduate programs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422719",
+        "published_date": "2026-04-28T16:20:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d6ecefd035e1",
         "title": "Average gold prices in Sanaa and Aden Tuesday, April 28, 2026",
@@ -327,22 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422616",
         "published_date": "2026-04-25T20:06:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "430dd37cced5",
-        "title": "Meteorology forecasts thunderstorms in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422588",
-        "published_date": "2026-04-25T09:48:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "691f2845c901",
-        "title": "Aden.. Assassination of the director of private schools in Mansoura",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422584",
-        "published_date": "2026-04-25T09:12:29Z",
         "category": "Local Events"
       }
     ]
