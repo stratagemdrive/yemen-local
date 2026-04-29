@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-29T12:20:27Z",
+  "last_updated": "2026-04-29T23:59:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "edaf9f91e766",
+        "title": "The Bar Association strongly condemns the threat of lawyer Haneen Al-Sarari and demands that legal measures be taken to protect lawyers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422735",
+        "published_date": "2026-04-29T14:05:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4eb8fc3c88f9",
+        "title": "Official holiday: Saturday in Sanaa and Sunday in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422732",
+        "published_date": "2026-04-29T13:04:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c36fcf74ee81",
         "title": "A female student opened fire inside the Aden University campus",
@@ -73,22 +89,6 @@
         "url": "https://yemenat.net/archives/422567",
         "published_date": "2026-04-23T18:47:28Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e87f221e87c5",
-        "title": "Bias dictated by the jurisprudence of necessity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422548",
-        "published_date": "2026-04-22T21:03:00Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "edf13af6dda1",
-        "title": "A Yemeni astronomer expects a noticeable expansion of the rain condition that Yemen is witnessing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422545",
-        "published_date": "2026-04-22T20:46:23Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -119,6 +119,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "68e5ca0c8d97",
+        "title": "Imagination in the poetry of Yahya Al-Allaq - An analytical approach to the structure of the poetic image and the space of meaning",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422739",
+        "published_date": "2026-04-29T17:19:05Z",
+        "category": "Economy"
+      },
       {
         "_id": "c9ab447f0e77",
         "title": "The Yemeni Embassy in Riyadh reveals the existence of insurance claims for Yemenis with Saudi insurance (list of names)",
@@ -169,6 +177,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "3f3efaf00267",
+        "title": "“Document”... directed to convert a shipment of potatoes infected with a dangerous fungal disease into organic fertilizer and a warning of an environmental disaster",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422744",
+        "published_date": "2026-04-29T20:46:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d244c0fd4c2a",
+        "title": "Al-Samii visits the shrines of martyrs and reaffirms national reconciliation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422741",
+        "published_date": "2026-04-29T18:28:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "41f8970c2e83",
+        "title": "The light that went out too soon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422729",
+        "published_date": "2026-04-29T12:31:35Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5224e6d4030d",
         "title": "Meteorology: Thunderstorms in most Yemeni governorates",
@@ -303,30 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422668",
         "published_date": "2026-04-27T08:44:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "be2bc25c35a0",
-        "title": "Old Sana’a: The Elegance of Women and the Memory of Place",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422659",
-        "published_date": "2026-04-26T19:53:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c05e49bd9e4c",
-        "title": "Lahj.. A terrible traffic accident involving a car carrying educators in Al-Qabaytah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422633",
-        "published_date": "2026-04-26T15:28:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "27363d7a4c85",
-        "title": "The Yemeni Football Association sets the start date for the football season for first-class clubs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422627",
-        "published_date": "2026-04-26T09:17:29Z",
         "category": "Local Events"
       }
     ]
