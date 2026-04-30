@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-30T12:19:22Z",
+  "last_updated": "2026-04-30T23:56:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -73,25 +73,17 @@
         "url": "https://yemenat.net/archives/422593",
         "published_date": "2026-04-25T17:01:25Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "af4a3d5109a2",
-        "title": "The UN envoy confirms continuing efforts to ensure regional and international support for peace in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422581",
-        "published_date": "2026-04-24T18:45:29Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "2eff754f943d",
-        "title": "An American proposal to replace Iran in the next World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422567",
-        "published_date": "2026-04-23T18:47:28Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "2126ae54ebf1",
+        "title": "Aden.. Military decisions are issued to appoint leaders in the Ministry of Defense and the Fourth Military Region",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422755",
+        "published_date": "2026-04-30T18:42:40Z",
+        "category": "Military"
+      },
       {
         "_id": "c758149dccfc",
         "title": "Baoum reveals some of the details of the battle of Hadramaut, the dissolution of the transitional council, and the departure of Al-Zubaidi",
@@ -119,6 +111,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "67d45d6393b2",
+        "title": "Sanaa.. The Ministry of Economy circulars regarding oil prices and education announces the start of disbursing incentives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422764",
+        "published_date": "2026-04-30T20:14:42Z",
+        "category": "Economy"
+      },
       {
         "_id": "68e5ca0c8d97",
         "title": "Imagination in the poetry of Yahya Al-Allaq - An analytical approach to the structure of the poetic image and the space of meaning",
@@ -166,17 +166,49 @@
         "url": "https://yemenat.net/archives/422590",
         "published_date": "2026-04-25T16:36:26Z",
         "category": "Economy"
-      },
-      {
-        "_id": "600a885f86e4",
-        "title": "He remained at the door",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422578",
-        "published_date": "2026-04-24T18:17:59Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "0be63c92c600",
+        "title": "Aden.. A transitional military unit evacuates a camp in Khor Maksar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422766",
+        "published_date": "2026-04-30T20:43:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c672f3a7baf3",
+        "title": "Water disputes return to the forefront.. A dispute over a water well causes four casualties in Al-Dhalea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422761",
+        "published_date": "2026-04-30T19:46:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1f206790a02a",
+        "title": "Sanaa.. A ministerial circular regarding the conditions for accepting students into various universities and colleges",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422757",
+        "published_date": "2026-04-30T19:17:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4e798410f3c7",
+        "title": "A fire causes panic in a commercial market in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422752",
+        "published_date": "2026-04-30T18:12:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c36719e9bfd6",
+        "title": "A tribal sheikh was killed in Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422748",
+        "published_date": "2026-04-30T17:43:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3f3efaf00267",
         "title": "“Document”... directed to convert a shipment of potatoes infected with a dangerous fungal disease into organic fertilizer and a warning of an environmental disaster",
@@ -295,46 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422685",
         "published_date": "2026-04-27T13:01:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bf0ca9f118f5",
-        "title": "Taiz.. Activists warn against burying tons of garbage in the city of Al-Turbah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422681",
-        "published_date": "2026-04-27T12:23:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c745c439df25",
-        "title": "Two traffic accidents close a road linking Taiz and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422675",
-        "published_date": "2026-04-27T11:21:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "249cefb787c5",
-        "title": "Taiz.. The police refer the “wedding loan” case to the prosecution",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422673",
-        "published_date": "2026-04-27T09:51:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1e1c158a19c",
-        "title": "Calls in Aden to establish a specialized center to treat addiction",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422670",
-        "published_date": "2026-04-27T09:26:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "99d35ccb2759",
-        "title": "Meteorology expects continued rainfall and warns residents of deserts and coastal plains",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422668",
-        "published_date": "2026-04-27T08:44:18Z",
         "category": "Local Events"
       }
     ]
