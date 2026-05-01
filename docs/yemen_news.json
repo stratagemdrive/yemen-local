@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-04-30T23:56:16Z",
+  "last_updated": "2026-05-01T12:03:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,17 +65,17 @@
         "url": "https://yemenat.net/archives/422608",
         "published_date": "2026-04-25T18:49:11Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e87fe268c782",
-        "title": "Aden.. The oil company warns of running out of aviation fuel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422593",
-        "published_date": "2026-04-25T17:01:25Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "00c7e73095fe",
+        "title": "The place of dew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422788",
+        "published_date": "2026-05-01T11:29:40Z",
+        "category": "Military"
+      },
       {
         "_id": "2126ae54ebf1",
         "title": "Aden.. Military decisions are issued to appoint leaders in the Ministry of Defense and the Fourth Military Region",
@@ -150,25 +150,33 @@
         "url": "https://yemenat.net/archives/422605",
         "published_date": "2026-04-25T18:24:39Z",
         "category": "Economy"
-      },
-      {
-        "_id": "9827cf153e7b",
-        "title": "After writing off more than 4,000 commercial agencies, the Ministry of Economy in Sanaa gives agency owners an opportunity to renew",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422596",
-        "published_date": "2026-04-25T17:35:48Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "baeef287a129",
-        "title": "Yemeni merchants complain about a shipping company that piled up their goods in Dubai Port and describe its behavior as “extortionate.”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422590",
-        "published_date": "2026-04-25T16:36:26Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "f6da8adc80ff",
+        "title": "A thunderbolt strikes a passenger bus in Hajjah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422779",
+        "published_date": "2026-05-01T11:02:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fc1baf6da5a5",
+        "title": "Meteorology raises the warning level to warning and expects heavy thunderstorms accompanied by hail",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422776",
+        "published_date": "2026-05-01T09:41:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81aa33b8a542",
+        "title": "35 armored vehicles in a country without wheels",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422770",
+        "published_date": "2026-05-01T08:40:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0be63c92c600",
         "title": "Aden.. A transitional military unit evacuates a camp in Khor Maksar",
@@ -303,30 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422700",
         "published_date": "2026-04-27T16:52:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f122a4ef08d",
-        "title": "A battery burns a citizen's house in Jabal Saber, causing the death of livestock",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422691",
-        "published_date": "2026-04-27T15:55:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "634a9ddb63d6",
-        "title": "Circulating: A Yemeni fisherman finds an amount of “whale ambergris” worth thousands of dollars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422688",
-        "published_date": "2026-04-27T13:32:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d92f6d71e27b",
-        "title": "Students at Taiz University are demanding the implementation of the decision to unify fees and complaining about being denied admission to exams",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422685",
-        "published_date": "2026-04-27T13:01:44Z",
         "category": "Local Events"
       }
     ]
