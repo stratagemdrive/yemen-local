@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-01T12:03:12Z",
+  "last_updated": "2026-05-01T23:57:20Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c1bdbd2f72f4",
+        "title": "Narrative in Khalid Al-Yousef’s Wadian Al Abraizi: A Reading of Structure and Memory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422811",
+        "published_date": "2026-05-01T21:36:53Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a10aba9b427f",
+        "title": "The narration in (Wadiyan Al-Ibrizi) by Khaled Al-Yousef...a reading of structure and memory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422790",
+        "published_date": "2026-05-01T12:24:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "edaf9f91e766",
         "title": "The Bar Association strongly condemns the threat of lawyer Haneen Al-Sarari and demands that legal measures be taken to protect lawyers",
@@ -27,6 +43,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "b47453d1ebf9",
+        "title": "Sana'a University announces the opening of admission and coordination for postgraduate programs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422719",
+        "published_date": "2026-04-28T16:20:37Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "c36fcf74ee81",
         "title": "A female student opened fire inside the Aden University campus",
         "source": "Yemenat",
@@ -40,30 +64,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422638",
         "published_date": "2026-04-26T18:39:29Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "60959db714f4",
-        "title": "FAO: A wide sector of agricultural families in Yemen are included in the lists of families in need",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422618",
-        "published_date": "2026-04-25T20:21:38Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cba188c61e6b",
-        "title": "After Araqchi left, Trump announced the cancellation of the American delegation’s visit to Pakistan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422613",
-        "published_date": "2026-04-25T19:27:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "5de960abaf87",
-        "title": "Araqchi leaves Islamabad amid uncertainty surrounding the future of negotiations with Washington",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422608",
-        "published_date": "2026-04-25T18:49:11Z",
         "category": "Diplomacy"
       }
     ],
@@ -99,14 +99,6 @@
         "url": "https://yemenat.net/archives/422642",
         "published_date": "2026-04-26T19:01:22Z",
         "category": "Military"
-      },
-      {
-        "_id": "ed3f051c03d2",
-        "title": "Aden.. Military and security forces are deployed in the vicinity of Ma’ashiq Palace and nearby vital facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422621",
-        "published_date": "2026-04-26T08:25:05Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -134,25 +126,49 @@
         "url": "https://yemenat.net/archives/422645",
         "published_date": "2026-04-26T19:28:10Z",
         "category": "Economy"
-      },
-      {
-        "_id": "472a52858c6f",
-        "title": "A stroke of “integrity” afflicts Judge Muhammad Al-Khayal: a cry for help that exposes the policy of systematic impoverishment of the judiciary in Sana’a",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422610",
-        "published_date": "2026-04-25T19:09:36Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f94d5fdefa10",
-        "title": "A stifling gas crisis is taking place in the city of Marib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422605",
-        "published_date": "2026-04-25T18:24:39Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "a2ded316b6ab",
+        "title": "Sana'a University sets the date for disbursing admission files for students accepted into the College of Medicine and Health Sciences",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422809",
+        "published_date": "2026-05-01T20:36:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fd8db462f023",
+        "title": "A woman died after falling from a high height in Amran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422806",
+        "published_date": "2026-05-01T17:16:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a477b171f4db",
+        "title": "Shabwa.. Warning of environmental pollution due to a stranded ship",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422802",
+        "published_date": "2026-05-01T15:30:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "856e665ed934",
+        "title": "The fight against human trafficking condemns the “premeditated killing” of Yemenis with deodorized gas and threatens to prosecute the gas company.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422796",
+        "published_date": "2026-05-01T14:42:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d25cf38c4499",
+        "title": "Sanaa.. Heavy rains and warnings against crossing Al-Saila",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422793",
+        "published_date": "2026-05-01T13:13:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f6da8adc80ff",
         "title": "A thunderbolt strikes a passenger bus in Hajjah",
@@ -266,51 +282,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "b47453d1ebf9",
-        "title": "Sana'a University announces the opening of admission and coordination for postgraduate programs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422719",
-        "published_date": "2026-04-28T16:20:37Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "d6ecefd035e1",
         "title": "Average gold prices in Sanaa and Aden Tuesday, April 28, 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422714",
         "published_date": "2026-04-28T11:30:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "56963cf14ab9",
-        "title": "Sanaa.. The police reveal the details of the murder of a child in Bani Al-Harith",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422711",
-        "published_date": "2026-04-28T11:11:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "563c0479459d",
-        "title": "Meteorology raises the alert to a warning: unstable weather returns again, and rain showers are expected on the highlands and coasts.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422709",
-        "published_date": "2026-04-28T09:46:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6beadbf400ff",
-        "title": "Sana'a University announces the date and controls for admission tests to the College of Medicine and Health Sciences for the academic year 2026/2027 AD",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422707",
-        "published_date": "2026-04-28T09:07:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "93e50f5ce1ca",
-        "title": "Sanaa.. Heavy cold showers in Bani Matar District",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422700",
-        "published_date": "2026-04-27T16:52:21Z",
         "category": "Local Events"
       }
     ]
