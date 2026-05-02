@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-01T23:57:20Z",
+  "last_updated": "2026-05-02T11:52:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -57,14 +57,6 @@
         "url": "https://yemenat.net/archives/422704",
         "published_date": "2026-04-27T20:24:46Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "79e38b68db5f",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to release Dr. Ali Al-Madhawi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422638",
-        "published_date": "2026-04-26T18:39:29Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -104,6 +96,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "aad5f9acd479",
+        "title": "Yemeni intellectuals appeal to Al-Alimi to direct the repayment of the food allowance of the writer Abdul-Wadud Saif.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422823",
+        "published_date": "2026-05-02T11:08:16Z",
+        "category": "Economy"
+      },
+      {
         "_id": "67d45d6393b2",
         "title": "Sanaa.. The Ministry of Economy circulars regarding oil prices and education announces the start of disbursing incentives",
         "source": "Yemenat",
@@ -129,6 +129,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "7259e9052bd1",
+        "title": "Video.. The listening team calls on the Yemeni parties for national reconciliation and stresses the necessity of ending the war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422818",
+        "published_date": "2026-05-02T10:35:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "110f3c182f81",
+        "title": "Sanaa.. The Central Bank stops dealing with four banking entities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422816",
+        "published_date": "2026-05-02T09:39:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c57f339b96f",
+        "title": "Meteorology lowers the alert level to warning and expects thunderstorms of varying intensity to continue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422814",
+        "published_date": "2026-05-02T09:00:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a2ded316b6ab",
         "title": "Sana'a University sets the date for disbursing admission files for students accepted into the College of Medicine and Health Sciences",
@@ -263,30 +287,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422727",
         "published_date": "2026-04-29T09:32:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eeaf20b30da1",
-        "title": "Aden.. Two young men died and a third was admitted to intensive care due to drug abuse",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422724",
-        "published_date": "2026-04-29T08:54:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "58e8c61d67c1",
-        "title": "Directions to stop burying waste in a sports stadium in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422722",
-        "published_date": "2026-04-28T16:52:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d6ecefd035e1",
-        "title": "Average gold prices in Sanaa and Aden Tuesday, April 28, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422714",
-        "published_date": "2026-04-28T11:30:17Z",
         "category": "Local Events"
       }
     ]
