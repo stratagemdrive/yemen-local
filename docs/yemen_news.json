@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-02T23:53:32Z",
+  "last_updated": "2026-05-03T11:52:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "6dce7d76a629",
+        "title": "An American judge stops terminating temporary protection for Yemenis in the United States of America",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422836",
+        "published_date": "2026-05-03T06:34:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "98e58f2803d3",
+        "title": "A reading of the book Al-Mandathir from the Dialects of Yemen and Al-Ma’afir by the Yemeni researcher Nabil Al-Fuda’i",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422828",
+        "published_date": "2026-05-03T05:11:35Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c1bdbd2f72f4",
         "title": "Narrative in Khalid Al-Yousef’s Wadian Al Abraizi: A Reading of Structure and Memory",
@@ -43,6 +59,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "b47453d1ebf9",
+        "title": "Sana'a University announces the opening of admission and coordination for postgraduate programs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422719",
+        "published_date": "2026-04-28T16:20:37Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "c36fcf74ee81",
         "title": "A female student opened fire inside the Aden University campus",
         "source": "Yemenat",
@@ -61,6 +85,14 @@
         "category": "Military"
       },
       {
+        "_id": "c672f3a7baf3",
+        "title": "Water disputes return to the forefront.. A dispute over a water well causes four casualties in Al-Dhalea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422761",
+        "published_date": "2026-04-30T19:46:03Z",
+        "category": "Military"
+      },
+      {
         "_id": "2126ae54ebf1",
         "title": "Aden.. Military decisions are issued to appoint leaders in the Ministry of Defense and the Fourth Military Region",
         "source": "Yemenat",
@@ -75,18 +107,27 @@
         "url": "https://yemenat.net/archives/422716",
         "published_date": "2026-04-28T12:05:33Z",
         "category": "Military"
-      },
-      {
-        "_id": "d8755c6168a2",
-        "title": "Casualties in targeting a military patrol on the coast of Hadramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422642",
-        "published_date": "2026-04-26T19:01:22Z",
-        "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "8221781a3413",
+        "title": "The UAE’s exit from OPEC...will it be an irrevocable divorce between Abu Dhabi and Riyadh?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422834",
+        "published_date": "2026-05-03T06:05:42Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
+      {
+        "_id": "0866b006bfc0",
+        "title": "Sanaa.. Announcing the start of issuing financial reinforcements for half of the February 2026 salary",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422844",
+        "published_date": "2026-05-03T10:50:52Z",
+        "category": "Economy"
+      },
       {
         "_id": "aad5f9acd479",
         "title": "Yemeni intellectuals appeal to Al-Alimi to direct the repayment of the food allowance of the writer Abdul-Wadud Saif.",
@@ -110,17 +151,33 @@
         "url": "https://yemenat.net/archives/422739",
         "published_date": "2026-04-29T17:19:05Z",
         "category": "Economy"
-      },
-      {
-        "_id": "c9ab447f0e77",
-        "title": "The Yemeni Embassy in Riyadh reveals the existence of insurance claims for Yemenis with Saudi insurance (list of names)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422645",
-        "published_date": "2026-04-26T19:28:10Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e8c697d77d58",
+        "title": "Destruction and neglect at the Ibb Sports Stadium reveal the absence of the role of the local authority and the Youth and Sports Office in the governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422846",
+        "published_date": "2026-05-03T11:26:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e584b08de024",
+        "title": "Meteorology: The atmosphere continues to be unstable and more monsoon rains are expected",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422839",
+        "published_date": "2026-05-03T09:24:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dd9747110455",
+        "title": "Aden.. The Coast Guard clarifies the hijacking of an oil tanker off the coast of Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422831",
+        "published_date": "2026-05-03T05:41:55Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7259e9052bd1",
         "title": "Video.. The listening team calls on the Yemeni parties for national reconciliation and stresses the necessity of ending the war",
@@ -218,16 +275,8 @@
         "category": "Local Events"
       },
       {
-        "_id": "c672f3a7baf3",
-        "title": "Water disputes return to the forefront.. A dispute over a water well causes four casualties in Al-Dhalea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422761",
-        "published_date": "2026-04-30T19:46:03Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "1f206790a02a",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Sanaa.. A ministerial circular regarding the conditions for accepting students into various universities and colleges",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422757",
         "published_date": "2026-04-30T19:17:44Z",
@@ -251,7 +300,7 @@
       },
       {
         "_id": "3f3efaf00267",
-        "title": "“Document”... directed to convert a shipment of potatoes infected with a dangerous fungal disease into organic fertilizer and a warning of an environmental disaster",
+        "title": "“Document”...a directive to convert a shipment of potatoes infected with a dangerous fungal disease into organic fertilizer and a warning of an environmental catastrophe.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422744",
         "published_date": "2026-04-29T20:46:27Z",
@@ -263,22 +312,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422741",
         "published_date": "2026-04-29T18:28:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41f8970c2e83",
-        "title": "The light that went out too soon",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422729",
-        "published_date": "2026-04-29T12:31:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5224e6d4030d",
-        "title": "Meteorology: Thunderstorms in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422727",
-        "published_date": "2026-04-29T09:32:23Z",
         "category": "Local Events"
       }
     ]
