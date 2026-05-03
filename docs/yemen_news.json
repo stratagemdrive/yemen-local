@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-03T11:52:11Z",
+  "last_updated": "2026-05-03T23:54:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0a12f54cd20a",
+        "title": "Navigational data: Dozens of ships crossed the Strait of Hormuz in violation of the US decision to blockade Iranian ports",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422886",
+        "published_date": "2026-05-03T21:22:15Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bf41481befe2",
+        "title": "The Coast Guard reveals the latest developments in the hijacking of an oil tanker off the coast of Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422874",
+        "published_date": "2026-05-03T14:19:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0afd77746b86",
+        "title": "A symposium in Marib explores the prospects for digital transformation and enhancing the role of media in peacemaking",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422862",
+        "published_date": "2026-05-03T13:46:29Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c78a4855ca16",
+        "title": "On International Freedom Day, the Yemeni Journalists Syndicate warns of a “total collapse” of the media work environment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422859",
+        "published_date": "2026-05-03T12:53:03Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "6dce7d76a629",
         "title": "An American judge stops terminating temporary protection for Yemenis in the United States of America",
@@ -57,22 +89,6 @@
         "url": "https://yemenat.net/archives/422732",
         "published_date": "2026-04-29T13:04:51Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "b47453d1ebf9",
-        "title": "Sana'a University announces the opening of admission and coordination for postgraduate programs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422719",
-        "published_date": "2026-04-28T16:20:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c36fcf74ee81",
-        "title": "A female student opened fire inside the Aden University campus",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422704",
-        "published_date": "2026-04-27T20:24:46Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -85,31 +101,31 @@
         "category": "Military"
       },
       {
-        "_id": "c672f3a7baf3",
-        "title": "Water disputes return to the forefront.. A dispute over a water well causes four casualties in Al-Dhalea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422761",
-        "published_date": "2026-04-30T19:46:03Z",
-        "category": "Military"
-      },
-      {
         "_id": "2126ae54ebf1",
         "title": "Aden.. Military decisions are issued to appoint leaders in the Ministry of Defense and the Fourth Military Region",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422755",
         "published_date": "2026-04-30T18:42:40Z",
         "category": "Military"
-      },
-      {
-        "_id": "c758149dccfc",
-        "title": "Baoum reveals some of the details of the battle of Hadramaut, the dissolution of the transitional council, and the departure of Al-Zubaidi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422716",
-        "published_date": "2026-04-28T12:05:33Z",
-        "category": "Military"
       }
     ],
     "Energy": [
+      {
+        "_id": "604d08d396e4",
+        "title": "Muhammad Al-Tall finishes filming his short film, My Oil",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422872",
+        "published_date": "2026-05-03T13:58:41Z",
+        "category": "Energy"
+      },
+      {
+        "_id": "fdde20923841",
+        "title": "Yemeni intellectuals complain about the gas company to the Minister of Oil in Sanaa and hold its leadership responsible for the victims of the gas leak",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422856",
+        "published_date": "2026-05-03T12:24:27Z",
+        "category": "Energy"
+      },
       {
         "_id": "8221781a3413",
         "title": "The UAE’s exit from OPEC...will it be an irrevocable divorce between Abu Dhabi and Riyadh?",
@@ -120,6 +136,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "49948881d96c",
+        "title": "Sanaa.. The Central Bank sets the date for disbursing half of the February 2026 salary and the destinations of disbursement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422884",
+        "published_date": "2026-05-03T20:55:31Z",
+        "category": "Economy"
+      },
       {
         "_id": "0866b006bfc0",
         "title": "Sanaa.. Announcing the start of issuing financial reinforcements for half of the February 2026 salary",
@@ -154,6 +178,62 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "c2ba27588e4c",
+        "title": "Conclusion of the matches of the first week of the Yemeni First Division League for the 2026 season",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422898",
+        "published_date": "2026-05-03T23:02:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "564fea56182a",
+        "title": "Aden.. The director of the Social Fund for Development was assassinated hours after his kidnapping",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422895",
+        "published_date": "2026-05-03T22:27:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c441f345c1b0",
+        "title": "Yemen between state shrinkage and multiple centers of power: a reading of an unstable structure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422892",
+        "published_date": "2026-05-03T22:01:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3f81be9185a8",
+        "title": "Yemeni intellectuals renew their appeal to the Sanaa authority to release Ashwaq Al-Shamiri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422889",
+        "published_date": "2026-05-03T21:45:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fe6c996b38f0",
+        "title": "More than 300 African migrants were arrested at sea in the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422881",
+        "published_date": "2026-05-03T20:33:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7480f813574a",
+        "title": "Al-Sama'i opens a qualitative hospital in the capital, Sana'a",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422878",
+        "published_date": "2026-05-03T20:12:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "666caa3764f1",
+        "title": "Average gold prices in Sanaa and Aden, Sunday, February 3, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422854",
+        "published_date": "2026-05-03T11:59:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e8c697d77d58",
         "title": "Destruction and neglect at the Ibb Sports Stadium reveal the absence of the role of the local authority and the Youth and Sports Office in the governorate",
@@ -236,7 +316,7 @@
       },
       {
         "_id": "d25cf38c4499",
-        "title": "Sanaa.. Heavy rains and warnings about crossing Al-Saila",
+        "title": "Sanaa.. Heavy rains and warnings against crossing Al-Saila",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422793",
         "published_date": "2026-05-01T13:13:56Z",
@@ -256,62 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422776",
         "published_date": "2026-05-01T09:41:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81aa33b8a542",
-        "title": "35 armored vehicles in a country without wheels",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422770",
-        "published_date": "2026-05-01T08:40:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0be63c92c600",
-        "title": "Aden.. A transitional military unit evacuates a camp in Khor Maksar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422766",
-        "published_date": "2026-04-30T20:43:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f206790a02a",
-        "title": "Sanaa.. A ministerial circular regarding the conditions for accepting students into various universities and colleges",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422757",
-        "published_date": "2026-04-30T19:17:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e798410f3c7",
-        "title": "A fire causes panic in a commercial market in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422752",
-        "published_date": "2026-04-30T18:12:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c36719e9bfd6",
-        "title": "A tribal sheikh was killed in Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422748",
-        "published_date": "2026-04-30T17:43:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3f3efaf00267",
-        "title": "“Document”...a directive to convert a shipment of potatoes infected with a dangerous fungal disease into organic fertilizer and a warning of an environmental catastrophe.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422744",
-        "published_date": "2026-04-29T20:46:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d244c0fd4c2a",
-        "title": "Al-Samii visits the shrines of martyrs and reaffirms national reconciliation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422741",
-        "published_date": "2026-04-29T18:28:49Z",
         "category": "Local Events"
       }
     ]
