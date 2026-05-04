@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-03T23:54:38Z",
+  "last_updated": "2026-05-04T12:23:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -73,25 +73,17 @@
         "url": "https://yemenat.net/archives/422790",
         "published_date": "2026-05-01T12:24:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "edaf9f91e766",
-        "title": "The Bar Association strongly condemns the threat of lawyer Haneen Al-Sarari and demands that legal measures be taken to protect lawyers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422735",
-        "published_date": "2026-04-29T14:05:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4eb8fc3c88f9",
-        "title": "Official holiday: Saturday in Sanaa and Sunday in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422732",
-        "published_date": "2026-04-29T13:04:51Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "f96dae0f13d3",
+        "title": "“Document”... a recall of a historical stage in which Yemen lived a defining moment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422908",
+        "published_date": "2026-05-04T09:21:57Z",
+        "category": "Military"
+      },
       {
         "_id": "00c7e73095fe",
         "title": "The place of dew",
@@ -137,6 +129,22 @@
     ],
     "Economy": [
       {
+        "_id": "3cd1fdea2816",
+        "title": "Al-Maqaleh: An authority that defends the unity of the Islamic world and neglects Yemeni unity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422923",
+        "published_date": "2026-05-04T11:32:17Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f5a3f4d31e73",
+        "title": "Sana'a University clarifies the news of the death of a student inside the electronic testing center",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422918",
+        "published_date": "2026-05-04T10:51:53Z",
+        "category": "Economy"
+      },
+      {
         "_id": "49948881d96c",
         "title": "Sanaa.. The Central Bank sets the date for disbursing half of the February 2026 salary and the destinations of disbursement",
         "source": "Yemenat",
@@ -167,17 +175,25 @@
         "url": "https://yemenat.net/archives/422764",
         "published_date": "2026-04-30T20:14:42Z",
         "category": "Economy"
-      },
-      {
-        "_id": "68e5ca0c8d97",
-        "title": "Imagination in the poetry of Yahya Al-Allaq - An analytical approach to the structure of the poetic image and the space of meaning",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422739",
-        "published_date": "2026-04-29T17:19:05Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9c6b32fff570",
+        "title": "Marib: Tension between African immigrants and fistfights amid residents’ fears",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422914",
+        "published_date": "2026-05-04T10:05:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f1aece39c469",
+        "title": "Meteorology: The opportunity is ripe for cumulonimbus clouds to form and more thunderstorms are expected",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422911",
+        "published_date": "2026-05-04T09:41:39Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c2ba27588e4c",
         "title": "Conclusion of the matches of the first week of the Yemeni First Division League for the 2026 season",
@@ -316,26 +332,10 @@
       },
       {
         "_id": "d25cf38c4499",
-        "title": "Sanaa.. Heavy rains and warnings against crossing Al-Saila",
+        "title": "Sanaa.. Heavy rains and warnings about crossing Al-Saila",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422793",
         "published_date": "2026-05-01T13:13:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6da8adc80ff",
-        "title": "A thunderbolt strikes a passenger bus in Hajjah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422779",
-        "published_date": "2026-05-01T11:02:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fc1baf6da5a5",
-        "title": "Meteorology raises the warning level to warning and expects heavy thunderstorms accompanied by hail",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422776",
-        "published_date": "2026-05-01T09:41:32Z",
         "category": "Local Events"
       }
     ]
