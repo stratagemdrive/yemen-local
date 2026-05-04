@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-04T12:23:12Z",
+  "last_updated": "2026-05-04T23:59:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0f03aa163ea1",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to allow Dr. Ibrahim Al-Houthi to travel for treatment via United Nations airfare",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422953",
+        "published_date": "2026-05-04T20:23:00Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0a12f54cd20a",
         "title": "Navigational data: Dozens of ships crossed the Strait of Hormuz in violation of the US decision to blockade Iranian ports",
@@ -77,6 +85,14 @@
     ],
     "Military": [
       {
+        "_id": "e57a28c30372",
+        "title": "A marine accident and fire in the Emirates, a Korean statement and another from Fujairah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422941",
+        "published_date": "2026-05-04T17:54:52Z",
+        "category": "Military"
+      },
+      {
         "_id": "f96dae0f13d3",
         "title": "“Document”... a recall of a historical stage in which Yemen lived a defining moment",
         "source": "Yemenat",
@@ -90,14 +106,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422788",
         "published_date": "2026-05-01T11:29:40Z",
-        "category": "Military"
-      },
-      {
-        "_id": "2126ae54ebf1",
-        "title": "Aden.. Military decisions are issued to appoint leaders in the Ministry of Defense and the Fourth Military Region",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422755",
-        "published_date": "2026-04-30T18:42:40Z",
         "category": "Military"
       }
     ],
@@ -178,6 +186,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "dff7b35ba860",
+        "title": "In the absence of accurate environmental studies, a dead whale was found on the eastern coast of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422958",
+        "published_date": "2026-05-04T23:11:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "52137b82699b",
+        "title": "The Yemeni Football Association approves the schedule of the remaining matches of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422948",
+        "published_date": "2026-05-04T19:45:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f81fc7926e9",
+        "title": "Demonstrations in Lahj and Aden: one flag for unity and another for separation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422945",
+        "published_date": "2026-05-04T19:19:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "243332d6e0f1",
+        "title": "A journalist was arrested in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422938",
+        "published_date": "2026-05-04T15:26:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "996bc35d3f24",
+        "title": "“Photos”... Popular campaigns to clean the May 22 Stadium in Ibb amid the absence of the role of the local authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422928",
+        "published_date": "2026-05-04T12:39:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9c6b32fff570",
         "title": "Marib: Tension between African immigrants and fistfights amid residents’ fears",
@@ -276,7 +324,7 @@
       },
       {
         "_id": "7259e9052bd1",
-        "title": "Video.. The listening team calls on the Yemeni parties for national reconciliation and stresses the necessity of ending the war",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422818",
         "published_date": "2026-05-02T10:35:37Z",
@@ -296,46 +344,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422814",
         "published_date": "2026-05-02T09:00:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a2ded316b6ab",
-        "title": "Sana'a University sets the date for disbursing admission files for students accepted into the College of Medicine and Health Sciences",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422809",
-        "published_date": "2026-05-01T20:36:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fd8db462f023",
-        "title": "A woman died after falling from a high height in Amran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422806",
-        "published_date": "2026-05-01T17:16:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a477b171f4db",
-        "title": "Shabwa.. Warning of environmental pollution due to a stranded ship",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422802",
-        "published_date": "2026-05-01T15:30:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "856e665ed934",
-        "title": "The fight against human trafficking condemns the “premeditated killing” of Yemenis with deodorized gas and threatens to prosecute the gas company.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422796",
-        "published_date": "2026-05-01T14:42:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d25cf38c4499",
-        "title": "Sanaa.. Heavy rains and warnings about crossing Al-Saila",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422793",
-        "published_date": "2026-05-01T13:13:56Z",
         "category": "Local Events"
       }
     ]
