@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-04T23:59:35Z",
+  "last_updated": "2026-05-05T12:07:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "aaf8a3e19132",
+        "title": "Is Himyarite really a different language from Arabic?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422966",
+        "published_date": "2026-05-05T10:14:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4d32410b9eda",
+        "title": "Onomatopoeia in the poetic text according to Nizar Qabbani: An analytical stylistic approach (a theoretical and applied study of the poem “Bilqis”)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422964",
+        "published_date": "2026-05-05T09:59:56Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0f03aa163ea1",
         "title": "Yemeni intellectuals appeal to the Sanaa authority to allow Dr. Ibrahim Al-Houthi to travel for treatment via United Nations airfare",
@@ -175,17 +191,25 @@
         "url": "https://yemenat.net/archives/422823",
         "published_date": "2026-05-02T11:08:16Z",
         "category": "Economy"
-      },
-      {
-        "_id": "67d45d6393b2",
-        "title": "Sanaa.. The Ministry of Economy circulars regarding oil prices and education announces the start of disbursing incentives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422764",
-        "published_date": "2026-04-30T20:14:42Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "0d806c31c11c",
+        "title": "Partial collapse of a house in Old Sanaa, injuring its owner",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422969",
+        "published_date": "2026-05-05T10:54:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "42a2514dd7ff",
+        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422962",
+        "published_date": "2026-05-05T09:28:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dff7b35ba860",
         "title": "In the absence of accurate environmental studies, a dead whale was found on the eastern coast of Yemen",
@@ -324,26 +348,10 @@
       },
       {
         "_id": "7259e9052bd1",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Video.. The listening team calls on the Yemeni parties for national reconciliation and stresses the necessity of ending the war",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422818",
         "published_date": "2026-05-02T10:35:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "110f3c182f81",
-        "title": "Sanaa.. The Central Bank stops dealing with four banking entities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422816",
-        "published_date": "2026-05-02T09:39:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1c57f339b96f",
-        "title": "Meteorology lowers the alert level to warning and expects thunderstorms of varying intensity to continue",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422814",
-        "published_date": "2026-05-02T09:00:52Z",
         "category": "Local Events"
       }
     ]
