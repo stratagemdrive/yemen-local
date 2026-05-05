@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-05T12:07:27Z",
+  "last_updated": "2026-05-05T23:55:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ec000d4a6c6c",
+        "title": "Document.. An attack on a company’s headquarters and the arrest of its deputy director due to opposition to a shipment of potato seeds contaminated with a dangerous disease, and a statement revealing the dangers of the shipment.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423001",
+        "published_date": "2026-05-05T23:20:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "427d3b050a94",
+        "title": "The Secretary-General of the Journalists Syndicate reviews the challenges of journalism in Yemen before the International Federation of Journalists conference",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422998",
+        "published_date": "2026-05-05T22:10:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "22e895902e8f",
+        "title": "Growing indicators of the resumption of the US-Israeli war on Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422993",
+        "published_date": "2026-05-05T21:52:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "aaf8a3e19132",
         "title": "Is Himyarite really a different language from Arabic?",
@@ -89,14 +113,6 @@
         "url": "https://yemenat.net/archives/422811",
         "published_date": "2026-05-01T21:36:53Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a10aba9b427f",
-        "title": "The narration in (Wadiyan Al-Ibrizi) by Khaled Al-Yousef...a reading of structure and memory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422790",
-        "published_date": "2026-05-01T12:24:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -114,14 +130,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422908",
         "published_date": "2026-05-04T09:21:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "00c7e73095fe",
-        "title": "The place of dew",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422788",
-        "published_date": "2026-05-01T11:29:40Z",
         "category": "Military"
       }
     ],
@@ -152,6 +160,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "becc0baff0d2",
+        "title": "Yemenia cancels one of its flights next Thursday and reschedules its itinerary",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422981",
+        "published_date": "2026-05-05T20:00:11Z",
+        "category": "Economy"
+      },
       {
         "_id": "3cd1fdea2816",
         "title": "Al-Maqaleh: An authority that defends the unity of the Islamic world and neglects Yemeni unity",
@@ -195,6 +211,38 @@
     ],
     "Local Events": [
       {
+        "_id": "dc8831cef46c",
+        "title": "Yemeni intellectuals demand that the Sanaa authority and the local authority in Ibb arrest those whom the journalist Al-Adini accused of poisoning him.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422989",
+        "published_date": "2026-05-05T21:15:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3ba532b3fd11",
+        "title": "After his release, journalist Al-Samadi narrates how a security force stormed his house in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422983",
+        "published_date": "2026-05-05T20:37:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "11b42c7015a8",
+        "title": "An earthquake strikes Ma'rib Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422977",
+        "published_date": "2026-05-05T16:18:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5af4a96cc0e6",
+        "title": "Aden: endless love... and Al-Mualla are harbors for the soul and the self",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/422972",
+        "published_date": "2026-05-05T13:05:04Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "0d806c31c11c",
         "title": "Partial collapse of a house in Old Sanaa, injuring its owner",
         "source": "Yemenat",
@@ -204,7 +252,7 @@
       },
       {
         "_id": "42a2514dd7ff",
-        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
+        "title": "Meteorology warns of torrential rains, rockslides, and mudslides, and advises not to be near tall trees",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422962",
         "published_date": "2026-05-05T09:28:45Z",
@@ -320,38 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422854",
         "published_date": "2026-05-03T11:59:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e8c697d77d58",
-        "title": "Destruction and neglect at the Ibb Sports Stadium reveal the absence of the role of the local authority and the Youth and Sports Office in the governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422846",
-        "published_date": "2026-05-03T11:26:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e584b08de024",
-        "title": "Meteorology: The atmosphere continues to be unstable and more monsoon rains are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422839",
-        "published_date": "2026-05-03T09:24:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dd9747110455",
-        "title": "Aden.. The Coast Guard clarifies the hijacking of an oil tanker off the coast of Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422831",
-        "published_date": "2026-05-03T05:41:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7259e9052bd1",
-        "title": "Video.. The listening team calls on the Yemeni parties for national reconciliation and stresses the necessity of ending the war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422818",
-        "published_date": "2026-05-02T10:35:37Z",
         "category": "Local Events"
       }
     ]
