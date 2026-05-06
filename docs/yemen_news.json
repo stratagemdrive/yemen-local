@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-05T23:55:21Z",
+  "last_updated": "2026-05-06T12:59:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "d589239524b3",
+        "title": "The hearing team calls for the release of Al-Arasa and stresses that achieving justice is a national necessity for the stability of society",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423005",
+        "published_date": "2026-05-06T00:12:38Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ec000d4a6c6c",
         "title": "Document.. An attack on a company’s headquarters and the arrest of its deputy director due to opposition to a shipment of potato seeds contaminated with a dangerous disease, and a statement revealing the dangers of the shipment.",
@@ -104,14 +112,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422828",
         "published_date": "2026-05-03T05:11:35Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c1bdbd2f72f4",
-        "title": "Narrative in Khalid Al-Yousef’s Wadian Al Abraizi: A Reading of Structure and Memory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422811",
-        "published_date": "2026-05-01T21:36:53Z",
         "category": "Diplomacy"
       }
     ],
@@ -211,6 +211,30 @@
     ],
     "Local Events": [
       {
+        "_id": "dec7b8d21567",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423016",
+        "published_date": "2026-05-06T12:45:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "900b6fea272a",
+        "title": "Meteorology: The opportunity is ripe for cumulonimbus clouds to form over the western highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423011",
+        "published_date": "2026-05-06T12:08:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88e585657abe",
+        "title": "The second week of the first division football league begins with two matches in Marib and Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423007",
+        "published_date": "2026-05-06T11:06:14Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "dc8831cef46c",
         "title": "Yemeni intellectuals demand that the Sanaa authority and the local authority in Ibb arrest those whom the journalist Al-Adini accused of poisoning him.",
         "source": "Yemenat",
@@ -252,7 +276,7 @@
       },
       {
         "_id": "42a2514dd7ff",
-        "title": "Meteorology warns of torrential rains, rockslides, and mudslides, and advises not to be near tall trees",
+        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422962",
         "published_date": "2026-05-05T09:28:45Z",
@@ -344,30 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422889",
         "published_date": "2026-05-03T21:45:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fe6c996b38f0",
-        "title": "More than 300 African migrants were arrested at sea in the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422881",
-        "published_date": "2026-05-03T20:33:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7480f813574a",
-        "title": "Al-Sama'i opens a qualitative hospital in the capital, Sana'a",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422878",
-        "published_date": "2026-05-03T20:12:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "666caa3764f1",
-        "title": "Average gold prices in Sanaa and Aden, Sunday, February 3, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422854",
-        "published_date": "2026-05-03T11:59:26Z",
         "category": "Local Events"
       }
     ]
