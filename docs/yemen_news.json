@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-06T12:59:19Z",
+  "last_updated": "2026-05-06T23:56:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "70c74b72f474",
+        "title": "Abdel-Hay Krait signs his book (Echoes of the Flood) at the book fair in Rabat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423032",
+        "published_date": "2026-05-06T18:19:12Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "d589239524b3",
         "title": "The hearing team calls for the release of Al-Arasa and stresses that achieving justice is a national necessity for the stability of society",
@@ -97,25 +105,17 @@
         "url": "https://yemenat.net/archives/422859",
         "published_date": "2026-05-03T12:53:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "6dce7d76a629",
-        "title": "An American judge stops terminating temporary protection for Yemenis in the United States of America",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422836",
-        "published_date": "2026-05-03T06:34:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "98e58f2803d3",
-        "title": "A reading of the book Al-Mandathir from the Dialects of Yemen and Al-Ma’afir by the Yemeni researcher Nabil Al-Fuda’i",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422828",
-        "published_date": "2026-05-03T05:11:35Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "bf8fe3f64e3f",
+        "title": "Al-Sami’i addressing the police intelligence service: Release the symptoms of the Yemenis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423026",
+        "published_date": "2026-05-06T16:50:12Z",
+        "category": "Military"
+      },
       {
         "_id": "e57a28c30372",
         "title": "A marine accident and fire in the Emirates, a Korean statement and another from Fujairah",
@@ -148,14 +148,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422856",
         "published_date": "2026-05-03T12:24:27Z",
-        "category": "Energy"
-      },
-      {
-        "_id": "8221781a3413",
-        "title": "The UAE’s exit from OPEC...will it be an irrevocable divorce between Abu Dhabi and Riyadh?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422834",
-        "published_date": "2026-05-03T06:05:42Z",
         "category": "Energy"
       }
     ],
@@ -199,17 +191,33 @@
         "url": "https://yemenat.net/archives/422844",
         "published_date": "2026-05-03T10:50:52Z",
         "category": "Economy"
-      },
-      {
-        "_id": "aad5f9acd479",
-        "title": "Yemeni intellectuals appeal to Al-Alimi to direct the repayment of the food allowance of the writer Abdul-Wadud Saif.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422823",
-        "published_date": "2026-05-02T11:08:16Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "6f8964fc205a",
+        "title": "First Division League: a win in Sanaa and a draw in Marib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423029",
+        "published_date": "2026-05-06T17:46:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ccc305a3fc9d",
+        "title": "Aden.. The Ministry of Education sets the date for the start of high school exams and issues exam schedules",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423021",
+        "published_date": "2026-05-06T16:08:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b63e80afe731",
+        "title": "Yemeni intellectuals appeal to the Chairman of the Presidential Leadership Council to provide a medical grant for the freedom fighter Abdul-Ghani Thabet",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423018",
+        "published_date": "2026-05-06T15:40:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dec7b8d21567",
         "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
@@ -344,30 +352,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422898",
         "published_date": "2026-05-03T23:02:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "564fea56182a",
-        "title": "Aden.. The director of the Social Fund for Development was assassinated hours after his kidnapping",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422895",
-        "published_date": "2026-05-03T22:27:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c441f345c1b0",
-        "title": "Yemen between state shrinkage and multiple centers of power: a reading of an unstable structure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422892",
-        "published_date": "2026-05-03T22:01:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3f81be9185a8",
-        "title": "Yemeni intellectuals renew their appeal to the Sanaa authority to release Ashwaq Al-Shamiri",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422889",
-        "published_date": "2026-05-03T21:45:09Z",
         "category": "Local Events"
       }
     ]
