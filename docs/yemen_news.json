@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-07T13:00:07Z",
+  "last_updated": "2026-05-07T23:57:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "084e9bb5d63d",
+        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423067",
+        "published_date": "2026-05-07T19:32:05Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "655d9d5643d7",
+        "title": "Al-Orouba defeats Al-Ahly Sanaa in an exciting match at Al-Zarafi Stadium",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423061",
+        "published_date": "2026-05-07T18:55:15Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "11d17e542e80",
         "title": "An international resolution to support Yemeni journalists and hold those involved in violations accountable",
@@ -89,30 +105,6 @@
         "url": "https://yemenat.net/archives/422886",
         "published_date": "2026-05-03T21:22:15Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bf41481befe2",
-        "title": "The Coast Guard reveals the latest developments in the hijacking of an oil tanker off the coast of Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422874",
-        "published_date": "2026-05-03T14:19:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0afd77746b86",
-        "title": "A symposium in Marib explores the prospects for digital transformation and enhancing the role of media in peacemaking",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422862",
-        "published_date": "2026-05-03T13:46:29Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c78a4855ca16",
-        "title": "On International Freedom Day, the Yemeni Journalists Syndicate warns of a “total collapse” of the media work environment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422859",
-        "published_date": "2026-05-03T12:53:03Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -141,17 +133,32 @@
         "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "604d08d396e4",
-        "title": "Muhammad Al-Tall finishes filming his short film, My Oil",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422872",
-        "published_date": "2026-05-03T13:58:41Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
+      {
+        "_id": "a2678775b5f2",
+        "title": "The Transitional Council announces the change of its name, and the President addresses the Council’s leadership: “The State of South Arabia is an absurd name.”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423082",
+        "published_date": "2026-05-07T22:53:26Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "520d8ad43eb4",
+        "title": "Iranian media: An exchange of fire in the Strait of Hormuz and a commercial pier damaged",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423072",
+        "published_date": "2026-05-07T20:37:53Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ca7a13d00c27",
+        "title": "Parliamentarian Bisher: The positions of the listening team are clear before and after",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423070",
+        "published_date": "2026-05-07T20:03:09Z",
+        "category": "Economy"
+      },
       {
         "_id": "becc0baff0d2",
         "title": "Yemenia cancels one of its flights next Thursday and reschedules its itinerary",
@@ -175,17 +182,25 @@
         "url": "https://yemenat.net/archives/422918",
         "published_date": "2026-05-04T10:51:53Z",
         "category": "Economy"
-      },
-      {
-        "_id": "49948881d96c",
-        "title": "Sanaa.. The Central Bank sets the date for disbursing half of the February 2026 salary and the destinations of disbursement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422884",
-        "published_date": "2026-05-03T20:55:31Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "76dda1f2a713",
+        "title": "Yemenia announces the resumption of its flights to Al-Ghaydah Airport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423079",
+        "published_date": "2026-05-07T20:56:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3f26224907a8",
+        "title": "The Sami Group: A group from a village in Saada Governorate that runs the country as if it were private property",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423058",
+        "published_date": "2026-05-07T14:00:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "81c083114662",
         "title": "Dhamar...an unusual snake that causes terror in one of the villages of Ans",
@@ -308,7 +323,7 @@
       },
       {
         "_id": "42a2514dd7ff",
-        "title": "Meteorology warns of torrential rains, rockslides, and mudslides, and advises not to be near tall trees",
+        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422962",
         "published_date": "2026-05-05T09:28:45Z",
@@ -328,22 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422948",
         "published_date": "2026-05-04T19:45:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7f81fc7926e9",
-        "title": "Demonstrations in Lahj and Aden: one flag for unity and another for separation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422945",
-        "published_date": "2026-05-04T19:19:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "243332d6e0f1",
-        "title": "A journalist was arrested in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422938",
-        "published_date": "2026-05-04T15:26:46Z",
         "category": "Local Events"
       }
     ]
