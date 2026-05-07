@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-06T23:56:04Z",
+  "last_updated": "2026-05-07T13:00:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "11d17e542e80",
+        "title": "An international resolution to support Yemeni journalists and hold those involved in violations accountable",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423043",
+        "published_date": "2026-05-07T10:39:38Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "70c74b72f474",
         "title": "Abdel-Hay Krait signs his book (Echoes of the Flood) at the book fair in Rabat",
@@ -141,14 +149,6 @@
         "url": "https://yemenat.net/archives/422872",
         "published_date": "2026-05-03T13:58:41Z",
         "category": "Energy"
-      },
-      {
-        "_id": "fdde20923841",
-        "title": "Yemeni intellectuals complain about the gas company to the Minister of Oil in Sanaa and hold its leadership responsible for the victims of the gas leak",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422856",
-        "published_date": "2026-05-03T12:24:27Z",
-        "category": "Energy"
       }
     ],
     "Economy": [
@@ -183,17 +183,41 @@
         "url": "https://yemenat.net/archives/422884",
         "published_date": "2026-05-03T20:55:31Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0866b006bfc0",
-        "title": "Sanaa.. Announcing the start of issuing financial reinforcements for half of the February 2026 salary",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422844",
-        "published_date": "2026-05-03T10:50:52Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "81c083114662",
+        "title": "Dhamar...an unusual snake that causes terror in one of the villages of Ans",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423053",
+        "published_date": "2026-05-07T12:56:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0cd1f6b6f5c3",
+        "title": "Al-Sami discusses with the leadership of the Capital Municipality the mechanism for preparing a plan for development projects",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423050",
+        "published_date": "2026-05-07T11:45:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "915030545b5f",
+        "title": "Meteorology reduces the warning to an alert and expects continued thunderstorms and warns of hot weather",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423047",
+        "published_date": "2026-05-07T11:15:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c0885d22fb1",
+        "title": "The poultry sector in the Capital Secretariat Chamber explains about local poultry and the method of producing it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423038",
+        "published_date": "2026-05-07T10:08:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6f8964fc205a",
         "title": "First Division League: a win in Sanaa and a draw in Marib",
@@ -284,7 +308,7 @@
       },
       {
         "_id": "42a2514dd7ff",
-        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
+        "title": "Meteorology warns of torrential rains, rockslides, and mudslides, and advises not to be near tall trees",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422962",
         "published_date": "2026-05-05T09:28:45Z",
@@ -320,38 +344,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422938",
         "published_date": "2026-05-04T15:26:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "996bc35d3f24",
-        "title": "“Photos”... Popular campaigns to clean the May 22 Stadium in Ibb amid the absence of the role of the local authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422928",
-        "published_date": "2026-05-04T12:39:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c6b32fff570",
-        "title": "Marib: Tension between African immigrants and fistfights amid residents’ fears",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422914",
-        "published_date": "2026-05-04T10:05:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f1aece39c469",
-        "title": "Meteorology: The opportunity is ripe for cumulonimbus clouds to form and more thunderstorms are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422911",
-        "published_date": "2026-05-04T09:41:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c2ba27588e4c",
-        "title": "Conclusion of the matches of the first week of the Yemeni First Division League for the 2026 season",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422898",
-        "published_date": "2026-05-03T23:02:11Z",
         "category": "Local Events"
       }
     ]
