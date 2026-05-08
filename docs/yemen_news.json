@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-07T23:57:46Z",
+  "last_updated": "2026-05-08T12:13:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4178390c3144",
+        "title": "The danger of the policy of ignorance and impoverishment of society pursued by the de facto authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423092",
+        "published_date": "2026-05-08T11:21:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "084e9bb5d63d",
         "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
@@ -97,14 +105,6 @@
         "url": "https://yemenat.net/archives/422953",
         "published_date": "2026-05-04T20:23:00Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0a12f54cd20a",
-        "title": "Navigational data: Dozens of ships crossed the Strait of Hormuz in violation of the US decision to blockade Iranian ports",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422886",
-        "published_date": "2026-05-03T21:22:15Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -135,6 +135,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "ad50061817dc",
+        "title": "Artist Shahira Hassan Abu Ghanima represents Arab art at the Vienna Summer Art Exhibition 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423089",
+        "published_date": "2026-05-08T10:58:12Z",
+        "category": "Economy"
+      },
       {
         "_id": "a2678775b5f2",
         "title": "The Transitional Council announces the change of its name, and the President addresses the Council’s leadership: “The State of South Arabia is an absurd name.”",
@@ -185,6 +193,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "bdb295692fb9",
+        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423094",
+        "published_date": "2026-05-08T12:00:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f125963aaf2e",
+        "title": "Meteorology raises the alert level to warning again and expects more rainfall and warns of hot weather",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423086",
+        "published_date": "2026-05-08T10:26:11Z",
+        "category": "Local Events"
+      },
       {
         "_id": "76dda1f2a713",
         "title": "Yemenia announces the resumption of its flights to Al-Ghaydah Airport",
@@ -327,22 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422962",
         "published_date": "2026-05-05T09:28:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dff7b35ba860",
-        "title": "In the absence of accurate environmental studies, a dead whale was found on the eastern coast of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422958",
-        "published_date": "2026-05-04T23:11:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "52137b82699b",
-        "title": "The Yemeni Football Association approves the schedule of the remaining matches of the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422948",
-        "published_date": "2026-05-04T19:45:34Z",
         "category": "Local Events"
       }
     ]
