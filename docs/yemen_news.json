@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-09T00:00:15Z",
+  "last_updated": "2026-05-09T11:57:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -28,7 +28,7 @@
       },
       {
         "_id": "084e9bb5d63d",
-        "title": "The war failed...and the last way to save Yemen is through the dialogue table",
+        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423067",
         "published_date": "2026-05-07T19:32:05Z",
@@ -182,28 +182,52 @@
         "url": "https://yemenat.net/archives/422981",
         "published_date": "2026-05-05T20:00:11Z",
         "category": "Economy"
-      },
-      {
-        "_id": "3cd1fdea2816",
-        "title": "Al-Maqaleh: An authority that defends the unity of the Islamic world and neglects Yemeni unity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422923",
-        "published_date": "2026-05-04T11:32:17Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f5a3f4d31e73",
-        "title": "Sana'a University clarifies the news of the death of a student inside the electronic testing center",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422918",
-        "published_date": "2026-05-04T10:51:53Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "adae4961a2f1",
+        "title": "Average gold prices in Sanaa and Aden on Saturday, May 9, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423118",
+        "published_date": "2026-05-09T11:55:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2fdc94c38416",
+        "title": "A tribal sheikh and his son were killed in an ambush in Amran Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423113",
+        "published_date": "2026-05-09T11:23:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "246a3e5d6cc4",
+        "title": "Sanaa.. Launch of the Asian License Diploma Course (B) for football coaches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423111",
+        "published_date": "2026-05-09T10:54:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fa191c5d2e74",
+        "title": "Tribal sectors return to Marib.. Preventing the entry and exit of gas trailers to and from the Safer gas facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423109",
+        "published_date": "2026-05-09T10:17:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "55312a643c3a",
+        "title": "Meteorology: The atmosphere continues to be unstable and more monsoon rains are expected",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423106",
+        "published_date": "2026-05-09T09:45:25Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
@@ -319,46 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422989",
         "published_date": "2026-05-05T21:15:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3ba532b3fd11",
-        "title": "After his release, journalist Al-Samadi narrates how a security force stormed his house in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422983",
-        "published_date": "2026-05-05T20:37:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "11b42c7015a8",
-        "title": "An earthquake strikes Ma'rib Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422977",
-        "published_date": "2026-05-05T16:18:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5af4a96cc0e6",
-        "title": "Aden: endless love... and Al-Mualla are harbors for the soul and the self",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422972",
-        "published_date": "2026-05-05T13:05:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0d806c31c11c",
-        "title": "Partial collapse of a house in Old Sanaa, injuring its owner",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422969",
-        "published_date": "2026-05-05T10:54:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "42a2514dd7ff",
-        "title": "Meteorology warns of torrential flows, rockslides, and mudslides, and advises not to be near tall trees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422962",
-        "published_date": "2026-05-05T09:28:45Z",
         "category": "Local Events"
       }
     ]
