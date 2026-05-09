@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-08T12:13:24Z",
+  "last_updated": "2026-05-09T00:00:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,14 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "2fb0c2db3092",
+        "title": "Three were decided by victory, and the people of Hadhramaut are in the lead... The second week of the first division league concludes with four matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423102",
+        "published_date": "2026-05-08T16:01:40Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "4178390c3144",
         "title": "The danger of the policy of ignorance and impoverishment of society pursued by the de facto authority",
         "source": "Yemenat",
@@ -20,7 +28,7 @@
       },
       {
         "_id": "084e9bb5d63d",
-        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
+        "title": "The war failed...and the last way to save Yemen is through the dialogue table",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423067",
         "published_date": "2026-05-07T19:32:05Z",
@@ -109,6 +117,14 @@
     ],
     "Military": [
       {
+        "_id": "51b8e38ae410",
+        "title": "Calls to strengthen professional solidarity in the Yemeni press to confront the division",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423098",
+        "published_date": "2026-05-08T14:49:33Z",
+        "category": "Military"
+      },
+      {
         "_id": "bf8fe3f64e3f",
         "title": "Al-Sami’i addressing the police intelligence service: Release the symptoms of the Yemenis",
         "source": "Yemenat",
@@ -122,14 +138,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422941",
         "published_date": "2026-05-04T17:54:52Z",
-        "category": "Military"
-      },
-      {
-        "_id": "f96dae0f13d3",
-        "title": "“Document”... a recall of a historical stage in which Yemen lived a defining moment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422908",
-        "published_date": "2026-05-04T09:21:57Z",
         "category": "Military"
       }
     ],
@@ -195,7 +203,7 @@
     "Local Events": [
       {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
