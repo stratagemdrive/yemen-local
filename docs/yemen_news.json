@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-09T11:57:32Z",
+  "last_updated": "2026-05-09T23:55:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -28,7 +28,7 @@
       },
       {
         "_id": "084e9bb5d63d",
-        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
+        "title": "The war failed...and the last way to save Yemen is through the dialogue table",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423067",
         "published_date": "2026-05-07T19:32:05Z",
@@ -105,14 +105,6 @@
         "url": "https://yemenat.net/archives/422964",
         "published_date": "2026-05-05T09:59:56Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0f03aa163ea1",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to allow Dr. Ibrahim Al-Houthi to travel for treatment via United Nations airfare",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422953",
-        "published_date": "2026-05-04T20:23:00Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -131,18 +123,26 @@
         "url": "https://yemenat.net/archives/423026",
         "published_date": "2026-05-06T16:50:12Z",
         "category": "Military"
-      },
-      {
-        "_id": "e57a28c30372",
-        "title": "A marine accident and fire in the Emirates, a Korean statement and another from Fujairah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422941",
-        "published_date": "2026-05-04T17:54:52Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "765119c1a70d",
+        "title": "The listening team criticizes the disposal of the lands of the Solidarity Bank in Sana'a and wonders: Is it a process of nationalization?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423132",
+        "published_date": "2026-05-09T16:29:31Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "1b98be977547",
+        "title": "Another word",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423129",
+        "published_date": "2026-05-09T15:29:21Z",
+        "category": "Economy"
+      },
       {
         "_id": "ad50061817dc",
         "title": "Artist Shahira Hassan Abu Ghanima represents Arab art at the Vienna Summer Art Exhibition 2026",
@@ -186,6 +186,46 @@
     ],
     "Local Events": [
       {
+        "_id": "c4485b721834",
+        "title": "A wide celebration of the return of Al-Tilal Al-Adani team to Sanaa after 12 years of absence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423141",
+        "published_date": "2026-05-09T21:50:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2ce44fa9ec14",
+        "title": "Aden.. The Central Bank warns against engaging in the disposal of real estate belonging to an Islamic bank in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423138",
+        "published_date": "2026-05-09T20:11:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "95095343c81a",
+        "title": "Four teams qualify for the “32nd” round in the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423134",
+        "published_date": "2026-05-09T18:11:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7cd7ef271f6d",
+        "title": "Qat closes the main road between Sanaa and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423126",
+        "published_date": "2026-05-09T14:57:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d2a32899af43",
+        "title": "Three technicians died by electric shock west of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423120",
+        "published_date": "2026-05-09T12:13:43Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "adae4961a2f1",
         "title": "Average gold prices in Sanaa and Aden on Saturday, May 9, 2026",
         "source": "Yemenat",
@@ -227,7 +267,7 @@
       },
       {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
@@ -303,46 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423021",
         "published_date": "2026-05-06T16:08:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b63e80afe731",
-        "title": "Yemeni intellectuals appeal to the Chairman of the Presidential Leadership Council to provide a medical grant for the freedom fighter Abdul-Ghani Thabet",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423018",
-        "published_date": "2026-05-06T15:40:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dec7b8d21567",
-        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423016",
-        "published_date": "2026-05-06T12:45:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "900b6fea272a",
-        "title": "Meteorology: The opportunity is ripe for cumulonimbus clouds to form over the western highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423011",
-        "published_date": "2026-05-06T12:08:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88e585657abe",
-        "title": "The second week of the first division football league begins with two matches in Marib and Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423007",
-        "published_date": "2026-05-06T11:06:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dc8831cef46c",
-        "title": "Yemeni intellectuals demand that the Sanaa authority and the local authority in Ibb arrest those whom the journalist Al-Adini accused of poisoning him.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422989",
-        "published_date": "2026-05-05T21:15:56Z",
         "category": "Local Events"
       }
     ]
