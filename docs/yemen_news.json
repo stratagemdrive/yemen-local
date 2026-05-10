@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-10T11:57:52Z",
+  "last_updated": "2026-05-10T23:57:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "6cb11cf75ef5",
+        "title": "UN report: Fuel and food imports to Aden and Mukalla have declined, and reserves are not enough for three months",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423180",
+        "published_date": "2026-05-10T21:34:06Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4d60aedcf934",
+        "title": "Ahmed Saif Hashid... Light prevailed in a time of darkness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423169",
+        "published_date": "2026-05-10T20:24:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "aa3a17a611a9",
+        "title": "The Yemeni junior team wins over its Emirati counterpart",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423156",
+        "published_date": "2026-05-10T18:48:31Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e9015230b39e",
         "title": "A match in the Republic Cup was postponed due to the delay in arriving in Taiz",
@@ -73,33 +97,17 @@
         "url": "https://yemenat.net/archives/423005",
         "published_date": "2026-05-06T00:12:38Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ec000d4a6c6c",
-        "title": "Document.. An attack on a company’s headquarters and the arrest of its deputy director due to opposition to a shipment of potato seeds contaminated with a dangerous disease, and a statement revealing the dangers of the shipment.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423001",
-        "published_date": "2026-05-05T23:20:24Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "427d3b050a94",
-        "title": "The Secretary-General of the Journalists Syndicate reviews the challenges of journalism in Yemen before the International Federation of Journalists conference",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422998",
-        "published_date": "2026-05-05T22:10:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "22e895902e8f",
-        "title": "Growing indicators of the resumption of the US-Israeli war on Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422993",
-        "published_date": "2026-05-05T21:52:02Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "098d36ed7183",
+        "title": "Barcelona defeats Real Madrid and advances to the La Liga title",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423172",
+        "published_date": "2026-05-10T20:45:47Z",
+        "category": "Military"
+      },
       {
         "_id": "51b8e38ae410",
         "title": "Calls to strengthen professional solidarity in the Yemeni press to confront the division",
@@ -166,17 +174,49 @@
         "url": "https://yemenat.net/archives/423070",
         "published_date": "2026-05-07T20:03:09Z",
         "category": "Economy"
-      },
-      {
-        "_id": "becc0baff0d2",
-        "title": "Yemenia cancels one of its flights next Thursday and reschedules its itinerary",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422981",
-        "published_date": "2026-05-05T20:00:11Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4a90d092e770",
+        "title": "Republic Cup.. The people of Sanaa qualify for the “32nd” round",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423187",
+        "published_date": "2026-05-10T22:24:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8c38fc87627e",
+        "title": "Transitional forces leave the largest military base in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423183",
+        "published_date": "2026-05-10T22:11:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae091ea905bc",
+        "title": "Smuggling Africans causes casualties among smugglers in Abyan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423165",
+        "published_date": "2026-05-10T20:01:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "db863b5aa2f2",
+        "title": "Five Yemeni expatriates died in Saudi Arabia in a fire that broke out in a commercial warehouse",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423160",
+        "published_date": "2026-05-10T19:15:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4d24e065b252",
+        "title": "Aden.. A residential building fire in Al-Mualla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423152",
+        "published_date": "2026-05-10T12:12:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0baaec29509d",
         "title": "Violent clashes between two tribes in Marib",
@@ -267,7 +307,7 @@
       },
       {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
@@ -295,46 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423058",
         "published_date": "2026-05-07T14:00:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81c083114662",
-        "title": "Dhamar...an unusual snake that causes terror in one of the villages of Ans",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423053",
-        "published_date": "2026-05-07T12:56:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0cd1f6b6f5c3",
-        "title": "Al-Sami discusses with the leadership of the Capital Municipality the mechanism for preparing a plan for development projects",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423050",
-        "published_date": "2026-05-07T11:45:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "915030545b5f",
-        "title": "Meteorology reduces the warning to an alert and expects continued thunderstorms and warns of hot weather",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423047",
-        "published_date": "2026-05-07T11:15:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1c0885d22fb1",
-        "title": "The poultry sector in the Capital Secretariat Chamber explains about local poultry and the method of producing it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423038",
-        "published_date": "2026-05-07T10:08:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6f8964fc205a",
-        "title": "First Division League: a win in Sanaa and a draw in Marib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423029",
-        "published_date": "2026-05-06T17:46:14Z",
         "category": "Local Events"
       }
     ]
