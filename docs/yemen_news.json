@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-09T23:55:26Z",
+  "last_updated": "2026-05-10T11:57:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e9015230b39e",
+        "title": "A match in the Republic Cup was postponed due to the delay in arriving in Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423149",
+        "published_date": "2026-05-10T11:26:30Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2fb0c2db3092",
         "title": "Three were decided by victory, and the people of Hadhramaut are in the lead... The second week of the first division league concludes with four matches",
@@ -88,22 +96,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/422993",
         "published_date": "2026-05-05T21:52:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "aaf8a3e19132",
-        "title": "Is Himyarite really a different language from Arabic?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422966",
-        "published_date": "2026-05-05T10:14:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4d32410b9eda",
-        "title": "Onomatopoeia in the poetic text according to Nizar Qabbani: An analytical stylistic approach (a theoretical and applied study of the poem “Bilqis”)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/422964",
-        "published_date": "2026-05-05T09:59:56Z",
         "category": "Diplomacy"
       }
     ],
@@ -186,6 +178,14 @@
     ],
     "Local Events": [
       {
+        "_id": "0baaec29509d",
+        "title": "Violent clashes between two tribes in Marib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423146",
+        "published_date": "2026-05-10T10:46:40Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "c4485b721834",
         "title": "A wide celebration of the return of Al-Tilal Al-Adani team to Sanaa after 12 years of absence",
         "source": "Yemenat",
@@ -267,7 +267,7 @@
       },
       {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
@@ -335,14 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423029",
         "published_date": "2026-05-06T17:46:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ccc305a3fc9d",
-        "title": "Aden.. The Ministry of Education sets the date for the start of high school exams and issues exam schedules",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423021",
-        "published_date": "2026-05-06T16:08:30Z",
         "category": "Local Events"
       }
     ]
