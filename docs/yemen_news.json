@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-10T23:57:41Z",
+  "last_updated": "2026-05-11T13:50:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -12,7 +12,7 @@
     "Diplomacy": [
       {
         "_id": "6cb11cf75ef5",
-        "title": "UN report: Fuel and food imports to Aden and Mukalla have declined, and reserves are not enough for three months",
+        "title": "UN report: Fuel and food imports to Aden and Mukalla have declined, and reserves are not sufficient for three months",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423180",
         "published_date": "2026-05-10T21:34:06Z",
@@ -88,14 +88,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423032",
         "published_date": "2026-05-06T18:19:12Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d589239524b3",
-        "title": "The hearing team calls for the release of Al-Arasa and stresses that achieving justice is a national necessity for the stability of society",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423005",
-        "published_date": "2026-05-06T00:12:38Z",
         "category": "Diplomacy"
       }
     ],
@@ -177,6 +169,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "e10984c02447",
+        "title": "A fire engulfs a commercial store in Hodeidah, and the flames reach neighboring stores",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423192",
+        "published_date": "2026-05-11T11:49:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d18419607a75",
+        "title": "Sanaa.. The Central Bank stops dealing with five exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423190",
+        "published_date": "2026-05-11T11:17:01Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4a90d092e770",
         "title": "Republic Cup.. The people of Sanaa qualify for the “32nd” round",
@@ -307,7 +315,7 @@
       },
       {
         "_id": "bdb295692fb9",
-        "title": "In Al-Turbah, Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
+        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423094",
         "published_date": "2026-05-08T12:00:54Z",
@@ -319,22 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423086",
         "published_date": "2026-05-08T10:26:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "76dda1f2a713",
-        "title": "Yemenia announces the resumption of its flights to Al-Ghaydah Airport",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423079",
-        "published_date": "2026-05-07T20:56:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3f26224907a8",
-        "title": "The Sami Group: A group from a village in Saada Governorate that runs the country as if it were private property",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423058",
-        "published_date": "2026-05-07T14:00:41Z",
         "category": "Local Events"
       }
     ]
