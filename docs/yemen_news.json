@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-11T13:50:38Z",
+  "last_updated": "2026-05-12T00:03:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4b89466a3618",
+        "title": "The listening team calls on Egypt and prominent Arab countries to intervene to foster a comprehensive national reconciliation between the Yemenis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423195",
+        "published_date": "2026-05-11T14:43:50Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "6cb11cf75ef5",
         "title": "UN report: Fuel and food imports to Aden and Mukalla have declined, and reserves are not sufficient for three months",
@@ -60,7 +68,7 @@
       },
       {
         "_id": "084e9bb5d63d",
-        "title": "The war failed...and the last way to save Yemen is through the dialogue table",
+        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423067",
         "published_date": "2026-05-07T19:32:05Z",
@@ -106,14 +114,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423098",
         "published_date": "2026-05-08T14:49:33Z",
-        "category": "Military"
-      },
-      {
-        "_id": "bf8fe3f64e3f",
-        "title": "Al-Sami’i addressing the police intelligence service: Release the symptoms of the Yemenis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423026",
-        "published_date": "2026-05-06T16:50:12Z",
         "category": "Military"
       }
     ],
@@ -169,6 +169,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "f322f33ee49d",
+        "title": "Seven houses burn within three days in four Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423217",
+        "published_date": "2026-05-11T22:53:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81a64008c3a2",
+        "title": "“Video”... A soldier burns himself in Marib to protest the theft of his dues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423210",
+        "published_date": "2026-05-11T21:17:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44db1d88b102",
+        "title": "Aden Electricity holds the Hadhramaut authorities responsible for the electricity system being out of service",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423205",
+        "published_date": "2026-05-11T20:50:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "292ec6249b02",
+        "title": "Republic Cup: Three other teams qualified for the round of 32",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423202",
+        "published_date": "2026-05-11T16:01:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ac39c01b5e71",
+        "title": "Issam Mashhour... When Al-Mualla is a homeland and Al-Rafiq is a father",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423199",
+        "published_date": "2026-05-11T15:41:27Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e10984c02447",
         "title": "A fire engulfs a commercial store in Hodeidah, and the flames reach neighboring stores",
@@ -287,46 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423113",
         "published_date": "2026-05-09T11:23:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "246a3e5d6cc4",
-        "title": "Sanaa.. Launch of the Asian License Diploma Course (B) for football coaches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423111",
-        "published_date": "2026-05-09T10:54:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fa191c5d2e74",
-        "title": "Tribal sectors return to Marib.. Preventing the entry and exit of gas trailers to and from the Safer gas facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423109",
-        "published_date": "2026-05-09T10:17:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "55312a643c3a",
-        "title": "Meteorology: The atmosphere continues to be unstable and more monsoon rains are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423106",
-        "published_date": "2026-05-09T09:45:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bdb295692fb9",
-        "title": "In Al-Turbah in Taiz, in protest against harassment.. A citizen burned his goods, and the fire reached his body",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423094",
-        "published_date": "2026-05-08T12:00:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f125963aaf2e",
-        "title": "Meteorology raises the alert level to warning again and expects more rainfall and warns of hot weather",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423086",
-        "published_date": "2026-05-08T10:26:11Z",
         "category": "Local Events"
       }
     ]
