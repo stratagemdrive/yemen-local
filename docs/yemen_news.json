@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-12T00:03:53Z",
+  "last_updated": "2026-05-12T13:09:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,25 +81,17 @@
         "url": "https://yemenat.net/archives/423061",
         "published_date": "2026-05-07T18:55:15Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "11d17e542e80",
-        "title": "An international resolution to support Yemeni journalists and hold those involved in violations accountable",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423043",
-        "published_date": "2026-05-07T10:39:38Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "70c74b72f474",
-        "title": "Abdel-Hay Krait signs his book (Echoes of the Flood) at the book fair in Rabat",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423032",
-        "published_date": "2026-05-06T18:19:12Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "e808ec4bc237",
+        "title": "About a night when the sea burned...a story of survival from the bombing of Ras Issa facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423229",
+        "published_date": "2026-05-12T10:27:30Z",
+        "category": "Military"
+      },
       {
         "_id": "098d36ed7183",
         "title": "Barcelona defeats Real Madrid and advances to the La Liga title",
@@ -119,6 +111,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "b0b765172092",
+        "title": "Pilgrims postpone a trip to Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423235",
+        "published_date": "2026-05-12T13:00:45Z",
+        "category": "Economy"
+      },
       {
         "_id": "765119c1a70d",
         "title": "The listening team criticizes the disposal of the lands of the Solidarity Bank in Sana'a and wonders: Is it a process of nationalization?",
@@ -169,6 +169,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "c88cc8d2becc",
+        "title": "Tomorrow.. the start of the matches of the third week of the first-leg football league “match schedule”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423232",
+        "published_date": "2026-05-12T12:11:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9097b8f08476",
+        "title": "An earthquake was recorded in Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423222",
+        "published_date": "2026-05-12T10:03:05Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f322f33ee49d",
         "title": "Seven houses burn within three days in four Yemeni governorates",
@@ -311,22 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423120",
         "published_date": "2026-05-09T12:13:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "adae4961a2f1",
-        "title": "Average gold prices in Sanaa and Aden on Saturday, May 9, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423118",
-        "published_date": "2026-05-09T11:55:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2fdc94c38416",
-        "title": "A tribal sheikh and his son were killed in an ambush in Amran Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423113",
-        "published_date": "2026-05-09T11:23:21Z",
         "category": "Local Events"
       }
     ]
