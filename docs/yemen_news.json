@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-12T13:09:34Z",
+  "last_updated": "2026-05-13T00:05:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,14 +72,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423067",
         "published_date": "2026-05-07T19:32:05Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "655d9d5643d7",
-        "title": "Al-Orouba defeats Al-Ahly Sanaa in an exciting match at Al-Zarafi Stadium",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423061",
-        "published_date": "2026-05-07T18:55:15Z",
         "category": "Diplomacy"
       }
     ],
@@ -169,6 +161,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "a638cadf5322",
+        "title": "The hearing team: Hamed closed the offices of the members of the highest political office in the presidency and prevented them from entering the Officers Club",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423249",
+        "published_date": "2026-05-12T16:01:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5c225899ceda",
+        "title": "The Higher Institute of Health Sciences in Marib celebrates International Nurses Day and stresses the importance of the profession’s humanitarian message",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423246",
+        "published_date": "2026-05-12T14:49:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "39ebdec86a63",
+        "title": "Sanaa.. A huge fire devours the tin homes and tents of marginalized people in Maeen District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423242",
+        "published_date": "2026-05-12T14:30:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f7643ef7609e",
+        "title": "Sanaa.. The Money Exchange Association issued a circular to stop dealing with Al-Haddad",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423238",
+        "published_date": "2026-05-12T13:28:14Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c88cc8d2becc",
         "title": "Tomorrow.. the start of the matches of the third week of the first-leg football league “match schedule”",
@@ -295,38 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423141",
         "published_date": "2026-05-09T21:50:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2ce44fa9ec14",
-        "title": "Aden.. The Central Bank warns against engaging in the disposal of real estate belonging to an Islamic bank in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423138",
-        "published_date": "2026-05-09T20:11:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "95095343c81a",
-        "title": "Four teams qualify for the “32nd” round in the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423134",
-        "published_date": "2026-05-09T18:11:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7cd7ef271f6d",
-        "title": "Qat closes the main road between Sanaa and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423126",
-        "published_date": "2026-05-09T14:57:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d2a32899af43",
-        "title": "Three technicians died by electric shock west of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423120",
-        "published_date": "2026-05-09T12:13:43Z",
         "category": "Local Events"
       }
     ]
