@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-13T00:05:07Z",
+  "last_updated": "2026-05-13T13:21:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "64e81737fe06",
+        "title": "The Competitions Committee of the Yemeni Football Federation takes penalties against violators and issues circulars regarding weapons, qat, and photographers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423254",
+        "published_date": "2026-05-13T09:59:11Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4b89466a3618",
         "title": "The listening team calls on Egypt and prominent Arab countries to intervene to foster a comprehensive national reconciliation between the Yemenis",
@@ -64,14 +72,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423092",
         "published_date": "2026-05-08T11:21:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "084e9bb5d63d",
-        "title": "The war has failed...and the last way to save Yemen is through the dialogue table",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423067",
-        "published_date": "2026-05-07T19:32:05Z",
         "category": "Diplomacy"
       }
     ],
@@ -134,33 +134,49 @@
         "url": "https://yemenat.net/archives/423089",
         "published_date": "2026-05-08T10:58:12Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a2678775b5f2",
-        "title": "The Transitional Council announces the change of its name, and the President addresses the Council’s leadership: “The State of South Arabia is an absurd name.”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423082",
-        "published_date": "2026-05-07T22:53:26Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "520d8ad43eb4",
-        "title": "Iranian media: An exchange of fire in the Strait of Hormuz and a commercial pier damaged",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423072",
-        "published_date": "2026-05-07T20:37:53Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "ca7a13d00c27",
-        "title": "Parliamentarian Bisher: The positions of the listening team are clear before and after",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423070",
-        "published_date": "2026-05-07T20:03:09Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "3ab4cdae6471",
+        "title": "The illusion of separation and the reality of the 99.9%: the human genome as a constitution for unity, survival, and respect for human rights",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423265",
+        "published_date": "2026-05-13T12:17:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a3f064ce9575",
+        "title": "The truth about millions... and where did the idea come from?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423262",
+        "published_date": "2026-05-13T12:10:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7c05ca90ac8e",
+        "title": "Sanaa.. Civil Defense reveals the extent of the human and material losses of the Muhamasheen camp fire in Maeen District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423259",
+        "published_date": "2026-05-13T11:39:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4495252bfc52",
+        "title": "A traffic accident kills two soldiers at the eastern entrance to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423256",
+        "published_date": "2026-05-13T10:29:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "53abf132e2a2",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423252",
+        "published_date": "2026-05-13T09:21:18Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a638cadf5322",
         "title": "The hearing team: Hamed closed the offices of the members of the highest political office in the presidency and prevented them from entering the Officers Club",
@@ -279,46 +295,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423183",
         "published_date": "2026-05-10T22:11:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae091ea905bc",
-        "title": "Smuggling Africans causes casualties among smugglers in Abyan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423165",
-        "published_date": "2026-05-10T20:01:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "db863b5aa2f2",
-        "title": "Five Yemeni expatriates died in Saudi Arabia in a fire that broke out in a commercial warehouse",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423160",
-        "published_date": "2026-05-10T19:15:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4d24e065b252",
-        "title": "Aden.. A residential building fire in Al-Mualla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423152",
-        "published_date": "2026-05-10T12:12:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0baaec29509d",
-        "title": "Violent clashes between two tribes in Marib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423146",
-        "published_date": "2026-05-10T10:46:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c4485b721834",
-        "title": "A wide celebration of the return of Al-Tilal Al-Adani team to Sanaa after 12 years of absence",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423141",
-        "published_date": "2026-05-09T21:50:27Z",
         "category": "Local Events"
       }
     ]
