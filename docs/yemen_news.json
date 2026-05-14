@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-14T00:06:35Z",
+  "last_updated": "2026-05-14T12:58:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -69,6 +69,14 @@
     ],
     "Military": [
       {
+        "_id": "79e45e9cc903",
+        "title": "An explosion and heavy exchange of fire in the vicinity of the Abyan Appeals Court",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423276",
+        "published_date": "2026-05-14T09:03:14Z",
+        "category": "Military"
+      },
+      {
         "_id": "e808ec4bc237",
         "title": "About a night when the sea burned...a story of survival from the bombing of Ras Issa facilities",
         "source": "Yemenat",
@@ -82,14 +90,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423172",
         "published_date": "2026-05-10T20:45:47Z",
-        "category": "Military"
-      },
-      {
-        "_id": "51b8e38ae410",
-        "title": "Calls to strengthen professional solidarity in the Yemeni press to confront the division",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423098",
-        "published_date": "2026-05-08T14:49:33Z",
         "category": "Military"
       }
     ],
@@ -121,6 +121,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "0ccfc0c7a183",
+        "title": "The Yemeni national team bid farewell to the Asian Junior Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423280",
+        "published_date": "2026-05-14T09:29:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "da04f011a344",
         "title": "A win and a draw at the start of the third round of the first-leg round",
@@ -271,14 +279,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423192",
         "published_date": "2026-05-11T11:49:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d18419607a75",
-        "title": "Sanaa.. The Central Bank stops dealing with five exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423190",
-        "published_date": "2026-05-11T11:17:01Z",
         "category": "Local Events"
       }
     ]
