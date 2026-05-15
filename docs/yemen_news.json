@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-15T12:59:15Z",
+  "last_updated": "2026-05-15T23:58:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "aa1710148a1c",
+        "title": "Preliminary statistics on the number of victims of the horrific traffic accident in Al-Abr in Hadramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423330",
+        "published_date": "2026-05-15T22:41:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "057ea65f2ac8",
         "title": "About the agreement that the Yemenis are waiting for",
@@ -28,7 +36,7 @@
       },
       {
         "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and a joint committee regarding Qahtan.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
@@ -73,17 +81,17 @@
         "url": "https://yemenat.net/archives/423156",
         "published_date": "2026-05-10T18:48:31Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e9015230b39e",
-        "title": "A match in the Republic Cup was postponed due to the delay in arriving in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423149",
-        "published_date": "2026-05-10T11:26:30Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "1946b67b4c9b",
+        "title": "Hadhramaut.. A horrific traffic accident leaves dozens dead and wounded",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423320",
+        "published_date": "2026-05-15T20:52:32Z",
+        "category": "Military"
+      },
       {
         "_id": "1f7cff7c139e",
         "title": "The Southern Issue: It is time for Al-Hakim’s missing scalpel to appear",
@@ -134,17 +142,49 @@
         "url": "https://yemenat.net/archives/423235",
         "published_date": "2026-05-12T13:00:45Z",
         "category": "Economy"
-      },
-      {
-        "_id": "765119c1a70d",
-        "title": "The listening team criticizes the disposal of the lands of the Solidarity Bank in Sana'a and wonders: Is it a process of nationalization?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423132",
-        "published_date": "2026-05-09T16:29:31Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "6d5b8236c0f1",
+        "title": "(Echoes of the Flood) by Abd al-Hayy Karit... a writing from within the experience, not from outside it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423327",
+        "published_date": "2026-05-15T21:47:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f759fd7c173",
+        "title": "First Division League.. The third round concluded with a victory for Al-Tadamon and intense competition for the top spot between three teams",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423323",
+        "published_date": "2026-05-15T21:33:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a8c4e109e254",
+        "title": "To the Wadi'i wedding drum",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423317",
+        "published_date": "2026-05-15T20:36:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9d02507d8757",
+        "title": "Sanaa.. Arrest of journalist Ahmed Al-Maksh",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423313",
+        "published_date": "2026-05-15T14:34:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "13bd155936aa",
+        "title": "Meteorology: Volatile and hot weather, warning to citizens in deserts and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423311",
+        "published_date": "2026-05-15T13:17:36Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d7cecfa5d5d0",
         "title": "Two earthquakes were recorded in Dhamar Governorate",
@@ -263,46 +303,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423242",
         "published_date": "2026-05-12T14:30:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f7643ef7609e",
-        "title": "Sanaa.. The Money Exchange Association issued a circular to stop dealing with Al-Haddad",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423238",
-        "published_date": "2026-05-12T13:28:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c88cc8d2becc",
-        "title": "Tomorrow.. the start of the matches of the third week of the first-leg football league “match schedule”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423232",
-        "published_date": "2026-05-12T12:11:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9097b8f08476",
-        "title": "An earthquake was recorded in Dhamar Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423222",
-        "published_date": "2026-05-12T10:03:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f322f33ee49d",
-        "title": "Seven houses burn within three days in four Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423217",
-        "published_date": "2026-05-11T22:53:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81a64008c3a2",
-        "title": "“Video”... A soldier burns himself in Marib to protest the theft of his dues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423210",
-        "published_date": "2026-05-11T21:17:33Z",
         "category": "Local Events"
       }
     ]
