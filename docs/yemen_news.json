@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-14T12:58:18Z",
+  "last_updated": "2026-05-15T00:01:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "8be5ff0bbeba",
+        "title": "The UN envoy describes the detainee exchange agreement in Yemen as “unprecedented” and reveals the period of negotiation that preceded the agreement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423296",
+        "published_date": "2026-05-14T21:28:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f70152ccd623",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423288",
+        "published_date": "2026-05-14T20:19:47Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "64e81737fe06",
         "title": "The Competitions Committee of the Yemeni Football Federation takes penalties against violators and issues circulars regarding weapons, qat, and photographers",
@@ -57,17 +73,25 @@
         "url": "https://yemenat.net/archives/423149",
         "published_date": "2026-05-10T11:26:30Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "2fb0c2db3092",
-        "title": "Three were decided by victory, and the people of Hadhramaut are in the lead... The second week of the first division league concludes with four matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423102",
-        "published_date": "2026-05-08T16:01:40Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "1f7cff7c139e",
+        "title": "The Southern Issue: It is time for Al-Hakim’s missing scalpel to appear",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423301",
+        "published_date": "2026-05-14T21:37:40Z",
+        "category": "Military"
+      },
+      {
+        "_id": "f724450b414a",
+        "title": "First Division League: Four matches were decided by victory, and the people of Hadramaut cling to the lead",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423293",
+        "published_date": "2026-05-14T20:38:08Z",
+        "category": "Military"
+      },
       {
         "_id": "79e45e9cc903",
         "title": "An explosion and heavy exchange of fire in the vicinity of the Abyan Appeals Court",
@@ -121,6 +145,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "d7cecfa5d5d0",
+        "title": "Two earthquakes were recorded in Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423303",
+        "published_date": "2026-05-14T22:06:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "65d3cad34fdb",
+        "title": "Hajj Mahmoud my time",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423298",
+        "published_date": "2026-05-14T21:35:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6f34e421e627",
+        "title": "A security force closes the Passport Authority branch in Aden amid a strike by employees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423285",
+        "published_date": "2026-05-14T19:51:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d78dcf77f85",
+        "title": "The city of Taiz faces summer thirst: the war disrupts 88 wells",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423283",
+        "published_date": "2026-05-14T19:25:42Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0ccfc0c7a183",
         "title": "The Yemeni national team bid farewell to the Asian Junior Cup",
@@ -247,38 +303,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423210",
         "published_date": "2026-05-11T21:17:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44db1d88b102",
-        "title": "Aden Electricity holds the Hadhramaut authorities responsible for the electricity system being out of service",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423205",
-        "published_date": "2026-05-11T20:50:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "292ec6249b02",
-        "title": "Republic Cup: Three other teams qualified for the round of 32",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423202",
-        "published_date": "2026-05-11T16:01:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac39c01b5e71",
-        "title": "Issam Mashhour... When Al-Mualla is a homeland and Al-Rafiq is a father",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423199",
-        "published_date": "2026-05-11T15:41:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e10984c02447",
-        "title": "A fire engulfs a commercial store in Hodeidah, and the flames reach neighboring stores",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423192",
-        "published_date": "2026-05-11T11:49:44Z",
         "category": "Local Events"
       }
     ]
