@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-15T00:01:41Z",
+  "last_updated": "2026-05-15T12:59:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "057ea65f2ac8",
+        "title": "About the agreement that the Yemenis are waiting for",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423306",
+        "published_date": "2026-05-15T12:45:30Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "8be5ff0bbeba",
         "title": "The UN envoy describes the detainee exchange agreement in Yemen as “unprecedented” and reveals the period of negotiation that preceded the agreement",
@@ -133,14 +141,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423132",
         "published_date": "2026-05-09T16:29:31Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "1b98be977547",
-        "title": "Another word",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423129",
-        "published_date": "2026-05-09T15:29:21Z",
         "category": "Economy"
       }
     ],
