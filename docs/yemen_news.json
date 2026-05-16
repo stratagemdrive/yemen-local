@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-16T11:56:56Z",
+  "last_updated": "2026-05-16T23:59:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1d2dbde419ec",
+        "title": "Woman from the Shadow of Ashes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423368",
+        "published_date": "2026-05-16T19:34:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3498a20ab337",
+        "title": "Sanaa.. A journalist is subjected to death threats from the owner of the house and calls on the authorities to protect him and his family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423360",
+        "published_date": "2026-05-16T18:16:20Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "174e3af1ab7a",
+        "title": "Ahmed Saif Hashid: The groaning of the homeland",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423356",
+        "published_date": "2026-05-16T15:54:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "acfb89fc9b8a",
+        "title": "A camel causes a horrific traffic accident in which dozens of victims are killed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423344",
+        "published_date": "2026-05-16T12:32:07Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "a38c9a04a40c",
         "title": "Sanaa.. The Prisoners’ Affairs Committee clarifies the lists of prisoners circulating on social media platforms",
@@ -44,7 +76,7 @@
       },
       {
         "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and a joint committee regarding Qahtan.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
@@ -56,30 +88,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423254",
         "published_date": "2026-05-13T09:59:11Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4b89466a3618",
-        "title": "The listening team calls on Egypt and prominent Arab countries to intervene to foster a comprehensive national reconciliation between the Yemenis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423195",
-        "published_date": "2026-05-11T14:43:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6cb11cf75ef5",
-        "title": "UN report: Fuel and food imports to Aden and Mukalla have declined, and reserves are not sufficient for three months",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423180",
-        "published_date": "2026-05-10T21:34:06Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4d60aedcf934",
-        "title": "Ahmed Saif Hashid... Light prevailed in a time of darkness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423169",
-        "published_date": "2026-05-10T20:24:44Z",
         "category": "Diplomacy"
       }
     ],
@@ -123,18 +131,18 @@
         "url": "https://yemenat.net/archives/423229",
         "published_date": "2026-05-12T10:27:30Z",
         "category": "Military"
-      },
-      {
-        "_id": "098d36ed7183",
-        "title": "Barcelona defeats Real Madrid and advances to the La Liga title",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423172",
-        "published_date": "2026-05-10T20:45:47Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "b22d6c1f9d44",
+        "title": "Yemen and the Sixty Years' War: An important study by the American researcher and diplomat Gerald Feierstein",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423370",
+        "published_date": "2026-05-16T19:43:52Z",
+        "category": "Economy"
+      },
       {
         "_id": "b0b765172092",
         "title": "Pilgrims postpone a trip to Yemen",
@@ -145,6 +153,78 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "1435fcfe5680",
+        "title": "A fighter like a great mountain of the weight of Hatem Abu Hatem",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423388",
+        "published_date": "2026-05-16T22:53:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "897c06f9f027",
+        "title": "Listening... when situations create statesmen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423385",
+        "published_date": "2026-05-16T22:04:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4e1a0cda571b",
+        "title": "Farewell to the great national fighter and loyal Arab figure... Uncle Hatem Abu Hatem",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423381",
+        "published_date": "2026-05-16T21:30:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a5a1e731c6c2",
+        "title": "Economic Media concludes a program to train female trainers in protection from digital violence for Yemeni female journalists",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423378",
+        "published_date": "2026-05-16T20:59:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e202a85a805b",
+        "title": "Changing the dates of two matches in the fourth round of the First Division League",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423374",
+        "published_date": "2026-05-16T20:29:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "69dc6d0691e4",
+        "title": "Cold throat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423366",
+        "published_date": "2026-05-16T19:27:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ee873577a26b",
+        "title": "Two earthquakes were recorded in Sana'a Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423363",
+        "published_date": "2026-05-16T19:02:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b5908cb1cc67",
+        "title": "Sanaa.. The death of a prominent Nasserite leader",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423353",
+        "published_date": "2026-05-16T12:45:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1bef908cd24c",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, May 16, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423341",
+        "published_date": "2026-05-16T12:21:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b3169afef4ba",
         "title": "The body of a soldier was found west of the city of Taiz",
@@ -231,78 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423283",
         "published_date": "2026-05-14T19:25:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0ccfc0c7a183",
-        "title": "The Yemeni national team bid farewell to the Asian Junior Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423280",
-        "published_date": "2026-05-14T09:29:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "da04f011a344",
-        "title": "A win and a draw at the start of the third round of the first-leg round",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423271",
-        "published_date": "2026-05-13T15:28:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bfeb86d89649",
-        "title": "Journalist Adel Al-Siyaghi was detained for four months in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423268",
-        "published_date": "2026-05-13T14:18:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3ab4cdae6471",
-        "title": "The illusion of separation and the reality of the 99.9%: the human genome as a constitution for unity, survival, and respect for human rights",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423265",
-        "published_date": "2026-05-13T12:17:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a3f064ce9575",
-        "title": "The truth about millions... and where did the idea come from?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423262",
-        "published_date": "2026-05-13T12:10:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7c05ca90ac8e",
-        "title": "Sanaa.. Civil Defense reveals the extent of the human and material losses of the Muhamasheen camp fire in Maeen District",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423259",
-        "published_date": "2026-05-13T11:39:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4495252bfc52",
-        "title": "A traffic accident kills two soldiers at the eastern entrance to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423256",
-        "published_date": "2026-05-13T10:29:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "53abf132e2a2",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423252",
-        "published_date": "2026-05-13T09:21:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a638cadf5322",
-        "title": "The hearing team: Hamed closed the offices of the members of the highest political office in the presidency and prevented them from entering the Officers Club",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423249",
-        "published_date": "2026-05-12T16:01:03Z",
         "category": "Local Events"
       }
     ]
