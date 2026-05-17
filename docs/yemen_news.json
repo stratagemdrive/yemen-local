@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-16T23:59:15Z",
+  "last_updated": "2026-05-17T12:02:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -36,7 +36,7 @@
       },
       {
         "_id": "acfb89fc9b8a",
-        "title": "A camel causes a horrific traffic accident in which dozens of victims are killed",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423344",
         "published_date": "2026-05-16T12:32:07Z",
@@ -76,7 +76,7 @@
       },
       {
         "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and a joint committee regarding Qahtan.",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
@@ -123,18 +123,27 @@
         "url": "https://yemenat.net/archives/423276",
         "published_date": "2026-05-14T09:03:14Z",
         "category": "Military"
-      },
-      {
-        "_id": "e808ec4bc237",
-        "title": "About a night when the sea burned...a story of survival from the bombing of Ras Issa facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423229",
-        "published_date": "2026-05-12T10:27:30Z",
-        "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "5a68052c77ae",
+        "title": "The pollution area in the port of Aden is expanding, and the investigation committee has not submitted its report",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423391",
+        "published_date": "2026-05-17T10:03:13Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
+      {
+        "_id": "1eae379abba3",
+        "title": "Sanaa.. The Administrative Court of the Secretariat cancels an administrative decision of the Minister of Economy, Industry and Investment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423394",
+        "published_date": "2026-05-17T10:37:41Z",
+        "category": "Economy"
+      },
       {
         "_id": "b22d6c1f9d44",
         "title": "Yemen and the Sixty Years' War: An important study by the American researcher and diplomat Gerald Feierstein",
@@ -142,20 +151,20 @@
         "url": "https://yemenat.net/archives/423370",
         "published_date": "2026-05-16T19:43:52Z",
         "category": "Economy"
-      },
-      {
-        "_id": "b0b765172092",
-        "title": "Pilgrims postpone a trip to Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423235",
-        "published_date": "2026-05-12T13:00:45Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "754603911bee",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423399",
+        "published_date": "2026-05-17T11:22:07Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "1435fcfe5680",
-        "title": "A fighter like a great mountain of the weight of Hatem Abu Hatem",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423388",
         "published_date": "2026-05-16T22:53:25Z",
@@ -163,7 +172,7 @@
       },
       {
         "_id": "897c06f9f027",
-        "title": "Listening... when situations create statesmen",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423385",
         "published_date": "2026-05-16T22:04:34Z",
@@ -303,14 +312,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423285",
         "published_date": "2026-05-14T19:51:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2d78dcf77f85",
-        "title": "The city of Taiz faces summer thirst: the war disrupts 88 wells",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423283",
-        "published_date": "2026-05-14T19:25:42Z",
         "category": "Local Events"
       }
     ]
