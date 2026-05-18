@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-18T00:02:46Z",
+  "last_updated": "2026-05-18T14:35:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -105,17 +105,17 @@
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "64e81737fe06",
-        "title": "The Competitions Committee of the Yemeni Football Federation takes penalties against violators and issues circulars regarding weapons, qat, and photographers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423254",
-        "published_date": "2026-05-13T09:59:11Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "744d009c3b88",
+        "title": "The Arab compass is lost between the illusion of empires and the fall of the mind of dependency",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423427",
+        "published_date": "2026-05-18T12:53:27Z",
+        "category": "Military"
+      },
       {
         "_id": "d5039851fbb4",
         "title": "Military personnel attack Saudi oil tankers in Socotra",
@@ -160,6 +160,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "df865db56a1c",
+        "title": "Yemen and the Sixty-Year War: An Important Study by the American Researcher and Diplomat Gerald Firestein",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423422",
+        "published_date": "2026-05-18T12:05:59Z",
+        "category": "Economy"
+      },
+      {
         "_id": "1eae379abba3",
         "title": "Sanaa.. The Administrative Court of the Secretariat cancels an administrative decision of the Minister of Economy, Industry and Investment",
         "source": "Yemenat",
@@ -177,6 +185,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "a87ae1f9679a",
+        "title": "Average gold prices in Sanaa and Aden, Monday, May 18, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423425",
+        "published_date": "2026-05-18T12:24:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "632f3e24ff57",
+        "title": "Meteorology warns of a widespread dust mass",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423419",
+        "published_date": "2026-05-18T11:19:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f83c00e5e821",
+        "title": "Taiz.. The Educators Syndicate denounces the violations of the Social Affairs Office and calls on the governor to stop them",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423415",
+        "published_date": "2026-05-18T00:13:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ae311ed4f4b1",
         "title": "Echoes of the Deluge by Abdelhay Korret: Writing from Within the Experience, Not from Outside It",
@@ -311,30 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423317",
         "published_date": "2026-05-15T20:36:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9d02507d8757",
-        "title": "Sanaa.. Arrest of journalist Ahmed Al-Maksh",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423313",
-        "published_date": "2026-05-15T14:34:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "13bd155936aa",
-        "title": "Meteorology: Volatile and hot weather, warning to citizens in deserts and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423311",
-        "published_date": "2026-05-15T13:17:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7cecfa5d5d0",
-        "title": "Two earthquakes were recorded in Dhamar Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423303",
-        "published_date": "2026-05-14T22:06:44Z",
         "category": "Local Events"
       }
     ]
