@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-17T12:02:26Z",
+  "last_updated": "2026-05-18T00:02:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "11f87ede589a",
+        "title": "Shabwa.. Seven victims in an armed conflict between two tribes and a mediation committee succeeds in concluding a truce between the two parties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423412",
+        "published_date": "2026-05-17T23:43:57Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "44d1f4462aa1",
+        "title": "The Saudi Supreme Court sets the date for the first day of Eid al-Adha 1447 AH",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423406",
+        "published_date": "2026-05-17T22:29:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "41600518400b",
+        "title": "Al-Sami’i rejects exclusion and narrow classifications: We fought for half a century for freedom, justice, and power partnership",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423403",
+        "published_date": "2026-05-17T21:35:07Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "1d2dbde419ec",
         "title": "Woman from the Shadow of Ashes",
@@ -36,7 +60,7 @@
       },
       {
         "_id": "acfb89fc9b8a",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A camel causes a horrific traffic accident in which dozens of victims are killed",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423344",
         "published_date": "2026-05-16T12:32:07Z",
@@ -76,7 +100,7 @@
       },
       {
         "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and a joint committee regarding Qahtan.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
@@ -92,6 +116,14 @@
       }
     ],
     "Military": [
+      {
+        "_id": "d5039851fbb4",
+        "title": "Military personnel attack Saudi oil tankers in Socotra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423409",
+        "published_date": "2026-05-17T23:08:39Z",
+        "category": "Military"
+      },
       {
         "_id": "1946b67b4c9b",
         "title": "Hadhramaut.. A horrific traffic accident leaves dozens dead and wounded",
@@ -125,16 +157,7 @@
         "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "5a68052c77ae",
-        "title": "The pollution area in the port of Aden is expanding, and the investigation committee has not submitted its report",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423391",
-        "published_date": "2026-05-17T10:03:13Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
       {
         "_id": "1eae379abba3",
@@ -155,16 +178,32 @@
     ],
     "Local Events": [
       {
+        "_id": "ae311ed4f4b1",
+        "title": "Echoes of the Deluge by Abdelhay Korret: Writing from Within the Experience, Not from Outside It",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423401",
+        "published_date": "2026-05-17T21:12:29Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "754603911bee",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Tomorrow: the start of the fourth round of the First Division matches",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423399",
         "published_date": "2026-05-17T11:22:07Z",
         "category": "Local Events"
       },
       {
+        "_id": "5a68052c77ae",
+        "title": "The pollution area in the port of Aden is expanding, and the investigation committee has not submitted its report",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423391",
+        "published_date": "2026-05-17T10:03:13Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "1435fcfe5680",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A fighter like a great mountain of the weight of Hatem Abu Hatem",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423388",
         "published_date": "2026-05-16T22:53:25Z",
@@ -172,7 +211,7 @@
       },
       {
         "_id": "897c06f9f027",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Listening... when situations create statesmen",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423385",
         "published_date": "2026-05-16T22:04:34Z",
@@ -296,22 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423303",
         "published_date": "2026-05-14T22:06:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "65d3cad34fdb",
-        "title": "Hajj Mahmoud my time",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423298",
-        "published_date": "2026-05-14T21:35:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6f34e421e627",
-        "title": "A security force closes the Passport Authority branch in Aden amid a strike by employees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423285",
-        "published_date": "2026-05-14T19:51:35Z",
         "category": "Local Events"
       }
     ]
