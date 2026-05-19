@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-19T00:13:52Z",
+  "last_updated": "2026-05-19T13:57:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -105,22 +105,6 @@
         "url": "https://yemenat.net/archives/423306",
         "published_date": "2026-05-15T12:45:30Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8be5ff0bbeba",
-        "title": "The UN envoy describes the detainee exchange agreement in Yemen as “unprecedented” and reveals the period of negotiation that preceded the agreement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423296",
-        "published_date": "2026-05-14T21:28:22Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423288",
-        "published_date": "2026-05-14T20:19:47Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -155,18 +139,26 @@
         "url": "https://yemenat.net/archives/423301",
         "published_date": "2026-05-14T21:37:40Z",
         "category": "Military"
-      },
-      {
-        "_id": "f724450b414a",
-        "title": "First Division League: Four matches were decided by victory, and the people of Hadramaut cling to the lead",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423293",
-        "published_date": "2026-05-14T20:38:08Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "247387d99a4b",
+        "title": "Qarsha reveals injustices in prisons and extends an invitation to the Minister of Interior in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423456",
+        "published_date": "2026-05-19T13:43:34Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e30af4671e4d",
+        "title": "“Document”.. Cleaning Aden Airport raises widespread controversy on social media and the Ministry forms an investigation committee",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423446",
+        "published_date": "2026-05-19T10:16:50Z",
+        "category": "Economy"
+      },
       {
         "_id": "df865db56a1c",
         "title": "Yemen and the Sixty-Year War: An Important Study by the American Researcher and Diplomat Gerald Firestein",
@@ -193,6 +185,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "96b6530082b8",
+        "title": "Al-Zindani's government approves a high-cost allowance for employees and floats the customs dollar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423454",
+        "published_date": "2026-05-19T11:45:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f7c6cfc6f7b",
+        "title": "Women and leadership: reshaping human consciousness and cultural meaning-making",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423452",
+        "published_date": "2026-05-19T11:16:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5c72772e2afb",
+        "title": "Sanaa.. The Central Bank stops dealing with six exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423450",
+        "published_date": "2026-05-19T10:37:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "175ceb942b91",
+        "title": "Meteorology: A noticeable improvement in horizontal visibility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423443",
+        "published_date": "2026-05-19T09:23:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9bfeaeebd89b",
         "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
@@ -319,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423353",
         "published_date": "2026-05-16T12:45:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1bef908cd24c",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, May 16, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423341",
-        "published_date": "2026-05-16T12:21:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3169afef4ba",
-        "title": "The body of a soldier was found west of the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423335",
-        "published_date": "2026-05-16T10:43:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b04f8a7d6dc3",
-        "title": "Meteorology: The atmosphere continues to be unstable in the highlands and thunderstorms are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423333",
-        "published_date": "2026-05-16T09:48:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6d5b8236c0f1",
-        "title": "(Echoes of the Flood) by Abd al-Hayy Karit... a writing from within the experience, not from outside it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423327",
-        "published_date": "2026-05-15T21:47:31Z",
         "category": "Local Events"
       }
     ]
