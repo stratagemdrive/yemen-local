@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-18T14:35:26Z",
+  "last_updated": "2026-05-19T00:13:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "2e7fd814b801",
+        "title": "From salaries to trends: How to reshape the awareness of Yemenis - Mira Saddam Hussein’s trend as an example!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423440",
+        "published_date": "2026-05-18T23:25:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ab095ae8bf08",
+        "title": "The hearing team directs the release of Sheikh Bin Fadgham and Mira and warns against malicious purposes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423430",
+        "published_date": "2026-05-18T16:02:44Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "11f87ede589a",
         "title": "Shabwa.. Seven victims in an armed conflict between two tribes and a mediation committee succeeds in concluding a truce between the two parties",
@@ -100,7 +116,7 @@
       },
       {
         "_id": "f70152ccd623",
-        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and a joint committee regarding Qahtan.",
+        "title": "The two parties to the conflict announce the conclusion of a new agreement to exchange more than 1,700 detainees and establish a joint committee regarding Qahtan.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423288",
         "published_date": "2026-05-14T20:19:47Z",
@@ -147,14 +163,6 @@
         "url": "https://yemenat.net/archives/423293",
         "published_date": "2026-05-14T20:38:08Z",
         "category": "Military"
-      },
-      {
-        "_id": "79e45e9cc903",
-        "title": "An explosion and heavy exchange of fire in the vicinity of the Abyan Appeals Court",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423276",
-        "published_date": "2026-05-14T09:03:14Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -185,6 +193,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "9bfeaeebd89b",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423437",
+        "published_date": "2026-05-18T18:03:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0d8195d7106c",
+        "title": "Ahly Sanaa defeats Fahman in the opening of the fourth round of the First Division League",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423434",
+        "published_date": "2026-05-18T16:52:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a87ae1f9679a",
         "title": "Average gold prices in Sanaa and Aden, Monday, May 18, 2026",
@@ -327,22 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423327",
         "published_date": "2026-05-15T21:47:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f759fd7c173",
-        "title": "First Division League.. The third round concluded with a victory for Al-Tadamon and intense competition for the top spot between three teams",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423323",
-        "published_date": "2026-05-15T21:33:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a8c4e109e254",
-        "title": "To the Wadi'i wedding drum",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423317",
-        "published_date": "2026-05-15T20:36:24Z",
         "category": "Local Events"
       }
     ]
