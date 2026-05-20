@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-20T00:12:10Z",
+  "last_updated": "2026-05-20T13:43:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,14 +123,6 @@
         "url": "https://yemenat.net/archives/423409",
         "published_date": "2026-05-17T23:08:39Z",
         "category": "Military"
-      },
-      {
-        "_id": "1946b67b4c9b",
-        "title": "Hadhramaut.. A horrific traffic accident leaves dozens dead and wounded",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423320",
-        "published_date": "2026-05-15T20:52:32Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -193,6 +185,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "6329a258a8f8",
+        "title": "Average gold prices in Sanaa and Aden, Wednesday, May 20, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423482",
+        "published_date": "2026-05-20T12:30:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ab9884d501b",
+        "title": "Al-Jawf...a tribal armed conflict in Bart",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423479",
+        "published_date": "2026-05-20T11:57:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d3f1cc713451",
         "title": "Saturday is a holiday in Sanaa and Sunday is in Aden",
@@ -335,22 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423381",
         "published_date": "2026-05-16T21:30:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a5a1e731c6c2",
-        "title": "Economic Media concludes a program to train female trainers in protection from digital violence for Yemeni female journalists",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423378",
-        "published_date": "2026-05-16T20:59:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e202a85a805b",
-        "title": "Changing the dates of two matches in the fourth round of the First Division League",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423374",
-        "published_date": "2026-05-16T20:29:14Z",
         "category": "Local Events"
       }
     ]
