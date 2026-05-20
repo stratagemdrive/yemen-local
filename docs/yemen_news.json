@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-19T13:57:13Z",
+  "last_updated": "2026-05-20T00:12:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -97,17 +97,17 @@
         "url": "https://yemenat.net/archives/423330",
         "published_date": "2026-05-15T22:41:25Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "057ea65f2ac8",
-        "title": "About the agreement that the Yemenis are waiting for",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423306",
-        "published_date": "2026-05-15T12:45:30Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "2d2497c7d6d4",
+        "title": "They fell...they fell..!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423475",
+        "published_date": "2026-05-19T20:23:54Z",
+        "category": "Military"
+      },
       {
         "_id": "744d009c3b88",
         "title": "The Arab compass is lost between the illusion of empires and the fall of the mind of dependency",
@@ -131,18 +131,26 @@
         "url": "https://yemenat.net/archives/423320",
         "published_date": "2026-05-15T20:52:32Z",
         "category": "Military"
-      },
-      {
-        "_id": "1f7cff7c139e",
-        "title": "The Southern Issue: It is time for Al-Hakim’s missing scalpel to appear",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423301",
-        "published_date": "2026-05-14T21:37:40Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "cc482ed7bdcb",
+        "title": "Sanaa.. The Central Bank warns against dealing with pyramid marketing entities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423464",
+        "published_date": "2026-05-19T18:56:07Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "cd26be7bab8b",
+        "title": "The hearing team threatens the “miserable people” with a difficult reckoning and confirms that it has documented corruption files against them",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423459",
+        "published_date": "2026-05-19T17:54:11Z",
+        "category": "Economy"
+      },
       {
         "_id": "247387d99a4b",
         "title": "Qarsha reveals injustices in prisons and extends an invitation to the Minister of Interior in Sanaa",
@@ -185,6 +193,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "d3f1cc713451",
+        "title": "Saturday is a holiday in Sanaa and Sunday is in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423472",
+        "published_date": "2026-05-19T20:02:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c4874903c281",
+        "title": "In Sana’a",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423468",
+        "published_date": "2026-05-19T19:17:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "130391a84f06",
+        "title": "In an exciting match, Sanaa’s unit displaces Al-Orouba and enters the circle of competition for the lead",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423461",
+        "published_date": "2026-05-19T18:27:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "96b6530082b8",
         "title": "Al-Zindani's government approves a high-cost allowance for employees and floats the customs dollar",
@@ -319,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423374",
         "published_date": "2026-05-16T20:29:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69dc6d0691e4",
-        "title": "Cold throat",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423366",
-        "published_date": "2026-05-16T19:27:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ee873577a26b",
-        "title": "Two earthquakes were recorded in Sana'a Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423363",
-        "published_date": "2026-05-16T19:02:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b5908cb1cc67",
-        "title": "Sanaa.. The death of a prominent Nasserite leader",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423353",
-        "published_date": "2026-05-16T12:45:25Z",
         "category": "Local Events"
       }
     ]
