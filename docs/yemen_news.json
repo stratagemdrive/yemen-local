@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-20T13:43:56Z",
+  "last_updated": "2026-05-21T00:12:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,46 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "67701fa7c24e",
+        "title": "Cleaning the floor of Aden Airport used government machinery, and the contractor is demanding more than two million dollars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423524",
+        "published_date": "2026-05-20T22:34:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c2c8c4add59f",
+        "title": "An inscription on the map of the soul",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423516",
+        "published_date": "2026-05-20T21:55:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b3ffe435e39e",
+        "title": "Yemen in the second group of the 27th Gulf Cup “match schedule”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423510",
+        "published_date": "2026-05-20T21:35:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "8dbcd37bd30e",
+        "title": "Amid the government's silence, complaints continue that the new version of the Yemeni passport has not been approved in Europe",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423502",
+        "published_date": "2026-05-20T20:43:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0f695851b333",
+        "title": "Geography of Deception: Why was Arab democracy never an Israeli interest?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423491",
+        "published_date": "2026-05-20T16:52:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2e7fd814b801",
         "title": "From salaries to trends: How to reshape the awareness of Yemenis - Mira Saddam Hussein’s trend as an example!",
@@ -49,54 +89,6 @@
         "url": "https://yemenat.net/archives/423403",
         "published_date": "2026-05-17T21:35:07Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1d2dbde419ec",
-        "title": "Woman from the Shadow of Ashes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423368",
-        "published_date": "2026-05-16T19:34:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3498a20ab337",
-        "title": "Sanaa.. A journalist is subjected to death threats from the owner of the house and calls on the authorities to protect him and his family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423360",
-        "published_date": "2026-05-16T18:16:20Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "174e3af1ab7a",
-        "title": "Ahmed Saif Hashid: The groaning of the homeland",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423356",
-        "published_date": "2026-05-16T15:54:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "acfb89fc9b8a",
-        "title": "A camel causes a horrific traffic accident in which dozens of victims are killed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423344",
-        "published_date": "2026-05-16T12:32:07Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a38c9a04a40c",
-        "title": "Sanaa.. The Prisoners’ Affairs Committee clarifies the lists of prisoners circulating on social media platforms",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423339",
-        "published_date": "2026-05-16T11:04:15Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "aa1710148a1c",
-        "title": "Preliminary statistics on the number of victims of the horrific traffic accident in Al-Abr in Hadramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423330",
-        "published_date": "2026-05-15T22:41:25Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -127,6 +119,46 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "ff019350bd04",
+        "title": "Sanaa.. The Central Bank sets the date for disbursing half of the salary in March 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423527",
+        "published_date": "2026-05-20T23:01:29Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "7a41eb38b640",
+        "title": "Homeland calamities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423507",
+        "published_date": "2026-05-20T21:23:19Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a0b59a053fff",
+        "title": "World Health warns of the increasing spread of malaria in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423505",
+        "published_date": "2026-05-20T21:03:57Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "3ac5941fa5d7",
+        "title": "From Sweden.. Dashti: Targeting Al-Sami’i is an insult targeting free voices in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423494",
+        "published_date": "2026-05-20T18:53:49Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a5dd1b519c17",
+        "title": "Sanaa.. The civil and financial service begins procedures for disbursing half of the March 2026 salary",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423484",
+        "published_date": "2026-05-20T15:49:55Z",
+        "category": "Economy"
+      },
       {
         "_id": "cc482ed7bdcb",
         "title": "Sanaa.. The Central Bank warns against dealing with pyramid marketing entities",
@@ -174,17 +206,41 @@
         "url": "https://yemenat.net/archives/423394",
         "published_date": "2026-05-17T10:37:41Z",
         "category": "Economy"
-      },
-      {
-        "_id": "b22d6c1f9d44",
-        "title": "Yemen and the Sixty Years' War: An important study by the American researcher and diplomat Gerald Feierstein",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423370",
-        "published_date": "2026-05-16T19:43:52Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e4b2894a7992",
+        "title": "Exclusion and marginalization...a danger threatening the building of the Yemeni state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423521",
+        "published_date": "2026-05-20T22:12:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7262e5bda0c3",
+        "title": "The partnership of necessity took place under bombardment... Where to?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423518",
+        "published_date": "2026-05-20T22:05:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f400a91d6a0e",
+        "title": "What is the justification? When nothingness becomes a springboard for pride",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423498",
+        "published_date": "2026-05-20T19:35:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2151acae5f0f",
+        "title": "First Division League: Shabab Al Bayda and Al Sadd Marib tied at Al Dharafi Stadium in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423487",
+        "published_date": "2026-05-20T16:16:47Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6329a258a8f8",
         "title": "Average gold prices in Sanaa and Aden, Wednesday, May 20, 2026",
@@ -311,38 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423399",
         "published_date": "2026-05-17T11:22:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5a68052c77ae",
-        "title": "The pollution area in the port of Aden is expanding, and the investigation committee has not submitted its report",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423391",
-        "published_date": "2026-05-17T10:03:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1435fcfe5680",
-        "title": "A fighter like a great mountain of the weight of Hatem Abu Hatem",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423388",
-        "published_date": "2026-05-16T22:53:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "897c06f9f027",
-        "title": "Listening... when situations create statesmen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423385",
-        "published_date": "2026-05-16T22:04:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e1a0cda571b",
-        "title": "Farewell to the great national fighter and loyal Arab figure... Uncle Hatem Abu Hatem",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423381",
-        "published_date": "2026-05-16T21:30:46Z",
         "category": "Local Events"
       }
     ]
