@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-21T00:12:22Z",
+  "last_updated": "2026-05-21T14:16:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -210,6 +210,22 @@
     ],
     "Local Events": [
       {
+        "_id": "967bfd8d098b",
+        "title": "In a strange move, Hadhramaut authorities impose customs duties on local products coming from outside the governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423531",
+        "published_date": "2026-05-21T12:59:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "409b93932eb9",
+        "title": "Average gold prices in Sanaa and Aden, Thursday, May 21, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423529",
+        "published_date": "2026-05-21T12:35:15Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "e4b2894a7992",
         "title": "Exclusion and marginalization...a danger threatening the building of the Yemeni state",
         "source": "Yemenat",
@@ -351,22 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423415",
         "published_date": "2026-05-18T00:13:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae311ed4f4b1",
-        "title": "Echoes of the Deluge by Abdelhay Korret: Writing from Within the Experience, Not from Outside It",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423401",
-        "published_date": "2026-05-17T21:12:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "754603911bee",
-        "title": "Tomorrow: the start of the fourth round of the First Division matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423399",
-        "published_date": "2026-05-17T11:22:07Z",
         "category": "Local Events"
       }
     ]
