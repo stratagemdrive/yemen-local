@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-21T14:16:44Z",
+  "last_updated": "2026-05-22T00:09:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "54f475848ba4",
+        "title": "The European Union renews its commitment to the unity and territorial integrity of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423567",
+        "published_date": "2026-05-21T23:04:05Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "528a605b92be",
+        "title": "I see myself in her... Hoda",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423560",
+        "published_date": "2026-05-21T22:40:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f9f36c96f1b4",
+        "title": "Arab intellectuals denounce the targeting campaigns and declare their solidarity with the hearing group",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423553",
+        "published_date": "2026-05-21T22:04:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "dcc08195a766",
+        "title": "“Tender Reflections”.. New by the writer and creative writer Hatem Ali",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423545",
+        "published_date": "2026-05-21T21:20:33Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "67701fa7c24e",
         "title": "Cleaning the floor of Aden Airport used government machinery, and the contractor is demanding more than two million dollars",
@@ -65,33 +97,25 @@
         "url": "https://yemenat.net/archives/423430",
         "published_date": "2026-05-18T16:02:44Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "11f87ede589a",
-        "title": "Shabwa.. Seven victims in an armed conflict between two tribes and a mediation committee succeeds in concluding a truce between the two parties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423412",
-        "published_date": "2026-05-17T23:43:57Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "44d1f4462aa1",
-        "title": "The Saudi Supreme Court sets the date for the first day of Eid al-Adha 1447 AH",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423406",
-        "published_date": "2026-05-17T22:29:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "41600518400b",
-        "title": "Al-Sami’i rejects exclusion and narrow classifications: We fought for half a century for freedom, justice, and power partnership",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423403",
-        "published_date": "2026-05-17T21:35:07Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "61030b0b0623",
+        "title": "Great achievement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423565",
+        "published_date": "2026-05-21T22:49:02Z",
+        "category": "Military"
+      },
+      {
+        "_id": "c5a966e79a38",
+        "title": "The listening team: What Hezbollah is achieving confirms the breaking of hegemonic equations and the failure of the Zionist enemy’s bets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423542",
+        "published_date": "2026-05-21T20:59:23Z",
+        "category": "Military"
+      },
       {
         "_id": "2d2497c7d6d4",
         "title": "They fell...they fell..!!",
@@ -106,14 +130,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423427",
         "published_date": "2026-05-18T12:53:27Z",
-        "category": "Military"
-      },
-      {
-        "_id": "d5039851fbb4",
-        "title": "Military personnel attack Saudi oil tankers in Socotra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423409",
-        "published_date": "2026-05-17T23:08:39Z",
         "category": "Military"
       }
     ],
@@ -198,17 +214,49 @@
         "url": "https://yemenat.net/archives/423422",
         "published_date": "2026-05-18T12:05:59Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1eae379abba3",
-        "title": "Sanaa.. The Administrative Court of the Secretariat cancels an administrative decision of the Minister of Economy, Industry and Investment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423394",
-        "published_date": "2026-05-17T10:37:41Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d4ad82531fc9",
+        "title": "Rhetorical standards in the poetic evidence of Abu al-Tayyib al-Mutanabbi and their critical reception",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423557",
+        "published_date": "2026-05-21T22:34:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a5d89d2923c3",
+        "title": "Flies and the struggle with cleanliness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423550",
+        "published_date": "2026-05-21T21:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bffe5ea9e2fb",
+        "title": "In Yemen... we will continue to chant every morning: Our sheikh is the law and our tribe is the civil state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423548",
+        "published_date": "2026-05-21T21:37:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b84e4ebf6555",
+        "title": "Al-Mukalla and the Hadhramaut people are competing for the top spot in the first division league, and Al-Hilal loses in its stadium",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423538",
+        "published_date": "2026-05-21T16:47:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4140d8709e87",
+        "title": "Three Windows into the Poem at a Poetry Morning Hosted by the Poetry Platform, Baghdad City of Literature / UNESCO",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423534",
+        "published_date": "2026-05-21T15:15:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "967bfd8d098b",
         "title": "In a strange move, Hadhramaut authorities impose customs duties on local products coming from outside the governorate",
@@ -327,46 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423443",
         "published_date": "2026-05-19T09:23:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9bfeaeebd89b",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423437",
-        "published_date": "2026-05-18T18:03:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0d8195d7106c",
-        "title": "Ahly Sanaa defeats Fahman in the opening of the fourth round of the First Division League",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423434",
-        "published_date": "2026-05-18T16:52:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a87ae1f9679a",
-        "title": "Average gold prices in Sanaa and Aden, Monday, May 18, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423425",
-        "published_date": "2026-05-18T12:24:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "632f3e24ff57",
-        "title": "Meteorology warns of a widespread dust mass",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423419",
-        "published_date": "2026-05-18T11:19:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f83c00e5e821",
-        "title": "Taiz.. The Educators Syndicate denounces the violations of the Social Affairs Office and calls on the governor to stop them",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423415",
-        "published_date": "2026-05-18T00:13:58Z",
         "category": "Local Events"
       }
     ]
