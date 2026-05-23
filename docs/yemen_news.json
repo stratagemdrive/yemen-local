@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-23T00:12:52Z",
+  "last_updated": "2026-05-23T12:02:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -214,17 +214,25 @@
         "url": "https://yemenat.net/archives/423446",
         "published_date": "2026-05-19T10:16:50Z",
         "category": "Economy"
-      },
-      {
-        "_id": "df865db56a1c",
-        "title": "Yemen and the Sixty-Year War: An Important Study by the American Researcher and Diplomat Gerald Firestein",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423422",
-        "published_date": "2026-05-18T12:05:59Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "be85cdb94e00",
+        "title": "Dr. Mansour Al-Qadi... the radiance of thought that never disappears",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423579",
+        "published_date": "2026-05-23T11:54:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "71724db06122",
+        "title": "Exchange rates of the Yemeni riyal against foreign currencies in Sanaa and Aden, Saturday, May 23, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423577",
+        "published_date": "2026-05-23T11:08:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "23bb2d46602c",
         "title": "Sanaa.. The Money Changers Association issued a circular to stop dealing with an exchange facility",
@@ -367,22 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423454",
         "published_date": "2026-05-19T11:45:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f7c6cfc6f7b",
-        "title": "Women and leadership: reshaping human consciousness and cultural meaning-making",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423452",
-        "published_date": "2026-05-19T11:16:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c72772e2afb",
-        "title": "Sanaa.. The Central Bank stops dealing with six exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423450",
-        "published_date": "2026-05-19T10:37:13Z",
         "category": "Local Events"
       }
     ]
