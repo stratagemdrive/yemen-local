@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-22T13:34:23Z",
+  "last_updated": "2026-05-23T00:12:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -136,6 +136,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "4857c2d3c99f",
+        "title": "A marine accident near Socotra Island",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423570",
+        "published_date": "2026-05-22T14:36:20Z",
+        "category": "Economy"
+      },
+      {
         "_id": "ff019350bd04",
         "title": "Sanaa.. The Central Bank sets the date for disbursing half of the salary in March 2026",
         "source": "Yemenat",
@@ -217,6 +225,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "23bb2d46602c",
+        "title": "Sanaa.. The Money Changers Association issued a circular to stop dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423575",
+        "published_date": "2026-05-22T15:05:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d4ad82531fc9",
         "title": "Rhetorical standards in the poetic evidence of Abu al-Tayyib al-Mutanabbi and their critical reception",
@@ -367,14 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423450",
         "published_date": "2026-05-19T10:37:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "175ceb942b91",
-        "title": "Meteorology: A noticeable improvement in horizontal visibility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423443",
-        "published_date": "2026-05-19T09:23:25Z",
         "category": "Local Events"
       }
     ]
