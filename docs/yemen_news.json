@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-23T12:02:41Z",
+  "last_updated": "2026-05-24T00:01:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,78 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "72f95c254983",
+        "title": "May 22 Hope or pain..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423628",
+        "published_date": "2026-05-23T22:12:39Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a2fb08eef525",
+        "title": "“What Sanhan did not dare to do.” A Yemeni writer raises controversy with a scathing comparison between Saleh’s era and the current authority.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423626",
+        "published_date": "2026-05-23T22:01:32Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d282865ada02",
+        "title": "30 players summoned to the first national team squad before the decisive confrontation against Lebanon “Asmaa”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423617",
+        "published_date": "2026-05-23T21:27:59Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a9d99b1fd6d8",
+        "title": "News about a memorandum of understanding between Washington, Tehran, and the Iranian Foreign Ministry clarifies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423610",
+        "published_date": "2026-05-23T20:36:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e798de5c1a32",
+        "title": "Strong Arab pens declare their solidarity with Lieutenant General Sultan Al-Samii against the targeting campaigns",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423607",
+        "published_date": "2026-05-23T20:01:43Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9e9a2e48abf2",
+        "title": "Yemeni intellectuals call on the leadership of Yemenia to restore Captain Rosa Mustafa’s dignity and cancel the decision to suspend her from work.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423604",
+        "published_date": "2026-05-23T19:30:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "007daa949d32",
+        "title": "When hitting a child becomes a trend: Yemen between a shot and a major tragedy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423600",
+        "published_date": "2026-05-23T15:21:07Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "16ef747fff8e",
+        "title": "What Sanhan did not dare to do..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423598",
+        "published_date": "2026-05-23T13:55:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "124d82c76573",
+        "title": "First Division League.. At the end of the fourth round, Hadhramaut clubs compete for the lead",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423585",
+        "published_date": "2026-05-23T12:16:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "54f475848ba4",
         "title": "The European Union renews its commitment to the unity and territorial integrity of Yemen",
@@ -81,25 +153,33 @@
         "url": "https://yemenat.net/archives/423491",
         "published_date": "2026-05-20T16:52:51Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "2e7fd814b801",
-        "title": "From salaries to trends: How to reshape the awareness of Yemenis - Mira Saddam Hussein’s trend as an example!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423440",
-        "published_date": "2026-05-18T23:25:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ab095ae8bf08",
-        "title": "The hearing team directs the release of Sheikh Bin Fadgham and Mira and warns against malicious purposes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423430",
-        "published_date": "2026-05-18T16:02:44Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "33287c2e3004",
+        "title": "Lieutenant General Sultan Al Sami... when the authority reveals its truth itself",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423632",
+        "published_date": "2026-05-23T22:26:26Z",
+        "category": "Military"
+      },
+      {
+        "_id": "57b6da6b196b",
+        "title": "The place of dew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423630",
+        "published_date": "2026-05-23T22:16:52Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e307bdee610f",
+        "title": "The “miserable” operations room... an insult to the national symbols and values ​​of the march",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423621",
+        "published_date": "2026-05-23T21:41:44Z",
+        "category": "Military"
+      },
       {
         "_id": "61030b0b0623",
         "title": "Great achievement",
@@ -115,26 +195,26 @@
         "url": "https://yemenat.net/archives/423542",
         "published_date": "2026-05-21T20:59:23Z",
         "category": "Military"
-      },
-      {
-        "_id": "2d2497c7d6d4",
-        "title": "They fell...they fell..!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423475",
-        "published_date": "2026-05-19T20:23:54Z",
-        "category": "Military"
-      },
-      {
-        "_id": "744d009c3b88",
-        "title": "The Arab compass is lost between the illusion of empires and the fall of the mind of dependency",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423427",
-        "published_date": "2026-05-18T12:53:27Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "0f0ba1ab393e",
+        "title": "Sultan Al Sami and the Hornets' Nest",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423623",
+        "published_date": "2026-05-23T21:52:52Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a74f36b93793",
+        "title": "British Trade Operations warns of suspicious movements in the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423591",
+        "published_date": "2026-05-23T13:19:24Z",
+        "category": "Economy"
+      },
       {
         "_id": "4857c2d3c99f",
         "title": "A marine accident near Socotra Island",
@@ -182,41 +262,33 @@
         "url": "https://yemenat.net/archives/423484",
         "published_date": "2026-05-20T15:49:55Z",
         "category": "Economy"
-      },
-      {
-        "_id": "cc482ed7bdcb",
-        "title": "Sanaa.. The Central Bank warns against dealing with pyramid marketing entities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423464",
-        "published_date": "2026-05-19T18:56:07Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "cd26be7bab8b",
-        "title": "The hearing team threatens the “miserable people” with a difficult reckoning and confirms that it has documented corruption files against them",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423459",
-        "published_date": "2026-05-19T17:54:11Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "247387d99a4b",
-        "title": "Qarsha reveals injustices in prisons and extends an invitation to the Minister of Interior in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423456",
-        "published_date": "2026-05-19T13:43:34Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "e30af4671e4d",
-        "title": "“Document”.. Cleaning Aden Airport raises widespread controversy on social media and the Ministry forms an investigation committee",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423446",
-        "published_date": "2026-05-19T10:16:50Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "980ff14049e4",
+        "title": "A terrible traffic accident on a mountain road in Taiz Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423613",
+        "published_date": "2026-05-23T20:59:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d26345b7cfca",
+        "title": "The collapse of a pedestrian bridge in Haziz...an alarm bell...will the local authorities in Amanat Al-Asimah and Sanaa Governorate understand it?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423594",
+        "published_date": "2026-05-23T13:25:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e543d10b37e4",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, May 23, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423589",
+        "published_date": "2026-05-23T12:41:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "be85cdb94e00",
         "title": "Dr. Mansour Al-Qadi... the radiance of thought that never disappears",
@@ -343,38 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423479",
         "published_date": "2026-05-20T11:57:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d3f1cc713451",
-        "title": "Saturday is a holiday in Sanaa and Sunday is in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423472",
-        "published_date": "2026-05-19T20:02:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c4874903c281",
-        "title": "In Sana’a",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423468",
-        "published_date": "2026-05-19T19:17:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "130391a84f06",
-        "title": "In an exciting match, Sanaa’s unit displaces Al-Orouba and enters the circle of competition for the lead",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423461",
-        "published_date": "2026-05-19T18:27:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96b6530082b8",
-        "title": "Al-Zindani's government approves a high-cost allowance for employees and floats the customs dollar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423454",
-        "published_date": "2026-05-19T11:45:49Z",
         "category": "Local Events"
       }
     ]
