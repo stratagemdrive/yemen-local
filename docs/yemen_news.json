@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-24T00:01:43Z",
+  "last_updated": "2026-05-24T12:04:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ca55793504be",
+        "title": "Rumor of the news that Captain Rosa Abdel Khaleq has been suspended from work",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423654",
+        "published_date": "2026-05-24T01:30:15Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7c17964ffbc4",
+        "title": "France bans the Minister of National Security from entering its territory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423645",
+        "published_date": "2026-05-24T01:20:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7141e4e8d2e3",
+        "title": "Israeli officials: The US-Iranian agreement is very worrying, and Trump marginalizes Israel and turns it into a contractor",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423640",
+        "published_date": "2026-05-24T01:13:48Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "72f95c254983",
         "title": "May 22 Hope or pain..?!",
@@ -145,14 +169,6 @@
         "url": "https://yemenat.net/archives/423502",
         "published_date": "2026-05-20T20:43:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0f695851b333",
-        "title": "Geography of Deception: Why was Arab democracy never an Israeli interest?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423491",
-        "published_date": "2026-05-20T16:52:51Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -199,6 +215,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "ff23906c3e04",
+        "title": "Ibb... enrichment without development",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423657",
+        "published_date": "2026-05-24T01:34:55Z",
+        "category": "Economy"
+      },
       {
         "_id": "0f0ba1ab393e",
         "title": "Sultan Al Sami and the Hornets' Nest",
@@ -254,17 +278,17 @@
         "url": "https://yemenat.net/archives/423494",
         "published_date": "2026-05-20T18:53:49Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a5dd1b519c17",
-        "title": "Sanaa.. The civil and financial service begins procedures for disbursing half of the March 2026 salary",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423484",
-        "published_date": "2026-05-20T15:49:55Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "59106ffb84a7",
+        "title": "The quiet narration in The Female of the Four Seasons...a reading in the style of Ahmed Tayel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423634",
+        "published_date": "2026-05-24T00:37:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "980ff14049e4",
         "title": "A terrible traffic accident on a mountain road in Taiz Governorate",
@@ -391,30 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423498",
         "published_date": "2026-05-20T19:35:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2151acae5f0f",
-        "title": "First Division League: Shabab Al Bayda and Al Sadd Marib tied at Al Dharafi Stadium in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423487",
-        "published_date": "2026-05-20T16:16:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6329a258a8f8",
-        "title": "Average gold prices in Sanaa and Aden, Wednesday, May 20, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423482",
-        "published_date": "2026-05-20T12:30:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6ab9884d501b",
-        "title": "Al-Jawf...a tribal armed conflict in Bart",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423479",
-        "published_date": "2026-05-20T11:57:58Z",
         "category": "Local Events"
       }
     ]
