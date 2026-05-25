@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-24T12:04:41Z",
+  "last_updated": "2026-05-25T00:05:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,11 +11,19 @@
   "stories": {
     "Diplomacy": [
       {
-        "_id": "ca55793504be",
-        "title": "Rumor of the news that Captain Rosa Abdel Khaleq has been suspended from work",
+        "_id": "8813b08913cb",
+        "title": "The listening team sends a message of thanks and gratitude to various elites at home and abroad and confirms that it will not deviate from its positions.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423654",
-        "published_date": "2026-05-24T01:30:15Z",
+        "url": "https://yemenat.net/archives/423679",
+        "published_date": "2026-05-24T18:05:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3bed871b7484",
+        "title": "Al-Saqladi: The south has come under Saudi control, and the southern powers are avoiding facing reality",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423673",
+        "published_date": "2026-05-24T16:35:47Z",
         "category": "Diplomacy"
       },
       {
@@ -44,7 +52,7 @@
       },
       {
         "_id": "a2fb08eef525",
-        "title": "“What Sanhan did not dare to do.” A Yemeni writer raises controversy with a scathing comparison between Saleh’s era and the current authority.",
+        "title": "A Yemeni writer raises controversy with a scathing comparison between Saleh's era and the current authority",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423626",
         "published_date": "2026-05-23T22:01:32Z",
@@ -145,47 +153,31 @@
         "url": "https://yemenat.net/archives/423524",
         "published_date": "2026-05-20T22:34:42Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c2c8c4add59f",
-        "title": "An inscription on the map of the soul",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423516",
-        "published_date": "2026-05-20T21:55:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b3ffe435e39e",
-        "title": "Yemen in the second group of the 27th Gulf Cup “match schedule”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423510",
-        "published_date": "2026-05-20T21:35:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "8dbcd37bd30e",
-        "title": "Amid the government's silence, complaints continue that the new version of the Yemeni passport has not been approved in Europe",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423502",
-        "published_date": "2026-05-20T20:43:23Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "30f446154e01",
+        "title": "Sultan Al Sami, the most clear and transparent",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423687",
+        "published_date": "2026-05-24T20:17:41Z",
+        "category": "Military"
+      },
+      {
+        "_id": "93fbf1318330",
+        "title": "Sultan Al Sami did not gain his popularity through the influence of power or money",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423665",
+        "published_date": "2026-05-24T13:46:49Z",
+        "category": "Military"
+      },
       {
         "_id": "33287c2e3004",
         "title": "Lieutenant General Sultan Al Sami... when the authority reveals its truth itself",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423632",
         "published_date": "2026-05-23T22:26:26Z",
-        "category": "Military"
-      },
-      {
-        "_id": "57b6da6b196b",
-        "title": "The place of dew",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423630",
-        "published_date": "2026-05-23T22:16:52Z",
         "category": "Military"
       },
       {
@@ -254,39 +246,63 @@
         "url": "https://yemenat.net/archives/423527",
         "published_date": "2026-05-20T23:01:29Z",
         "category": "Economy"
-      },
-      {
-        "_id": "7a41eb38b640",
-        "title": "Homeland calamities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423507",
-        "published_date": "2026-05-20T21:23:19Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "a0b59a053fff",
-        "title": "World Health warns of the increasing spread of malaria in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423505",
-        "published_date": "2026-05-20T21:03:57Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "3ac5941fa5d7",
-        "title": "From Sweden.. Dashti: Targeting Al-Sami’i is an insult targeting free voices in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423494",
-        "published_date": "2026-05-20T18:53:49Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d92c8adfabee",
+        "title": "Listening team: Bidders prevent the broadcast of songs at concerts and radio stations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423693",
+        "published_date": "2026-05-24T22:58:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "56233d3dbc08",
+        "title": "The Quiet Narrative in The Female of the Four Seasons: A Reading of Ahmed Taail’s Style",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423683",
+        "published_date": "2026-05-24T19:39:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9f43b46c3119",
+        "title": "Aden.. The prosecution buries dozens of unidentified bodies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423676",
+        "published_date": "2026-05-24T17:25:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "79cdd392818f",
+        "title": "Sanaa.. A citizen gets stuck for long hours on a rocky slope in Al-Hayma",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423669",
+        "published_date": "2026-05-24T15:13:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4085bb8266d1",
+        "title": "Meteorology: Noticeable activity of cumulonimbus clouds and expectations of scattered rain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423667",
+        "published_date": "2026-05-24T13:56:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "59106ffb84a7",
         "title": "The quiet narration in The Female of the Four Seasons...a reading in the style of Ahmed Tayel",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423634",
         "published_date": "2026-05-24T00:37:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "57b6da6b196b",
+        "title": "The place of dew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423630",
+        "published_date": "2026-05-23T22:16:52Z",
         "category": "Local Events"
       },
       {
@@ -391,30 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423529",
         "published_date": "2026-05-21T12:35:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e4b2894a7992",
-        "title": "Exclusion and marginalization...a danger threatening the building of the Yemeni state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423521",
-        "published_date": "2026-05-20T22:12:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7262e5bda0c3",
-        "title": "The partnership of necessity took place under bombardment... Where to?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423518",
-        "published_date": "2026-05-20T22:05:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f400a91d6a0e",
-        "title": "What is the justification? When nothingness becomes a springboard for pride",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423498",
-        "published_date": "2026-05-20T19:35:20Z",
         "category": "Local Events"
       }
     ]
