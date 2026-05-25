@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-25T00:05:59Z",
+  "last_updated": "2026-05-25T14:14:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "96ac15a747a1",
+        "title": "Trump to Netanyahu: No agreement with Iran without removing enriched uranium",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423712",
+        "published_date": "2026-05-25T00:44:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bbc2f9aa270b",
+        "title": "He told you why the Yemeni people do not expatriate?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423701",
+        "published_date": "2026-05-25T00:11:34Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "8813b08913cb",
         "title": "The listening team sends a message of thanks and gratitude to various elites at home and abroad and confirms that it will not deviate from its positions.",
@@ -137,25 +153,25 @@
         "url": "https://yemenat.net/archives/423553",
         "published_date": "2026-05-21T22:04:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "dcc08195a766",
-        "title": "“Tender Reflections”.. New by the writer and creative writer Hatem Ali",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423545",
-        "published_date": "2026-05-21T21:20:33Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "67701fa7c24e",
-        "title": "Cleaning the floor of Aden Airport used government machinery, and the contractor is demanding more than two million dollars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423524",
-        "published_date": "2026-05-20T22:34:42Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "aab018b397e9",
+        "title": "Hadhramaut Coast Police announces a raid on gold extraction and processing plants in Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423737",
+        "published_date": "2026-05-25T11:02:42Z",
+        "category": "Military"
+      },
+      {
+        "_id": "c21bdfcce5db",
+        "title": "The difficult number in the Yemeni national equation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423722",
+        "published_date": "2026-05-25T01:04:10Z",
+        "category": "Military"
+      },
       {
         "_id": "30f446154e01",
         "title": "Sultan Al Sami, the most clear and transparent",
@@ -181,6 +197,14 @@
         "category": "Military"
       },
       {
+        "_id": "57b6da6b196b",
+        "title": "The place of dew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423630",
+        "published_date": "2026-05-23T22:16:52Z",
+        "category": "Military"
+      },
+      {
         "_id": "e307bdee610f",
         "title": "The “miserable” operations room... an insult to the national symbols and values ​​of the march",
         "source": "Yemenat",
@@ -194,14 +218,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423565",
         "published_date": "2026-05-21T22:49:02Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c5a966e79a38",
-        "title": "The listening team: What Hezbollah is achieving confirms the breaking of hegemonic equations and the failure of the Zionist enemy’s bets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423542",
-        "published_date": "2026-05-21T20:59:23Z",
         "category": "Military"
       }
     ],
@@ -238,17 +254,65 @@
         "url": "https://yemenat.net/archives/423570",
         "published_date": "2026-05-22T14:36:20Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ff019350bd04",
-        "title": "Sanaa.. The Central Bank sets the date for disbursing half of the salary in March 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423527",
-        "published_date": "2026-05-20T23:01:29Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "ea57ab7118c0",
+        "title": "Eid al-Adha in Yemen... when its children are slaughtered as free sacrifices on the massacres of militias, politics, and dependence?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423743",
+        "published_date": "2026-05-25T13:30:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4ab1149f72b1",
+        "title": "Nabil Al-Foudayi.. Archeology of ancient Yemeni dialects",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423740",
+        "published_date": "2026-05-25T11:24:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "901ef500c411",
+        "title": "A power station was burned in the city of Abs, Hajjah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423730",
+        "published_date": "2026-05-25T10:24:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9576759644a2",
+        "title": "Yemeni intellectuals appeal to the Leadership Council and the Governor of Taiz to pay the dues and salaries of the poet Mukhtar Al-Mariri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423727",
+        "published_date": "2026-05-25T09:28:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2fb3f6315489",
+        "title": "Rescuing a commercial ship in danger of sinking in Socotra Port",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423715",
+        "published_date": "2026-05-25T00:55:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "85c5d3c36b24",
+        "title": "His identity was not revealed.. Taiz police announce the arrest of the main accused in the assassination of a Red Cross employee",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423699",
+        "published_date": "2026-05-25T00:33:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6386c4e67476",
+        "title": "The listening team and the mouthpieces..!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423704",
+        "published_date": "2026-05-25T00:17:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d92c8adfabee",
         "title": "Listening team: Bidders prevent the broadcast of songs at concerts and radio stations",
@@ -295,14 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423634",
         "published_date": "2026-05-24T00:37:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "57b6da6b196b",
-        "title": "The place of dew",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423630",
-        "published_date": "2026-05-23T22:16:52Z",
         "category": "Local Events"
       },
       {
@@ -359,54 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423557",
         "published_date": "2026-05-21T22:34:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a5d89d2923c3",
-        "title": "Flies and the struggle with cleanliness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423550",
-        "published_date": "2026-05-21T21:53:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bffe5ea9e2fb",
-        "title": "In Yemen... we will continue to chant every morning: Our sheikh is the law and our tribe is the civil state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423548",
-        "published_date": "2026-05-21T21:37:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b84e4ebf6555",
-        "title": "Al-Mukalla and the Hadhramaut people are competing for the top spot in the first division league, and Al-Hilal loses in its stadium",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423538",
-        "published_date": "2026-05-21T16:47:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4140d8709e87",
-        "title": "Three Windows into the Poem at a Poetry Morning Hosted by the Poetry Platform, Baghdad City of Literature / UNESCO",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423534",
-        "published_date": "2026-05-21T15:15:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "967bfd8d098b",
-        "title": "In a strange move, Hadhramaut authorities impose customs duties on local products coming from outside the governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423531",
-        "published_date": "2026-05-21T12:59:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "409b93932eb9",
-        "title": "Average gold prices in Sanaa and Aden, Thursday, May 21, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423529",
-        "published_date": "2026-05-21T12:35:15Z",
         "category": "Local Events"
       }
     ]
