@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-25T14:14:01Z",
+  "last_updated": "2026-05-26T00:10:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "71cf34272bd7",
+        "title": "Yemeni pilot Captain Rosa Abdel Khaleq.. the first woman to fly a plane on the island and the Gulf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423773",
+        "published_date": "2026-05-25T23:48:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bf6cc8557bba",
+        "title": "A Saudi source told CNN: The Kingdom’s condition for normalization with Israel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423769",
+        "published_date": "2026-05-25T23:39:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "94189fceaf1e",
+        "title": "The national team delegation camps in Qatar in preparation for facing Lebanon “Asmaa”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423753",
+        "published_date": "2026-05-25T20:23:26Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "96ac15a747a1",
         "title": "Trump to Netanyahu: No agreement with Iran without removing enriched uranium",
@@ -121,41 +145,25 @@
         "url": "https://yemenat.net/archives/423598",
         "published_date": "2026-05-23T13:55:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "124d82c76573",
-        "title": "First Division League.. At the end of the fourth round, Hadhramaut clubs compete for the lead",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423585",
-        "published_date": "2026-05-23T12:16:29Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "54f475848ba4",
-        "title": "The European Union renews its commitment to the unity and territorial integrity of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423567",
-        "published_date": "2026-05-21T23:04:05Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "528a605b92be",
-        "title": "I see myself in her... Hoda",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423560",
-        "published_date": "2026-05-21T22:40:11Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f9f36c96f1b4",
-        "title": "Arab intellectuals denounce the targeting campaigns and declare their solidarity with the hearing group",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423553",
-        "published_date": "2026-05-21T22:04:03Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "7f9068e05e26",
+        "title": "Al-Sami... facing snakes alone",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423766",
+        "published_date": "2026-05-25T22:47:43Z",
+        "category": "Military"
+      },
+      {
+        "_id": "4f51f0ccb225",
+        "title": "Iranian media: Explosions sounded in Bandar Abbas and other cities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423756",
+        "published_date": "2026-05-25T20:58:44Z",
+        "category": "Military"
+      },
       {
         "_id": "aab018b397e9",
         "title": "Hadhramaut Coast Police announces a raid on gold extraction and processing plants in Mukalla",
@@ -211,18 +219,18 @@
         "url": "https://yemenat.net/archives/423621",
         "published_date": "2026-05-23T21:41:44Z",
         "category": "Military"
-      },
-      {
-        "_id": "61030b0b0623",
-        "title": "Great achievement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423565",
-        "published_date": "2026-05-21T22:49:02Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "0dfbc94cedef",
+        "title": "Yemenia announces two emergency technical stops",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423760",
+        "published_date": "2026-05-25T21:38:47Z",
+        "category": "Economy"
+      },
       {
         "_id": "ff23906c3e04",
         "title": "Ibb... enrichment without development",
@@ -246,17 +254,41 @@
         "url": "https://yemenat.net/archives/423591",
         "published_date": "2026-05-23T13:19:24Z",
         "category": "Economy"
-      },
-      {
-        "_id": "4857c2d3c99f",
-        "title": "A marine accident near Socotra Island",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423570",
-        "published_date": "2026-05-22T14:36:20Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "55d9d4337ff5",
+        "title": "Hodeidah.. A fire in a camp for displaced people in Al-Khawkhah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423762",
+        "published_date": "2026-05-25T22:28:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bdb469f51dc5",
+        "title": "Repetitive formation in Kalila and Dimna...an applied analytical study on the story of the lion and the bull from a repetitive perspective",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423751",
+        "published_date": "2026-05-25T19:35:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "36066928e56d",
+        "title": "“Al-Sami’i” stands with the state and against chaos..!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423749",
+        "published_date": "2026-05-25T19:27:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c3a7370b68aa",
+        "title": "Dhamar... a mild earthquake",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423746",
+        "published_date": "2026-05-25T19:10:43Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ea57ab7118c0",
         "title": "Eid al-Adha in Yemen... when its children are slaughtered as free sacrifices on the massacres of militias, politics, and dependence?",
@@ -383,38 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423589",
         "published_date": "2026-05-23T12:41:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "be85cdb94e00",
-        "title": "Dr. Mansour Al-Qadi... the radiance of thought that never disappears",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423579",
-        "published_date": "2026-05-23T11:54:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "71724db06122",
-        "title": "Exchange rates of the Yemeni riyal against foreign currencies in Sanaa and Aden, Saturday, May 23, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423577",
-        "published_date": "2026-05-23T11:08:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23bb2d46602c",
-        "title": "Sanaa.. The Money Changers Association issued a circular to stop dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423575",
-        "published_date": "2026-05-22T15:05:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d4ad82531fc9",
-        "title": "Rhetorical standards in the poetic evidence of Abu al-Tayyib al-Mutanabbi and their critical reception",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423557",
-        "published_date": "2026-05-21T22:34:59Z",
         "category": "Local Events"
       }
     ]
