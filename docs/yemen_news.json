@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-26T00:10:29Z",
+  "last_updated": "2026-05-26T13:59:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -12,7 +12,7 @@
     "Diplomacy": [
       {
         "_id": "71cf34272bd7",
-        "title": "Yemeni pilot Captain Rosa Abdel Khaleq.. the first woman to fly a plane on the island and the Gulf",
+        "title": "The first woman to fly a plane on the island and the Gulf",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423773",
         "published_date": "2026-05-25T23:48:41Z",
@@ -149,6 +149,14 @@
     ],
     "Military": [
       {
+        "_id": "68e20c9a7a58",
+        "title": "Hashid... a witness to an era in which values ​​​​vanished",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423784",
+        "published_date": "2026-05-26T12:52:01Z",
+        "category": "Military"
+      },
+      {
         "_id": "7f9068e05e26",
         "title": "Al-Sami... facing snakes alone",
         "source": "Yemenat",
@@ -246,17 +254,25 @@
         "url": "https://yemenat.net/archives/423623",
         "published_date": "2026-05-23T21:52:52Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a74f36b93793",
-        "title": "British Trade Operations warns of suspicious movements in the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423591",
-        "published_date": "2026-05-23T13:19:24Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5b90dd198d29",
+        "title": "Al-Dhalea: One dead and five injured in night clashes east of the governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423781",
+        "published_date": "2026-05-26T11:59:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "40994ae4b984",
+        "title": "Meteorology: Thunderstorms expected in six governorates and scattered in others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423775",
+        "published_date": "2026-05-26T10:54:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "55d9d4337ff5",
         "title": "Hodeidah.. A fire in a camp for displaced people in Al-Khawkhah",
@@ -399,22 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423613",
         "published_date": "2026-05-23T20:59:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d26345b7cfca",
-        "title": "The collapse of a pedestrian bridge in Haziz...an alarm bell...will the local authorities in Amanat Al-Asimah and Sanaa Governorate understand it?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423594",
-        "published_date": "2026-05-23T13:25:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e543d10b37e4",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, May 23, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423589",
-        "published_date": "2026-05-23T12:41:00Z",
         "category": "Local Events"
       }
     ]
