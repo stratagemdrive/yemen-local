@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-27T00:12:32Z",
+  "last_updated": "2026-05-27T14:31:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "60f6fdbc5950",
+        "title": "Iran.. resumption of flights via Isfahan and reopening of Tabriz Airport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423792",
+        "published_date": "2026-05-27T02:01:28Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3be37ba73fc0",
         "title": "The conference between reality and the responsibility of preserving society",
@@ -105,46 +113,6 @@
         "url": "https://yemenat.net/archives/423626",
         "published_date": "2026-05-23T22:01:32Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "d282865ada02",
-        "title": "30 players summoned to the first national team squad before the decisive confrontation against Lebanon “Asmaa”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423617",
-        "published_date": "2026-05-23T21:27:59Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a9d99b1fd6d8",
-        "title": "News about a memorandum of understanding between Washington, Tehran, and the Iranian Foreign Ministry clarifies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423610",
-        "published_date": "2026-05-23T20:36:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e798de5c1a32",
-        "title": "Strong Arab pens declare their solidarity with Lieutenant General Sultan Al-Samii against the targeting campaigns",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423607",
-        "published_date": "2026-05-23T20:01:43Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9e9a2e48abf2",
-        "title": "Yemeni intellectuals call on the leadership of Yemenia to restore Captain Rosa Mustafa’s dignity and cancel the decision to suspend her from work.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423604",
-        "published_date": "2026-05-23T19:30:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "007daa949d32",
-        "title": "When hitting a child becomes a trend: Yemen between a shot and a major tragedy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423600",
-        "published_date": "2026-05-23T15:21:07Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -232,6 +200,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "8b7e0c12654f",
+        "title": "Combining employment and trade is state-ordered corruption",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423797",
+        "published_date": "2026-05-27T02:09:01Z",
+        "category": "Economy"
+      },
+      {
         "_id": "0dfbc94cedef",
         "title": "Yemenia announces two emergency technical stops",
         "source": "Yemenat",
@@ -257,6 +233,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "83ad28c48d68",
+        "title": "Meteorology: Limited thunderstorms and hot to very hot weather",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423807",
+        "published_date": "2026-05-27T11:34:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b21aa6d4fd1",
+        "title": "Eid in Yemen is not a day of joy... but rather pain dressed up as an Eid",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423805",
+        "published_date": "2026-05-27T08:17:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "13235cb6dfa7",
+        "title": "What shame is greater than this? The stomachs of the corrupt are full and the masses are unable to reach treatment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423801",
+        "published_date": "2026-05-27T06:44:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "765bef110097",
+        "title": "Towards neutralizing the security and military establishment away from narrow loyalties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423795",
+        "published_date": "2026-05-27T02:04:19Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5b90dd198d29",
         "title": "Al-Dhalea: One dead and five injured in night clashes east of the governorate",
@@ -383,38 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423676",
         "published_date": "2026-05-24T17:25:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "79cdd392818f",
-        "title": "Sanaa.. A citizen gets stuck for long hours on a rocky slope in Al-Hayma",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423669",
-        "published_date": "2026-05-24T15:13:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4085bb8266d1",
-        "title": "Meteorology: Noticeable activity of cumulonimbus clouds and expectations of scattered rain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423667",
-        "published_date": "2026-05-24T13:56:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "59106ffb84a7",
-        "title": "The quiet narration in The Female of the Four Seasons...a reading in the style of Ahmed Tayel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423634",
-        "published_date": "2026-05-24T00:37:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "980ff14049e4",
-        "title": "A terrible traffic accident on a mountain road in Taiz Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423613",
-        "published_date": "2026-05-23T20:59:33Z",
         "category": "Local Events"
       }
     ]
