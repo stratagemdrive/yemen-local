@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-26T13:59:32Z",
+  "last_updated": "2026-05-27T00:12:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3be37ba73fc0",
+        "title": "The conference between reality and the responsibility of preserving society",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423789",
+        "published_date": "2026-05-26T15:38:06Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "71cf34272bd7",
         "title": "The first woman to fly a plane on the island and the Gulf",
@@ -136,14 +144,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423600",
         "published_date": "2026-05-23T15:21:07Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "16ef747fff8e",
-        "title": "What Sanhan did not dare to do..?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423598",
-        "published_date": "2026-05-23T13:55:23Z",
         "category": "Diplomacy"
       }
     ],
