@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-28T00:05:19Z",
+  "last_updated": "2026-05-28T14:41:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -20,7 +20,7 @@
       },
       {
         "_id": "3be37ba73fc0",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The conference between reality and the responsibility of preserving society",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423789",
         "published_date": "2026-05-26T15:38:06Z",
@@ -80,22 +80,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423673",
         "published_date": "2026-05-24T16:35:47Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "7c17964ffbc4",
-        "title": "France bans the Minister of National Security from entering its territory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423645",
-        "published_date": "2026-05-24T01:20:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "7141e4e8d2e3",
-        "title": "Israeli officials: The US-Iranian agreement is very worrying, and Trump marginalizes Israel and turns it into a contractor",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423640",
-        "published_date": "2026-05-24T01:13:48Z",
         "category": "Diplomacy"
       }
     ],
@@ -190,20 +174,36 @@
         "url": "https://yemenat.net/archives/423760",
         "published_date": "2026-05-25T21:38:47Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ff23906c3e04",
-        "title": "Ibb... enrichment without development",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423657",
-        "published_date": "2026-05-24T01:34:55Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "ec882b5c1ada",
+        "title": "Victims in a horrific traffic accident in Abyan Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423858",
+        "published_date": "2026-05-28T10:52:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "819886e06101",
+        "title": "Announcing Saudi support for power generation plants in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423855",
+        "published_date": "2026-05-28T10:25:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "339f0bc60af4",
+        "title": "The death of former President Abd Rabbuh Hadi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423849",
+        "published_date": "2026-05-28T09:15:13Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "e966486d2e1a",
-        "title": "Free tweets...we are full of lies and luxury made of paper",
+        "title": "Free tweets...we are full of lies and paper luxury",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423836",
         "published_date": "2026-05-27T23:31:52Z",
@@ -307,7 +307,7 @@
       },
       {
         "_id": "36066928e56d",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "“Al-Sami’i” stands with the state and against chaos..!",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423749",
         "published_date": "2026-05-25T19:27:08Z",
@@ -335,30 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423740",
         "published_date": "2026-05-25T11:24:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "901ef500c411",
-        "title": "A power station was burned in the city of Abs, Hajjah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423730",
-        "published_date": "2026-05-25T10:24:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9576759644a2",
-        "title": "Yemeni intellectuals appeal to the Leadership Council and the Governor of Taiz to pay the dues and salaries of the poet Mukhtar Al-Mariri",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423727",
-        "published_date": "2026-05-25T09:28:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2fb3f6315489",
-        "title": "Rescuing a commercial ship in danger of sinking in Socotra Port",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423715",
-        "published_date": "2026-05-25T00:55:41Z",
         "category": "Local Events"
       }
     ]
