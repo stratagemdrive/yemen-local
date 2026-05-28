@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-27T14:31:33Z",
+  "last_updated": "2026-05-28T00:05:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -20,7 +20,7 @@
       },
       {
         "_id": "3be37ba73fc0",
-        "title": "The conference between reality and the responsibility of preserving society",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423789",
         "published_date": "2026-05-26T15:38:06Z",
@@ -97,22 +97,6 @@
         "url": "https://yemenat.net/archives/423640",
         "published_date": "2026-05-24T01:13:48Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "72f95c254983",
-        "title": "May 22 Hope or pain..?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423628",
-        "published_date": "2026-05-23T22:12:39Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a2fb08eef525",
-        "title": "A Yemeni writer raises controversy with a scathing comparison between Saleh's era and the current authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423626",
-        "published_date": "2026-05-23T22:01:32Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -171,34 +155,26 @@
         "url": "https://yemenat.net/archives/423665",
         "published_date": "2026-05-24T13:46:49Z",
         "category": "Military"
-      },
-      {
-        "_id": "33287c2e3004",
-        "title": "Lieutenant General Sultan Al Sami... when the authority reveals its truth itself",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423632",
-        "published_date": "2026-05-23T22:26:26Z",
-        "category": "Military"
-      },
-      {
-        "_id": "57b6da6b196b",
-        "title": "The place of dew",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423630",
-        "published_date": "2026-05-23T22:16:52Z",
-        "category": "Military"
-      },
-      {
-        "_id": "e307bdee610f",
-        "title": "The “miserable” operations room... an insult to the national symbols and values ​​of the march",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423621",
-        "published_date": "2026-05-23T21:41:44Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "d5e3cf5a5364",
+        "title": "The Yemeni Journalists Syndicate mourns veteran journalist Salem Al-Hajj",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423827",
+        "published_date": "2026-05-27T21:17:53Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a51abb785788",
+        "title": "The listening team performs Eid al-Adha prayer in a popular neighborhood in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423815",
+        "published_date": "2026-05-27T20:36:26Z",
+        "category": "Economy"
+      },
       {
         "_id": "8b7e0c12654f",
         "title": "Combining employment and trade is state-ordered corruption",
@@ -222,17 +198,49 @@
         "url": "https://yemenat.net/archives/423657",
         "published_date": "2026-05-24T01:34:55Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0f0ba1ab393e",
-        "title": "Sultan Al Sami and the Hornets' Nest",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423623",
-        "published_date": "2026-05-23T21:52:52Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e966486d2e1a",
+        "title": "Free tweets...we are full of lies and luxury made of paper",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423836",
+        "published_date": "2026-05-27T23:31:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "09a3a614864f",
+        "title": "“Eid” is nothing but your holiday, Your Excellency the President",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423834",
+        "published_date": "2026-05-27T22:18:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0b6646998138",
+        "title": "Yemeni intellectuals appeal to the Chairman of the Presidential Leadership Council to provide a medical scholarship for the educationalist Mahyoub Al-Issaei",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423830",
+        "published_date": "2026-05-27T21:35:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d8dcdf2459d2",
+        "title": "Almedreha.. Rituals of Farewell and Reception of Pilgrims in Old Sana’a for Centurie",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423819",
+        "published_date": "2026-05-27T20:46:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8da09739674f",
+        "title": "An earthquake was recorded from Hajjah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423811",
+        "published_date": "2026-05-27T20:13:57Z",
+        "category": "Local Events"
+      },
       {
         "_id": "83ad28c48d68",
         "title": "Meteorology: Limited thunderstorms and hot to very hot weather",
@@ -299,7 +307,7 @@
       },
       {
         "_id": "36066928e56d",
-        "title": "“Al-Sami’i” stands with the state and against chaos..!",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423749",
         "published_date": "2026-05-25T19:27:08Z",
@@ -351,46 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423715",
         "published_date": "2026-05-25T00:55:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "85c5d3c36b24",
-        "title": "His identity was not revealed.. Taiz police announce the arrest of the main accused in the assassination of a Red Cross employee",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423699",
-        "published_date": "2026-05-25T00:33:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6386c4e67476",
-        "title": "The listening team and the mouthpieces..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423704",
-        "published_date": "2026-05-25T00:17:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d92c8adfabee",
-        "title": "Listening team: Bidders prevent the broadcast of songs at concerts and radio stations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423693",
-        "published_date": "2026-05-24T22:58:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "56233d3dbc08",
-        "title": "The Quiet Narrative in The Female of the Four Seasons: A Reading of Ahmed Taail’s Style",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423683",
-        "published_date": "2026-05-24T19:39:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9f43b46c3119",
-        "title": "Aden.. The prosecution buries dozens of unidentified bodies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423676",
-        "published_date": "2026-05-24T17:25:22Z",
         "category": "Local Events"
       }
     ]
