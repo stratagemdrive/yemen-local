@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-29T00:16:02Z",
+  "last_updated": "2026-05-29T14:11:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "60fb884322f7",
+        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423896",
+        "published_date": "2026-05-29T12:49:15Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cf26675e43fe",
+        "title": "An undeclared alliance targeting the national figure, Ahmed Saif Hashid",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423889",
+        "published_date": "2026-05-29T10:38:16Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c966253e2eda",
+        "title": "Catastrophic errors in judicial inspection statistics: How does the “judicial inspection” write case statistics with arbitrary numbers..?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423875",
+        "published_date": "2026-05-29T02:58:35Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b2b28748cb70",
         "title": "News of the arrival of a Pakistani force to Hadramaut coming from Saudi Arabia",
@@ -57,38 +81,6 @@
         "url": "https://yemenat.net/archives/423753",
         "published_date": "2026-05-25T20:23:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "96ac15a747a1",
-        "title": "Trump to Netanyahu: No agreement with Iran without removing enriched uranium",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423712",
-        "published_date": "2026-05-25T00:44:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bbc2f9aa270b",
-        "title": "He told you why the Yemeni people do not expatriate?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423701",
-        "published_date": "2026-05-25T00:11:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "8813b08913cb",
-        "title": "The listening team sends a message of thanks and gratitude to various elites at home and abroad and confirms that it will not deviate from its positions.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423679",
-        "published_date": "2026-05-24T18:05:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3bed871b7484",
-        "title": "Al-Saqladi: The south has come under Saudi control, and the southern powers are avoiding facing reality",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423673",
-        "published_date": "2026-05-24T16:35:47Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -131,14 +123,6 @@
         "url": "https://yemenat.net/archives/423722",
         "published_date": "2026-05-25T01:04:10Z",
         "category": "Military"
-      },
-      {
-        "_id": "30f446154e01",
-        "title": "Sultan Al Sami, the most clear and transparent",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423687",
-        "published_date": "2026-05-24T20:17:41Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -152,6 +136,30 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "958f862b9f72",
+        "title": "How was the Yemeni state managed before the crisis?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423891",
+        "published_date": "2026-05-29T10:45:20Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "b4f194b465d0",
+        "title": "After the death of Hadi, a legal advisor: Appointing Al-Barakani as interim president represents a constitutional solution to preserve the continuity of the state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423883",
+        "published_date": "2026-05-29T08:22:00Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "cf5defe3f6cf",
+        "title": "Redefining",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423880",
+        "published_date": "2026-05-29T07:34:15Z",
+        "category": "Economy"
+      },
       {
         "_id": "045a81cf30b2",
         "title": "Hadi's family determines the date and place of his burial",
@@ -194,6 +202,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "e8acd506eec5",
+        "title": "A car fell into a flood stream in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423903",
+        "published_date": "2026-05-29T13:38:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c06253ad9c57",
+        "title": "Two earthquakes were recorded from the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423900",
+        "published_date": "2026-05-29T13:15:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "559abe92deb3",
+        "title": "Violations against the Yemeni traveler",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423893",
+        "published_date": "2026-05-29T10:53:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "55a1f9a113d6",
+        "title": "Meteorology forecasts thunderstorms in the highlands and warns of hot weather",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423886",
+        "published_date": "2026-05-29T08:49:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "adf06d3b4ed0",
+        "title": "Hayel Saeed Anam & Co. Group offers its condolences on the death of former President Abd Rabbuh Mansour Hadi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423871",
+        "published_date": "2026-05-29T02:37:42Z",
+        "category": "Local Events"
+      },
       {
         "_id": "91f675a00faf",
         "title": "In the presence of history...a holiday trip in the capital of the Kings of Sheba",
@@ -312,46 +360,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423762",
         "published_date": "2026-05-25T22:28:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bdb469f51dc5",
-        "title": "Repetitive formation in Kalila and Dimna...an applied analytical study on the story of the lion and the bull from a repetitive perspective",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423751",
-        "published_date": "2026-05-25T19:35:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "36066928e56d",
-        "title": "“Al-Sami’i” stands with the state and against chaos..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423749",
-        "published_date": "2026-05-25T19:27:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c3a7370b68aa",
-        "title": "Dhamar... a mild earthquake",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423746",
-        "published_date": "2026-05-25T19:10:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ea57ab7118c0",
-        "title": "Eid al-Adha in Yemen... when its children are slaughtered as free sacrifices on the massacres of militias, politics, and dependence?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423743",
-        "published_date": "2026-05-25T13:30:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4ab1149f72b1",
-        "title": "Nabil Al-Foudayi.. Archeology of ancient Yemeni dialects",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423740",
-        "published_date": "2026-05-25T11:24:44Z",
         "category": "Local Events"
       }
     ]
