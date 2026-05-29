@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-28T14:41:29Z",
+  "last_updated": "2026-05-29T00:16:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "b2b28748cb70",
+        "title": "News of the arrival of a Pakistani force to Hadramaut coming from Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423864",
+        "published_date": "2026-05-28T17:22:26Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "60f6fdbc5950",
         "title": "Iran.. resumption of flights via Isfahan and reopening of Tabriz Airport",
@@ -131,18 +139,27 @@
         "url": "https://yemenat.net/archives/423687",
         "published_date": "2026-05-24T20:17:41Z",
         "category": "Military"
-      },
-      {
-        "_id": "93fbf1318330",
-        "title": "Sultan Al Sami did not gain his popularity through the influence of power or money",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423665",
-        "published_date": "2026-05-24T13:46:49Z",
-        "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "819886e06101",
+        "title": "Announcing Saudi support for power generation plants in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423855",
+        "published_date": "2026-05-28T10:25:01Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
+      {
+        "_id": "045a81cf30b2",
+        "title": "Hadi's family determines the date and place of his burial",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423868",
+        "published_date": "2026-05-28T20:30:02Z",
+        "category": "Economy"
+      },
       {
         "_id": "d5e3cf5a5364",
         "title": "The Yemeni Journalists Syndicate mourns veteran journalist Salem Al-Hajj",
@@ -178,19 +195,19 @@
     ],
     "Local Events": [
       {
+        "_id": "91f675a00faf",
+        "title": "In the presence of history...a holiday trip in the capital of the Kings of Sheba",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423861",
+        "published_date": "2026-05-28T16:49:44Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "ec882b5c1ada",
         "title": "Victims in a horrific traffic accident in Abyan Governorate",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423858",
         "published_date": "2026-05-28T10:52:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "819886e06101",
-        "title": "Announcing Saudi support for power generation plants in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423855",
-        "published_date": "2026-05-28T10:25:01Z",
         "category": "Local Events"
       },
       {
