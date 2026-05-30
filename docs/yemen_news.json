@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-29T14:11:57Z",
+  "last_updated": "2026-05-30T00:12:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "04faf754c30a",
+        "title": "Trump announces the lifting of the naval blockade on Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423920",
+        "published_date": "2026-05-29T19:10:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3a2e8a583b8f",
+        "title": "The funeral of former President Hadi in Riyadh",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423909",
+        "published_date": "2026-05-29T15:44:18Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "60fb884322f7",
         "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
@@ -107,22 +123,6 @@
         "url": "https://yemenat.net/archives/423756",
         "published_date": "2026-05-25T20:58:44Z",
         "category": "Military"
-      },
-      {
-        "_id": "aab018b397e9",
-        "title": "Hadhramaut Coast Police announces a raid on gold extraction and processing plants in Mukalla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423737",
-        "published_date": "2026-05-25T11:02:42Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c21bdfcce5db",
-        "title": "The difficult number in the Yemeni national equation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423722",
-        "published_date": "2026-05-25T01:04:10Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -202,6 +202,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "49b22f0cb547",
+        "title": "An earthquake was recorded in Hodeidah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423930",
+        "published_date": "2026-05-29T20:59:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "246af39f6e4d",
+        "title": "Source: Handing over a soldier who killed a young man in Al-Qubaita",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423927",
+        "published_date": "2026-05-29T20:27:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5c948bf86810",
+        "title": "Lahj.. A military point kills a young man in Al-Qubaita District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423924",
+        "published_date": "2026-05-29T18:34:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "92e3be1255b9",
+        "title": "Muhammad Jawi: A creative Yemeni artist, Tuhami, whom no one did justice to",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423915",
+        "published_date": "2026-05-29T16:12:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b263d8971d0c",
+        "title": "The official ingratitude towards MP Hashed reveals the moral crisis of the de facto authorities in Sanaa and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423907",
+        "published_date": "2026-05-29T14:22:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e8acd506eec5",
         "title": "A car fell into a flood stream in Sanaa",
@@ -320,46 +360,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423805",
         "published_date": "2026-05-27T08:17:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "13235cb6dfa7",
-        "title": "What shame is greater than this? The stomachs of the corrupt are full and the masses are unable to reach treatment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423801",
-        "published_date": "2026-05-27T06:44:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "765bef110097",
-        "title": "Towards neutralizing the security and military establishment away from narrow loyalties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423795",
-        "published_date": "2026-05-27T02:04:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5b90dd198d29",
-        "title": "Al-Dhalea: One dead and five injured in night clashes east of the governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423781",
-        "published_date": "2026-05-26T11:59:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40994ae4b984",
-        "title": "Meteorology: Thunderstorms expected in six governorates and scattered in others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423775",
-        "published_date": "2026-05-26T10:54:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "55d9d4337ff5",
-        "title": "Hodeidah.. A fire in a camp for displaced people in Al-Khawkhah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423762",
-        "published_date": "2026-05-25T22:28:49Z",
         "category": "Local Events"
       }
     ]
