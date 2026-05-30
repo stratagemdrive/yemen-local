@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-30T00:12:43Z",
+  "last_updated": "2026-05-30T12:07:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -24,14 +24,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423909",
         "published_date": "2026-05-29T15:44:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "60fb884322f7",
-        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423896",
-        "published_date": "2026-05-29T12:49:15Z",
         "category": "Diplomacy"
       },
       {
@@ -125,16 +117,7 @@
         "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "819886e06101",
-        "title": "Announcing Saudi support for power generation plants in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423855",
-        "published_date": "2026-05-28T10:25:01Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
       {
         "_id": "958f862b9f72",
@@ -259,6 +242,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "60fb884322f7",
+        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423896",
+        "published_date": "2026-05-29T12:49:15Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "559abe92deb3",
         "title": "Violations against the Yemeni traveler",
         "source": "Yemenat",
@@ -296,6 +287,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423858",
         "published_date": "2026-05-28T10:52:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "819886e06101",
+        "title": "Announcing Saudi support for power generation plants in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423855",
+        "published_date": "2026-05-28T10:25:01Z",
         "category": "Local Events"
       },
       {
@@ -344,22 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423811",
         "published_date": "2026-05-27T20:13:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "83ad28c48d68",
-        "title": "Meteorology: Limited thunderstorms and hot to very hot weather",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423807",
-        "published_date": "2026-05-27T11:34:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7b21aa6d4fd1",
-        "title": "Eid in Yemen is not a day of joy... but rather pain dressed up as an Eid",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423805",
-        "published_date": "2026-05-27T08:17:04Z",
         "category": "Local Events"
       }
     ]
