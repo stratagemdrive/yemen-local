@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-31T00:05:32Z",
+  "last_updated": "2026-05-31T12:15:36Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "37e96f709c32",
+        "title": "Free tweets... when I drank shattered glass",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424023",
+        "published_date": "2026-05-31T12:08:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c0bf6675dbdd",
+        "title": "Yemenia announces that it is forced to make adjustments to the pilgrims’ transportation program due to the fuel crisis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424019",
+        "published_date": "2026-05-31T11:24:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "2008ab310f68",
+        "title": "Civil society organizations submit an opinion request to the United Nations Legal Counsel regarding the constitutional status of Yemen after the death of President Hadi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424011",
+        "published_date": "2026-05-31T09:37:06Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "a1d4d8a0d05a",
         "title": "The independence of Hashid is an unforgivable accusation. Do not assassinate the silence of pain",
@@ -51,6 +75,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "60fb884322f7",
+        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423896",
+        "published_date": "2026-05-29T12:49:15Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "cf26675e43fe",
         "title": "An undeclared alliance targeting the national figure, Ahmed Saif Hashid",
         "source": "Yemenat",
@@ -73,34 +105,9 @@
         "url": "https://yemenat.net/archives/423864",
         "published_date": "2026-05-28T17:22:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "60f6fdbc5950",
-        "title": "Iran.. resumption of flights via Isfahan and reopening of Tabriz Airport",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423792",
-        "published_date": "2026-05-27T02:01:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3be37ba73fc0",
-        "title": "The conference between reality and the responsibility of preserving society",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423789",
-        "published_date": "2026-05-26T15:38:06Z",
-        "category": "Diplomacy"
       }
     ],
-    "Military": [
-      {
-        "_id": "68e20c9a7a58",
-        "title": "Hashid... a witness to an era in which values ​​​​vanished",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423784",
-        "published_date": "2026-05-26T12:52:01Z",
-        "category": "Military"
-      }
-    ],
+    "Military": [],
     "Energy": [],
     "Economy": [
       {
@@ -150,17 +157,25 @@
         "url": "https://yemenat.net/archives/423815",
         "published_date": "2026-05-27T20:36:26Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8b7e0c12654f",
-        "title": "Combining employment and trade is state-ordered corruption",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423797",
-        "published_date": "2026-05-27T02:09:01Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8282588f8053",
+        "title": "The death of a senior leader in the Yemeni Socialist Party",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424016",
+        "published_date": "2026-05-31T10:52:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ba010686b6b0",
+        "title": "Meteorology: Hot weather in deserts and coasts, and thunderstorms in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424014",
+        "published_date": "2026-05-31T10:13:36Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8634d920a9a0",
         "title": "The accused opened fire from a height overlooking the point.. Updates: A young man was killed by a soldier’s bullets at a military point in Qubaita",
@@ -282,14 +297,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "60fb884322f7",
-        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423896",
-        "published_date": "2026-05-29T12:49:15Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "559abe92deb3",
         "title": "Violations against the Yemeni traveler",
         "source": "Yemenat",
@@ -311,14 +318,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423871",
         "published_date": "2026-05-29T02:37:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "91f675a00faf",
-        "title": "In the presence of history...a holiday trip in the capital of the Kings of Sheba",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423861",
-        "published_date": "2026-05-28T16:49:44Z",
         "category": "Local Events"
       }
     ]
