@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-30T12:07:50Z",
+  "last_updated": "2026-05-31T00:05:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a1d4d8a0d05a",
+        "title": "The independence of Hashid is an unforgivable accusation. Do not assassinate the silence of pain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423971",
+        "published_date": "2026-05-30T22:14:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3fb10fb6d13f",
+        "title": "Let the servant of his Lord sleep in peace... Republics are not judged by herd logic",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423945",
+        "published_date": "2026-05-30T15:55:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "de8fa1538719",
+        "title": "A loneliness that is told quietly in “The Loneliness of the Day” by Khaled Al-Youssef",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423938",
+        "published_date": "2026-05-30T14:33:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "04faf754c30a",
         "title": "Trump announces the lifting of the naval blockade on Iran",
@@ -65,30 +89,6 @@
         "url": "https://yemenat.net/archives/423789",
         "published_date": "2026-05-26T15:38:06Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "71cf34272bd7",
-        "title": "The first woman to fly a plane on the island and the Gulf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423773",
-        "published_date": "2026-05-25T23:48:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bf6cc8557bba",
-        "title": "A Saudi source told CNN: The Kingdom’s condition for normalization with Israel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423769",
-        "published_date": "2026-05-25T23:39:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "94189fceaf1e",
-        "title": "The national team delegation camps in Qatar in preparation for facing Lebanon “Asmaa”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423753",
-        "published_date": "2026-05-25T20:23:26Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -98,22 +98,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423784",
         "published_date": "2026-05-26T12:52:01Z",
-        "category": "Military"
-      },
-      {
-        "_id": "7f9068e05e26",
-        "title": "Al-Sami... facing snakes alone",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423766",
-        "published_date": "2026-05-25T22:47:43Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4f51f0ccb225",
-        "title": "Iranian media: Explosions sounded in Bandar Abbas and other cities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423756",
-        "published_date": "2026-05-25T20:58:44Z",
         "category": "Military"
       }
     ],
@@ -174,17 +158,73 @@
         "url": "https://yemenat.net/archives/423797",
         "published_date": "2026-05-27T02:09:01Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0dfbc94cedef",
-        "title": "Yemenia announces two emergency technical stops",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423760",
-        "published_date": "2026-05-25T21:38:47Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8634d920a9a0",
+        "title": "The accused opened fire from a height overlooking the point.. Updates: A young man was killed by a soldier’s bullets at a military point in Qubaita",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423974",
+        "published_date": "2026-05-30T23:20:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b58a5eadc0e4",
+        "title": "Three earthquakes were recorded from the Gulf of Aden and Hodeidah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423967",
+        "published_date": "2026-05-30T21:32:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a8f82c9bf48",
+        "title": "Intellectuals call on the Sanaa authority to release lawyer Abdul Majeed Sabra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423965",
+        "published_date": "2026-05-30T20:30:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "461978e36d2b",
+        "title": "Hashid...a sign of struggle",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423960",
+        "published_date": "2026-05-30T19:11:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7004d3195915",
+        "title": "A fire engulfs a camp for displaced people in Mahra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423953",
+        "published_date": "2026-05-30T17:50:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3e5b03e7ce93",
+        "title": "“Video”.. British police arrest Yemenis for wearing jamiyabiyya",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423947",
+        "published_date": "2026-05-30T16:41:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3fe773a78d17",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, May 30, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423936",
+        "published_date": "2026-05-30T14:08:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "afa1bb2fa064",
+        "title": "Meteorology: Thunderstorms in the highlands and parts of the plains, and intense heat in the deserts and coasts.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/423933",
+        "published_date": "2026-05-30T13:08:55Z",
+        "category": "Local Events"
+      },
       {
         "_id": "49b22f0cb547",
         "title": "An earthquake was recorded in Hodeidah Governorate",
@@ -279,70 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423861",
         "published_date": "2026-05-28T16:49:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ec882b5c1ada",
-        "title": "Victims in a horrific traffic accident in Abyan Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423858",
-        "published_date": "2026-05-28T10:52:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "819886e06101",
-        "title": "Announcing Saudi support for power generation plants in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423855",
-        "published_date": "2026-05-28T10:25:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "339f0bc60af4",
-        "title": "The death of former President Abd Rabbuh Hadi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423849",
-        "published_date": "2026-05-28T09:15:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e966486d2e1a",
-        "title": "Free tweets...we are full of lies and paper luxury",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423836",
-        "published_date": "2026-05-27T23:31:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "09a3a614864f",
-        "title": "“Eid” is nothing but your holiday, Your Excellency the President",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423834",
-        "published_date": "2026-05-27T22:18:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0b6646998138",
-        "title": "Yemeni intellectuals appeal to the Chairman of the Presidential Leadership Council to provide a medical scholarship for the educationalist Mahyoub Al-Issaei",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423830",
-        "published_date": "2026-05-27T21:35:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d8dcdf2459d2",
-        "title": "Almedreha.. Rituals of Farewell and Reception of Pilgrims in Old Sana’a for Centurie",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423819",
-        "published_date": "2026-05-27T20:46:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8da09739674f",
-        "title": "An earthquake was recorded from Hajjah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423811",
-        "published_date": "2026-05-27T20:13:57Z",
         "category": "Local Events"
       }
     ]
