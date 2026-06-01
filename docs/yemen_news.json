@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-05-31T12:15:36Z",
+  "last_updated": "2026-06-01T00:10:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "901854ce9706",
+        "title": "Military reinforcements heading to the west coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424042",
+        "published_date": "2026-05-31T21:49:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e2424488bff7",
+        "title": "A Quietly Narrated Solitude in Khalid Al-Yousef’s (The Solitude of Daylight)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424040",
+        "published_date": "2026-05-31T21:19:30Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "37e96f709c32",
         "title": "Free tweets... when I drank shattered glass",
@@ -72,14 +88,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423909",
         "published_date": "2026-05-29T15:44:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "60fb884322f7",
-        "title": "صدور كتاب (هايكو ولوحة) للشاعرة غرام الربيعي والشاعر كريم فارس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423896",
-        "published_date": "2026-05-29T12:49:15Z",
         "category": "Diplomacy"
       },
       {
@@ -149,17 +157,33 @@
         "url": "https://yemenat.net/archives/423827",
         "published_date": "2026-05-27T21:17:53Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a51abb785788",
-        "title": "The listening team performs Eid al-Adha prayer in a popular neighborhood in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423815",
-        "published_date": "2026-05-27T20:36:26Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5c050f55dbdc",
+        "title": "Little tricks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424038",
+        "published_date": "2026-05-31T21:13:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cf98aa7aadba",
+        "title": "Taiz.. A boat hijacks a Yemeni fishing boat off the coast of Mokha",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424036",
+        "published_date": "2026-05-31T20:58:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7833b3dd9bde",
+        "title": "Two earthquakes were recorded from the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424031",
+        "published_date": "2026-05-31T19:26:28Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8282588f8053",
         "title": "The death of a senior leader in the Yemeni Socialist Party",
@@ -294,30 +318,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423900",
         "published_date": "2026-05-29T13:15:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "559abe92deb3",
-        "title": "Violations against the Yemeni traveler",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423893",
-        "published_date": "2026-05-29T10:53:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "55a1f9a113d6",
-        "title": "Meteorology forecasts thunderstorms in the highlands and warns of hot weather",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423886",
-        "published_date": "2026-05-29T08:49:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "adf06d3b4ed0",
-        "title": "Hayel Saeed Anam & Co. Group offers its condolences on the death of former President Abd Rabbuh Mansour Hadi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423871",
-        "published_date": "2026-05-29T02:37:42Z",
         "category": "Local Events"
       }
     ]
