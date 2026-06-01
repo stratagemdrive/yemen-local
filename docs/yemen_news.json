@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-01T00:10:25Z",
+  "last_updated": "2026-06-01T16:44:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -115,9 +115,34 @@
         "category": "Diplomacy"
       }
     ],
-    "Military": [],
+    "Military": [
+      {
+        "_id": "3576b4f51d04",
+        "title": "The Israeli army announces that 4 soldiers were injured in a drone explosion launched by Hezbollah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424053",
+        "published_date": "2026-06-01T00:40:50Z",
+        "category": "Military"
+      }
+    ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "d24bcd9ba9c6",
+        "title": "Important notes about the Al-Qutaie’ Festival for Yemeni Tihami heritage and folklore",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424076",
+        "published_date": "2026-06-01T16:19:24Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9d23c5ff1dfa",
+        "title": "Leukemia Suffering and Time",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424051",
+        "published_date": "2026-06-01T00:29:39Z",
+        "category": "Economy"
+      },
       {
         "_id": "958f862b9f72",
         "title": "How was the Yemeni state managed before the crisis?",
@@ -149,17 +174,57 @@
         "url": "https://yemenat.net/archives/423868",
         "published_date": "2026-05-28T20:30:02Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d5e3cf5a5364",
-        "title": "The Yemeni Journalists Syndicate mourns veteran journalist Salem Al-Hajj",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423827",
-        "published_date": "2026-05-27T21:17:53Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9044ea539a48",
+        "title": "With branches of love and peace.. Sanaa and Taiz celebrate “Eid Al-Mashaker”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424067",
+        "published_date": "2026-06-01T14:50:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "037a383e4afa",
+        "title": "Unidentified persons vandalize a vineyard in Amran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424064",
+        "published_date": "2026-06-01T14:19:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "61b1fb8a11e7",
+        "title": "I apologize for my name",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424061",
+        "published_date": "2026-06-01T13:01:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d8012d5c42ac",
+        "title": "Meteorology: Thunderstorms of varying intensity continue in a number of governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424056",
+        "published_date": "2026-06-01T11:24:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7efdc3563663",
+        "title": "The file of arrests and restrictions on movement is one of the most complex and painful humanitarian files",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424049",
+        "published_date": "2026-06-01T00:23:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bbc4fdb14b37",
+        "title": "When the honorable fighters leave one by one, the country remains more desolate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424047",
+        "published_date": "2026-06-01T00:15:49Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5c050f55dbdc",
         "title": "Little tricks",
@@ -270,54 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423930",
         "published_date": "2026-05-29T20:59:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "246af39f6e4d",
-        "title": "Source: Handing over a soldier who killed a young man in Al-Qubaita",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423927",
-        "published_date": "2026-05-29T20:27:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c948bf86810",
-        "title": "Lahj.. A military point kills a young man in Al-Qubaita District",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423924",
-        "published_date": "2026-05-29T18:34:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "92e3be1255b9",
-        "title": "Muhammad Jawi: A creative Yemeni artist, Tuhami, whom no one did justice to",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423915",
-        "published_date": "2026-05-29T16:12:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b263d8971d0c",
-        "title": "The official ingratitude towards MP Hashed reveals the moral crisis of the de facto authorities in Sanaa and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423907",
-        "published_date": "2026-05-29T14:22:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e8acd506eec5",
-        "title": "A car fell into a flood stream in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423903",
-        "published_date": "2026-05-29T13:38:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c06253ad9c57",
-        "title": "Two earthquakes were recorded from the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423900",
-        "published_date": "2026-05-29T13:15:17Z",
         "category": "Local Events"
       }
     ]
