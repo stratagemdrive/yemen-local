@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-01T16:44:53Z",
+  "last_updated": "2026-06-02T00:18:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "f6b045af4099",
+        "title": "Those who carry incense burners are the ones who make small sparks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424093",
+        "published_date": "2026-06-01T23:55:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "140f935be5eb",
+        "title": "The vision of the listening group: either a state of national partnership or imminent collapse",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424090",
+        "published_date": "2026-06-01T23:47:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f44c39683ab5",
+        "title": "Goodbye Anis Hassan Yahya: The departure of the voice of reason that did not calm down",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424086",
+        "published_date": "2026-06-01T21:36:46Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9f448c80f485",
+        "title": "Oh agreement.. Oh hypocrisy.. Oh separation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424079",
+        "published_date": "2026-06-01T17:35:37Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "901854ce9706",
         "title": "Military reinforcements heading to the west coast",
@@ -97,22 +129,6 @@
         "url": "https://yemenat.net/archives/423889",
         "published_date": "2026-05-29T10:38:16Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c966253e2eda",
-        "title": "Catastrophic errors in judicial inspection statistics: How does the “judicial inspection” write case statistics with arbitrary numbers..?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423875",
-        "published_date": "2026-05-29T02:58:35Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b2b28748cb70",
-        "title": "News of the arrival of a Pakistani force to Hadramaut coming from Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423864",
-        "published_date": "2026-05-28T17:22:26Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -150,33 +166,33 @@
         "url": "https://yemenat.net/archives/423891",
         "published_date": "2026-05-29T10:45:20Z",
         "category": "Economy"
-      },
-      {
-        "_id": "b4f194b465d0",
-        "title": "After the death of Hadi, a legal advisor: Appointing Al-Barakani as interim president represents a constitutional solution to preserve the continuity of the state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423883",
-        "published_date": "2026-05-29T08:22:00Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "cf5defe3f6cf",
-        "title": "Redefining",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423880",
-        "published_date": "2026-05-29T07:34:15Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "045a81cf30b2",
-        "title": "Hadi's family determines the date and place of his burial",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423868",
-        "published_date": "2026-05-28T20:30:02Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4a4d9c1c3189",
+        "title": "Corruption in Yemen...turned the lives of Yemenis into hell",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424095",
+        "published_date": "2026-06-02T00:08:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a52f755ab0b",
+        "title": "All solidarity with Sheikh Sultan Al Sami against the treason campaigns",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424088",
+        "published_date": "2026-06-01T22:10:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5e7e91765036",
+        "title": "Activists call for speedy detection of perpetrators who destroyed old grape trees in Amran “Details”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424082",
+        "published_date": "2026-06-01T20:27:50Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9044ea539a48",
         "title": "With branches of love and peace.. Sanaa and Taiz celebrate “Eid Al-Mashaker”",
@@ -311,30 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423947",
         "published_date": "2026-05-30T16:41:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3fe773a78d17",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, May 30, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423936",
-        "published_date": "2026-05-30T14:08:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "afa1bb2fa064",
-        "title": "Meteorology: Thunderstorms in the highlands and parts of the plains, and intense heat in the deserts and coasts.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423933",
-        "published_date": "2026-05-30T13:08:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "49b22f0cb547",
-        "title": "An earthquake was recorded in Hodeidah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423930",
-        "published_date": "2026-05-29T20:59:43Z",
         "category": "Local Events"
       }
     ]
