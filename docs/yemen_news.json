@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-02T00:18:39Z",
+  "last_updated": "2026-06-02T14:58:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -121,14 +121,6 @@
         "url": "https://yemenat.net/archives/423909",
         "published_date": "2026-05-29T15:44:18Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "cf26675e43fe",
-        "title": "An undeclared alliance targeting the national figure, Ahmed Saif Hashid",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423889",
-        "published_date": "2026-05-29T10:38:16Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -158,17 +150,33 @@
         "url": "https://yemenat.net/archives/424051",
         "published_date": "2026-06-01T00:29:39Z",
         "category": "Economy"
-      },
-      {
-        "_id": "958f862b9f72",
-        "title": "How was the Yemeni state managed before the crisis?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423891",
-        "published_date": "2026-05-29T10:45:20Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "7005a93ea433",
+        "title": "Aden.. Clashes between Somalis and Ethiopians, and the company intervenes to resolve the clash",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424103",
+        "published_date": "2026-06-02T12:55:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "02e36692caf9",
+        "title": "History is not written by emergencies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424099",
+        "published_date": "2026-06-02T10:41:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cab258556087",
+        "title": "Meteorology: Hot to very hot weather in deserts, plateaus and coasts, and thunderstorms in the highlands.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424097",
+        "published_date": "2026-06-02T10:21:12Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4a4d9c1c3189",
         "title": "Corruption in Yemen...turned the lives of Yemenis into hell",
@@ -303,30 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/423965",
         "published_date": "2026-05-30T20:30:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "461978e36d2b",
-        "title": "Hashid...a sign of struggle",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423960",
-        "published_date": "2026-05-30T19:11:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7004d3195915",
-        "title": "A fire engulfs a camp for displaced people in Mahra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423953",
-        "published_date": "2026-05-30T17:50:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3e5b03e7ce93",
-        "title": "“Video”.. British police arrest Yemenis for wearing jamiyabiyya",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423947",
-        "published_date": "2026-05-30T16:41:15Z",
         "category": "Local Events"
       }
     ]
