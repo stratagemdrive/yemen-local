@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-03T01:42:47Z",
+  "last_updated": "2026-06-03T15:49:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -36,7 +36,7 @@
       },
       {
         "_id": "93762f361b54",
-        "title": "Abed Al-Mutrarif and the issue of class marriage in Yemen: between the personal narrative and questions of social reality",
+        "title": "Abed Al-Masrif and the issue of class marriage in Yemen: between the personal narrative and questions of social reality",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424124",
         "published_date": "2026-06-02T17:34:23Z",
@@ -113,14 +113,6 @@
         "url": "https://yemenat.net/archives/424011",
         "published_date": "2026-05-31T09:37:06Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a1d4d8a0d05a",
-        "title": "The independence of Hashid is an unforgivable accusation. Do not assassinate the silence of pain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423971",
-        "published_date": "2026-05-30T22:14:37Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -135,6 +127,30 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "8b7d6d97c19d",
+        "title": "Lebanon's wages and Yemen's adulterated oil are two sides of the same coin, and the price of one position",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424177",
+        "published_date": "2026-06-03T13:18:18Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "871f061cee6f",
+        "title": "After 94 days.. Iran announces the location of Khamenei’s funeral and burial",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424174",
+        "published_date": "2026-06-03T12:56:12Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "1ed60a4098a3",
+        "title": "Average gold prices in Sanaa and Aden Wednesday, June 3, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424172",
+        "published_date": "2026-06-03T12:14:28Z",
+        "category": "Economy"
+      },
       {
         "_id": "fd52ef287ede",
         "title": "Sanaa.. The Consumer Protection Association calls for an investigation into complaints about the presence of adulterated gasoline",
@@ -169,6 +185,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "6477c4652131",
+        "title": "Citizens complain of adulterated gasoline that damaged their cars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424182",
+        "published_date": "2026-06-03T14:47:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8320c3800da5",
+        "title": "The guardians of Al-Yafei’s blood call for the arrest of those involved in his killing in Ma’rib Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424179",
+        "published_date": "2026-06-03T13:53:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8b34424c607d",
+        "title": "The Arabian Gulf Cup Federation increases the number of clubs participating in the third edition of the Gulf Champions League",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424169",
+        "published_date": "2026-06-03T11:49:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "70a2250dea4a",
+        "title": "Meteorology warns of extremely hot weather and heat stress in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424166",
+        "published_date": "2026-06-03T11:17:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8bcdf477228e",
         "title": "Putin sets new conditions for granting citizenship to foreigners",
@@ -295,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424064",
         "published_date": "2026-06-01T14:19:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "61b1fb8a11e7",
-        "title": "I apologize for my name",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424061",
-        "published_date": "2026-06-01T13:01:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d8012d5c42ac",
-        "title": "Meteorology: Thunderstorms of varying intensity continue in a number of governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424056",
-        "published_date": "2026-06-01T11:24:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7efdc3563663",
-        "title": "The file of arrests and restrictions on movement is one of the most complex and painful humanitarian files",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424049",
-        "published_date": "2026-06-01T00:23:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bbc4fdb14b37",
-        "title": "When the honorable fighters leave one by one, the country remains more desolate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424047",
-        "published_date": "2026-06-01T00:15:49Z",
         "category": "Local Events"
       }
     ]
