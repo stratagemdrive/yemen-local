@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-02T14:58:19Z",
+  "last_updated": "2026-06-03T01:42:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "36931909a37d",
+        "title": "Trump explains the fact that talks between Washington and Tehran have stopped",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424164",
+        "published_date": "2026-06-03T00:21:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c0d8748b5ea4",
+        "title": "The media and political arena has been transformed from a space for constructive criticism into trenches for blind praise",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424153",
+        "published_date": "2026-06-03T00:01:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "8561c7624b82",
+        "title": "Anis Hassan Yahya is a hero from this time",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424150",
+        "published_date": "2026-06-02T23:53:21Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "93762f361b54",
+        "title": "Abed Al-Mutrarif and the issue of class marriage in Yemen: between the personal narrative and questions of social reality",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424124",
+        "published_date": "2026-06-02T17:34:23Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "f6b045af4099",
         "title": "Those who carry incense burners are the ones who make small sparks",
@@ -89,38 +121,6 @@
         "url": "https://yemenat.net/archives/423971",
         "published_date": "2026-05-30T22:14:37Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3fb10fb6d13f",
-        "title": "Let the servant of his Lord sleep in peace... Republics are not judged by herd logic",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423945",
-        "published_date": "2026-05-30T15:55:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "de8fa1538719",
-        "title": "A loneliness that is told quietly in “The Loneliness of the Day” by Khaled Al-Youssef",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423938",
-        "published_date": "2026-05-30T14:33:22Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "04faf754c30a",
-        "title": "Trump announces the lifting of the naval blockade on Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423920",
-        "published_date": "2026-05-29T19:10:23Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3a2e8a583b8f",
-        "title": "The funeral of former President Hadi in Riyadh",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423909",
-        "published_date": "2026-05-29T15:44:18Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -135,6 +135,22 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "fd52ef287ede",
+        "title": "Sanaa.. The Consumer Protection Association calls for an investigation into complaints about the presence of adulterated gasoline",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424137",
+        "published_date": "2026-06-02T20:35:00Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f045e0e8ac4c",
+        "title": "The Yemeni Football Association approves the postponement of the first-class and Republic Cup matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424122",
+        "published_date": "2026-06-02T17:04:08Z",
+        "category": "Economy"
+      },
       {
         "_id": "d24bcd9ba9c6",
         "title": "Important notes about the Al-Qutaie’ Festival for Yemeni Tihami heritage and folklore",
@@ -153,6 +169,70 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "8bcdf477228e",
+        "title": "Putin sets new conditions for granting citizenship to foreigners",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424161",
+        "published_date": "2026-06-03T00:15:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6aa1346ab5d1",
+        "title": "Where did the state money go?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424156",
+        "published_date": "2026-06-03T00:09:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb6b205a2174",
+        "title": "In the time of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424141",
+        "published_date": "2026-06-02T23:41:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5f42fa5e9814",
+        "title": "Shabwa.. Fireworks burn a palm tree in Asilan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424133",
+        "published_date": "2026-06-02T19:59:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0f75def2453",
+        "title": "An earthquake was recorded in the south of Ibb Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424130",
+        "published_date": "2026-06-02T18:58:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b4c83df0a960",
+        "title": "Taiz.. Wadi Nakhla floods sweep away a citizen in Sharaab Al Salam",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424119",
+        "published_date": "2026-06-02T16:51:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d00933bdbe2e",
+        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 2, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424117",
+        "published_date": "2026-06-02T16:17:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ff32e9700914",
+        "title": "The Taiz Public Prosecution charges 13 people with the assassination of Efthan Al-Mashahri, including army and security officers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424106",
+        "published_date": "2026-06-02T15:48:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7005a93ea433",
         "title": "Aden.. Clashes between Somalis and Ethiopians, and the company intervenes to resolve the clash",
@@ -247,70 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424047",
         "published_date": "2026-06-01T00:15:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c050f55dbdc",
-        "title": "Little tricks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424038",
-        "published_date": "2026-05-31T21:13:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cf98aa7aadba",
-        "title": "Taiz.. A boat hijacks a Yemeni fishing boat off the coast of Mokha",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424036",
-        "published_date": "2026-05-31T20:58:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7833b3dd9bde",
-        "title": "Two earthquakes were recorded from the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424031",
-        "published_date": "2026-05-31T19:26:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8282588f8053",
-        "title": "The death of a senior leader in the Yemeni Socialist Party",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424016",
-        "published_date": "2026-05-31T10:52:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ba010686b6b0",
-        "title": "Meteorology: Hot weather in deserts and coasts, and thunderstorms in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424014",
-        "published_date": "2026-05-31T10:13:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8634d920a9a0",
-        "title": "The accused opened fire from a height overlooking the point.. Updates: A young man was killed by a soldier’s bullets at a military point in Qubaita",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423974",
-        "published_date": "2026-05-30T23:20:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b58a5eadc0e4",
-        "title": "Three earthquakes were recorded from the Gulf of Aden and Hodeidah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423967",
-        "published_date": "2026-05-30T21:32:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a8f82c9bf48",
-        "title": "Intellectuals call on the Sanaa authority to release lawyer Abdul Majeed Sabra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/423965",
-        "published_date": "2026-05-30T20:30:19Z",
         "category": "Local Events"
       }
     ]
