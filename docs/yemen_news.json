@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-03T15:49:39Z",
+  "last_updated": "2026-06-04T01:45:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "2268499c8c62",
+        "title": "Khaled Al-Arassi...who visited me last night",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424203",
+        "published_date": "2026-06-03T20:16:53Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0c4e874be6a6",
+        "title": "Between the “legitimacy” of the institution and the law of the jungle: when the right to life becomes a point of view",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424196",
+        "published_date": "2026-06-03T19:07:20Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cd8a3eb8488a",
+        "title": "An exhausted friend",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424188",
+        "published_date": "2026-06-03T15:55:18Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "36931909a37d",
         "title": "Trump explains the fact that talks between Washington and Tehran have stopped",
@@ -89,30 +113,6 @@
         "url": "https://yemenat.net/archives/424040",
         "published_date": "2026-05-31T21:19:30Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "37e96f709c32",
-        "title": "Free tweets... when I drank shattered glass",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424023",
-        "published_date": "2026-05-31T12:08:22Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c0bf6675dbdd",
-        "title": "Yemenia announces that it is forced to make adjustments to the pilgrims’ transportation program due to the fuel crisis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424019",
-        "published_date": "2026-05-31T11:24:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "2008ab310f68",
-        "title": "Civil society organizations submit an opinion request to the United Nations Legal Counsel regarding the constitutional status of Yemen after the death of President Hadi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424011",
-        "published_date": "2026-05-31T09:37:06Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -127,6 +127,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "c1b978189b0a",
+        "title": "Yemenia is taking operational measures to overcome the fuel crisis and resume flights",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424191",
+        "published_date": "2026-06-03T16:47:16Z",
+        "category": "Economy"
+      },
       {
         "_id": "8b7d6d97c19d",
         "title": "Lebanon's wages and Yemen's adulterated oil are two sides of the same coin, and the price of one position",
@@ -186,6 +194,22 @@
     ],
     "Local Events": [
       {
+        "_id": "a88dff5c7f8b",
+        "title": "The Legal Department of the Teachers Syndicate confirms the invalidity of the June 6 meeting and calls for its postponement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424207",
+        "published_date": "2026-06-03T21:38:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "609d3cf3a1dd",
+        "title": "Rule of the people, not rule of lineage: the concept of guardianship between historical legacy and the hijacking of power under the guise of faith",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424201",
+        "published_date": "2026-06-03T20:07:26Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "6477c4652131",
         "title": "Citizens complain of adulterated gasoline that damaged their cars",
         "source": "Yemenat",
@@ -235,7 +259,7 @@
       },
       {
         "_id": "fb6b205a2174",
-        "title": "In the time of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
+        "title": "In the age of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424141",
         "published_date": "2026-06-02T23:41:47Z",
@@ -327,22 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424082",
         "published_date": "2026-06-01T20:27:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9044ea539a48",
-        "title": "With branches of love and peace.. Sanaa and Taiz celebrate “Eid Al-Mashaker”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424067",
-        "published_date": "2026-06-01T14:50:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "037a383e4afa",
-        "title": "Unidentified persons vandalize a vineyard in Amran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424064",
-        "published_date": "2026-06-01T14:19:42Z",
         "category": "Local Events"
       }
     ]
