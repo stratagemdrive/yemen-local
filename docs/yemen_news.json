@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-04T01:45:34Z",
+  "last_updated": "2026-06-04T14:07:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e82c21077d09",
+        "title": "UN agencies: Many of Yemen's residents are threatened by acute hunger with the decline in UN aid",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424213",
+        "published_date": "2026-06-04T09:54:21Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2268499c8c62",
         "title": "Khaled Al-Arassi...who visited me last night",
@@ -97,22 +105,6 @@
         "url": "https://yemenat.net/archives/424079",
         "published_date": "2026-06-01T17:35:37Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "901854ce9706",
-        "title": "Military reinforcements heading to the west coast",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424042",
-        "published_date": "2026-05-31T21:49:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e2424488bff7",
-        "title": "A Quietly Narrated Solitude in Khalid Al-Yousef’s (The Solitude of Daylight)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424040",
-        "published_date": "2026-05-31T21:19:30Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -127,6 +119,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "132adb916be7",
+        "title": "Al-Maqaleh: Your stay in power is due to the absence of a better alternative",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424215",
+        "published_date": "2026-06-04T10:26:22Z",
+        "category": "Economy"
+      },
       {
         "_id": "c1b978189b0a",
         "title": "Yemenia is taking operational measures to overcome the fuel crisis and resume flights",
@@ -194,6 +194,30 @@
     ],
     "Local Events": [
       {
+        "_id": "3f727251f324",
+        "title": "Aden.. Military and security deployment in the parade square",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424221",
+        "published_date": "2026-06-04T12:47:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4b72308ad9af",
+        "title": "Amid sharp polarization...a prominent social figure withdraws from a heritage festival in Yafa in protest against politicization",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424217",
+        "published_date": "2026-06-04T11:23:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f00f20a30d8f",
+        "title": "No one is above the law...except the “Jabouli” group, sponsored by influential people!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424209",
+        "published_date": "2026-06-04T02:36:39Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "a88dff5c7f8b",
         "title": "The Legal Department of the Teachers Syndicate confirms the invalidity of the June 6 meeting and calls for its postponement",
         "source": "Yemenat",
@@ -259,7 +283,7 @@
       },
       {
         "_id": "fb6b205a2174",
-        "title": "In the age of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
+        "title": "In the time of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424141",
         "published_date": "2026-06-02T23:41:47Z",
@@ -327,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424097",
         "published_date": "2026-06-02T10:21:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4a4d9c1c3189",
-        "title": "Corruption in Yemen...turned the lives of Yemenis into hell",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424095",
-        "published_date": "2026-06-02T00:08:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a52f755ab0b",
-        "title": "All solidarity with Sheikh Sultan Al Sami against the treason campaigns",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424088",
-        "published_date": "2026-06-01T22:10:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5e7e91765036",
-        "title": "Activists call for speedy detection of perpetrators who destroyed old grape trees in Amran “Details”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424082",
-        "published_date": "2026-06-01T20:27:50Z",
         "category": "Local Events"
       }
     ]
