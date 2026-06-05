@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-05T00:14:35Z",
+  "last_updated": "2026-06-05T13:55:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "aea03288f0c6",
+        "title": "Why does a person sometimes need illusion in order to continue?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424248",
+        "published_date": "2026-06-05T09:17:59Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5c72683ccb34",
         "title": "In the network",
@@ -113,30 +121,6 @@
         "url": "https://yemenat.net/archives/424093",
         "published_date": "2026-06-01T23:55:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "140f935be5eb",
-        "title": "The vision of the listening group: either a state of national partnership or imminent collapse",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424090",
-        "published_date": "2026-06-01T23:47:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f44c39683ab5",
-        "title": "Goodbye Anis Hassan Yahya: The departure of the voice of reason that did not calm down",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424086",
-        "published_date": "2026-06-01T21:36:46Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9f448c80f485",
-        "title": "Oh agreement.. Oh hypocrisy.. Oh separation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424079",
-        "published_date": "2026-06-01T17:35:37Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -151,14 +135,6 @@
     ],
     "Energy": [],
     "Economy": [
-      {
-        "_id": "efa2c4f4a3d3",
-        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424224",
-        "published_date": "2026-06-04T14:49:56Z",
-        "category": "Economy"
-      },
       {
         "_id": "132adb916be7",
         "title": "Al-Maqaleh: Your stay in power is due to the absence of a better alternative",
@@ -218,6 +194,38 @@
     ],
     "Local Events": [
       {
+        "_id": "355556af4423",
+        "title": "My response to one of the responses of the “legitimate” authority regarding the complaint submitted against it and pending before the Human Rights Committee of the Inter-Parliamentary Union",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424260",
+        "published_date": "2026-06-05T12:50:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6387fc491c45",
+        "title": "The connotations of the rhetorical palace and its aesthetics: a comparative study between the essences of rhetoric and the secrets of rhetoric.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424258",
+        "published_date": "2026-06-05T12:29:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8ae827d6d303",
+        "title": "The death of a businessman in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424254",
+        "published_date": "2026-06-05T11:20:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d1c2971fbad0",
+        "title": "Al-Zubaidi succeeds in turning the Hijr Festival in Yafaa into a political demonstration to attack Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424251",
+        "published_date": "2026-06-05T09:59:10Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "7eedbb1e4090",
         "title": "The song “Yam, oh, oh, and your freaks sell me”: Shoshana Al-Damari and the sadness of the Yemeni bride",
         "source": "Yemenat",
@@ -231,6 +239,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424240",
         "published_date": "2026-06-04T21:57:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "efa2c4f4a3d3",
+        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424224",
+        "published_date": "2026-06-04T14:49:56Z",
         "category": "Local Events"
       },
       {
@@ -335,46 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424133",
         "published_date": "2026-06-02T19:59:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f0f75def2453",
-        "title": "An earthquake was recorded in the south of Ibb Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424130",
-        "published_date": "2026-06-02T18:58:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b4c83df0a960",
-        "title": "Taiz.. Wadi Nakhla floods sweep away a citizen in Sharaab Al Salam",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424119",
-        "published_date": "2026-06-02T16:51:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d00933bdbe2e",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 2, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424117",
-        "published_date": "2026-06-02T16:17:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ff32e9700914",
-        "title": "The Taiz Public Prosecution charges 13 people with the assassination of Efthan Al-Mashahri, including army and security officers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424106",
-        "published_date": "2026-06-02T15:48:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7005a93ea433",
-        "title": "Aden.. Clashes between Somalis and Ethiopians, and the company intervenes to resolve the clash",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424103",
-        "published_date": "2026-06-02T12:55:30Z",
         "category": "Local Events"
       }
     ]
