@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-04T14:07:31Z",
+  "last_updated": "2026-06-05T00:14:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "5c72683ccb34",
+        "title": "In the network",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424243",
+        "published_date": "2026-06-04T22:37:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d169d7c513e2",
+        "title": "The mouthpieces of power and the fabricated accusation of treason",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424236",
+        "published_date": "2026-06-04T21:47:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "18c702d65f34",
+        "title": "The Yemeni national team qualifies for the Asian Cup finals with a well-deserved victory over Lebanon",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424232",
+        "published_date": "2026-06-04T18:59:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6e07718bcdcf",
+        "title": "The listening team supports Al-Arashi’s proposal for national reconciliation and stresses that dialogue and consensus are the shortest ways to save Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424229",
+        "published_date": "2026-06-04T18:23:06Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e82c21077d09",
         "title": "UN agencies: Many of Yemen's residents are threatened by acute hunger with the decline in UN aid",
@@ -109,16 +141,24 @@
     ],
     "Military": [
       {
-        "_id": "3576b4f51d04",
-        "title": "The Israeli army announces that 4 soldiers were injured in a drone explosion launched by Hezbollah",
+        "_id": "ecefbd5eb426",
+        "title": "Marches target sites in Hadramaut, and Al-Khanbashi brings together the security and military committee",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424053",
-        "published_date": "2026-06-01T00:40:50Z",
+        "url": "https://yemenat.net/archives/424227",
+        "published_date": "2026-06-04T16:59:07Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "efa2c4f4a3d3",
+        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424224",
+        "published_date": "2026-06-04T14:49:56Z",
+        "category": "Economy"
+      },
       {
         "_id": "132adb916be7",
         "title": "Al-Maqaleh: Your stay in power is due to the absence of a better alternative",
@@ -174,25 +214,25 @@
         "url": "https://yemenat.net/archives/424122",
         "published_date": "2026-06-02T17:04:08Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d24bcd9ba9c6",
-        "title": "Important notes about the Al-Qutaie’ Festival for Yemeni Tihami heritage and folklore",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424076",
-        "published_date": "2026-06-01T16:19:24Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "9d23c5ff1dfa",
-        "title": "Leukemia Suffering and Time",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424051",
-        "published_date": "2026-06-01T00:29:39Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "7eedbb1e4090",
+        "title": "The song “Yam, oh, oh, and your freaks sell me”: Shoshana Al-Damari and the sadness of the Yemeni bride",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424245",
+        "published_date": "2026-06-04T22:51:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c12dd1c5b2ef",
+        "title": "There is no immunity for murderers and no protection for those who cover up for them. Justice is a right, not an option",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424240",
+        "published_date": "2026-06-04T21:57:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3f727251f324",
         "title": "Aden.. Military and security deployment in the parade square",
@@ -335,22 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424103",
         "published_date": "2026-06-02T12:55:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "02e36692caf9",
-        "title": "History is not written by emergencies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424099",
-        "published_date": "2026-06-02T10:41:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cab258556087",
-        "title": "Meteorology: Hot to very hot weather in deserts, plateaus and coasts, and thunderstorms in the highlands.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424097",
-        "published_date": "2026-06-02T10:21:12Z",
         "category": "Local Events"
       }
     ]
