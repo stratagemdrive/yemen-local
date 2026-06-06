@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-06T00:12:22Z",
+  "last_updated": "2026-06-06T12:10:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -113,17 +113,17 @@
         "url": "https://yemenat.net/archives/424150",
         "published_date": "2026-06-02T23:53:21Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "93762f361b54",
-        "title": "Abed Al-Masrif and the issue of class marriage in Yemen: between the personal narrative and questions of social reality",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424124",
-        "published_date": "2026-06-02T17:34:23Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "dd64cb146a43",
+        "title": "Free tweets...false legitimacy...until my death will remain a witness to its despicableness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424289",
+        "published_date": "2026-06-06T00:42:19Z",
+        "category": "Military"
+      },
       {
         "_id": "ecefbd5eb426",
         "title": "Marches target sites in Hadramaut, and Al-Khanbashi brings together the security and military committee",
@@ -144,6 +144,22 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "0fc8df8fab3e",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, June 6, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424304",
+        "published_date": "2026-06-06T11:29:30Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ab3a7e9911d1",
+        "title": "The Football Association’s Competitions Committee adjusts the dates of matches and takes a number of penalties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424302",
+        "published_date": "2026-06-06T11:14:03Z",
+        "category": "Economy"
+      },
       {
         "_id": "456927fdda10",
         "title": "Yemen: Millions of firecrackers, huge celebrations of Imam Ali’s accession to the caliphate, and a child dies every two minutes since the beginning of the war.",
@@ -199,17 +215,25 @@
         "url": "https://yemenat.net/archives/424172",
         "published_date": "2026-06-03T12:14:28Z",
         "category": "Economy"
-      },
-      {
-        "_id": "fd52ef287ede",
-        "title": "Sanaa.. The Consumer Protection Association calls for an investigation into complaints about the presence of adulterated gasoline",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424137",
-        "published_date": "2026-06-02T20:35:00Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "febca71ee4fa",
+        "title": "Taiz.. A child was found in a depleted well hours after she went missing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424306",
+        "published_date": "2026-06-06T12:01:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cd88687e7475",
+        "title": "The death of a prominent Yemeni journalist and playwright",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424299",
+        "published_date": "2026-06-06T10:43:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f170f4326037",
         "title": "Aden is suffocating in the heat... and the government is spending millions for military luxury and armored vehicles!",
@@ -352,22 +376,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424182",
         "published_date": "2026-06-03T14:47:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8320c3800da5",
-        "title": "The guardians of Al-Yafei’s blood call for the arrest of those involved in his killing in Ma’rib Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424179",
-        "published_date": "2026-06-03T13:53:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8b34424c607d",
-        "title": "The Arabian Gulf Cup Federation increases the number of clubs participating in the third edition of the Gulf Champions League",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424169",
-        "published_date": "2026-06-03T11:49:09Z",
         "category": "Local Events"
       }
     ]
