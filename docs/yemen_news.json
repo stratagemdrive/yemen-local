@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-05T13:55:51Z",
+  "last_updated": "2026-06-06T00:12:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4dd4f54d33f4",
+        "title": "The listening team: Yemen's stability depends on national reconciliation and the parliamentary system",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424274",
+        "published_date": "2026-06-05T18:06:38Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "aea03288f0c6",
         "title": "Why does a person sometimes need illusion in order to continue?",
@@ -113,14 +121,6 @@
         "url": "https://yemenat.net/archives/424124",
         "published_date": "2026-06-02T17:34:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "f6b045af4099",
-        "title": "Those who carry incense burners are the ones who make small sparks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424093",
-        "published_date": "2026-06-01T23:55:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -133,8 +133,33 @@
         "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "bb951624c910",
+        "title": "In response to the mouthpieces of the oil mafia and the tragedy of adulterated fuel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424287",
+        "published_date": "2026-06-05T22:34:07Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
+      {
+        "_id": "456927fdda10",
+        "title": "Yemen: Millions of firecrackers, huge celebrations of Imam Ali’s accession to the caliphate, and a child dies every two minutes since the beginning of the war.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424280",
+        "published_date": "2026-06-05T21:51:06Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "efa2c4f4a3d3",
+        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424224",
+        "published_date": "2026-06-04T14:49:56Z",
+        "category": "Economy"
+      },
       {
         "_id": "132adb916be7",
         "title": "Al-Maqaleh: Your stay in power is due to the absence of a better alternative",
@@ -182,17 +207,57 @@
         "url": "https://yemenat.net/archives/424137",
         "published_date": "2026-06-02T20:35:00Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f045e0e8ac4c",
-        "title": "The Yemeni Football Association approves the postponement of the first-class and Republic Cup matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424122",
-        "published_date": "2026-06-02T17:04:08Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "f170f4326037",
+        "title": "Aden is suffocating in the heat... and the government is spending millions for military luxury and armored vehicles!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424284",
+        "published_date": "2026-06-05T22:18:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e2303770f270",
+        "title": "Dr. Hammoud Abbad...what did you give to Sanaa?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424282",
+        "published_date": "2026-06-05T22:13:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1a36fcec48bc",
+        "title": "Sanaa.. Education sets the date for the start of enrollment and registration in schools",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424277",
+        "published_date": "2026-06-05T19:48:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ccd78eb3011a",
+        "title": "Marib.. Loads cause Harib electricity to burn",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424271",
+        "published_date": "2026-06-05T17:50:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "025a93a7c246",
+        "title": "An earthquake was recorded in the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424268",
+        "published_date": "2026-06-05T17:21:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a415a8beb3c",
+        "title": "They steal our lives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424263",
+        "published_date": "2026-06-05T16:05:05Z",
+        "category": "Local Events"
+      },
       {
         "_id": "355556af4423",
         "title": "My response to one of the responses of the “legitimate” authority regarding the complaint submitted against it and pending before the Human Rights Committee of the Inter-Parliamentary Union",
@@ -239,14 +304,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424240",
         "published_date": "2026-06-04T21:57:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "efa2c4f4a3d3",
-        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424224",
-        "published_date": "2026-06-04T14:49:56Z",
         "category": "Local Events"
       },
       {
@@ -311,46 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424169",
         "published_date": "2026-06-03T11:49:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "70a2250dea4a",
-        "title": "Meteorology warns of extremely hot weather and heat stress in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424166",
-        "published_date": "2026-06-03T11:17:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8bcdf477228e",
-        "title": "Putin sets new conditions for granting citizenship to foreigners",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424161",
-        "published_date": "2026-06-03T00:15:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6aa1346ab5d1",
-        "title": "Where did the state money go?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424156",
-        "published_date": "2026-06-03T00:09:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fb6b205a2174",
-        "title": "In the time of obedience... all forms of vice are permissible except citizenship... Assistant Jamil Al-Hamal is a model",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424141",
-        "published_date": "2026-06-02T23:41:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5f42fa5e9814",
-        "title": "Shabwa.. Fireworks burn a palm tree in Asilan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424133",
-        "published_date": "2026-06-02T19:59:01Z",
         "category": "Local Events"
       }
     ]
