@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-07T00:09:25Z",
+  "last_updated": "2026-06-07T12:23:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -111,6 +111,14 @@
     ],
     "Energy": [
       {
+        "_id": "f4830462f48d",
+        "title": "Sanaa.. The oil company clarifies citizens’ complaints about adulterated gasoline",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424342",
+        "published_date": "2026-06-07T00:51:20Z",
+        "category": "Energy"
+      },
+      {
         "_id": "bb951624c910",
         "title": "In response to the mouthpieces of the oil mafia and the tragedy of adulterated fuel",
         "source": "Yemenat",
@@ -175,17 +183,25 @@
         "url": "https://yemenat.net/archives/424191",
         "published_date": "2026-06-03T16:47:16Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8b7d6d97c19d",
-        "title": "Lebanon's wages and Yemen's adulterated oil are two sides of the same coin, and the price of one position",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424177",
-        "published_date": "2026-06-03T13:18:18Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "a8a2a3dd5a00",
+        "title": "Aden.. The failure of the authorities to provide electricity forces people to sleep in the streets during the extremely hot summer",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424347",
+        "published_date": "2026-06-07T11:27:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0b4eca530388",
+        "title": "Meteorology expects rain to be below average during the summer and temperatures to be higher than average",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424344",
+        "published_date": "2026-06-07T10:31:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9f416ef08024",
         "title": "Hashid... steadfast in its principles despite the restrictions and siege",
@@ -328,22 +344,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424258",
         "published_date": "2026-06-05T12:29:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8ae827d6d303",
-        "title": "The death of a businessman in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424254",
-        "published_date": "2026-06-05T11:20:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d1c2971fbad0",
-        "title": "Al-Zubaidi succeeds in turning the Hijr Festival in Yafaa into a political demonstration to attack Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424251",
-        "published_date": "2026-06-05T09:59:10Z",
         "category": "Local Events"
       }
     ]
