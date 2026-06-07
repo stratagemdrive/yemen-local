@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-06T12:10:07Z",
+  "last_updated": "2026-06-07T00:09:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,30 +89,6 @@
         "url": "https://yemenat.net/archives/424188",
         "published_date": "2026-06-03T15:55:18Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "36931909a37d",
-        "title": "Trump explains the fact that talks between Washington and Tehran have stopped",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424164",
-        "published_date": "2026-06-03T00:21:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c0d8748b5ea4",
-        "title": "The media and political arena has been transformed from a space for constructive criticism into trenches for blind praise",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424153",
-        "published_date": "2026-06-03T00:01:11Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "8561c7624b82",
-        "title": "Anis Hassan Yahya is a hero from this time",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424150",
-        "published_date": "2026-06-02T23:53:21Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -144,6 +120,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "19cc48252ed7",
+        "title": "“Hashid” is the voice of the people in a time of silence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424314",
+        "published_date": "2026-06-06T13:50:47Z",
+        "category": "Economy"
+      },
       {
         "_id": "0fc8df8fab3e",
         "title": "Average gold prices in Sanaa and Aden, Saturday, June 6, 2026",
@@ -199,25 +183,73 @@
         "url": "https://yemenat.net/archives/424177",
         "published_date": "2026-06-03T13:18:18Z",
         "category": "Economy"
-      },
-      {
-        "_id": "871f061cee6f",
-        "title": "After 94 days.. Iran announces the location of Khamenei’s funeral and burial",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424174",
-        "published_date": "2026-06-03T12:56:12Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "1ed60a4098a3",
-        "title": "Average gold prices in Sanaa and Aden Wednesday, June 3, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424172",
-        "published_date": "2026-06-03T12:14:28Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9f416ef08024",
+        "title": "Hashid... steadfast in its principles despite the restrictions and siege",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424339",
+        "published_date": "2026-06-06T21:51:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1d2a2c50ecac",
+        "title": "The Listening Team: Federalism is the best option for building the Yemeni state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424336",
+        "published_date": "2026-06-06T21:13:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "137a93ef1f9e",
+        "title": "Republic Cup.. Shabab Markha eliminates Yarmouk, and the people of Sanaa await Shabab October",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424332",
+        "published_date": "2026-06-06T19:10:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8bd1a7359588",
+        "title": "The representative's pain is overwhelming... when pain turns into a court of morals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424330",
+        "published_date": "2026-06-06T18:30:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f5b10e89ae35",
+        "title": "Assassination of a high-ranking military leader on the West Coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424325",
+        "published_date": "2026-06-06T17:12:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "675e6ac8e50e",
+        "title": "Between life, death, and the trembling of the soul: A reading of the poem “Almost Forgotten” by the Colombian poet Valentina Rojas",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424322",
+        "published_date": "2026-06-06T15:57:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ac506898bf55",
+        "title": "A fish ends the life of a fisherman in Hodeidah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424318",
+        "published_date": "2026-06-06T14:15:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "16730e80d8ad",
+        "title": "Sanaa.. Education officially sets the start date for the new academic year and exam dates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424311",
+        "published_date": "2026-06-06T12:51:43Z",
+        "category": "Local Events"
+      },
       {
         "_id": "febca71ee4fa",
         "title": "Taiz.. A child was found in a depleted well hours after she went missing",
@@ -312,70 +344,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424251",
         "published_date": "2026-06-05T09:59:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7eedbb1e4090",
-        "title": "The song “Yam, oh, oh, and your freaks sell me”: Shoshana Al-Damari and the sadness of the Yemeni bride",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424245",
-        "published_date": "2026-06-04T22:51:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c12dd1c5b2ef",
-        "title": "There is no immunity for murderers and no protection for those who cover up for them. Justice is a right, not an option",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424240",
-        "published_date": "2026-06-04T21:57:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3f727251f324",
-        "title": "Aden.. Military and security deployment in the parade square",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424221",
-        "published_date": "2026-06-04T12:47:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4b72308ad9af",
-        "title": "Amid sharp polarization...a prominent social figure withdraws from a heritage festival in Yafa in protest against politicization",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424217",
-        "published_date": "2026-06-04T11:23:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f00f20a30d8f",
-        "title": "No one is above the law...except the “Jabouli” group, sponsored by influential people!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424209",
-        "published_date": "2026-06-04T02:36:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a88dff5c7f8b",
-        "title": "The Legal Department of the Teachers Syndicate confirms the invalidity of the June 6 meeting and calls for its postponement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424207",
-        "published_date": "2026-06-03T21:38:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "609d3cf3a1dd",
-        "title": "Rule of the people, not rule of lineage: the concept of guardianship between historical legacy and the hijacking of power under the guise of faith",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424201",
-        "published_date": "2026-06-03T20:07:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6477c4652131",
-        "title": "Citizens complain of adulterated gasoline that damaged their cars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424182",
-        "published_date": "2026-06-03T14:47:49Z",
         "category": "Local Events"
       }
     ]
