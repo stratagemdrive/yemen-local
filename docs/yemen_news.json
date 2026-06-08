@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-07T12:23:56Z",
+  "last_updated": "2026-06-08T00:15:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "123bb58ec2d3",
+        "title": "The legitimacy of exile and the erosion of the Yemeni state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424373",
+        "published_date": "2026-06-07T19:35:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fc83778f07bc",
+        "title": "The Military Coordination Committee for Yemen meets under UN auspices in Jordan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424371",
+        "published_date": "2026-06-07T17:57:12Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cbf04a6c0ee5",
+        "title": "On World Food Safety Day, Hayel Saeed Group confirms its keenness to adopt the highest standards and practices in its operations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424359",
+        "published_date": "2026-06-07T16:19:00Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4dd4f54d33f4",
         "title": "The listening team: Yemen's stability depends on national reconciliation and the parliamentary system",
@@ -57,41 +81,17 @@
         "url": "https://yemenat.net/archives/424229",
         "published_date": "2026-06-04T18:23:06Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e82c21077d09",
-        "title": "UN agencies: Many of Yemen's residents are threatened by acute hunger with the decline in UN aid",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424213",
-        "published_date": "2026-06-04T09:54:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "2268499c8c62",
-        "title": "Khaled Al-Arassi...who visited me last night",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424203",
-        "published_date": "2026-06-03T20:16:53Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0c4e874be6a6",
-        "title": "Between the “legitimacy” of the institution and the law of the jungle: when the right to life becomes a point of view",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424196",
-        "published_date": "2026-06-03T19:07:20Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cd8a3eb8488a",
-        "title": "An exhausted friend",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424188",
-        "published_date": "2026-06-03T15:55:18Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "6ea61b06a09d",
+        "title": "Comment on the response of the Yemeni authorities regarding legal entitlements and medical allocations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424362",
+        "published_date": "2026-06-07T16:43:28Z",
+        "category": "Military"
+      },
       {
         "_id": "dd64cb146a43",
         "title": "Free tweets...false legitimacy...until my death will remain a witness to its despicableness",
@@ -110,6 +110,14 @@
       }
     ],
     "Energy": [
+      {
+        "_id": "182fe0eb3457",
+        "title": "The Consumer Protection Association extends an invitation to those affected by gasoline problems",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424387",
+        "published_date": "2026-06-07T23:17:52Z",
+        "category": "Energy"
+      },
       {
         "_id": "f4830462f48d",
         "title": "Sanaa.. The oil company clarifies citizens’ complaints about adulterated gasoline",
@@ -167,25 +175,57 @@
         "url": "https://yemenat.net/archives/424224",
         "published_date": "2026-06-04T14:49:56Z",
         "category": "Economy"
-      },
-      {
-        "_id": "132adb916be7",
-        "title": "Al-Maqaleh: Your stay in power is due to the absence of a better alternative",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424215",
-        "published_date": "2026-06-04T10:26:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "c1b978189b0a",
-        "title": "Yemenia is taking operational measures to overcome the fuel crisis and resume flights",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424191",
-        "published_date": "2026-06-03T16:47:16Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "0f0ec0f66507",
+        "title": "A frightening increase in malaria infections in Taiz Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424389",
+        "published_date": "2026-06-07T23:43:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6a2bb02ad541",
+        "title": "An increase in disease cases and deaths in Aden due to hot weather coinciding with power outages",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424385",
+        "published_date": "2026-06-07T22:51:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1fdbf638cc7e",
+        "title": "Ahly Sanaa deservedly qualifies for the 32nd round of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424382",
+        "published_date": "2026-06-07T21:49:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a3195c935b56",
+        "title": "In protest against the power outages, hundreds of people from Aden take their mattresses to the streets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424375",
+        "published_date": "2026-06-07T21:02:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d2199c58d0e6",
+        "title": "Sanaa.. The Ministry of Culture and Tourism and the management of Al-Fawwara Park clarify a case of violation of the privacy of one of the park’s guests",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424355",
+        "published_date": "2026-06-07T15:56:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea3bc612acc6",
+        "title": "Yemeni intellectuals appeal to Al-Alimi to provide a medical scholarship for the poet Abdul Wakil Al-Sururi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424352",
+        "published_date": "2026-06-07T13:24:21Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a8a2a3dd5a00",
         "title": "Aden.. The failure of the authorities to provide electricity forces people to sleep in the streets during the extremely hot summer",
@@ -284,7 +324,7 @@
       },
       {
         "_id": "f170f4326037",
-        "title": "Aden is suffocating in the heat... and the government is spending millions for military luxury and armored vehicles!",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424284",
         "published_date": "2026-06-05T22:18:05Z",
@@ -296,54 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424282",
         "published_date": "2026-06-05T22:13:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1a36fcec48bc",
-        "title": "Sanaa.. Education sets the date for the start of enrollment and registration in schools",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424277",
-        "published_date": "2026-06-05T19:48:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ccd78eb3011a",
-        "title": "Marib.. Loads cause Harib electricity to burn",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424271",
-        "published_date": "2026-06-05T17:50:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "025a93a7c246",
-        "title": "An earthquake was recorded in the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424268",
-        "published_date": "2026-06-05T17:21:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a415a8beb3c",
-        "title": "They steal our lives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424263",
-        "published_date": "2026-06-05T16:05:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "355556af4423",
-        "title": "My response to one of the responses of the “legitimate” authority regarding the complaint submitted against it and pending before the Human Rights Committee of the Inter-Parliamentary Union",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424260",
-        "published_date": "2026-06-05T12:50:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6387fc491c45",
-        "title": "The connotations of the rhetorical palace and its aesthetics: a comparative study between the essences of rhetoric and the secrets of rhetoric.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424258",
-        "published_date": "2026-06-05T12:29:25Z",
         "category": "Local Events"
       }
     ]
