@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-08T00:15:18Z",
+  "last_updated": "2026-06-08T14:51:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "bf64224d3dae",
+        "title": "Al-Sami: The hour of reckoning for the Zionist entity is approaching",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424415",
+        "published_date": "2026-06-08T13:03:04Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1038eb864911",
+        "title": "The hijacked Yemeni state, past and present",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424394",
+        "published_date": "2026-06-08T00:19:23Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "123bb58ec2d3",
         "title": "The legitimacy of exile and the erosion of the Yemeni state",
@@ -41,49 +57,25 @@
         "url": "https://yemenat.net/archives/424274",
         "published_date": "2026-06-05T18:06:38Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "aea03288f0c6",
-        "title": "Why does a person sometimes need illusion in order to continue?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424248",
-        "published_date": "2026-06-05T09:17:59Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "5c72683ccb34",
-        "title": "In the network",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424243",
-        "published_date": "2026-06-04T22:37:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d169d7c513e2",
-        "title": "The mouthpieces of power and the fabricated accusation of treason",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424236",
-        "published_date": "2026-06-04T21:47:19Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "18c702d65f34",
-        "title": "The Yemeni national team qualifies for the Asian Cup finals with a well-deserved victory over Lebanon",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424232",
-        "published_date": "2026-06-04T18:59:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6e07718bcdcf",
-        "title": "The listening team supports Al-Arashi’s proposal for national reconciliation and stresses that dialogue and consensus are the shortest ways to save Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424229",
-        "published_date": "2026-06-04T18:23:06Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "bdc1c3c9b9b5",
+        "title": "Saree announces the launch of missiles against Israeli targets and the ban on navigation in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424413",
+        "published_date": "2026-06-08T12:40:19Z",
+        "category": "Military"
+      },
+      {
+        "_id": "95dfe789c724",
+        "title": "Iran attacks Israel for the first time since April and warns of retaliation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424397",
+        "published_date": "2026-06-08T00:28:30Z",
+        "category": "Military"
+      },
       {
         "_id": "6ea61b06a09d",
         "title": "Comment on the response of the Yemeni authorities regarding legal entitlements and medical allocations",
@@ -98,14 +90,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424289",
         "published_date": "2026-06-06T00:42:19Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ecefbd5eb426",
-        "title": "Marches target sites in Hadramaut, and Al-Khanbashi brings together the security and military committee",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424227",
-        "published_date": "2026-06-04T16:59:07Z",
         "category": "Military"
       }
     ],
@@ -167,17 +151,49 @@
         "url": "https://yemenat.net/archives/424280",
         "published_date": "2026-06-05T21:51:06Z",
         "category": "Economy"
-      },
-      {
-        "_id": "efa2c4f4a3d3",
-        "title": "Assassination of an intelligence officer in Wadi Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424224",
-        "published_date": "2026-06-04T14:49:56Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "a0a9027045dd",
+        "title": "Hadhramaut.. Angry popular protests in Mukalla over the power outage",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424420",
+        "published_date": "2026-06-08T13:36:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e7f6dee353d",
+        "title": "Yemen between the hammer of “legitimacy” and the anvil of “de facto”: When the citizen becomes a victim of “indifference”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424418",
+        "published_date": "2026-06-08T13:08:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "54fa6021d285",
+        "title": "Boy, don't blame anyone",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424409",
+        "published_date": "2026-06-08T00:55:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8c82301a1d6d",
+        "title": "Aden between the legacy of leadership and the reality of collapse",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424407",
+        "published_date": "2026-06-08T00:48:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ecd60d39ee96",
+        "title": "“Document”... An administrative order was issued to close the Balhaj sea port, and the local authority holds the higher authorities responsible for the consequences of the closure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424392",
+        "published_date": "2026-06-08T00:20:47Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0f0ec0f66507",
         "title": "A frightening increase in malaria infections in Taiz Governorate",
@@ -296,46 +312,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424318",
         "published_date": "2026-06-06T14:15:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "16730e80d8ad",
-        "title": "Sanaa.. Education officially sets the start date for the new academic year and exam dates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424311",
-        "published_date": "2026-06-06T12:51:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "febca71ee4fa",
-        "title": "Taiz.. A child was found in a depleted well hours after she went missing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424306",
-        "published_date": "2026-06-06T12:01:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cd88687e7475",
-        "title": "The death of a prominent Yemeni journalist and playwright",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424299",
-        "published_date": "2026-06-06T10:43:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f170f4326037",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424284",
-        "published_date": "2026-06-05T22:18:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e2303770f270",
-        "title": "Dr. Hammoud Abbad...what did you give to Sanaa?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424282",
-        "published_date": "2026-06-05T22:13:35Z",
         "category": "Local Events"
       }
     ]
