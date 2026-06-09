@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-08T14:51:30Z",
+  "last_updated": "2026-06-09T00:11:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "12aca21ad163",
+        "title": "The system of (federal) regions and the possibility of its application in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424455",
+        "published_date": "2026-06-08T22:15:57Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e14e3e2e3062",
+        "title": "Noticeable rise in temperatures in deserts and coasts (highest temperatures)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424427",
+        "published_date": "2026-06-08T17:36:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "bf64224d3dae",
         "title": "Al-Sami: The hour of reckoning for the Zionist entity is approaching",
@@ -49,17 +65,33 @@
         "url": "https://yemenat.net/archives/424359",
         "published_date": "2026-06-07T16:19:00Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4dd4f54d33f4",
-        "title": "The listening team: Yemen's stability depends on national reconciliation and the parliamentary system",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424274",
-        "published_date": "2026-06-05T18:06:38Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "cff912ddc87c",
+        "title": "Trump to Netanyahu: You may find yourself alone in confronting Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424457",
+        "published_date": "2026-06-08T22:21:43Z",
+        "category": "Military"
+      },
+      {
+        "_id": "55c8380c8323",
+        "title": "The Saudi Ministry of Defense clarifies the launch of a ballistic missile from Yemen after reports of targeting a military base",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424445",
+        "published_date": "2026-06-08T19:43:55Z",
+        "category": "Military"
+      },
+      {
+        "_id": "19f08f297828",
+        "title": "Iran announces the cessation of its attacks on Israel, and Israeli media speak of a partial cessation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424423",
+        "published_date": "2026-06-08T15:45:46Z",
+        "category": "Military"
+      },
       {
         "_id": "bdc1c3c9b9b5",
         "title": "Saree announces the launch of missiles against Israeli targets and the ban on navigation in the Red Sea",
@@ -143,17 +175,65 @@
         "url": "https://yemenat.net/archives/424302",
         "published_date": "2026-06-06T11:14:03Z",
         "category": "Economy"
-      },
-      {
-        "_id": "456927fdda10",
-        "title": "Yemen: Millions of firecrackers, huge celebrations of Imam Ali’s accession to the caliphate, and a child dies every two minutes since the beginning of the war.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424280",
-        "published_date": "2026-06-05T21:51:06Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "ed1b70cf035a",
+        "title": "A fire destroys a popular market in Ma'rib Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424471",
+        "published_date": "2026-06-08T23:17:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6c73b4b4621c",
+        "title": "Yemeni intellectuals condemn the sale of the Al-Afif Cultural Foundation and demand the implementation of its founder’s will",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424460",
+        "published_date": "2026-06-08T22:42:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7749fcce7024",
+        "title": "The listening team explains: Federalism is an administrative and organizational division of the state and not a division of the nation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424451",
+        "published_date": "2026-06-08T21:37:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a6a00fa84af5",
+        "title": "Sanaa.. The Yemeni Judges Club condemns the assassination attempt on Judge Tannin and warns of the involvement of security personnel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424449",
+        "published_date": "2026-06-08T20:37:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a8d2d3fbfff",
+        "title": "The Football Association postpones first-class matches and sets a date for the resumption of Republic Cup matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424440",
+        "published_date": "2026-06-08T19:18:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d59bacf688d1",
+        "title": "Master’s Thesis Explores Magical Realism in Khaled Al-Yousef’s Novels at King Faisal University",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424436",
+        "published_date": "2026-06-08T18:45:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c6a6cf57aa26",
+        "title": "A judge submits his resignation a week after he was assaulted in Amran and one of his companions was killed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424431",
+        "published_date": "2026-06-08T18:17:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a0a9027045dd",
         "title": "Hadhramaut.. Angry popular protests in Mukalla over the power outage",
@@ -256,62 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424344",
         "published_date": "2026-06-07T10:31:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9f416ef08024",
-        "title": "Hashid... steadfast in its principles despite the restrictions and siege",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424339",
-        "published_date": "2026-06-06T21:51:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1d2a2c50ecac",
-        "title": "The Listening Team: Federalism is the best option for building the Yemeni state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424336",
-        "published_date": "2026-06-06T21:13:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "137a93ef1f9e",
-        "title": "Republic Cup.. Shabab Markha eliminates Yarmouk, and the people of Sanaa await Shabab October",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424332",
-        "published_date": "2026-06-06T19:10:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8bd1a7359588",
-        "title": "The representative's pain is overwhelming... when pain turns into a court of morals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424330",
-        "published_date": "2026-06-06T18:30:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f5b10e89ae35",
-        "title": "Assassination of a high-ranking military leader on the West Coast",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424325",
-        "published_date": "2026-06-06T17:12:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "675e6ac8e50e",
-        "title": "Between life, death, and the trembling of the soul: A reading of the poem “Almost Forgotten” by the Colombian poet Valentina Rojas",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424322",
-        "published_date": "2026-06-06T15:57:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac506898bf55",
-        "title": "A fish ends the life of a fisherman in Hodeidah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424318",
-        "published_date": "2026-06-06T14:15:18Z",
         "category": "Local Events"
       }
     ]
