@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-09T00:11:21Z",
+  "last_updated": "2026-06-09T13:46:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3504a20700fa",
+        "title": "The Saudi Ministry of Health warns against the “Al-Tayyibat System” and reveals cases that have reached intensive care",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424476",
+        "published_date": "2026-06-09T00:48:27Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "12aca21ad163",
         "title": "The system of (federal) regions and the possibility of its application in Yemen",
@@ -69,6 +77,14 @@
     ],
     "Military": [
       {
+        "_id": "ffb9242cc07c",
+        "title": "Aden.. Finance announces the launch of salary enhancements for civilians, military personnel and retirees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424481",
+        "published_date": "2026-06-09T12:41:17Z",
+        "category": "Military"
+      },
+      {
         "_id": "cff912ddc87c",
         "title": "Trump to Netanyahu: You may find yourself alone in confronting Iran",
         "source": "Yemenat",
@@ -115,14 +131,6 @@
         "url": "https://yemenat.net/archives/424362",
         "published_date": "2026-06-07T16:43:28Z",
         "category": "Military"
-      },
-      {
-        "_id": "dd64cb146a43",
-        "title": "Free tweets...false legitimacy...until my death will remain a witness to its despicableness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424289",
-        "published_date": "2026-06-06T00:42:19Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -140,14 +148,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424342",
         "published_date": "2026-06-07T00:51:20Z",
-        "category": "Energy"
-      },
-      {
-        "_id": "bb951624c910",
-        "title": "In response to the mouthpieces of the oil mafia and the tragedy of adulterated fuel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424287",
-        "published_date": "2026-06-05T22:34:07Z",
         "category": "Energy"
       }
     ],
@@ -178,6 +178,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "754e35da8605",
+        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 9, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424479",
+        "published_date": "2026-06-09T12:18:34Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ed1b70cf035a",
         "title": "A fire destroys a popular market in Ma'rib Governorate",
@@ -328,14 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424347",
         "published_date": "2026-06-07T11:27:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0b4eca530388",
-        "title": "Meteorology expects rain to be below average during the summer and temperatures to be higher than average",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424344",
-        "published_date": "2026-06-07T10:31:33Z",
         "category": "Local Events"
       }
     ]
