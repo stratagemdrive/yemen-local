@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-10T00:20:12Z",
+  "last_updated": "2026-06-10T14:26:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "0d999b9e14b7",
+        "title": "Narrative commitment and responsibility for meaning: Reflections on the second novel forum",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424534",
+        "published_date": "2026-06-10T13:06:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "981976adceb4",
+        "title": "About the comprehensive modern national democratic project for building the democratic national state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424532",
+        "published_date": "2026-06-10T12:16:39Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9c493629f13f",
+        "title": "Bahrain sounds alarm sirens after Iran announces attacking the US Fifth Fleet",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424502",
+        "published_date": "2026-06-10T02:38:43Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cedef98cf577",
+        "title": "War crimes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424484",
+        "published_date": "2026-06-10T02:06:58Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3504a20700fa",
         "title": "The Saudi Ministry of Health warns against the “Al-Tayyibat System” and reveals cases that have reached intensive care",
@@ -77,6 +109,30 @@
     ],
     "Military": [
       {
+        "_id": "04213e72d13d",
+        "title": "US Central Command announces the completion of strikes against Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424506",
+        "published_date": "2026-06-10T02:44:50Z",
+        "category": "Military"
+      },
+      {
+        "_id": "82d3e681955d",
+        "title": "Under the umbrella of absurdity... astronomical allocations to the elites and death lurking among the people and soldiers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424492",
+        "published_date": "2026-06-10T02:18:53Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e80a507ba260",
+        "title": "Mr. Yahya Al-Arashi... a man of statesmanship, wisdom and national unity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424490",
+        "published_date": "2026-06-10T02:14:57Z",
+        "category": "Military"
+      },
+      {
         "_id": "ffb9242cc07c",
         "title": "Aden.. Finance announces the launch of salary enhancements for civilians, military personnel and retirees",
         "source": "Yemenat",
@@ -141,49 +197,97 @@
         "url": "https://yemenat.net/archives/424387",
         "published_date": "2026-06-07T23:17:52Z",
         "category": "Energy"
-      },
-      {
-        "_id": "f4830462f48d",
-        "title": "Sanaa.. The oil company clarifies citizens’ complaints about adulterated gasoline",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424342",
-        "published_date": "2026-06-07T00:51:20Z",
-        "category": "Energy"
       }
     ],
     "Economy": [
       {
-        "_id": "19cc48252ed7",
-        "title": "“Hashid” is the voice of the people in a time of silence",
+        "_id": "612aade59346",
+        "title": "A noticeable decline...the average price of gold in Sanaa and Aden, Wednesday, June 10, 2026",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424314",
-        "published_date": "2026-06-06T13:50:47Z",
+        "url": "https://yemenat.net/archives/424541",
+        "published_date": "2026-06-10T13:20:47Z",
         "category": "Economy"
       },
       {
-        "_id": "0fc8df8fab3e",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, June 6, 2026",
+        "_id": "3b03b5483c18",
+        "title": "British Trade: A fire in an oil tanker and a clash with an armed boat near the coast of Yemen",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424304",
-        "published_date": "2026-06-06T11:29:30Z",
+        "url": "https://yemenat.net/archives/424529",
+        "published_date": "2026-06-10T12:01:29Z",
         "category": "Economy"
       },
       {
-        "_id": "ab3a7e9911d1",
-        "title": "The Football Association’s Competitions Committee adjusts the dates of matches and takes a number of penalties",
+        "_id": "d8960943e2b6",
+        "title": "Maonah Association for Human Rights reveals violations of the rights of persons with disabilities by parties to the conflict in Yemen",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424302",
-        "published_date": "2026-06-06T11:14:03Z",
+        "url": "https://yemenat.net/archives/424511",
+        "published_date": "2026-06-10T06:51:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "343ce3f166ee",
+        "title": "Trump: American forces are carrying out military operations in Iran in response to the shooting down of the helicopter",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424497",
+        "published_date": "2026-06-10T02:26:07Z",
         "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4b50d5977ccc",
+        "title": "Abyan.. A fire causes material damage to popular homes in Khanfar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424526",
+        "published_date": "2026-06-10T09:48:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a9f9a3dd7c9d",
+        "title": "Meteorology: Heavy rain in several governorates and extreme heat in deserts and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424524",
+        "published_date": "2026-06-10T09:00:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3d6f548a378",
+        "title": "The Central Bank suspends the license to practice money exchange activities in Habban, Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424520",
+        "published_date": "2026-06-10T08:29:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1544247bd6eb",
+        "title": "Aden.. Popular protests paralyze transportation between the districts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424517",
+        "published_date": "2026-06-10T07:55:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "03ad5fcb4996",
+        "title": "Revealing the extent of losses resulting from a fire in a popular market in Ma’rib Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424514",
+        "published_date": "2026-06-10T07:28:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "754e35da8605",
         "title": "Average gold prices in Sanaa and Aden, Tuesday, June 9, 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424479",
         "published_date": "2026-06-09T12:18:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f43d62f9e893",
+        "title": "“Aden Fly”.. The sociology of blackmail and the engineering of chaos",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424487",
+        "published_date": "2026-06-09T02:09:59Z",
         "category": "Local Events"
       },
       {
@@ -288,54 +392,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424389",
         "published_date": "2026-06-07T23:43:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6a2bb02ad541",
-        "title": "An increase in disease cases and deaths in Aden due to hot weather coinciding with power outages",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424385",
-        "published_date": "2026-06-07T22:51:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1fdbf638cc7e",
-        "title": "Ahly Sanaa deservedly qualifies for the 32nd round of the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424382",
-        "published_date": "2026-06-07T21:49:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a3195c935b56",
-        "title": "In protest against the power outages, hundreds of people from Aden take their mattresses to the streets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424375",
-        "published_date": "2026-06-07T21:02:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d2199c58d0e6",
-        "title": "Sanaa.. The Ministry of Culture and Tourism and the management of Al-Fawwara Park clarify a case of violation of the privacy of one of the park’s guests",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424355",
-        "published_date": "2026-06-07T15:56:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ea3bc612acc6",
-        "title": "Yemeni intellectuals appeal to Al-Alimi to provide a medical scholarship for the poet Abdul Wakil Al-Sururi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424352",
-        "published_date": "2026-06-07T13:24:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a8a2a3dd5a00",
-        "title": "Aden.. The failure of the authorities to provide electricity forces people to sleep in the streets during the extremely hot summer",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424347",
-        "published_date": "2026-06-07T11:27:42Z",
         "category": "Local Events"
       }
     ]
