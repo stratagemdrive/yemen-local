@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-10T14:26:55Z",
+  "last_updated": "2026-06-11T00:21:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1b6cf2fc5b13",
+        "title": "The Secretary-General renews his condemnation of the detention of employees of the United Nations and others by the Sana’a authorities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424580",
+        "published_date": "2026-06-10T22:57:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1584f6d1af14",
+        "title": "Efforts to release a ship hijacked by Somali pirates off the coast of Shabwa failed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424558",
+        "published_date": "2026-06-10T16:51:10Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "358d145cb412",
+        "title": "Conclusion of a military meeting on Yemen in Jordan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424551",
+        "published_date": "2026-06-10T15:38:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0d999b9e14b7",
         "title": "Narrative commitment and responsibility for meaning: Reflections on the second novel forum",
@@ -73,41 +97,17 @@
         "url": "https://yemenat.net/archives/424415",
         "published_date": "2026-06-08T13:03:04Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1038eb864911",
-        "title": "The hijacked Yemeni state, past and present",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424394",
-        "published_date": "2026-06-08T00:19:23Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "123bb58ec2d3",
-        "title": "The legitimacy of exile and the erosion of the Yemeni state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424373",
-        "published_date": "2026-06-07T19:35:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "fc83778f07bc",
-        "title": "The Military Coordination Committee for Yemen meets under UN auspices in Jordan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424371",
-        "published_date": "2026-06-07T17:57:12Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cbf04a6c0ee5",
-        "title": "On World Food Safety Day, Hayel Saeed Group confirms its keenness to adopt the highest standards and practices in its operations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424359",
-        "published_date": "2026-06-07T16:19:00Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "12cf6fa79eac",
+        "title": "Saving for the last life",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424565",
+        "published_date": "2026-06-10T17:53:47Z",
+        "category": "Military"
+      },
       {
         "_id": "04213e72d13d",
         "title": "US Central Command announces the completion of strikes against Iran",
@@ -171,35 +171,34 @@
         "url": "https://yemenat.net/archives/424413",
         "published_date": "2026-06-08T12:40:19Z",
         "category": "Military"
-      },
-      {
-        "_id": "95dfe789c724",
-        "title": "Iran attacks Israel for the first time since April and warns of retaliation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424397",
-        "published_date": "2026-06-08T00:28:30Z",
-        "category": "Military"
-      },
-      {
-        "_id": "6ea61b06a09d",
-        "title": "Comment on the response of the Yemeni authorities regarding legal entitlements and medical allocations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424362",
-        "published_date": "2026-06-07T16:43:28Z",
-        "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "182fe0eb3457",
-        "title": "The Consumer Protection Association extends an invitation to those affected by gasoline problems",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424387",
-        "published_date": "2026-06-07T23:17:52Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
+      {
+        "_id": "c1386afec2bb",
+        "title": "Launch of the “Imtedad” Digital Platform in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424571",
+        "published_date": "2026-06-10T20:41:44Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f9c4337ccdff",
+        "title": "The launch of the “Emtidad” digital platform in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424568",
+        "published_date": "2026-06-10T20:36:53Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "58aaec47bb07",
+        "title": "The listening team: The situation is very bad and the people are suffering from hunger and injustice because of these corrupt people",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424554",
+        "published_date": "2026-06-10T16:24:43Z",
+        "category": "Economy"
+      },
       {
         "_id": "612aade59346",
         "title": "A noticeable decline...the average price of gold in Sanaa and Aden, Wednesday, June 10, 2026",
@@ -234,6 +233,62 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "703dfccb81ce",
+        "title": "Giants spokesman explains the cause of the explosion that rocked Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424589",
+        "published_date": "2026-06-11T00:15:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d94a55336e33",
+        "title": "The Yemeni pilgrim... between costs doubling and services declining",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424587",
+        "published_date": "2026-06-10T23:41:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ffb57662702",
+        "title": "Judges are evaluated in the fields of work, not in khat offices",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424582",
+        "published_date": "2026-06-10T23:02:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e85029ddd8e3",
+        "title": "A violent explosion in a camp east of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424574",
+        "published_date": "2026-06-10T21:24:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "04bf49521249",
+        "title": "Suspending the license of a hawala agent in Yafa and closing its headquarters",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424562",
+        "published_date": "2026-06-10T17:24:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8bbba2ee9a44",
+        "title": "Aden between the state's memory and the punishment of geography and history",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424556",
+        "published_date": "2026-06-10T16:29:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "40f5c56137f8",
+        "title": "The Football Association imposes the participation of post-2014 clubs in the third division",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424548",
+        "published_date": "2026-06-10T14:33:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4b50d5977ccc",
         "title": "Abyan.. A fire causes material damage to popular homes in Khanfar",
@@ -336,62 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424436",
         "published_date": "2026-06-08T18:45:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c6a6cf57aa26",
-        "title": "A judge submits his resignation a week after he was assaulted in Amran and one of his companions was killed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424431",
-        "published_date": "2026-06-08T18:17:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a0a9027045dd",
-        "title": "Hadhramaut.. Angry popular protests in Mukalla over the power outage",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424420",
-        "published_date": "2026-06-08T13:36:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6e7f6dee353d",
-        "title": "Yemen between the hammer of “legitimacy” and the anvil of “de facto”: When the citizen becomes a victim of “indifference”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424418",
-        "published_date": "2026-06-08T13:08:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "54fa6021d285",
-        "title": "Boy, don't blame anyone",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424409",
-        "published_date": "2026-06-08T00:55:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8c82301a1d6d",
-        "title": "Aden between the legacy of leadership and the reality of collapse",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424407",
-        "published_date": "2026-06-08T00:48:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ecd60d39ee96",
-        "title": "“Document”... An administrative order was issued to close the Balhaj sea port, and the local authority holds the higher authorities responsible for the consequences of the closure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424392",
-        "published_date": "2026-06-08T00:20:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f0ec0f66507",
-        "title": "A frightening increase in malaria infections in Taiz Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424389",
-        "published_date": "2026-06-07T23:43:05Z",
         "category": "Local Events"
       }
     ]
