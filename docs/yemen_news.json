@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-11T00:21:07Z",
+  "last_updated": "2026-06-11T14:45:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,17 +89,17 @@
         "url": "https://yemenat.net/archives/424427",
         "published_date": "2026-06-08T17:36:52Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bf64224d3dae",
-        "title": "Al-Sami: The hour of reckoning for the Zionist entity is approaching",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424415",
-        "published_date": "2026-06-08T13:03:04Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "bee7c97dc5fa",
+        "title": "Accounts and speculation about the explosion of a weapons depot for the Giants forces in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424595",
+        "published_date": "2026-06-11T09:43:00Z",
+        "category": "Military"
+      },
       {
         "_id": "12cf6fa79eac",
         "title": "Saving for the last life",
@@ -163,18 +163,18 @@
         "url": "https://yemenat.net/archives/424423",
         "published_date": "2026-06-08T15:45:46Z",
         "category": "Military"
-      },
-      {
-        "_id": "bdc1c3c9b9b5",
-        "title": "Saree announces the launch of missiles against Israeli targets and the ban on navigation in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424413",
-        "published_date": "2026-06-08T12:40:19Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "476731aee6ab",
+        "title": "Average gold prices in Sanaa and Aden, Thursday June 11, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424599",
+        "published_date": "2026-06-11T12:15:59Z",
+        "category": "Economy"
+      },
       {
         "_id": "c1386afec2bb",
         "title": "Launch of the “Imtedad” Digital Platform in Yemen",
@@ -233,6 +233,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "da26bd35b838",
+        "title": "Meteorology: Hot to very hot weather and rainfall expected in nine governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424593",
+        "published_date": "2026-06-11T08:08:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "703dfccb81ce",
         "title": "Giants spokesman explains the cause of the explosion that rocked Aden",
@@ -383,14 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424440",
         "published_date": "2026-06-08T19:18:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d59bacf688d1",
-        "title": "Master’s Thesis Explores Magical Realism in Khaled Al-Yousef’s Novels at King Faisal University",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424436",
-        "published_date": "2026-06-08T18:45:00Z",
         "category": "Local Events"
       }
     ]
