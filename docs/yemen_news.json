@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-12T00:22:09Z",
+  "last_updated": "2026-06-12T14:12:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -147,14 +147,6 @@
         "url": "https://yemenat.net/archives/424481",
         "published_date": "2026-06-09T12:41:17Z",
         "category": "Military"
-      },
-      {
-        "_id": "cff912ddc87c",
-        "title": "Trump to Netanyahu: You may find yourself alone in confronting Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424457",
-        "published_date": "2026-06-08T22:21:43Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -234,6 +226,22 @@
     ],
     "Local Events": [
       {
+        "_id": "87ad052eb533",
+        "title": "South Korea sweeps the Czech Republic in a difficult match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424641",
+        "published_date": "2026-06-12T05:25:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a3c4c7e9c8d7",
+        "title": "The resignation of His Eminence Judge Abdullah Tanin is a cry for justice and a warning bell",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424637",
+        "published_date": "2026-06-12T00:55:25Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "bc6297b07d42",
         "title": "New details about targeting the home of the governor of Aden and killing two Syrian doctors",
         "source": "Yemenat",
@@ -251,7 +259,7 @@
       },
       {
         "_id": "0f5feb9b40b1",
-        "title": "Aden.. dead and wounded as a result of shooting in Mansoura",
+        "title": "Aden.. dead and wounded as a result of gunfire in Mansoura",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424620",
         "published_date": "2026-06-11T22:42:36Z",
@@ -375,22 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424517",
         "published_date": "2026-06-10T07:55:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "03ad5fcb4996",
-        "title": "Revealing the extent of losses resulting from a fire in a popular market in Ma’rib Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424514",
-        "published_date": "2026-06-10T07:28:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "754e35da8605",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 9, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424479",
-        "published_date": "2026-06-09T12:18:34Z",
         "category": "Local Events"
       }
     ]
