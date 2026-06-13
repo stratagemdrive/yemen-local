@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-13T00:23:19Z",
+  "last_updated": "2026-06-13T12:54:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,14 +81,6 @@
         "url": "https://yemenat.net/archives/424502",
         "published_date": "2026-06-10T02:38:43Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "cedef98cf577",
-        "title": "War crimes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424484",
-        "published_date": "2026-06-10T02:06:58Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -138,14 +130,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424492",
         "published_date": "2026-06-10T02:18:53Z",
-        "category": "Military"
-      },
-      {
-        "_id": "e80a507ba260",
-        "title": "Mr. Yahya Al-Arashi... a man of statesmanship, wisdom and national unity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424490",
-        "published_date": "2026-06-10T02:14:57Z",
         "category": "Military"
       }
     ],
@@ -226,6 +210,22 @@
     ],
     "Local Events": [
       {
+        "_id": "f2d5930219c9",
+        "title": "World Cup.. The United States surpasses Paraguay by four",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424666",
+        "published_date": "2026-06-13T12:48:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b30faf7a4a5",
+        "title": "Meteorology expects continued rainfall in the highlands and rising temperatures in the deserts and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424663",
+        "published_date": "2026-06-13T12:20:37Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "c49e22f2190f",
         "title": "Canada and Bosnia record their first tie in the 2026 World Cup",
         "source": "Yemenat",
@@ -283,7 +283,7 @@
       },
       {
         "_id": "0f5feb9b40b1",
-        "title": "Aden.. dead and wounded as a result of shooting in Mansoura",
+        "title": "Aden.. dead and wounded as a result of gunfire in Mansoura",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424620",
         "published_date": "2026-06-11T22:42:36Z",
@@ -367,22 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424556",
         "published_date": "2026-06-10T16:29:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40f5c56137f8",
-        "title": "The Football Association imposes the participation of post-2014 clubs in the third division",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424548",
-        "published_date": "2026-06-10T14:33:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4b50d5977ccc",
-        "title": "Abyan.. A fire causes material damage to popular homes in Khanfar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424526",
-        "published_date": "2026-06-10T09:48:39Z",
         "category": "Local Events"
       }
     ]
