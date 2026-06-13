@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-12T14:12:26Z",
+  "last_updated": "2026-06-13T00:23:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "89033c0c8208",
+        "title": "Rally and loyalty to the power of the people",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424654",
+        "published_date": "2026-06-12T18:40:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "d88218e68369",
         "title": "Trump announces the cancellation of the strikes and bombings that were planned against Iran",
@@ -81,17 +89,17 @@
         "url": "https://yemenat.net/archives/424484",
         "published_date": "2026-06-10T02:06:58Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3504a20700fa",
-        "title": "The Saudi Ministry of Health warns against the “Al-Tayyibat System” and reveals cases that have reached intensive care",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424476",
-        "published_date": "2026-06-09T00:48:27Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "aa23bee8b427",
+        "title": "Al-Barakani attacks Al-Eryani and describes his movement as “the movement to destroy the conference”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424657",
+        "published_date": "2026-06-12T20:12:46Z",
+        "category": "Military"
+      },
       {
         "_id": "a085e8af875d",
         "title": "Victims in an armed attack on the house of the governor of Aden",
@@ -138,14 +146,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424490",
         "published_date": "2026-06-10T02:14:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ffb9242cc07c",
-        "title": "Aden.. Finance announces the launch of salary enhancements for civilians, military personnel and retirees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424481",
-        "published_date": "2026-06-09T12:41:17Z",
         "category": "Military"
       }
     ],
@@ -226,6 +226,30 @@
     ],
     "Local Events": [
       {
+        "_id": "c49e22f2190f",
+        "title": "Canada and Bosnia record their first tie in the 2026 World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424659",
+        "published_date": "2026-06-12T21:16:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a637b7395fef",
+        "title": "Average gold prices in Sanaa and Aden, Friday, June 12, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424649",
+        "published_date": "2026-06-12T17:58:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b66218091646",
+        "title": "Al-Dhalea.. Haradah swallowed the body of Al-Qaqaa, and rescue efforts failed to recover it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424644",
+        "published_date": "2026-06-12T17:13:04Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "87ad052eb533",
         "title": "South Korea sweeps the Czech Republic in a difficult match",
         "source": "Yemenat",
@@ -259,7 +283,7 @@
       },
       {
         "_id": "0f5feb9b40b1",
-        "title": "Aden.. dead and wounded as a result of gunfire in Mansoura",
+        "title": "Aden.. dead and wounded as a result of shooting in Mansoura",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424620",
         "published_date": "2026-06-11T22:42:36Z",
@@ -359,30 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424526",
         "published_date": "2026-06-10T09:48:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a9f9a3dd7c9d",
-        "title": "Meteorology: Heavy rain in several governorates and extreme heat in deserts and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424524",
-        "published_date": "2026-06-10T09:00:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3d6f548a378",
-        "title": "The Central Bank suspends the license to practice money exchange activities in Habban, Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424520",
-        "published_date": "2026-06-10T08:29:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1544247bd6eb",
-        "title": "Aden.. Popular protests paralyze transportation between the districts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424517",
-        "published_date": "2026-06-10T07:55:21Z",
         "category": "Local Events"
       }
     ]
