@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-14T00:14:09Z",
+  "last_updated": "2026-06-14T13:01:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ea6da2757b69",
+        "title": "World Cup: Turkey wins possession and Australia wins goals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424725",
+        "published_date": "2026-06-14T09:57:58Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "9bb5e4efb96f",
+        "title": "Additional information regarding the payment related to the “deterioration of the financial situation” contained in the response of the Yemeni authorities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424715",
+        "published_date": "2026-06-14T01:09:59Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "493753e9d885",
+        "title": "World Cup.. Morocco forces Brazil to a draw in an exciting match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424711",
+        "published_date": "2026-06-14T00:43:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9fb5c75471d0",
         "title": "Conspiracy against Yemen...a continuing Saudi policy",
@@ -73,25 +97,17 @@
         "url": "https://yemenat.net/archives/424580",
         "published_date": "2026-06-10T22:57:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1584f6d1af14",
-        "title": "Efforts to release a ship hijacked by Somali pirates off the coast of Shabwa failed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424558",
-        "published_date": "2026-06-10T16:51:10Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "358d145cb412",
-        "title": "Conclusion of a military meeting on Yemen in Jordan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424551",
-        "published_date": "2026-06-10T15:38:29Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "8175f04dabe5",
+        "title": "The hearing team praises the Egyptian-Turkish rapprochement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424723",
+        "published_date": "2026-06-14T04:17:27Z",
+        "category": "Military"
+      },
       {
         "_id": "aa23bee8b427",
         "title": "Al-Barakani attacks Al-Eryani and describes his movement as “the movement to destroy the conference”",
@@ -114,14 +130,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424595",
         "published_date": "2026-06-11T09:43:00Z",
-        "category": "Military"
-      },
-      {
-        "_id": "12cf6fa79eac",
-        "title": "Saving for the last life",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424565",
-        "published_date": "2026-06-10T17:53:47Z",
         "category": "Military"
       }
     ],
@@ -182,25 +190,33 @@
         "url": "https://yemenat.net/archives/424571",
         "published_date": "2026-06-10T20:41:44Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f9c4337ccdff",
-        "title": "The launch of the “Emtidad” digital platform in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424568",
-        "published_date": "2026-06-10T20:36:53Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "58aaec47bb07",
-        "title": "The listening team: The situation is very bad and the people are suffering from hunger and injustice because of these corrupt people",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424554",
-        "published_date": "2026-06-10T16:24:43Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "2890cec69548",
+        "title": "Sanaa.. The Central Bank stops dealing with an exchange company",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424728",
+        "published_date": "2026-06-14T10:13:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e940ee470076",
+        "title": "The Civil Defense Service reveals the details of the recovery of Al-Qaqaa’s body in Haradh Damt",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424720",
+        "published_date": "2026-06-14T03:55:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8d2aa48f55e4",
+        "title": "World Cup: Haiti dominates the game and Scotland wins",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424717",
+        "published_date": "2026-06-14T03:31:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "97477b760bb7",
         "title": "An urgent message from a Yemeni citizen to Lieutenant General Sultan Al-Sami",
@@ -335,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424620",
         "published_date": "2026-06-11T22:42:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ee4c7563fb34",
-        "title": "Mexico records its first victory in the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424614",
-        "published_date": "2026-06-11T21:17:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b76bebf8f95b",
-        "title": "Excerpts from a draft response to the “legitimate” authorities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424611",
-        "published_date": "2026-06-11T19:28:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4009170da4ec",
-        "title": "Mexico and South Africa at the opening of the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424603",
-        "published_date": "2026-06-11T18:43:01Z",
         "category": "Local Events"
       }
     ]
