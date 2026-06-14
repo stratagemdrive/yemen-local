@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-13T12:54:05Z",
+  "last_updated": "2026-06-14T00:14:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "9fb5c75471d0",
+        "title": "Conspiracy against Yemen...a continuing Saudi policy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424705",
+        "published_date": "2026-06-13T23:03:45Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "20283bc83c93",
+        "title": "21st Century Slavery: The Kafala System and the Confiscation of Human Dignity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424703",
+        "published_date": "2026-06-13T22:59:36Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0e26b4d22bc1",
+        "title": "Weather and climate wars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424680",
+        "published_date": "2026-06-13T15:44:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ce419751c4d9",
+        "title": "Al-Dhalea.. The body of a young acrobatic man was recovered from the Damt volcanic area",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424669",
+        "published_date": "2026-06-13T13:35:33Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "89033c0c8208",
         "title": "Rally and loyalty to the power of the people",
@@ -57,30 +89,6 @@
         "url": "https://yemenat.net/archives/424551",
         "published_date": "2026-06-10T15:38:29Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0d999b9e14b7",
-        "title": "Narrative commitment and responsibility for meaning: Reflections on the second novel forum",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424534",
-        "published_date": "2026-06-10T13:06:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "981976adceb4",
-        "title": "About the comprehensive modern national democratic project for building the democratic national state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424532",
-        "published_date": "2026-06-10T12:16:39Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9c493629f13f",
-        "title": "Bahrain sounds alarm sirens after Iran announces attacking the US Fifth Fleet",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424502",
-        "published_date": "2026-06-10T02:38:43Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -115,26 +123,42 @@
         "url": "https://yemenat.net/archives/424565",
         "published_date": "2026-06-10T17:53:47Z",
         "category": "Military"
-      },
-      {
-        "_id": "04213e72d13d",
-        "title": "US Central Command announces the completion of strikes against Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424506",
-        "published_date": "2026-06-10T02:44:50Z",
-        "category": "Military"
-      },
-      {
-        "_id": "82d3e681955d",
-        "title": "Under the umbrella of absurdity... astronomical allocations to the elites and death lurking among the people and soldiers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424492",
-        "published_date": "2026-06-10T02:18:53Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "1c3766db882b",
+        "title": "When death becomes a profession of survival!! “Al-Qaqaa” did not fall into the volcano.. Rather, he fell into it!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424709",
+        "published_date": "2026-06-13T23:14:06Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9734aaedfbe7",
+        "title": "Kemiko Paint Factory: From painting the walls with cheerful colors to staining the present with conspiracies and intrigues!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424692",
+        "published_date": "2026-06-13T21:09:46Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "cd9f4cf5a583",
+        "title": "Al-Sami: Patriotism is not granted by decision, but is embodied by sacrifices",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424687",
+        "published_date": "2026-06-13T18:42:20Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "b492cc922df7",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, June 13, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424672",
+        "published_date": "2026-06-13T14:14:10Z",
+        "category": "Economy"
+      },
       {
         "_id": "7202f82d6ac1",
         "title": "Erdogan reminds Netanyahu of “the end of Hitler” and describes Israel as a “chaos factory”",
@@ -174,41 +198,65 @@
         "url": "https://yemenat.net/archives/424554",
         "published_date": "2026-06-10T16:24:43Z",
         "category": "Economy"
-      },
-      {
-        "_id": "612aade59346",
-        "title": "A noticeable decline...the average price of gold in Sanaa and Aden, Wednesday, June 10, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424541",
-        "published_date": "2026-06-10T13:20:47Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "3b03b5483c18",
-        "title": "British Trade: A fire in an oil tanker and a clash with an armed boat near the coast of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424529",
-        "published_date": "2026-06-10T12:01:29Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "d8960943e2b6",
-        "title": "Maonah Association for Human Rights reveals violations of the rights of persons with disabilities by parties to the conflict in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424511",
-        "published_date": "2026-06-10T06:51:55Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "343ce3f166ee",
-        "title": "Trump: American forces are carrying out military operations in Iran in response to the shooting down of the helicopter",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424497",
-        "published_date": "2026-06-10T02:26:07Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "97477b760bb7",
+        "title": "An urgent message from a Yemeni citizen to Lieutenant General Sultan Al-Sami",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424707",
+        "published_date": "2026-06-13T23:10:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f820864beaac",
+        "title": "World Cup.. Qatar scores a draw with the taste of victory against Switzerland",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424696",
+        "published_date": "2026-06-13T21:34:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1b7adee2e9b7",
+        "title": "“The tax of honesty”.. Judge Hashid struggles with illness and letting down the authorities while waiting for “justice” that will not come",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424689",
+        "published_date": "2026-06-13T21:04:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "be59ec1e0968",
+        "title": "Al-Sami’i...the loud voice in the face of tyranny and monopolization of power",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424685",
+        "published_date": "2026-06-13T17:19:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c4a2887338cd",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424683",
+        "published_date": "2026-06-13T16:01:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0851a0c74c7",
+        "title": "Helplessness and confusion in the play “Tisha” by “Hamid Okbi”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424676",
+        "published_date": "2026-06-13T14:36:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6783d0c42562",
+        "title": "A stoned saint",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424674",
+        "published_date": "2026-06-13T14:31:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f2d5930219c9",
         "title": "World Cup.. The United States surpasses Paraguay by four",
@@ -283,7 +331,7 @@
       },
       {
         "_id": "0f5feb9b40b1",
-        "title": "Aden.. dead and wounded as a result of gunfire in Mansoura",
+        "title": "Aden.. dead and wounded as a result of shooting in Mansoura",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424620",
         "published_date": "2026-06-11T22:42:36Z",
@@ -311,62 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424603",
         "published_date": "2026-06-11T18:43:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "da26bd35b838",
-        "title": "Meteorology: Hot to very hot weather and rainfall expected in nine governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424593",
-        "published_date": "2026-06-11T08:08:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "703dfccb81ce",
-        "title": "Giants spokesman explains the cause of the explosion that rocked Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424589",
-        "published_date": "2026-06-11T00:15:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d94a55336e33",
-        "title": "The Yemeni pilgrim... between costs doubling and services declining",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424587",
-        "published_date": "2026-06-10T23:41:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0ffb57662702",
-        "title": "Judges are evaluated in the fields of work, not in khat offices",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424582",
-        "published_date": "2026-06-10T23:02:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e85029ddd8e3",
-        "title": "A violent explosion in a camp east of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424574",
-        "published_date": "2026-06-10T21:24:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "04bf49521249",
-        "title": "Suspending the license of a hawala agent in Yafa and closing its headquarters",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424562",
-        "published_date": "2026-06-10T17:24:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8bbba2ee9a44",
-        "title": "Aden between the state's memory and the punishment of geography and history",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424556",
-        "published_date": "2026-06-10T16:29:17Z",
         "category": "Local Events"
       }
     ]
