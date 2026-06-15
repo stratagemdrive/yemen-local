@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-14T13:01:26Z",
+  "last_updated": "2026-06-15T00:17:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "19a7806702ac",
+        "title": "To Riyadh and Tehran: Yemenis are tired of war and division",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424750",
+        "published_date": "2026-06-14T21:10:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e9214995fd98",
+        "title": "A terrible traffic accident on the Hadhramaut Plateau",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424735",
+        "published_date": "2026-06-14T17:42:14Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ea6da2757b69",
         "title": "World Cup: Turkey wins possession and Australia wins goals",
@@ -89,17 +105,25 @@
         "url": "https://yemenat.net/archives/424607",
         "published_date": "2026-06-11T19:07:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1b6cf2fc5b13",
-        "title": "The Secretary-General renews his condemnation of the detention of employees of the United Nations and others by the Sana’a authorities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424580",
-        "published_date": "2026-06-10T22:57:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "1bff76ad5229",
+        "title": "World Cup: Japan imposes a positive draw on the Netherlands in an exciting match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424755",
+        "published_date": "2026-06-14T22:24:40Z",
+        "category": "Military"
+      },
+      {
+        "_id": "7df529ef3049",
+        "title": "Mystery surrounds the Seiyun explosions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424732",
+        "published_date": "2026-06-14T16:59:34Z",
+        "category": "Military"
+      },
       {
         "_id": "8175f04dabe5",
         "title": "The hearing team praises the Egyptian-Turkish rapprochement",
@@ -122,14 +146,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424627",
         "published_date": "2026-06-11T23:33:45Z",
-        "category": "Military"
-      },
-      {
-        "_id": "bee7c97dc5fa",
-        "title": "Accounts and speculation about the explosion of a weapons depot for the Giants forces in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424595",
-        "published_date": "2026-06-11T09:43:00Z",
         "category": "Military"
       }
     ],
@@ -174,25 +190,57 @@
         "url": "https://yemenat.net/archives/424624",
         "published_date": "2026-06-11T23:14:31Z",
         "category": "Economy"
-      },
-      {
-        "_id": "476731aee6ab",
-        "title": "Average gold prices in Sanaa and Aden, Thursday June 11, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424599",
-        "published_date": "2026-06-11T12:15:59Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "c1386afec2bb",
-        "title": "Launch of the “Imtedad” Digital Platform in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424571",
-        "published_date": "2026-06-10T20:41:44Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e2a462f6b621",
+        "title": "The sniping diver reveals the details of the recovery of Al-Qaqa'a's body from Haradh Damt",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424753",
+        "published_date": "2026-06-14T21:46:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "24c819eb605c",
+        "title": "Hashid, which does not remain silent about wrongdoing... rise to the level of office",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424746",
+        "published_date": "2026-06-14T20:50:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44d968d29dcd",
+        "title": "An earthquake was recorded from Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424743",
+        "published_date": "2026-06-14T20:27:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a7c522d00317",
+        "title": "World Cup: Germany defeats Curacao with seven goals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424740",
+        "published_date": "2026-06-14T19:16:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "427728dbbb20",
+        "title": "Hundreds of rabies cases in Taiz Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424738",
+        "published_date": "2026-06-14T18:17:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1332ba3f4f70",
+        "title": "Youth reading and transformations in feminist discourse: Ahlam Mosteghanemi as a model",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424730",
+        "published_date": "2026-06-14T16:32:19Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2890cec69548",
         "title": "Sanaa.. The Central Bank stops dealing with an exchange company",
@@ -303,54 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424649",
         "published_date": "2026-06-12T17:58:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b66218091646",
-        "title": "Al-Dhalea.. Haradah swallowed the body of Al-Qaqaa, and rescue efforts failed to recover it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424644",
-        "published_date": "2026-06-12T17:13:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "87ad052eb533",
-        "title": "South Korea sweeps the Czech Republic in a difficult match",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424641",
-        "published_date": "2026-06-12T05:25:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a3c4c7e9c8d7",
-        "title": "The resignation of His Eminence Judge Abdullah Tanin is a cry for justice and a warning bell",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424637",
-        "published_date": "2026-06-12T00:55:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc6297b07d42",
-        "title": "New details about targeting the home of the governor of Aden and killing two Syrian doctors",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424634",
-        "published_date": "2026-06-12T00:18:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6be4875715d6",
-        "title": "A security statement reveals details of the shooting incident near the house of the governor of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424630",
-        "published_date": "2026-06-11T23:55:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f5feb9b40b1",
-        "title": "Aden.. dead and wounded as a result of shooting in Mansoura",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424620",
-        "published_date": "2026-06-11T22:42:36Z",
         "category": "Local Events"
       }
     ]
