@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-15T00:17:57Z",
+  "last_updated": "2026-06-15T16:20:36Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "64164be6fcfb",
+        "title": "Reaching an agreement to end the war between Washington and Tehran and setting a date for its signing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424763",
+        "published_date": "2026-06-15T02:16:23Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "19a7806702ac",
         "title": "To Riyadh and Tehran: Yemenis are tired of war and division",
@@ -89,25 +97,25 @@
         "url": "https://yemenat.net/archives/424654",
         "published_date": "2026-06-12T18:40:51Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "d88218e68369",
-        "title": "Trump announces the cancellation of the strikes and bombings that were planned against Iran",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424617",
-        "published_date": "2026-06-11T22:23:35Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cb4e37cb4154",
-        "title": "The hearing team warns against pushing the region towards more dangerous and explosive paths",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424607",
-        "published_date": "2026-06-11T19:07:26Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "426c69c99e82",
+        "title": "The British Trade Authority announces a maritime accident off the coast of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424784",
+        "published_date": "2026-06-15T13:36:51Z",
+        "category": "Military"
+      },
+      {
+        "_id": "1c4206d62836",
+        "title": "History and the people will not be kind to legitimacy if something bad happens to Hashid.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424776",
+        "published_date": "2026-06-15T11:25:52Z",
+        "category": "Military"
+      },
       {
         "_id": "1bff76ad5229",
         "title": "World Cup: Japan imposes a positive draw on the Netherlands in an exciting match",
@@ -138,14 +146,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424657",
         "published_date": "2026-06-12T20:12:46Z",
-        "category": "Military"
-      },
-      {
-        "_id": "a085e8af875d",
-        "title": "Victims in an armed attack on the house of the governor of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424627",
-        "published_date": "2026-06-11T23:33:45Z",
         "category": "Military"
       }
     ],
@@ -182,17 +182,57 @@
         "url": "https://yemenat.net/archives/424672",
         "published_date": "2026-06-13T14:14:10Z",
         "category": "Economy"
-      },
-      {
-        "_id": "7202f82d6ac1",
-        "title": "Erdogan reminds Netanyahu of “the end of Hitler” and describes Israel as a “chaos factory”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424624",
-        "published_date": "2026-06-11T23:14:31Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "260c30c01a51",
+        "title": "The Football Association presents the date of one of the Republic Cup matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424787",
+        "published_date": "2026-06-15T15:48:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45e28692d1f7",
+        "title": "Average gold prices in Sanaa and Aden, Monday, June 15, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424780",
+        "published_date": "2026-06-15T13:01:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7cffedcc0714",
+        "title": "Tuesday is an official holiday in Sanaa and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424773",
+        "published_date": "2026-06-15T10:53:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "013c9d4c2635",
+        "title": "Aden.. Tension against the backdrop of a call for mobilization and the closure of the transitional headquarters",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424769",
+        "published_date": "2026-06-15T09:31:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "19843e8cacb9",
+        "title": "Tunisia suffers the heaviest defeat in its World Cup history",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424766",
+        "published_date": "2026-06-15T08:49:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e98ec42592af",
+        "title": "World Cup.. Ivory Coast snatches a last-minute win against Ecuador",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424760",
+        "published_date": "2026-06-15T01:43:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e2a462f6b621",
         "title": "The sniping diver reveals the details of the recovery of Al-Qaqa'a's body from Haradh Damt",
@@ -303,54 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424683",
         "published_date": "2026-06-13T16:01:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f0851a0c74c7",
-        "title": "Helplessness and confusion in the play “Tisha” by “Hamid Okbi”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424676",
-        "published_date": "2026-06-13T14:36:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6783d0c42562",
-        "title": "A stoned saint",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424674",
-        "published_date": "2026-06-13T14:31:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f2d5930219c9",
-        "title": "World Cup.. The United States surpasses Paraguay by four",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424666",
-        "published_date": "2026-06-13T12:48:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9b30faf7a4a5",
-        "title": "Meteorology expects continued rainfall in the highlands and rising temperatures in the deserts and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424663",
-        "published_date": "2026-06-13T12:20:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c49e22f2190f",
-        "title": "Canada and Bosnia record their first tie in the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424659",
-        "published_date": "2026-06-12T21:16:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a637b7395fef",
-        "title": "Average gold prices in Sanaa and Aden, Friday, June 12, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424649",
-        "published_date": "2026-06-12T17:58:56Z",
         "category": "Local Events"
       }
     ]
