@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-15T16:20:36Z",
+  "last_updated": "2026-06-16T01:44:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c63dca514447",
+        "title": "World Cup: Uruguay draws with Saudi Arabia in an exciting match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424824",
+        "published_date": "2026-06-16T00:22:27Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "542878b48c69",
+        "title": "Electricity warns of the dangers of targeting birds while standing on electricity transmission lines",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424795",
+        "published_date": "2026-06-15T20:23:33Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "64164be6fcfb",
         "title": "Reaching an agreement to end the war between Washington and Tehran and setting a date for its signing",
@@ -81,25 +97,17 @@
         "url": "https://yemenat.net/archives/424680",
         "published_date": "2026-06-13T15:44:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ce419751c4d9",
-        "title": "Al-Dhalea.. The body of a young acrobatic man was recovered from the Damt volcanic area",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424669",
-        "published_date": "2026-06-13T13:35:33Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "89033c0c8208",
-        "title": "Rally and loyalty to the power of the people",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424654",
-        "published_date": "2026-06-12T18:40:51Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "5329b674297a",
+        "title": "Al-Jabouli axis in Taiz: From suppressing partners to copying the methods of the “Houthi supervisor”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424807",
+        "published_date": "2026-06-15T22:12:04Z",
+        "category": "Military"
+      },
       {
         "_id": "426c69c99e82",
         "title": "The British Trade Authority announces a maritime accident off the coast of Yemen",
@@ -139,18 +147,18 @@
         "url": "https://yemenat.net/archives/424723",
         "published_date": "2026-06-14T04:17:27Z",
         "category": "Military"
-      },
-      {
-        "_id": "aa23bee8b427",
-        "title": "Al-Barakani attacks Al-Eryani and describes his movement as “the movement to destroy the conference”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424657",
-        "published_date": "2026-06-12T20:12:46Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "8ef5003360f7",
+        "title": "Ahmed Saif Hashid.. When “legitimacy” confiscates the right to life in retaliation for the situation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424792",
+        "published_date": "2026-06-15T19:03:09Z",
+        "category": "Economy"
+      },
       {
         "_id": "1c3766db882b",
         "title": "When death becomes a profession of survival!! “Al-Qaqaa” did not fall into the volcano.. Rather, he fell into it!",
@@ -185,6 +193,54 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "1992a55719cc",
+        "title": "Media hype doesn't matter",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424821",
+        "published_date": "2026-06-16T00:07:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "34933c5c84f9",
+        "title": "Shabwa...a tribal sector obstructs fuel supplies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424816",
+        "published_date": "2026-06-15T23:13:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d220e971fbcb",
+        "title": "The forces of the past are not qualified to build the present and anticipate the future",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424812",
+        "published_date": "2026-06-15T22:19:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "794e084059dc",
+        "title": "White mint kills a child in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424811",
+        "published_date": "2026-06-15T22:15:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c2ab13ccb364",
+        "title": "World Cup: Friendly fire deprives Egypt of victory against Belgium",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424799",
+        "published_date": "2026-06-15T21:09:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "651bec550a2c",
+        "title": "World Cup surprise... Cape Verde falls to Spain in a draw trap",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424789",
+        "published_date": "2026-06-15T18:43:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "260c30c01a51",
         "title": "The Football Association presents the date of one of the Republic Cup matches",
@@ -295,54 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424720",
         "published_date": "2026-06-14T03:55:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8d2aa48f55e4",
-        "title": "World Cup: Haiti dominates the game and Scotland wins",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424717",
-        "published_date": "2026-06-14T03:31:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "97477b760bb7",
-        "title": "An urgent message from a Yemeni citizen to Lieutenant General Sultan Al-Sami",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424707",
-        "published_date": "2026-06-13T23:10:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f820864beaac",
-        "title": "World Cup.. Qatar scores a draw with the taste of victory against Switzerland",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424696",
-        "published_date": "2026-06-13T21:34:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1b7adee2e9b7",
-        "title": "“The tax of honesty”.. Judge Hashid struggles with illness and letting down the authorities while waiting for “justice” that will not come",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424689",
-        "published_date": "2026-06-13T21:04:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "be59ec1e0968",
-        "title": "Al-Sami’i...the loud voice in the face of tyranny and monopolization of power",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424685",
-        "published_date": "2026-06-13T17:19:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c4a2887338cd",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424683",
-        "published_date": "2026-06-13T16:01:04Z",
         "category": "Local Events"
       }
     ]
