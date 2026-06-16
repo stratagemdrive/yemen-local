@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-16T01:44:02Z",
+  "last_updated": "2026-06-16T16:01:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "402c40fc799f",
+        "title": "An upcoming session of the UN Security Council amid reports of discussing the constitutional path",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424844",
+        "published_date": "2026-06-16T14:33:33Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "88af5e0d060e",
+        "title": "World Cup: Iran draws with New Zealand",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424832",
+        "published_date": "2026-06-16T07:36:10Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c63dca514447",
         "title": "World Cup: Uruguay draws with Saudi Arabia in an exciting match",
@@ -88,14 +104,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424703",
         "published_date": "2026-06-13T22:59:36Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0e26b4d22bc1",
-        "title": "Weather and climate wars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424680",
-        "published_date": "2026-06-13T15:44:03Z",
         "category": "Diplomacy"
       }
     ],
@@ -182,17 +190,41 @@
         "url": "https://yemenat.net/archives/424687",
         "published_date": "2026-06-13T18:42:20Z",
         "category": "Economy"
-      },
-      {
-        "_id": "b492cc922df7",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, June 13, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424672",
-        "published_date": "2026-06-13T14:14:10Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "f37de8f440c3",
+        "title": "Yemeni intellectuals demand the Sanaa authority to release lawyer Abdul Majeed Sabra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424842",
+        "published_date": "2026-06-16T13:47:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "913b9729c09e",
+        "title": "Meteorology alerts residents of deserts and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424839",
+        "published_date": "2026-06-16T08:53:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e9ac3cdc7687",
+        "title": "Shabwa.. A fire causes damage to palm farms and citizens’ homes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424835",
+        "published_date": "2026-06-16T08:28:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d3656c2e51f",
+        "title": "Fever outbreak in Aden, deaths exceed 10 cases",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424829",
+        "published_date": "2026-06-16T07:23:35Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1992a55719cc",
         "title": "Media hype doesn't matter",
@@ -319,38 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424740",
         "published_date": "2026-06-14T19:16:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "427728dbbb20",
-        "title": "Hundreds of rabies cases in Taiz Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424738",
-        "published_date": "2026-06-14T18:17:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1332ba3f4f70",
-        "title": "Youth reading and transformations in feminist discourse: Ahlam Mosteghanemi as a model",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424730",
-        "published_date": "2026-06-14T16:32:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2890cec69548",
-        "title": "Sanaa.. The Central Bank stops dealing with an exchange company",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424728",
-        "published_date": "2026-06-14T10:13:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e940ee470076",
-        "title": "The Civil Defense Service reveals the details of the recovery of Al-Qaqaa’s body in Haradh Damt",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424720",
-        "published_date": "2026-06-14T03:55:59Z",
         "category": "Local Events"
       }
     ]
