@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-17T00:23:01Z",
+  "last_updated": "2026-06-17T14:28:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "5a3c79527c41",
+        "title": "A decision to temporarily seize the funds of the Transitional Council",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424881",
+        "published_date": "2026-06-17T12:26:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b3ec3e53fe5d",
+        "title": "A tragic end for Spider-Man in Yemen in the Damat volcanic crater",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424867",
+        "published_date": "2026-06-17T10:05:27Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e75510578f86",
+        "title": "World Cup...a ​​heavy loss for Iraq against Norway",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424864",
+        "published_date": "2026-06-17T09:33:18Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4d44fb26d1b1",
         "title": "Jazem Saif.. guards his tears and smiles..!",
@@ -89,38 +113,6 @@
         "url": "https://yemenat.net/archives/424725",
         "published_date": "2026-06-14T09:57:58Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "9bb5e4efb96f",
-        "title": "Additional information regarding the payment related to the “deterioration of the financial situation” contained in the response of the Yemeni authorities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424715",
-        "published_date": "2026-06-14T01:09:59Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "493753e9d885",
-        "title": "World Cup.. Morocco forces Brazil to a draw in an exciting match",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424711",
-        "published_date": "2026-06-14T00:43:40Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9fb5c75471d0",
-        "title": "Conspiracy against Yemen...a continuing Saudi policy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424705",
-        "published_date": "2026-06-13T23:03:45Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "20283bc83c93",
-        "title": "21st Century Slavery: The Kafala System and the Confiscation of Human Dignity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424703",
-        "published_date": "2026-06-13T22:59:36Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -190,17 +182,41 @@
         "url": "https://yemenat.net/archives/424792",
         "published_date": "2026-06-15T19:03:09Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1c3766db882b",
-        "title": "When death becomes a profession of survival!! “Al-Qaqaa” did not fall into the volcano.. Rather, he fell into it!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424709",
-        "published_date": "2026-06-13T23:14:06Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "fbfb881ee935",
+        "title": "World Cup.. Austria wins over Jordan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424877",
+        "published_date": "2026-06-17T11:34:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7de7c4bab239",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424875",
+        "published_date": "2026-06-17T11:05:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6fcedc60678",
+        "title": "World Cup.. Argentina surpasses Algeria by three clean goals, and Messi sets a record",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424872",
+        "published_date": "2026-06-17T10:37:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8038cbd7fa3b",
+        "title": "Earthquake recorded from the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424860",
+        "published_date": "2026-06-17T08:18:28Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5ad77388975e",
         "title": "World Cup.. France scored against Senegal three times",
@@ -327,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424766",
         "published_date": "2026-06-15T08:49:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e98ec42592af",
-        "title": "World Cup.. Ivory Coast snatches a last-minute win against Ecuador",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424760",
-        "published_date": "2026-06-15T01:43:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e2a462f6b621",
-        "title": "The sniping diver reveals the details of the recovery of Al-Qaqa'a's body from Haradh Damt",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424753",
-        "published_date": "2026-06-14T21:46:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "24c819eb605c",
-        "title": "Hashid, which does not remain silent about wrongdoing... rise to the level of office",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424746",
-        "published_date": "2026-06-14T20:50:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44d968d29dcd",
-        "title": "An earthquake was recorded from Dhamar Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424743",
-        "published_date": "2026-06-14T20:27:02Z",
         "category": "Local Events"
       }
     ]
