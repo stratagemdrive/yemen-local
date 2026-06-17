@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-16T16:01:27Z",
+  "last_updated": "2026-06-17T00:23:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4d44fb26d1b1",
+        "title": "Jazem Saif.. guards his tears and smiles..!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424852",
+        "published_date": "2026-06-16T21:37:15Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ce0e65c9ee52",
+        "title": "The UN envoy before the Security Council: The American-Iranian understanding may constitute a turning point in the Yemen file",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424850",
+        "published_date": "2026-06-16T21:29:21Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "402c40fc799f",
         "title": "An upcoming session of the UN Security Council amid reports of discussing the constitutional path",
@@ -160,6 +176,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "0b9f3f6b5e26",
+        "title": "Economist: Priorities require activating the local authority system, enhancing the efficiency of institutions, and improving services",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424846",
+        "published_date": "2026-06-16T16:18:51Z",
+        "category": "Economy"
+      },
+      {
         "_id": "8ef5003360f7",
         "title": "Ahmed Saif Hashid.. When “legitimacy” confiscates the right to life in retaliation for the situation",
         "source": "Yemenat",
@@ -174,25 +198,17 @@
         "url": "https://yemenat.net/archives/424709",
         "published_date": "2026-06-13T23:14:06Z",
         "category": "Economy"
-      },
-      {
-        "_id": "9734aaedfbe7",
-        "title": "Kemiko Paint Factory: From painting the walls with cheerful colors to staining the present with conspiracies and intrigues!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424692",
-        "published_date": "2026-06-13T21:09:46Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "cd9f4cf5a583",
-        "title": "Al-Sami: Patriotism is not granted by decision, but is embodied by sacrifices",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424687",
-        "published_date": "2026-06-13T18:42:20Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5ad77388975e",
+        "title": "World Cup.. France scored against Senegal three times",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424856",
+        "published_date": "2026-06-16T22:03:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f37de8f440c3",
         "title": "Yemeni intellectuals demand the Sanaa authority to release lawyer Abdul Majeed Sabra",
@@ -343,14 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424743",
         "published_date": "2026-06-14T20:27:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a7c522d00317",
-        "title": "World Cup: Germany defeats Curacao with seven goals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424740",
-        "published_date": "2026-06-14T19:16:30Z",
         "category": "Local Events"
       }
     ]
