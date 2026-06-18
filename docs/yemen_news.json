@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-18T00:19:12Z",
+  "last_updated": "2026-06-18T14:15:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "fecf03b011da",
+        "title": "Disclosing a preliminary estimate of the amount of transitional funds included in the precautionary seizure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424927",
+        "published_date": "2026-06-18T11:48:36Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "a75b2b5968aa",
         "title": "Iranian-American signing of a memorandum of understanding to end the war... “Some terms of understanding”",
@@ -97,14 +105,6 @@
         "url": "https://yemenat.net/archives/424763",
         "published_date": "2026-06-15T02:16:23Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "19a7806702ac",
-        "title": "To Riyadh and Tehran: Yemenis are tired of war and division",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424750",
-        "published_date": "2026-06-14T21:10:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -131,18 +131,26 @@
         "url": "https://yemenat.net/archives/424776",
         "published_date": "2026-06-15T11:25:52Z",
         "category": "Military"
-      },
-      {
-        "_id": "1bff76ad5229",
-        "title": "World Cup: Japan imposes a positive draw on the Netherlands in an exciting match",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424755",
-        "published_date": "2026-06-14T22:24:40Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "c6517aad6c52",
+        "title": "Disclosing the value of the annual import bill in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424922",
+        "published_date": "2026-06-18T10:22:57Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "36c241f78eca",
+        "title": "The Yemeni Women's Union warns of impersonators asking for money from poor families in exchange for services",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424911",
+        "published_date": "2026-06-18T00:27:36Z",
+        "category": "Economy"
+      },
       {
         "_id": "e8c10853fe71",
         "title": "Is the Saba Agency still an official agency or has it turned into a private sector?",
@@ -177,6 +185,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "48c1829789e0",
+        "title": "Average gold prices in Sanaa and Aden, Thursday, June 18, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424929",
+        "published_date": "2026-06-18T12:04:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ccb3a4295813",
+        "title": "World Cup: Colombia beats Uzbekistan by three",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424924",
+        "published_date": "2026-06-18T10:56:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "05239d2c79b5",
+        "title": "World Cup.. Ghana snatches a fatal victory from Panama",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424919",
+        "published_date": "2026-06-18T01:15:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ab2a1e50abb8",
+        "title": "Nadia Al-Sarari launches a historic initiative to establish union governance and protect the independence of union work",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424915",
+        "published_date": "2026-06-18T00:57:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "395a5d14f896",
         "title": "When empires are ablution with the ink of the agreements to wash away the blood hemoglobin!!.. Will Yemen emerge from the tunnel of war or enter the stage of re-sharing influence?",
@@ -303,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424812",
         "published_date": "2026-06-15T22:19:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "794e084059dc",
-        "title": "White mint kills a child in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424811",
-        "published_date": "2026-06-15T22:15:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c2ab13ccb364",
-        "title": "World Cup: Friendly fire deprives Egypt of victory against Belgium",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424799",
-        "published_date": "2026-06-15T21:09:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "651bec550a2c",
-        "title": "World Cup surprise... Cape Verde falls to Spain in a draw trap",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424789",
-        "published_date": "2026-06-15T18:43:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "260c30c01a51",
-        "title": "The Football Association presents the date of one of the Republic Cup matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424787",
-        "published_date": "2026-06-15T15:48:14Z",
         "category": "Local Events"
       }
     ]
