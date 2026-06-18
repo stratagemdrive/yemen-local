@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-17T14:28:32Z",
+  "last_updated": "2026-06-18T00:19:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a75b2b5968aa",
+        "title": "Iranian-American signing of a memorandum of understanding to end the war... “Some terms of understanding”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424904",
+        "published_date": "2026-06-17T23:49:41Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5a3c79527c41",
         "title": "A decision to temporarily seize the funds of the Transitional Council",
@@ -97,22 +105,6 @@
         "url": "https://yemenat.net/archives/424750",
         "published_date": "2026-06-14T21:10:52Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e9214995fd98",
-        "title": "A terrible traffic accident on the Hadhramaut Plateau",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424735",
-        "published_date": "2026-06-14T17:42:14Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ea6da2757b69",
-        "title": "World Cup: Turkey wins possession and Australia wins goals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424725",
-        "published_date": "2026-06-14T09:57:58Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -147,26 +139,26 @@
         "url": "https://yemenat.net/archives/424755",
         "published_date": "2026-06-14T22:24:40Z",
         "category": "Military"
-      },
-      {
-        "_id": "7df529ef3049",
-        "title": "Mystery surrounds the Seiyun explosions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424732",
-        "published_date": "2026-06-14T16:59:34Z",
-        "category": "Military"
-      },
-      {
-        "_id": "8175f04dabe5",
-        "title": "The hearing team praises the Egyptian-Turkish rapprochement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424723",
-        "published_date": "2026-06-14T04:17:27Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "e8c10853fe71",
+        "title": "Is the Saba Agency still an official agency or has it turned into a private sector?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424888",
+        "published_date": "2026-06-17T20:53:30Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ce1c6fedd9c3",
+        "title": "World Cup: Portugal and the Democratic Republic of the Congo tied",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424885",
+        "published_date": "2026-06-17T20:31:11Z",
+        "category": "Economy"
+      },
       {
         "_id": "0b9f3f6b5e26",
         "title": "Economist: Priorities require activating the local authority system, enhancing the efficiency of institutions, and improving services",
@@ -185,6 +177,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "395a5d14f896",
+        "title": "When empires are ablution with the ink of the agreements to wash away the blood hemoglobin!!.. Will Yemen emerge from the tunnel of war or enter the stage of re-sharing influence?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424908",
+        "published_date": "2026-06-18T00:06:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "09ef202a5cf0",
+        "title": "In a World Cup saga, the English scored against the Croats with a fiery four",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424900",
+        "published_date": "2026-06-17T22:28:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "97d70505e605",
+        "title": "A young Somali man commits suicide in Mahra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424897",
+        "published_date": "2026-06-17T22:08:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e33655d946b1",
+        "title": "The tragic end of Yemen’s Spider-Man in the Damt volcanic crater",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424894",
+        "published_date": "2026-06-17T21:25:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "fbfb881ee935",
         "title": "World Cup.. Austria wins over Jordan",
@@ -311,38 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424787",
         "published_date": "2026-06-15T15:48:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45e28692d1f7",
-        "title": "Average gold prices in Sanaa and Aden, Monday, June 15, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424780",
-        "published_date": "2026-06-15T13:01:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7cffedcc0714",
-        "title": "Tuesday is an official holiday in Sanaa and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424773",
-        "published_date": "2026-06-15T10:53:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "013c9d4c2635",
-        "title": "Aden.. Tension against the backdrop of a call for mobilization and the closure of the transitional headquarters",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424769",
-        "published_date": "2026-06-15T09:31:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "19843e8cacb9",
-        "title": "Tunisia suffers the heaviest defeat in its World Cup history",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424766",
-        "published_date": "2026-06-15T08:49:15Z",
         "category": "Local Events"
       }
     ]
