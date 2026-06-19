@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-18T14:15:47Z",
+  "last_updated": "2026-06-19T01:47:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "682a5a6bb2e4",
+        "title": "Trump: We expect a complete ceasefire on all fronts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424969",
+        "published_date": "2026-06-18T23:34:22Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a4d66f30425b",
+        "title": "The listening team congratulates Iran on the great victory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424958",
+        "published_date": "2026-06-18T21:01:56Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "27b68f119daf",
+        "title": "Thus spoke Zarathustra... a long journey between mountain and man",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424950",
+        "published_date": "2026-06-18T20:01:56Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "fecf03b011da",
         "title": "Disclosing a preliminary estimate of the amount of transitional funds included in the precautionary seizure",
@@ -97,17 +121,25 @@
         "url": "https://yemenat.net/archives/424795",
         "published_date": "2026-06-15T20:23:33Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "64164be6fcfb",
-        "title": "Reaching an agreement to end the war between Washington and Tehran and setting a date for its signing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424763",
-        "published_date": "2026-06-15T02:16:23Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "be95562d0e6a",
+        "title": "World Cup.. Canada scored the Qatari goal six times",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424972",
+        "published_date": "2026-06-19T00:21:19Z",
+        "category": "Military"
+      },
+      {
+        "_id": "06ededc18675",
+        "title": "The Yemeni House of Representatives...the largest absentee in the battle to save the state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424944",
+        "published_date": "2026-06-18T19:02:48Z",
+        "category": "Military"
+      },
       {
         "_id": "5329b674297a",
         "title": "Al-Jabouli axis in Taiz: From suppressing partners to copying the methods of the “Houthi supervisor”",
@@ -115,26 +147,34 @@
         "url": "https://yemenat.net/archives/424807",
         "published_date": "2026-06-15T22:12:04Z",
         "category": "Military"
-      },
-      {
-        "_id": "426c69c99e82",
-        "title": "The British Trade Authority announces a maritime accident off the coast of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424784",
-        "published_date": "2026-06-15T13:36:51Z",
-        "category": "Military"
-      },
-      {
-        "_id": "1c4206d62836",
-        "title": "History and the people will not be kind to legitimacy if something bad happens to Hashid.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424776",
-        "published_date": "2026-06-15T11:25:52Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "a5c3e530d582",
+        "title": "UN report: Yemen is among the global hunger hotspots",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424967",
+        "published_date": "2026-06-18T23:21:42Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e34206e031eb",
+        "title": "Aden.. Placing requirements on the travel of senior officials",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424963",
+        "published_date": "2026-06-18T21:40:58Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "80395fd5a5a3",
+        "title": "The Central Bank in Aden clarifies circulating news about the closure of commercial banks",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424954",
+        "published_date": "2026-06-18T20:28:07Z",
+        "category": "Economy"
+      },
       {
         "_id": "c6517aad6c52",
         "title": "Disclosing the value of the annual import bill in Yemen",
@@ -174,17 +214,33 @@
         "url": "https://yemenat.net/archives/424846",
         "published_date": "2026-06-16T16:18:51Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8ef5003360f7",
-        "title": "Ahmed Saif Hashid.. When “legitimacy” confiscates the right to life in retaliation for the situation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424792",
-        "published_date": "2026-06-15T19:03:09Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "7bd34475accc",
+        "title": "World Cup.. Switzerland sweeps Bosnia and Herzegovina by four",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424960",
+        "published_date": "2026-06-18T21:27:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c9f8a53000ad",
+        "title": "World Cup: South Africa and the Czech Republic tied",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424947",
+        "published_date": "2026-06-18T19:32:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f85bff1e8cf8",
+        "title": "A seminar in Marib stresses the importance of legislative reform to ensure the independence and pluralism of the media",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424932",
+        "published_date": "2026-06-18T14:40:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "48c1829789e0",
         "title": "Average gold prices in Sanaa and Aden, Thursday, June 18, 2026",
@@ -319,30 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424829",
         "published_date": "2026-06-16T07:23:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1992a55719cc",
-        "title": "Media hype doesn't matter",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424821",
-        "published_date": "2026-06-16T00:07:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "34933c5c84f9",
-        "title": "Shabwa...a tribal sector obstructs fuel supplies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424816",
-        "published_date": "2026-06-15T23:13:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d220e971fbcb",
-        "title": "The forces of the past are not qualified to build the present and anticipate the future",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424812",
-        "published_date": "2026-06-15T22:19:07Z",
         "category": "Local Events"
       }
     ]
