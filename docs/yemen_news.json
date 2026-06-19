@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-19T01:47:18Z",
+  "last_updated": "2026-06-19T14:16:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -113,14 +113,6 @@
         "url": "https://yemenat.net/archives/424824",
         "published_date": "2026-06-16T00:22:27Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "542878b48c69",
-        "title": "Electricity warns of the dangers of targeting birds while standing on electricity transmission lines",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424795",
-        "published_date": "2026-06-15T20:23:33Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -138,14 +130,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424944",
         "published_date": "2026-06-18T19:02:48Z",
-        "category": "Military"
-      },
-      {
-        "_id": "5329b674297a",
-        "title": "Al-Jabouli axis in Taiz: From suppressing partners to copying the methods of the “Houthi supervisor”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424807",
-        "published_date": "2026-06-15T22:12:04Z",
         "category": "Military"
       }
     ],
@@ -217,6 +201,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "20d669d85d0d",
+        "title": "Meteorology: Rain accompanied by hail in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424982",
+        "published_date": "2026-06-19T13:08:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2aff1d927ba5",
+        "title": "Mexico qualifies for the 32nd round of the World Cup at the expense of South Korea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424978",
+        "published_date": "2026-06-19T12:36:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d3d7f096ad8d",
+        "title": "Exhaust emissions kill two people in Abyan Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424975",
+        "published_date": "2026-06-19T12:01:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7bd34475accc",
         "title": "World Cup.. Switzerland sweeps Bosnia and Herzegovina by four",
@@ -351,30 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424842",
         "published_date": "2026-06-16T13:47:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "913b9729c09e",
-        "title": "Meteorology alerts residents of deserts and coasts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424839",
-        "published_date": "2026-06-16T08:53:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e9ac3cdc7687",
-        "title": "Shabwa.. A fire causes damage to palm farms and citizens’ homes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424835",
-        "published_date": "2026-06-16T08:28:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2d3656c2e51f",
-        "title": "Fever outbreak in Aden, deaths exceed 10 cases",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424829",
-        "published_date": "2026-06-16T07:23:35Z",
         "category": "Local Events"
       }
     ]
