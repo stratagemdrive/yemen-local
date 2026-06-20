@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-19T14:16:18Z",
+  "last_updated": "2026-06-20T00:14:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1b736a061977",
+        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of Mahmoud Darwish’s poetry",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424997",
+        "published_date": "2026-06-19T23:12:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d6669e9ec03b",
+        "title": "Disbursing a new batch of Saudi support to Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424987",
+        "published_date": "2026-06-19T17:37:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c88298650dad",
+        "title": "The listening team calls for the unity of the countries of the Arabian Peninsula",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424985",
+        "published_date": "2026-06-19T17:28:21Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "682a5a6bb2e4",
         "title": "Trump: We expect a complete ceasefire on all fronts",
@@ -105,14 +129,6 @@
         "url": "https://yemenat.net/archives/424832",
         "published_date": "2026-06-16T07:36:10Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c63dca514447",
-        "title": "World Cup: Uruguay draws with Saudi Arabia in an exciting match",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424824",
-        "published_date": "2026-06-16T00:22:27Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -201,6 +217,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "d881876456f3",
+        "title": "America defeats Australia and qualifies for the round of 32 in the 2026 World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424994",
+        "published_date": "2026-06-19T21:25:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5ac776d19ffb",
+        "title": "An earthquake was recorded in Hodeidah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/424991",
+        "published_date": "2026-06-19T20:54:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "20d669d85d0d",
         "title": "Meteorology: Rain accompanied by hail in parts of the highlands and the Tihama Plain",
@@ -343,22 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424860",
         "published_date": "2026-06-17T08:18:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5ad77388975e",
-        "title": "World Cup.. France scored against Senegal three times",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424856",
-        "published_date": "2026-06-16T22:03:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f37de8f440c3",
-        "title": "Yemeni intellectuals demand the Sanaa authority to release lawyer Abdul Majeed Sabra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424842",
-        "published_date": "2026-06-16T13:47:31Z",
         "category": "Local Events"
       }
     ]
