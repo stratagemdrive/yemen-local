@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-21T00:14:08Z",
+  "last_updated": "2026-06-21T13:11:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c6ec9e93e96d",
+        "title": "World Cup: Ecuador and Curacao tied, amid wasting many opportunities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425075",
+        "published_date": "2026-06-21T09:32:39Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "193b0750785d",
         "title": "Iran announces the closure of the Strait of Hormuz and accuses Washington of “violating the memorandum of understanding”",
@@ -36,7 +44,7 @@
       },
       {
         "_id": "1b736a061977",
-        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of the poetry of Mahmoud Darwish",
+        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of Mahmoud Darwish’s poetry",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424997",
         "published_date": "2026-06-19T23:12:54Z",
@@ -88,14 +96,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424927",
         "published_date": "2026-06-18T11:48:36Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a75b2b5968aa",
-        "title": "Iranian-American signing of a memorandum of understanding to end the war... “Some terms of understanding”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424904",
-        "published_date": "2026-06-17T23:49:41Z",
         "category": "Diplomacy"
       }
     ],
@@ -193,6 +193,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "afc134ecc6fc",
+        "title": "World Cup: Japan eliminates Tunisia 4-0",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425081",
+        "published_date": "2026-06-21T10:33:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a49588c9dd6",
+        "title": "Aden...sounds of heavy gunfire in Tawahi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425078",
+        "published_date": "2026-06-21T09:59:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "00195a54e8ae",
+        "title": "Meteorology: Scattered thunderstorms in parts of the highlands and the Tihama Plain, active winds and turbulent seas.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425072",
+        "published_date": "2026-06-21T09:05:46Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d0fe6d87d374",
         "title": "Free tweets... We have glory and respect, and they have money and slavery",
@@ -327,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424978",
         "published_date": "2026-06-19T12:36:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d3d7f096ad8d",
-        "title": "Exhaust emissions kill two people in Abyan Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424975",
-        "published_date": "2026-06-19T12:01:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7bd34475accc",
-        "title": "World Cup.. Switzerland sweeps Bosnia and Herzegovina by four",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424960",
-        "published_date": "2026-06-18T21:27:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c9f8a53000ad",
-        "title": "World Cup: South Africa and the Czech Republic tied",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424947",
-        "published_date": "2026-06-18T19:32:33Z",
         "category": "Local Events"
       }
     ]
