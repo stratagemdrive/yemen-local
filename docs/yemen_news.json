@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-20T12:54:36Z",
+  "last_updated": "2026-06-21T00:14:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,22 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "193b0750785d",
+        "title": "Iran announces the closure of the Strait of Hormuz and accuses Washington of “violating the memorandum of understanding”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425038",
+        "published_date": "2026-06-20T20:18:15Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "67e7be8f1e6f",
+        "title": "The release of Sheikh Hamad Fadgham and his wife",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425034",
+        "published_date": "2026-06-20T20:12:56Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "3353a6880f47",
         "title": "Brazil defeats Haiti and qualifies for the next round of the World Cup",
         "source": "Yemenat",
@@ -20,7 +36,7 @@
       },
       {
         "_id": "1b736a061977",
-        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of Mahmoud Darwish’s poetry",
+        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of the poetry of Mahmoud Darwish",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424997",
         "published_date": "2026-06-19T23:12:54Z",
@@ -81,49 +97,17 @@
         "url": "https://yemenat.net/archives/424904",
         "published_date": "2026-06-17T23:49:41Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "5a3c79527c41",
-        "title": "A decision to temporarily seize the funds of the Transitional Council",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424881",
-        "published_date": "2026-06-17T12:26:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b3ec3e53fe5d",
-        "title": "A tragic end for Spider-Man in Yemen in the Damat volcanic crater",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424867",
-        "published_date": "2026-06-17T10:05:27Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e75510578f86",
-        "title": "World Cup...a ​​heavy loss for Iraq against Norway",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424864",
-        "published_date": "2026-06-17T09:33:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4d44fb26d1b1",
-        "title": "Jazem Saif.. guards his tears and smiles..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424852",
-        "published_date": "2026-06-16T21:37:15Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ce0e65c9ee52",
-        "title": "The UN envoy before the Security Council: The American-Iranian understanding may constitute a turning point in the Yemen file",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424850",
-        "published_date": "2026-06-16T21:29:21Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "594e54d3fc1e",
+        "title": "World Cup.. Germany snatches a fatal victory against Ivory Coast in a close match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425058",
+        "published_date": "2026-06-20T22:19:25Z",
+        "category": "Military"
+      },
       {
         "_id": "be95562d0e6a",
         "title": "World Cup.. Canada scored the Qatari goal six times",
@@ -143,6 +127,30 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "5ca7abc43661",
+        "title": "Hoda Ablan: Motherhood and poetry on the journey of great loss",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425048",
+        "published_date": "2026-06-20T20:36:54Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "cc32e8f39983",
+        "title": "Fragments",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425044",
+        "published_date": "2026-06-20T20:31:35Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a4b4920fc199",
+        "title": "Hunger makes revolutions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425029",
+        "published_date": "2026-06-20T18:45:46Z",
+        "category": "Economy"
+      },
       {
         "_id": "a5c3e530d582",
         "title": "UN report: Yemen is among the global hunger hotspots",
@@ -182,25 +190,65 @@
         "url": "https://yemenat.net/archives/424911",
         "published_date": "2026-06-18T00:27:36Z",
         "category": "Economy"
-      },
-      {
-        "_id": "e8c10853fe71",
-        "title": "Is the Saba Agency still an official agency or has it turned into a private sector?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424888",
-        "published_date": "2026-06-17T20:53:30Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "ce1c6fedd9c3",
-        "title": "World Cup: Portugal and the Democratic Republic of the Congo tied",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424885",
-        "published_date": "2026-06-17T20:31:11Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d0fe6d87d374",
+        "title": "Free tweets... We have glory and respect, and they have money and slavery",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425064",
+        "published_date": "2026-06-20T23:35:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2701df2df4aa",
+        "title": "Aden.. The Immigration and Passports Authority announces the end of the passport book crisis at home and abroad",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425062",
+        "published_date": "2026-06-20T22:43:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "22c5e391cf71",
+        "title": "Judge Al-Khabi: Violating building and urban development laws turned Sanaa into a crowded city",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425055",
+        "published_date": "2026-06-20T21:11:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "73dbcb33c2b0",
+        "title": "Five teams qualified for the round of 32 in the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425051",
+        "published_date": "2026-06-20T20:42:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "96a7e0c68c28",
+        "title": "World Cup.. The Netherlands scored against Sweden five times",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425031",
+        "published_date": "2026-06-20T19:25:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e56416d15dc",
+        "title": "The hungry person is not the only one who owns the video!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425026",
+        "published_date": "2026-06-20T18:42:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81fb9762e9bf",
+        "title": "The Transitional Council announces the presence of Pakistani forces in Hadramaut and accuses Saudi Arabia of empowering the Brotherhood and ISIS",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425021",
+        "published_date": "2026-06-20T16:03:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0f8326fe8173",
         "title": "Aden.. Military and security deployment in Khor Maksar following the dispersal of a transitional event",
@@ -303,62 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424947",
         "published_date": "2026-06-18T19:32:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f85bff1e8cf8",
-        "title": "A seminar in Marib stresses the importance of legislative reform to ensure the independence and pluralism of the media",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424932",
-        "published_date": "2026-06-18T14:40:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "48c1829789e0",
-        "title": "Average gold prices in Sanaa and Aden, Thursday, June 18, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424929",
-        "published_date": "2026-06-18T12:04:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ccb3a4295813",
-        "title": "World Cup: Colombia beats Uzbekistan by three",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424924",
-        "published_date": "2026-06-18T10:56:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "05239d2c79b5",
-        "title": "World Cup.. Ghana snatches a fatal victory from Panama",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424919",
-        "published_date": "2026-06-18T01:15:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ab2a1e50abb8",
-        "title": "Nadia Al-Sarari launches a historic initiative to establish union governance and protect the independence of union work",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424915",
-        "published_date": "2026-06-18T00:57:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "395a5d14f896",
-        "title": "When empires are ablution with the ink of the agreements to wash away the blood hemoglobin!!.. Will Yemen emerge from the tunnel of war or enter the stage of re-sharing influence?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424908",
-        "published_date": "2026-06-18T00:06:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "09ef202a5cf0",
-        "title": "In a World Cup saga, the English scored against the Croats with a fiery four",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424900",
-        "published_date": "2026-06-17T22:28:38Z",
         "category": "Local Events"
       }
     ]
