@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-21T13:11:57Z",
+  "last_updated": "2026-06-22T00:16:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "8f363841a619",
+        "title": "World Cup.. Iran draws with Belgium and VAR cancels a goal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425111",
+        "published_date": "2026-06-21T21:40:47Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "aa0f561f6525",
+        "title": "Aside from the nuclear file...the end of the first round of Iranian-American negotiations in Switzerland",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425103",
+        "published_date": "2026-06-21T19:43:38Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "66770886981d",
+        "title": "World Cup.. Spain scored four times against Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425100",
+        "published_date": "2026-06-21T18:38:18Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c6ec9e93e96d",
         "title": "World Cup: Ecuador and Curacao tied, amid wasting many opportunities",
@@ -89,14 +113,6 @@
         "url": "https://yemenat.net/archives/424950",
         "published_date": "2026-06-18T20:01:56Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "fecf03b011da",
-        "title": "Disclosing a preliminary estimate of the amount of transitional funds included in the precautionary seizure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424927",
-        "published_date": "2026-06-18T11:48:36Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -115,18 +131,18 @@
         "url": "https://yemenat.net/archives/424972",
         "published_date": "2026-06-19T00:21:19Z",
         "category": "Military"
-      },
-      {
-        "_id": "06ededc18675",
-        "title": "The Yemeni House of Representatives...the largest absentee in the battle to save the state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424944",
-        "published_date": "2026-06-18T19:02:48Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "1618f07ea853",
+        "title": "A marine accident near the eastern coast of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425095",
+        "published_date": "2026-06-21T17:43:43Z",
+        "category": "Economy"
+      },
       {
         "_id": "5ca7abc43661",
         "title": "Hoda Ablan: Motherhood and poetry on the journey of great loss",
@@ -174,25 +190,49 @@
         "url": "https://yemenat.net/archives/424954",
         "published_date": "2026-06-18T20:28:07Z",
         "category": "Economy"
-      },
-      {
-        "_id": "c6517aad6c52",
-        "title": "Disclosing the value of the annual import bill in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424922",
-        "published_date": "2026-06-18T10:22:57Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "36c241f78eca",
-        "title": "The Yemeni Women's Union warns of impersonators asking for money from poor families in exchange for services",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424911",
-        "published_date": "2026-06-18T00:27:36Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "22a7270cbac6",
+        "title": "Protesters block the coastal road west of Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425106",
+        "published_date": "2026-06-21T20:21:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "833326f8f9b7",
+        "title": "The Yemeni-Hebrew song Kirya Yefivia: the nostalgia of Rabbi Zakaria Al Dhaheri and the voice of Talia Solan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425097",
+        "published_date": "2026-06-21T18:10:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6514792f5213",
+        "title": "Four new teams qualified for the round of 32 of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425092",
+        "published_date": "2026-06-21T15:33:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6998f35fce9",
+        "title": "A commercial representative of “Somaliland” was arrested in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425088",
+        "published_date": "2026-06-21T15:06:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e7e26e26fc8c",
+        "title": "Aden.. The Coast Guard Service clarifies the shooting in the vicinity of its main headquarters in Tawahi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425085",
+        "published_date": "2026-06-21T14:19:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "afc134ecc6fc",
         "title": "World Cup: Japan eliminates Tunisia 4-0",
@@ -311,46 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425002",
         "published_date": "2026-06-20T08:48:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40a9f56d7c86",
-        "title": "World Cup.. Morocco wins over Scotland and is close to qualifying for the next round",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424999",
-        "published_date": "2026-06-20T00:33:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d881876456f3",
-        "title": "America defeats Australia and qualifies for the round of 32 in the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424994",
-        "published_date": "2026-06-19T21:25:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5ac776d19ffb",
-        "title": "An earthquake was recorded in Hodeidah Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424991",
-        "published_date": "2026-06-19T20:54:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20d669d85d0d",
-        "title": "Meteorology: Rain accompanied by hail in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424982",
-        "published_date": "2026-06-19T13:08:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2aff1d927ba5",
-        "title": "Mexico qualifies for the 32nd round of the World Cup at the expense of South Korea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424978",
-        "published_date": "2026-06-19T12:36:29Z",
         "category": "Local Events"
       }
     ]
