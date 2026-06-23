@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-22T15:58:43Z",
+  "last_updated": "2026-06-23T00:12:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -76,34 +76,10 @@
       },
       {
         "_id": "1b736a061977",
-        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of the poetry of Mahmoud Darwish",
+        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of Mahmoud Darwish’s poetry",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/424997",
         "published_date": "2026-06-19T23:12:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d6669e9ec03b",
-        "title": "Disbursing a new batch of Saudi support to Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424987",
-        "published_date": "2026-06-19T17:37:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c88298650dad",
-        "title": "The listening team calls for the unity of the countries of the Arabian Peninsula",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424985",
-        "published_date": "2026-06-19T17:28:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "682a5a6bb2e4",
-        "title": "Trump: We expect a complete ceasefire on all fronts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424969",
-        "published_date": "2026-06-18T23:34:22Z",
         "category": "Diplomacy"
       }
     ],
@@ -123,14 +99,6 @@
         "url": "https://yemenat.net/archives/425058",
         "published_date": "2026-06-20T22:19:25Z",
         "category": "Military"
-      },
-      {
-        "_id": "be95562d0e6a",
-        "title": "World Cup.. Canada scored the Qatari goal six times",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424972",
-        "published_date": "2026-06-19T00:21:19Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -144,6 +112,22 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "1abdb6f6d9ed",
+        "title": "Secretary General of the Educators Syndicate in Taiz: Al-Sarari Initiative is a roadmap that charts the future of the trade union movement in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425135",
+        "published_date": "2026-06-22T19:26:14Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "487cc46f6dd7",
+        "title": "I'm hungry... when the stomach becomes a war zone",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425133",
+        "published_date": "2026-06-22T17:45:16Z",
+        "category": "Economy"
+      },
       {
         "_id": "e6854f623ac0",
         "title": "The educational disaster of adopting the lunar calendar at the beginning of the school year...a study of the violation of human rights and the threat to the stability of education",
@@ -183,17 +167,65 @@
         "url": "https://yemenat.net/archives/425029",
         "published_date": "2026-06-20T18:45:46Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a5c3e530d582",
-        "title": "UN report: Yemen is among the global hunger hotspots",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424967",
-        "published_date": "2026-06-18T23:21:42Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "a9c2813d04c9",
+        "title": "World Cup: A thunderstorm hinders the resumption of the second half of the match between Iraq and France",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425158",
+        "published_date": "2026-06-22T23:15:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ceb5b560c4b6",
+        "title": "Sanaa.. Education sets the date for the start of exams for the supplementary round for the basic certificate and publishes the exam schedule",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425154",
+        "published_date": "2026-06-22T22:02:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "474a57c9ecb9",
+        "title": "A cry against the absurdity of thieves: The Hashid case is a compelling testimony to the lack of representation of the people",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425151",
+        "published_date": "2026-06-22T21:36:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4407a3fa1ca4",
+        "title": "Al-Uqla sector stops pumping electricity fuel, and Aden is promised increased interruptions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425147",
+        "published_date": "2026-06-22T21:09:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c13a4503d9aa",
+        "title": "Al-Orouba wins for the rising generation and qualifies for the round of 32 in the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425144",
+        "published_date": "2026-06-22T20:32:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2b40a939d869",
+        "title": "Al-Dhalea.. More than 10 child victims as a result of the explosion of a projectile remnants of war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425141",
+        "published_date": "2026-06-22T20:20:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "53b381446a0b",
+        "title": "World Cup: Argentina qualifies for the round of 32 at the expense of Austria, and Messi continues to write history",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425138",
+        "published_date": "2026-06-22T19:37:01Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7851669f0b29",
         "title": "Meteorology warns of floods flowing through reefs and valleys, and of presence in or crossing their paths",
@@ -296,62 +328,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425055",
         "published_date": "2026-06-20T21:11:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "73dbcb33c2b0",
-        "title": "Five teams qualified for the round of 32 in the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425051",
-        "published_date": "2026-06-20T20:42:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96a7e0c68c28",
-        "title": "World Cup.. The Netherlands scored against Sweden five times",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425031",
-        "published_date": "2026-06-20T19:25:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1e56416d15dc",
-        "title": "The hungry person is not the only one who owns the video!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425026",
-        "published_date": "2026-06-20T18:42:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81fb9762e9bf",
-        "title": "The Transitional Council announces the presence of Pakistani forces in Hadramaut and accuses Saudi Arabia of empowering the Brotherhood and ISIS",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425021",
-        "published_date": "2026-06-20T16:03:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f8326fe8173",
-        "title": "Aden.. Military and security deployment in Khor Maksar following the dispersal of a transitional event",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425019",
-        "published_date": "2026-06-20T12:52:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9388b4538b00",
-        "title": "The International Federation of Journalists calls for the release of a detained journalist in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425016",
-        "published_date": "2026-06-20T12:27:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a3e1697e4ccc",
-        "title": "World Cup.. Paraguay wins over Türkiye despite the numerical deficiency",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425011",
-        "published_date": "2026-06-20T10:09:02Z",
         "category": "Local Events"
       }
     ]
