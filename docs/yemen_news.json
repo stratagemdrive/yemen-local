@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-23T00:12:52Z",
+  "last_updated": "2026-06-23T13:44:45Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "bef230c7dee3",
+        "title": "Conclusion of a round of Iranian-American technical consultations and talk about releasing frozen Iranian assets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425162",
+        "published_date": "2026-06-23T00:28:57Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5efd6220ba50",
         "title": "Between bulls and the courts... Why does the Yemeni fear the state and trust those who lost it?",
@@ -64,22 +72,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425034",
         "published_date": "2026-06-20T20:12:56Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3353a6880f47",
-        "title": "Brazil defeats Haiti and qualifies for the next round of the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425004",
-        "published_date": "2026-06-20T09:12:05Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "1b736a061977",
-        "title": "How does language create meaning?.. The rhetoric of producing meaning between rhetoric, communication, reception, and interpretation.. An integrative reading of Mahmoud Darwish’s poetry",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/424997",
-        "published_date": "2026-06-19T23:12:54Z",
         "category": "Diplomacy"
       }
     ],
@@ -170,6 +162,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "f83d621cd583",
+        "title": "World Cup: Norway wins Senegal in an exciting match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425176",
+        "published_date": "2026-06-23T13:38:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "67b19df35299",
+        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 23, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425173",
+        "published_date": "2026-06-23T13:24:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f2c54c2ff2fc",
+        "title": "Thunderstorms expected in parts of the highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425171",
+        "published_date": "2026-06-23T13:15:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b79d206bca4b",
+        "title": "World Cup.. France qualifies for the round of 32 at the expense of Iraq",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425167",
+        "published_date": "2026-06-23T13:07:27Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a9c2813d04c9",
         "title": "World Cup: A thunderstorm hinders the resumption of the second half of the match between Iraq and France",
@@ -296,38 +320,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425078",
         "published_date": "2026-06-21T09:59:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "00195a54e8ae",
-        "title": "Meteorology: Scattered thunderstorms in parts of the highlands and the Tihama Plain, active winds and turbulent seas.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425072",
-        "published_date": "2026-06-21T09:05:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d0fe6d87d374",
-        "title": "Free tweets... We have glory and respect, and they have money and slavery",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425064",
-        "published_date": "2026-06-20T23:35:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2701df2df4aa",
-        "title": "Aden.. The Immigration and Passports Authority announces the end of the passport book crisis at home and abroad",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425062",
-        "published_date": "2026-06-20T22:43:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "22c5e391cf71",
-        "title": "Judge Al-Khabi: Violating building and urban development laws turned Sanaa into a crowded city",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425055",
-        "published_date": "2026-06-20T21:11:28Z",
         "category": "Local Events"
       }
     ]
