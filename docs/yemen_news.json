@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-23T13:44:45Z",
+  "last_updated": "2026-06-24T00:03:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "df606ade8b22",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425203",
+        "published_date": "2026-06-23T22:14:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6f5a319183fa",
+        "title": "Sanaa Foreign Ministry: Saudi Arabia must sit at the negotiating table to implement the road map",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425201",
+        "published_date": "2026-06-23T21:53:26Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "434f586e453d",
+        "title": "World Cup.. Algeria narrowly wins over Jordan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425182",
+        "published_date": "2026-06-23T14:09:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "bef230c7dee3",
         "title": "Conclusion of a round of Iranian-American technical consultations and talk about releasing frozen Iranian assets",
@@ -65,14 +89,6 @@
         "url": "https://yemenat.net/archives/425038",
         "published_date": "2026-06-20T20:18:15Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "67e7be8f1e6f",
-        "title": "The release of Sheikh Hamad Fadgham and his wife",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425034",
-        "published_date": "2026-06-20T20:12:56Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -104,6 +120,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "bcc54be33422",
+        "title": "World Cup.. Portugal ends Uzbekistan's hopes of qualifying and Cristiano breaks records",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425195",
+        "published_date": "2026-06-23T19:30:23Z",
+        "category": "Economy"
+      },
       {
         "_id": "1abdb6f6d9ed",
         "title": "Secretary General of the Educators Syndicate in Taiz: Al-Sarari Initiative is a roadmap that charts the future of the trade union movement in Yemen",
@@ -137,11 +161,11 @@
         "category": "Economy"
       },
       {
-        "_id": "5ca7abc43661",
-        "title": "Hoda Ablan: Motherhood and poetry on the journey of great loss",
+        "_id": "2701df2df4aa",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425048",
-        "published_date": "2026-06-20T20:36:54Z",
+        "url": "https://yemenat.net/archives/425062",
+        "published_date": "2026-06-20T22:43:48Z",
         "category": "Economy"
       },
       {
@@ -151,23 +175,47 @@
         "url": "https://yemenat.net/archives/425044",
         "published_date": "2026-06-20T20:31:35Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a4b4920fc199",
-        "title": "Hunger makes revolutions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425029",
-        "published_date": "2026-06-20T18:45:46Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
-        "_id": "f83d621cd583",
-        "title": "World Cup: Norway wins Senegal in an exciting match",
+        "_id": "8f67a78c93ca",
+        "title": "“Document”... Lawyers demand that the Attorney General in Sana’a release their colleague Sabra, and the latter directs his office",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425176",
-        "published_date": "2026-06-23T13:38:25Z",
+        "url": "https://yemenat.net/archives/425198",
+        "published_date": "2026-06-23T20:22:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a4aae78969c",
+        "title": "Marib.. Mystery surrounds repeated fires in Harib District, and residents attribute them to hidden forces",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425192",
+        "published_date": "2026-06-23T17:45:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f6786c96148b",
+        "title": "The highest result in the preliminary round.. The people of Hadhramaut sweep Tadamon Al Mahwit and qualify for the 32nd round of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425188",
+        "published_date": "2026-06-23T16:34:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2c4fd503ce4e",
+        "title": "Amal Dunqul in the coroner's room... blood on the paper",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425185",
+        "published_date": "2026-06-23T16:05:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b766ea91a4be",
+        "title": "An earthquake was recorded in Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425179",
+        "published_date": "2026-06-23T14:54:35Z",
         "category": "Local Events"
       },
       {
@@ -175,7 +223,15 @@
         "title": "Average gold prices in Sanaa and Aden, Tuesday, June 23, 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425173",
-        "published_date": "2026-06-23T13:24:40Z",
+        "published_date": "2026-06-23T13:54:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f83d621cd583",
+        "title": "World Cup: Norway wins Senegal in an exciting match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425176",
+        "published_date": "2026-06-23T13:38:25Z",
         "category": "Local Events"
       },
       {
@@ -280,46 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425097",
         "published_date": "2026-06-21T18:10:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6514792f5213",
-        "title": "Four new teams qualified for the round of 32 of the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425092",
-        "published_date": "2026-06-21T15:33:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b6998f35fce9",
-        "title": "A commercial representative of “Somaliland” was arrested in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425088",
-        "published_date": "2026-06-21T15:06:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e7e26e26fc8c",
-        "title": "Aden.. The Coast Guard Service clarifies the shooting in the vicinity of its main headquarters in Tawahi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425085",
-        "published_date": "2026-06-21T14:19:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "afc134ecc6fc",
-        "title": "World Cup: Japan eliminates Tunisia 4-0",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425081",
-        "published_date": "2026-06-21T10:33:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a49588c9dd6",
-        "title": "Aden...sounds of heavy gunfire in Tawahi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425078",
-        "published_date": "2026-06-21T09:59:33Z",
         "category": "Local Events"
       }
     ]
