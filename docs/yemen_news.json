@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-24T00:03:57Z",
+  "last_updated": "2026-06-24T13:27:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -12,7 +12,7 @@
     "Diplomacy": [
       {
         "_id": "df606ade8b22",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "World Cup: Ghana imposes a goalless draw on the English",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425203",
         "published_date": "2026-06-23T22:14:41Z",
@@ -81,14 +81,6 @@
         "url": "https://yemenat.net/archives/425075",
         "published_date": "2026-06-21T09:32:39Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "193b0750785d",
-        "title": "Iran announces the closure of the Strait of Hormuz and accuses Washington of “violating the memorandum of understanding”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425038",
-        "published_date": "2026-06-20T20:18:15Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -111,6 +103,14 @@
     ],
     "Energy": [
       {
+        "_id": "cbc622ddebca",
+        "title": "The Ministry of Electricity holds the Ministry of Finance responsible for the deterioration of electricity and warns of a decline in evening generation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425207",
+        "published_date": "2026-06-24T03:50:09Z",
+        "category": "Energy"
+      },
+      {
         "_id": "2f2db66dd5a8",
         "title": "Safer Company reveals an alternative to car fuel and household gas",
         "source": "Yemenat",
@@ -121,6 +121,14 @@
     ],
     "Economy": [
       {
+        "_id": "1f906a666502",
+        "title": "World Cup: Croatia wins over Panama in a difficult match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425209",
+        "published_date": "2026-06-24T04:04:11Z",
+        "category": "Economy"
+      },
+      {
         "_id": "bcc54be33422",
         "title": "World Cup.. Portugal ends Uzbekistan's hopes of qualifying and Cristiano breaks records",
         "source": "Yemenat",
@@ -130,7 +138,7 @@
       },
       {
         "_id": "1abdb6f6d9ed",
-        "title": "Secretary General of the Educators Syndicate in Taiz: Al-Sarari Initiative is a roadmap that charts the future of the trade union movement in Yemen",
+        "title": "Secretary General of the Educators Syndicate in Taiz: Al-Sarari Initiative is a road map that charts the future of the trade union movement in Yemen",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425135",
         "published_date": "2026-06-22T19:26:14Z",
@@ -159,25 +167,33 @@
         "url": "https://yemenat.net/archives/425095",
         "published_date": "2026-06-21T17:43:43Z",
         "category": "Economy"
-      },
-      {
-        "_id": "2701df2df4aa",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425062",
-        "published_date": "2026-06-20T22:43:48Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "cc32e8f39983",
-        "title": "Fragments",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425044",
-        "published_date": "2026-06-20T20:31:35Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "a333b22924cd",
+        "title": "Why do I go back to it again..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425218",
+        "published_date": "2026-06-24T04:50:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2e77cc606319",
+        "title": "World Cup: Colombia qualifies for the round of 32 at the expense of the Democratic Republic of Congo",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425215",
+        "published_date": "2026-06-24T04:40:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81f8378a04fc",
+        "title": "The fight against human trafficking warns of organized crime practiced by illegal immigrants in Saada Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425213",
+        "published_date": "2026-06-24T04:21:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8f67a78c93ca",
         "title": "“Document”... Lawyers demand that the Attorney General in Sana’a release their colleague Sabra, and the latter directs his office",
@@ -312,30 +328,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425130",
         "published_date": "2026-06-22T14:21:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "99739ee8e19a",
-        "title": "World Cup.. Egypt achieves a historic victory over New Zealand",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425121",
-        "published_date": "2026-06-22T03:28:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "22a7270cbac6",
-        "title": "Protesters block the coastal road west of Mukalla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425106",
-        "published_date": "2026-06-21T20:21:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "833326f8f9b7",
-        "title": "The Yemeni-Hebrew song Kirya Yefivia: the nostalgia of Rabbi Zakaria Al Dhaheri and the voice of Talia Solan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425097",
-        "published_date": "2026-06-21T18:10:17Z",
         "category": "Local Events"
       }
     ]
