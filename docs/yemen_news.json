@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-25T00:18:12Z",
+  "last_updated": "2026-06-25T13:23:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3a3216db26e1",
+        "title": "Resuming first-class matches and setting the date for the round of 32 of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425292",
+        "published_date": "2026-06-25T09:57:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "df10ff3b5b3d",
+        "title": "World Cup: Brazil and Morocco reach the round of 32, and Haiti leaves the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425275",
+        "published_date": "2026-06-25T00:28:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b786120d0ba5",
         "title": "Qatuf",
@@ -81,17 +97,17 @@
         "url": "https://yemenat.net/archives/425162",
         "published_date": "2026-06-23T00:28:57Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "5efd6220ba50",
-        "title": "Between bulls and the courts... Why does the Yemeni fear the state and trust those who lost it?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425124",
-        "published_date": "2026-06-22T05:37:27Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "44e6b42826a2",
+        "title": "The real Yemeni battle",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425297",
+        "published_date": "2026-06-25T10:34:51Z",
+        "category": "Military"
+      },
       {
         "_id": "97028509f2a8",
         "title": "The Israeli Defense Minister threatens to kill Al-Houthi if he comes out of hiding",
@@ -143,33 +159,49 @@
         "url": "https://yemenat.net/archives/425195",
         "published_date": "2026-06-23T19:30:23Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1abdb6f6d9ed",
-        "title": "Secretary General of the Educators Syndicate in Taiz: Al-Sarari Initiative is a roadmap that charts the future of the trade union movement in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425135",
-        "published_date": "2026-06-22T19:26:14Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "487cc46f6dd7",
-        "title": "I'm hungry... when the stomach becomes a war zone",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425133",
-        "published_date": "2026-06-22T17:45:16Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "e6854f623ac0",
-        "title": "The educational disaster of adopting the lunar calendar at the beginning of the school year...a study of the violation of human rights and the threat to the stability of education",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425127",
-        "published_date": "2026-06-22T13:11:56Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "0a5e649ffb3b",
+        "title": "An egg truck burned at a checkpoint in Ma'rib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425289",
+        "published_date": "2026-06-25T09:59:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "de39770595b2",
+        "title": "Meteorology: Thunderstorms in the highlands and hot weather in the deserts, coasts and plateaus",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425287",
+        "published_date": "2026-06-25T08:59:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "43d40f1db2cd",
+        "title": "A moderate earthquake in the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425283",
+        "published_date": "2026-06-25T08:17:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "79141002176e",
+        "title": "World Cup: Mexico and South Africa qualify for the round of 32, and the Czech Republic leaves the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425280",
+        "published_date": "2026-06-25T07:39:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e96bac9acefd",
+        "title": "Sanaa.. Announcing the results of the final exams for students of technical and vocational institutes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425278",
+        "published_date": "2026-06-25T07:15:49Z",
+        "category": "Local Events"
+      },
       {
         "_id": "97017c167567",
         "title": "Searching for a national identity for a homeland that accommodates everyone!",
@@ -288,46 +320,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425198",
         "published_date": "2026-06-23T20:22:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a4aae78969c",
-        "title": "Marib.. Mystery surrounds repeated fires in Harib District, and residents attribute them to hidden forces",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425192",
-        "published_date": "2026-06-23T17:45:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6786c96148b",
-        "title": "The highest result in the preliminary round.. The people of Hadhramaut sweep Tadamon Al Mahwit and qualify for the 32nd round of the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425188",
-        "published_date": "2026-06-23T16:34:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2c4fd503ce4e",
-        "title": "Amal Dunqul in the coroner's room... blood on the paper",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425185",
-        "published_date": "2026-06-23T16:05:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b766ea91a4be",
-        "title": "An earthquake was recorded in Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425179",
-        "published_date": "2026-06-23T14:54:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "67b19df35299",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, June 23, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425173",
-        "published_date": "2026-06-23T13:54:40Z",
         "category": "Local Events"
       }
     ]
