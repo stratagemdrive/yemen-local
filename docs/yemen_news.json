@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-26T00:15:10Z",
+  "last_updated": "2026-06-26T13:16:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ad741a5a178b",
+        "title": "Accompanied by Australia...the United States qualifies for the round of 32 of the World Cup and Turkey leaves the World Cup with an honorable victory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425334",
+        "published_date": "2026-06-26T08:41:45Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3a3216db26e1",
         "title": "Resuming first-class matches and setting the date for the round of 32 of the Republic Cup",
@@ -81,14 +89,6 @@
         "url": "https://yemenat.net/archives/425201",
         "published_date": "2026-06-23T21:53:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "434f586e453d",
-        "title": "World Cup.. Algeria narrowly wins over Jordan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425182",
-        "published_date": "2026-06-23T14:09:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -137,6 +137,14 @@
     ],
     "Economy": [
       {
+        "_id": "4c958c1130aa",
+        "title": "Yemeni academics in exile: loss of a homeland or an opportunity for salvation?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425338",
+        "published_date": "2026-06-26T10:54:44Z",
+        "category": "Economy"
+      },
+      {
         "_id": "16b3cac4c0cd",
         "title": "Aden.. The Ministry of Higher Education reveals that the judicial authorities are looking into the file of forging university degrees",
         "source": "Yemenat",
@@ -171,8 +179,24 @@
     ],
     "Local Events": [
       {
+        "_id": "c71b77e97b4b",
+        "title": "Meteorology warns against being in floodways and paths",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425331",
+        "published_date": "2026-06-26T08:14:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "33445ce986cb",
+        "title": "I left Tunisia.. The Netherlands and Japan qualify for the round of 32 of the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425328",
+        "published_date": "2026-06-26T01:22:13Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "bae79c528ca6",
-        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit, and networking work",
+        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit and networking work",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425319",
         "published_date": "2026-06-25T23:16:10Z",
@@ -284,7 +308,7 @@
       },
       {
         "_id": "4e932c2737b1",
-        "title": "The people are hungry...so why don't you alleviate exploitation, oppression and injustices?",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425266",
         "published_date": "2026-06-24T22:59:36Z",
@@ -312,22 +336,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425230",
         "published_date": "2026-06-24T19:58:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3a8c32c62e7f",
-        "title": "The Consumer Protection Association provides guidance to consumers when purchasing chicken",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425227",
-        "published_date": "2026-06-24T15:20:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "407778f8e89f",
-        "title": "The Hebrew Yemeni Song “Kiryah Yefefiyah”: The Longing of Rabbi Zechariah al-Dhahiri and the Voice of Talia Solan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425225",
-        "published_date": "2026-06-24T14:24:21Z",
         "category": "Local Events"
       }
     ]
