@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-25T13:23:47Z",
+  "last_updated": "2026-06-26T00:15:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,17 +89,17 @@
         "url": "https://yemenat.net/archives/425182",
         "published_date": "2026-06-23T14:09:52Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bef230c7dee3",
-        "title": "Conclusion of a round of Iranian-American technical consultations and talk about releasing frozen Iranian assets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425162",
-        "published_date": "2026-06-23T00:28:57Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "a2c47ff0a44f",
+        "title": "Hadhramaut Coast Police reveal the nature of the explosion that claimed the life of journalist Muhammad Aydah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425305",
+        "published_date": "2026-06-25T19:45:03Z",
+        "category": "Military"
+      },
       {
         "_id": "44e6b42826a2",
         "title": "The real Yemeni battle",
@@ -137,6 +137,14 @@
     ],
     "Economy": [
       {
+        "_id": "16b3cac4c0cd",
+        "title": "Aden.. The Ministry of Higher Education reveals that the judicial authorities are looking into the file of forging university degrees",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425324",
+        "published_date": "2026-06-26T00:06:01Z",
+        "category": "Economy"
+      },
+      {
         "_id": "6731a1a742b3",
         "title": "I seek refuge in God from the oppression of men.",
         "source": "Yemenat",
@@ -162,6 +170,54 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "bae79c528ca6",
+        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit, and networking work",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425319",
+        "published_date": "2026-06-25T23:16:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d9a829b85c48",
+        "title": "Accompanied by Ivory Coast... Germany qualifies, despite the loss, to the round of 32 of the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425316",
+        "published_date": "2026-06-25T22:28:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "810da5d40e7f",
+        "title": "Bouquet",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425312",
+        "published_date": "2026-06-25T21:48:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "75040aca24b8",
+        "title": "Transitional forces hand over a camp in Aden Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425308",
+        "published_date": "2026-06-25T21:10:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e064cf782da",
+        "title": "First Division League.. Fahman wins Shabab Al-Bayda in the opening of the fifth round",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425302",
+        "published_date": "2026-06-25T16:20:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "37869fb9a996",
+        "title": "Yemeni seismic monitoring determines the strength of the Gulf of Aden earthquake and the timing of its occurrence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425299",
+        "published_date": "2026-06-25T15:54:24Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0a5e649ffb3b",
         "title": "An egg truck burned at a checkpoint in Ma'rib",
@@ -272,54 +328,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425225",
         "published_date": "2026-06-24T14:24:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bcf8ec9517ac",
-        "title": "Meteorology: Thunderstorms, hot weather, and active winds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425223",
-        "published_date": "2026-06-24T14:15:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8085d904319a",
-        "title": "Average gold prices in Sanaa and Aden, Wednesday, June 24, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425221",
-        "published_date": "2026-06-24T13:31:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a333b22924cd",
-        "title": "Why do I go back to it again..?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425218",
-        "published_date": "2026-06-24T04:50:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e77cc606319",
-        "title": "World Cup: Colombia qualifies for the round of 32 at the expense of the Democratic Republic of Congo",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425215",
-        "published_date": "2026-06-24T04:40:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81f8378a04fc",
-        "title": "The fight against human trafficking warns of organized crime practiced by illegal immigrants in Saada Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425213",
-        "published_date": "2026-06-24T04:21:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f67a78c93ca",
-        "title": "“Document”... Lawyers demand that the Attorney General in Sana’a release their colleague Sabra, and the latter directs his office",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425198",
-        "published_date": "2026-06-23T20:22:03Z",
         "category": "Local Events"
       }
     ]
