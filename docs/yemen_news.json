@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-27T00:13:27Z",
+  "last_updated": "2026-06-27T12:13:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "b809b226b89d",
+        "title": "World Cup: Belgium and Egypt reach the round of 32, and New Zealand bids farewell to the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425391",
+        "published_date": "2026-06-27T05:23:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f080873538ce",
+        "title": "World Cup.. Cape Verde accompanies Spain to the round of 32",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425383",
+        "published_date": "2026-06-27T02:30:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "70c45867d0c5",
         "title": "Revolutionary Guard: Our response to the American attack will be quick and decisive",
@@ -151,6 +167,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "e11ef8335c09",
+        "title": "In light of the collapse of the state.. Will Yemen be pushed towards open tribal warfare?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425388",
+        "published_date": "2026-06-27T04:03:41Z",
+        "category": "Economy"
+      },
       {
         "_id": "4c958c1130aa",
         "title": "Yemeni academics in exile: loss of a homeland or an opportunity for salvation?",
