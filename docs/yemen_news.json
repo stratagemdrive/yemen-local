@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-26T13:16:18Z",
+  "last_updated": "2026-06-27T00:13:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "70c45867d0c5",
+        "title": "Revolutionary Guard: Our response to the American attack will be quick and decisive",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425377",
+        "published_date": "2026-06-26T22:32:28Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7222cd1ed01f",
+        "title": "Mbappé equals Klose's record and becomes the second best scorer in the history of the tournament",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425375",
+        "published_date": "2026-06-26T22:11:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d9c715c3e83f",
+        "title": "Lebanon and Israel sign a peace agreement under American sponsorship",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425371",
+        "published_date": "2026-06-26T22:04:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ec30e1dadf06",
+        "title": "A mediation initiative to end the case of Sister Mira and Sheikhs Fadgham and Manna",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425368",
+        "published_date": "2026-06-26T21:56:58Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ad741a5a178b",
         "title": "Accompanied by Australia...the United States qualifies for the round of 32 of the World Cup and Turkey leaves the World Cup with an honorable victory",
@@ -73,25 +105,17 @@
         "url": "https://yemenat.net/archives/425245",
         "published_date": "2026-06-24T23:08:14Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "df606ade8b22",
-        "title": "World Cup: Ghana imposes a goalless draw on the English",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425203",
-        "published_date": "2026-06-23T22:14:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6f5a319183fa",
-        "title": "Sanaa Foreign Ministry: Saudi Arabia must sit at the negotiating table to implement the road map",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425201",
-        "published_date": "2026-06-23T21:53:26Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "635595efcffd",
+        "title": "US raids targeting Iran",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425359",
+        "published_date": "2026-06-26T21:46:48Z",
+        "category": "Military"
+      },
       {
         "_id": "a2c47ff0a44f",
         "title": "Hadhramaut Coast Police reveal the nature of the explosion that claimed the life of journalist Muhammad Aydah",
@@ -125,16 +149,7 @@
         "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "cbc622ddebca",
-        "title": "The Ministry of Electricity holds the Ministry of Finance responsible for the deterioration of electricity and warns of a decline in evening generation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425207",
-        "published_date": "2026-06-24T03:50:09Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
       {
         "_id": "4c958c1130aa",
@@ -159,25 +174,57 @@
         "url": "https://yemenat.net/archives/425271",
         "published_date": "2026-06-25T00:15:04Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1f906a666502",
-        "title": "World Cup: Croatia wins over Panama in a difficult match",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425209",
-        "published_date": "2026-06-24T04:04:11Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "bcc54be33422",
-        "title": "World Cup.. Portugal ends Uzbekistan's hopes of qualifying and Cristiano breaks records",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425195",
-        "published_date": "2026-06-23T19:30:23Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8486e0b5f498",
+        "title": "Al-Razji’s words about parties and their misery",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425363",
+        "published_date": "2026-06-26T21:52:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a35084d41266",
+        "title": "World Cup: France and Norway reach the round of 32, and Iraq bids farewell to the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425364",
+        "published_date": "2026-06-26T21:52:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "463f3adcea23",
+        "title": "First Division League: Yarmouk wins over Al Hilal, and Tadamon Hadhramaut equals Al Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425352",
+        "published_date": "2026-06-26T17:17:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "32ebbde5c6db",
+        "title": "An archaeological rock cemetery was exhumed in the Himyarite capital",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425347",
+        "published_date": "2026-06-26T16:20:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "515a7c12d5c5",
+        "title": "Taiz.. A gas station closes its doors due to attacks by armed elements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425344",
+        "published_date": "2026-06-26T15:39:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d7011187d5a8",
+        "title": "Sanaa.. The Central Bank stops dealing with seven exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425340",
+        "published_date": "2026-06-26T14:19:07Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c71b77e97b4b",
         "title": "Meteorology warns against being in floodways and paths",
@@ -196,7 +243,7 @@
       },
       {
         "_id": "bae79c528ca6",
-        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit and networking work",
+        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit, and networking work",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425319",
         "published_date": "2026-06-25T23:16:10Z",
@@ -288,54 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425264",
         "published_date": "2026-06-24T23:53:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dccf99310170",
-        "title": "The departure of the voice of freedom in Jabal Ayal Yazid and its governorate, Amran, is a great loss",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425260",
-        "published_date": "2026-06-24T23:42:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6a937152e559",
-        "title": "A British minister calls on Israel to withdraw from southern Lebanon",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425243",
-        "published_date": "2026-06-24T23:02:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e932c2737b1",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425266",
-        "published_date": "2026-06-24T22:59:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2bde0ef7928c",
-        "title": "A Yemeni girl wins the award for the sweetest voice on MBC",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425237",
-        "published_date": "2026-06-24T20:22:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "863b47aebfce",
-        "title": "Hadhramaut.. An explosion in the city of Mukalla targeting a television reporter",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425233",
-        "published_date": "2026-06-24T20:07:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a79e3708e73e",
-        "title": "Aden.. Formation of the Supreme Committee for Tenders and Auctions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425230",
-        "published_date": "2026-06-24T19:58:49Z",
         "category": "Local Events"
       }
     ]
