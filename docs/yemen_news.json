@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-28T00:07:17Z",
+  "last_updated": "2026-06-28T12:18:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "09ec07a9ffc9",
+        "title": "Oman faith and wisdom",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425440",
+        "published_date": "2026-06-28T03:09:42Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b809b226b89d",
         "title": "World Cup: Belgium and Egypt reach the round of 32, and New Zealand bids farewell to the World Cup",
@@ -81,28 +89,12 @@
         "url": "https://yemenat.net/archives/425275",
         "published_date": "2026-06-25T00:28:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "b786120d0ba5",
-        "title": "Qatuf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425262",
-        "published_date": "2026-06-24T23:48:47Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "46a815fc6110",
-        "title": "An open communication to the UN Committee of Experts: The victims are not just words on paper",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425258",
-        "published_date": "2026-06-24T23:36:54Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
         "_id": "635595efcffd",
-        "title": "American raids targeting Iran",
+        "title": "US raids targeting Iran",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425359",
         "published_date": "2026-06-26T21:46:48Z",
@@ -127,6 +119,22 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "87f99f7f3ea1",
+        "title": "The poultry sector clarifies the news circulating about the spread of Newcastle disease in chicken farms",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425445",
+        "published_date": "2026-06-28T05:28:04Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "5d623153e890",
+        "title": "World Cup: Colombia and Portugal reach the round of 32, and Congo joins them",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425434",
+        "published_date": "2026-06-28T01:55:49Z",
+        "category": "Economy"
+      },
       {
         "_id": "1777268d4857",
         "title": "Al-Beidh: Sanaa and Hadramaut are two poles of the greater Yemeni equation",
@@ -174,17 +182,25 @@
         "url": "https://yemenat.net/archives/425324",
         "published_date": "2026-06-26T00:06:01Z",
         "category": "Economy"
-      },
-      {
-        "_id": "6731a1a742b3",
-        "title": "I seek refuge in God from the oppression of men.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425271",
-        "published_date": "2026-06-25T00:15:04Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "37a0f034aef6",
+        "title": "World Cup: Algeria and Austria accompany Argentina, which has already qualified, to the round of 32",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425442",
+        "published_date": "2026-06-28T04:27:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8ce55683b058",
+        "title": "Was referred for investigation.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425438",
+        "published_date": "2026-06-28T03:04:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5bbb382bfe97",
         "title": "Instead of handing him over to the management of the bank, they arrested him... Al-Shuja’ reveals the story of his arrest in the Political Security prison in Ma’rib",
@@ -315,7 +331,7 @@
       },
       {
         "_id": "bae79c528ca6",
-        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit and networking work",
+        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit, and networking work",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425319",
         "published_date": "2026-06-25T23:16:10Z",
@@ -327,22 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425316",
         "published_date": "2026-06-25T22:28:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "810da5d40e7f",
-        "title": "Bouquet",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425312",
-        "published_date": "2026-06-25T21:48:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "75040aca24b8",
-        "title": "Transitional forces hand over a camp in Aden Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425308",
-        "published_date": "2026-06-25T21:10:36Z",
         "category": "Local Events"
       }
     ]
