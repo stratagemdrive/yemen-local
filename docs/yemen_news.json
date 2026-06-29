@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-29T00:13:17Z",
+  "last_updated": "2026-06-29T14:50:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ce32c9e745fe",
+        "title": "Parliamentarian Hashed: The parties to the conflict in Yemen are bandits",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425512",
+        "published_date": "2026-06-29T07:29:00Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "09ec07a9ffc9",
         "title": "Oman faith and wisdom",
@@ -65,17 +73,17 @@
         "url": "https://yemenat.net/archives/425368",
         "published_date": "2026-06-26T21:56:58Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ad741a5a178b",
-        "title": "Accompanied by Australia...the United States qualifies for the round of 32 of the World Cup and Turkey leaves the World Cup with an honorable victory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425334",
-        "published_date": "2026-06-26T08:41:45Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "c32f490b610e",
+        "title": "Yemeni intellectuals appeal to the Attorney General and the judiciary in Aden to correct justice in the Bataweel assassination case",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425494",
+        "published_date": "2026-06-29T02:35:38Z",
+        "category": "Military"
+      },
       {
         "_id": "b81abd943dd5",
         "title": "Israeli sources: The army is preparing for a military operation in Yemen",
@@ -107,18 +115,26 @@
         "url": "https://yemenat.net/archives/425359",
         "published_date": "2026-06-26T21:46:48Z",
         "category": "Military"
-      },
-      {
-        "_id": "a2c47ff0a44f",
-        "title": "Hadhramaut Coast Police reveal the nature of the explosion that claimed the life of journalist Muhammad Aydah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425305",
-        "published_date": "2026-06-25T19:45:03Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "795ec49369ca",
+        "title": "Al-Beidh: The stability of Yemen enhances the security of the Gulf and the stability of the region",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425520",
+        "published_date": "2026-06-29T08:35:57Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e10efb483e35",
+        "title": "The Aden Court of Appeal upholds the initial ruling ordering the release of the killer of the young man, Omar Batweel",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425508",
+        "published_date": "2026-06-29T06:13:08Z",
+        "category": "Economy"
+      },
       {
         "_id": "87f99f7f3ea1",
         "title": "The poultry sector clarifies the news circulating about the spread of Newcastle disease in chicken farms",
@@ -174,17 +190,57 @@
         "url": "https://yemenat.net/archives/425338",
         "published_date": "2026-06-26T10:54:44Z",
         "category": "Economy"
-      },
-      {
-        "_id": "16b3cac4c0cd",
-        "title": "Aden.. The Ministry of Higher Education reveals that the judicial authorities are looking into the file of forging university degrees",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425324",
-        "published_date": "2026-06-26T00:06:01Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "c6b3eaf1c1bb",
+        "title": "An act of sabotage puts Marib's electricity partially out of service",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425522",
+        "published_date": "2026-06-29T11:02:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "14511102234b",
+        "title": "Sanaa.. The Money Changers Association issued a circular to stop dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425518",
+        "published_date": "2026-06-29T08:00:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a3e344e972d",
+        "title": "Meteorology expects continued thunderstorms in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425514",
+        "published_date": "2026-06-29T07:50:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8dce0ff8237d",
+        "title": "Three citizens drowned while swimming in Al-Mahra and Abyan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425505",
+        "published_date": "2026-06-29T05:32:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7eaac2962217",
+        "title": "“Document”... Reducing university admission rates and extending the age of high school, and the Ministry acknowledges the decline in demand",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425500",
+        "published_date": "2026-06-29T04:05:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "019b0d5568e9",
+        "title": "Marib.. A journalist was arrested from a civil event amid mysterious circumstances surrounding the arrest",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425497",
+        "published_date": "2026-06-29T02:58:36Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f2f684a8a745",
         "title": "World Cup.. Canada qualifies for the round of 16 in fatal moments",
@@ -295,54 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425413",
         "published_date": "2026-06-27T16:11:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2aeeda1f0875",
-        "title": "First Division League: Three matches ending in victory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425410",
-        "published_date": "2026-06-27T15:53:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45ddac87141f",
-        "title": "Meteorology: Thunderstorms accompanied by hail at times in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425402",
-        "published_date": "2026-06-27T14:58:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8486e0b5f498",
-        "title": "Al-Razji’s words about parties and their misery",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425363",
-        "published_date": "2026-06-26T21:52:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a35084d41266",
-        "title": "World Cup: France and Norway reach the round of 32, and Iraq bids farewell to the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425364",
-        "published_date": "2026-06-26T21:52:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "463f3adcea23",
-        "title": "First Division League: Yarmouk wins over Al Hilal, and Tadamon Hadhramaut equals Al Mukalla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425352",
-        "published_date": "2026-06-26T17:17:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "32ebbde5c6db",
-        "title": "An archaeological rock cemetery was exhumed in the Himyarite capital",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425347",
-        "published_date": "2026-06-26T16:20:20Z",
         "category": "Local Events"
       }
     ]
