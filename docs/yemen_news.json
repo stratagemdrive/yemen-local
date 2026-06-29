@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-28T12:18:59Z",
+  "last_updated": "2026-06-29T00:13:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -73,28 +73,36 @@
         "url": "https://yemenat.net/archives/425334",
         "published_date": "2026-06-26T08:41:45Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3a3216db26e1",
-        "title": "Resuming first-class matches and setting the date for the round of 32 of the Republic Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425292",
-        "published_date": "2026-06-25T09:57:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "df10ff3b5b3d",
-        "title": "World Cup: Brazil and Morocco reach the round of 32, and Haiti leaves the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425275",
-        "published_date": "2026-06-25T00:28:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
+        "_id": "b81abd943dd5",
+        "title": "Israeli sources: The army is preparing for a military operation in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425491",
+        "published_date": "2026-06-28T22:31:40Z",
+        "category": "Military"
+      },
+      {
+        "_id": "7f280571b6b6",
+        "title": "What a similar night to last night! Tribal struggle between two authorities and two sheikhs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425482",
+        "published_date": "2026-06-28T20:40:08Z",
+        "category": "Military"
+      },
+      {
+        "_id": "b4c432212096",
+        "title": "Earthquake in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425462",
+        "published_date": "2026-06-28T16:43:21Z",
+        "category": "Military"
+      },
+      {
         "_id": "635595efcffd",
-        "title": "US raids targeting Iran",
+        "title": "American raids targeting Iran",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425359",
         "published_date": "2026-06-26T21:46:48Z",
@@ -106,14 +114,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425305",
         "published_date": "2026-06-25T19:45:03Z",
-        "category": "Military"
-      },
-      {
-        "_id": "44e6b42826a2",
-        "title": "The real Yemeni battle",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425297",
-        "published_date": "2026-06-25T10:34:51Z",
         "category": "Military"
       }
     ],
@@ -185,6 +185,54 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "f2f684a8a745",
+        "title": "World Cup.. Canada qualifies for the round of 16 in fatal moments",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425484",
+        "published_date": "2026-06-28T21:20:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44b0cc0bf72c",
+        "title": "Goodbye Exceed...it was not an easy decision",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425479",
+        "published_date": "2026-06-28T18:13:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "616e3eb2ff57",
+        "title": "Imran.. A hail storm hits the Kharif District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425468",
+        "published_date": "2026-06-28T18:03:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "36f540a55c8d",
+        "title": "Sanaa.. The Central Bank stops dealing with three exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425459",
+        "published_date": "2026-06-28T16:23:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a3e2af33e00",
+        "title": "Average gold prices in Sanaa and Aden, Sunday, June 28, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425457",
+        "published_date": "2026-06-28T16:08:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "023dba1b860b",
+        "title": "After the Sanaa summit.. Al-Mukalla and the Hadhramaut people share the lead in the league, and Al-Ittihad surpasses Rahban in the cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425449",
+        "published_date": "2026-06-28T15:36:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "37a0f034aef6",
         "title": "World Cup: Algeria and Austria accompany Argentina, which has already qualified, to the round of 32",
@@ -295,54 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425347",
         "published_date": "2026-06-26T16:20:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "515a7c12d5c5",
-        "title": "Taiz.. A gas station closes its doors due to attacks by armed elements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425344",
-        "published_date": "2026-06-26T15:39:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7011187d5a8",
-        "title": "Sanaa.. The Central Bank stops dealing with seven exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425340",
-        "published_date": "2026-06-26T14:19:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c71b77e97b4b",
-        "title": "Meteorology warns against being in floodways and paths",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425331",
-        "published_date": "2026-06-26T08:14:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "33445ce986cb",
-        "title": "I left Tunisia.. The Netherlands and Japan qualify for the round of 32 of the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425328",
-        "published_date": "2026-06-26T01:22:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bae79c528ca6",
-        "title": "Disagreements between the Ma’rib authorities and the Zindani government over oil and gas revenues halted review, audit, and networking work",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425319",
-        "published_date": "2026-06-25T23:16:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d9a829b85c48",
-        "title": "Accompanied by Ivory Coast... Germany qualifies, despite the loss, to the round of 32 of the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425316",
-        "published_date": "2026-06-25T22:28:21Z",
         "category": "Local Events"
       }
     ]
