@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-30T00:10:35Z",
+  "last_updated": "2026-06-30T13:11:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "18120e2213db",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425566",
+        "published_date": "2026-06-30T02:02:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "097c8908e747",
+        "title": "Intellectual and political in the mind of Muhammad Ahmed Noman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425553",
+        "published_date": "2026-06-30T01:24:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "bc70d9f72b3a",
         "title": "Al-Maqaleh: Developments in Saudi-Iranian relations will reflect on escalation or calm in Yemen",
@@ -32,54 +48,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425440",
         "published_date": "2026-06-28T03:09:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b809b226b89d",
-        "title": "World Cup: Belgium and Egypt reach the round of 32, and New Zealand bids farewell to the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425391",
-        "published_date": "2026-06-27T05:23:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f080873538ce",
-        "title": "World Cup.. Cape Verde accompanies Spain to the round of 32",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425383",
-        "published_date": "2026-06-27T02:30:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "70c45867d0c5",
-        "title": "Revolutionary Guard: Our response to the American attack will be quick and decisive",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425377",
-        "published_date": "2026-06-26T22:32:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "7222cd1ed01f",
-        "title": "Mbappé equals Klose's record and becomes the second best scorer in the history of the tournament",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425375",
-        "published_date": "2026-06-26T22:11:19Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d9c715c3e83f",
-        "title": "Lebanon and Israel sign a peace agreement under American sponsorship",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425371",
-        "published_date": "2026-06-26T22:04:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ec30e1dadf06",
-        "title": "A mediation initiative to end the case of Sister Mira and Sheikhs Fadgham and Manna",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425368",
-        "published_date": "2026-06-26T21:56:58Z",
         "category": "Diplomacy"
       }
     ],
@@ -136,6 +104,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "34e9a03394e6",
+        "title": "Hashid: People’s search for protectionist alternatives is an indication of the disappearance of the state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425575",
+        "published_date": "2026-06-30T05:16:42Z",
+        "category": "Economy"
+      },
+      {
         "_id": "8d70544c4742",
         "title": "Seedlings",
         "source": "Yemenat",
@@ -182,33 +158,65 @@
         "url": "https://yemenat.net/archives/425415",
         "published_date": "2026-06-27T17:20:22Z",
         "category": "Economy"
-      },
-      {
-        "_id": "9b8e63e849cd",
-        "title": "Al-Maqalih: The war for the homeland does not require sectarian, regional, or sectarian discourse",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425406",
-        "published_date": "2026-06-27T15:26:55Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f2da1d5aed1e",
-        "title": "Fireworks cannons appear in Sanaa, amid people's complaints about the inconvenience they cause",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425395",
-        "published_date": "2026-06-27T14:33:29Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "e11ef8335c09",
-        "title": "In light of the collapse of the state.. Will Yemen be pushed towards open tribal warfare?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425388",
-        "published_date": "2026-06-27T04:03:41Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9ec3e9449e25",
+        "title": "Internal transport bus drivers paralyze traffic in the city of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425584",
+        "published_date": "2026-06-30T11:10:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8d5779b3e3e7",
+        "title": "Aden.. Armed men trying to storm a security headquarters",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425580",
+        "published_date": "2026-06-30T10:34:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "282ffe9b0bc8",
+        "title": "Meteorology: Rain is expected in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425577",
+        "published_date": "2026-06-30T09:58:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d3dd09c8097c",
+        "title": "The collapse of a mud building in Wadi Hadramaut leaves four victims",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425571",
+        "published_date": "2026-06-30T04:58:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "115d669f86b7",
+        "title": "Morocco qualifies for the World Cup final",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425568",
+        "published_date": "2026-06-30T04:11:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ddd313f85585",
+        "title": "Venezuela reveals the death toll from the two earthquakes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425561",
+        "published_date": "2026-06-30T01:39:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3ad220e644e",
+        "title": "Corruption in Yemen...the end of the state and the destruction of the regime",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425555",
+        "published_date": "2026-06-30T01:29:11Z",
+        "category": "Local Events"
+      },
       {
         "_id": "658103aee9d1",
         "title": "Yemeni intellectuals stand in solidarity with Al-Baithi and journalists whose salaries were cut, and call for a radical solution to their problem.",
@@ -311,62 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425468",
         "published_date": "2026-06-28T18:03:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "36f540a55c8d",
-        "title": "Sanaa.. The Central Bank stops dealing with three exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425459",
-        "published_date": "2026-06-28T16:23:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a3e2af33e00",
-        "title": "Average gold prices in Sanaa and Aden, Sunday, June 28, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425457",
-        "published_date": "2026-06-28T16:08:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "023dba1b860b",
-        "title": "After the Sanaa summit.. Al-Mukalla and the Hadhramaut people share the lead in the league, and Al-Ittihad surpasses Rahban in the cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425449",
-        "published_date": "2026-06-28T15:36:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "37a0f034aef6",
-        "title": "World Cup: Algeria and Austria accompany Argentina, which has already qualified, to the round of 32",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425442",
-        "published_date": "2026-06-28T04:27:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8ce55683b058",
-        "title": "Was referred for investigation.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425438",
-        "published_date": "2026-06-28T03:04:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5bbb382bfe97",
-        "title": "Instead of handing him over to the management of the bank, they arrested him... Al-Shuja’ reveals the story of his arrest in the Political Security prison in Ma’rib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425431",
-        "published_date": "2026-06-27T23:56:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3de5b529e0d",
-        "title": "World Cup: England, Croatia and Ghana reach the round of 32, and Panama leaves the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425427",
-        "published_date": "2026-06-27T23:26:38Z",
         "category": "Local Events"
       }
     ]
