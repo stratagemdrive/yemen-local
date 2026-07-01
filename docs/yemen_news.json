@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-01T00:12:23Z",
+  "last_updated": "2026-07-01T13:36:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "83ebd7447d2d",
+        "title": "Meteorology: Strong winds, hot weather, and scattered rain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425609",
+        "published_date": "2026-07-01T10:52:01Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2c3493b97f5e",
         "title": "Who is concealing the truth?.. A structural reading of the commotion of the “Mira” case and the conflict of narratives",
@@ -57,17 +65,17 @@
         "url": "https://yemenat.net/archives/425512",
         "published_date": "2026-06-29T07:29:00Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "09ec07a9ffc9",
-        "title": "Oman faith and wisdom",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425440",
-        "published_date": "2026-06-28T03:09:42Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "c76305742bfc",
+        "title": "Sanaa.. Death sentence for the killers of Al-Kayyal and his wife on Khawlan Street",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425614",
+        "published_date": "2026-07-01T11:11:57Z",
+        "category": "Military"
+      },
       {
         "_id": "af42438ae1f5",
         "title": "France wins over Sweden and qualifies for the World Cup final",
@@ -128,6 +136,22 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "783f494d4200",
+        "title": "The humiliation suffered by every Yemeni traveling around the world's airports",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425623",
+        "published_date": "2026-07-01T11:52:46Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ecc741497201",
+        "title": "Reporting that a commercial ship was involved in a security incident near the coast of eastern Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425616",
+        "published_date": "2026-07-01T11:38:18Z",
+        "category": "Economy"
+      },
+      {
         "_id": "34e9a03394e6",
         "title": "Hashid: People’s search for protectionist alternatives is an indication of the disappearance of the state",
         "source": "Yemenat",
@@ -158,25 +182,33 @@
         "url": "https://yemenat.net/archives/425508",
         "published_date": "2026-06-29T06:13:08Z",
         "category": "Economy"
-      },
-      {
-        "_id": "87f99f7f3ea1",
-        "title": "The poultry sector clarifies the news circulating about the spread of Newcastle disease in chicken farms",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425445",
-        "published_date": "2026-06-28T05:28:04Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "5d623153e890",
-        "title": "World Cup: Colombia and Portugal reach the round of 32, and Congo joins them",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425434",
-        "published_date": "2026-06-28T01:55:49Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "735f1e5cc85d",
+        "title": "Average gold prices in Sanaa and Aden, Wednesday, July 1, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425622",
+        "published_date": "2026-07-01T11:48:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "570a821648b6",
+        "title": "I know you..",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425618",
+        "published_date": "2026-07-01T11:43:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fc3f56814186",
+        "title": "World Cup: Mexico defeats Ecuador and qualifies for the final 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425606",
+        "published_date": "2026-07-01T04:24:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "622f2faf5146",
         "title": "Norway defeats Ivory Coast and qualifies for the round of 16 of the World Cup",
@@ -219,7 +251,7 @@
       },
       {
         "_id": "282ffe9b0bc8",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: Rain is expected in parts of the highlands and the Tihama Plain",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425577",
         "published_date": "2026-06-30T09:58:24Z",
@@ -291,7 +323,7 @@
       },
       {
         "_id": "c6b3eaf1c1bb",
-        "title": "An act of sabotage puts Marib's electricity partially out of service",
+        "title": "An act of sabotage puts Ma'rib's electricity partially out of service",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425522",
         "published_date": "2026-06-29T11:02:42Z",
@@ -311,30 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425514",
         "published_date": "2026-06-29T07:50:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8dce0ff8237d",
-        "title": "Three citizens drowned while swimming in Al-Mahra and Abyan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425505",
-        "published_date": "2026-06-29T05:32:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7eaac2962217",
-        "title": "“Document”... Reducing university admission rates and extending the age of high school, and the Ministry acknowledges the decline in demand",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425500",
-        "published_date": "2026-06-29T04:05:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "019b0d5568e9",
-        "title": "Marib.. A journalist was arrested from a civil event amid mysterious circumstances surrounding the arrest",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425497",
-        "published_date": "2026-06-29T02:58:36Z",
         "category": "Local Events"
       }
     ]
