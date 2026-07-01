@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-06-30T13:11:14Z",
+  "last_updated": "2026-07-01T00:12:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,8 +11,24 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "2c3493b97f5e",
+        "title": "Who is concealing the truth?.. A structural reading of the commotion of the “Mira” case and the conflict of narratives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425604",
+        "published_date": "2026-06-30T23:47:53Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c64abf06c316",
+        "title": "Professor Mohamed Al-Sharjabi participates in the Fifth World Congress of Plastic and Burn Surgery in St. Petersburg",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425595",
+        "published_date": "2026-06-30T19:36:33Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "18120e2213db",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Abu Ras warns of the consequences of the outbreak of a tribal war in Yemen",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425566",
         "published_date": "2026-06-30T02:02:34Z",
@@ -52,6 +68,14 @@
       }
     ],
     "Military": [
+      {
+        "_id": "af42438ae1f5",
+        "title": "France wins over Sweden and qualifies for the World Cup final",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425598",
+        "published_date": "2026-06-30T23:20:15Z",
+        "category": "Military"
+      },
       {
         "_id": "b24e94bf082d",
         "title": "World Cup.. Paraguay eliminates Germany on penalties",
@@ -150,17 +174,33 @@
         "url": "https://yemenat.net/archives/425434",
         "published_date": "2026-06-28T01:55:49Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1777268d4857",
-        "title": "Al-Beidh: Sanaa and Hadramaut are two poles of the greater Yemeni equation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425415",
-        "published_date": "2026-06-27T17:20:22Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "622f2faf5146",
+        "title": "Norway defeats Ivory Coast and qualifies for the round of 16 of the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425592",
+        "published_date": "2026-06-30T19:19:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d8d1f69c6c34",
+        "title": "Official report: Nearly 17,000 cases of measles were recorded, with the highest numbers recorded in Abyan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425590",
+        "published_date": "2026-06-30T18:02:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "244c0abcdf96",
+        "title": "Shooting in a camp in the city of Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425587",
+        "published_date": "2026-06-30T16:00:43Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9ec3e9449e25",
         "title": "Internal transport bus drivers paralyze traffic in the city of Taiz",
@@ -179,7 +219,7 @@
       },
       {
         "_id": "282ffe9b0bc8",
-        "title": "Meteorology: Rain is expected in parts of the highlands and the Tihama Plain",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425577",
         "published_date": "2026-06-30T09:58:24Z",
@@ -295,30 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425497",
         "published_date": "2026-06-29T02:58:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f2f684a8a745",
-        "title": "World Cup.. Canada qualifies for the round of 16 in fatal moments",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425484",
-        "published_date": "2026-06-28T21:20:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44b0cc0bf72c",
-        "title": "Goodbye Exceed...it was not an easy decision",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425479",
-        "published_date": "2026-06-28T18:13:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "616e3eb2ff57",
-        "title": "Imran.. A hail storm hits the Kharif District",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425468",
-        "published_date": "2026-06-28T18:03:21Z",
         "category": "Local Events"
       }
     ]
