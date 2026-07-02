@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-02T00:13:44Z",
+  "last_updated": "2026-07-02T13:01:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e47427ace7a3",
+        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425655",
+        "published_date": "2026-07-02T02:23:28Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "94cbe5109c90",
         "title": "Sanaa.. Journalist Abu Baraa was arrested after his house was raided and its contents were tampered with",
@@ -85,6 +93,14 @@
     ],
     "Military": [
       {
+        "_id": "662056483297",
+        "title": "A violent explosion shakes Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425660",
+        "published_date": "2026-07-02T12:15:57Z",
+        "category": "Military"
+      },
+      {
         "_id": "0252675118d1",
         "title": "World Cup.. England escapes the Congo trap and qualifies for the final 16",
         "source": "Yemenat",
@@ -123,34 +139,18 @@
         "url": "https://yemenat.net/archives/425536",
         "published_date": "2026-06-29T19:19:26Z",
         "category": "Military"
-      },
-      {
-        "_id": "c32f490b610e",
-        "title": "Yemeni intellectuals appeal to the Attorney General and the judiciary in Aden to correct justice in the Bataweel assassination case",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425494",
-        "published_date": "2026-06-29T02:35:38Z",
-        "category": "Military"
-      },
-      {
-        "_id": "b81abd943dd5",
-        "title": "Israeli sources: The army is preparing for a military operation in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425491",
-        "published_date": "2026-06-28T22:31:40Z",
-        "category": "Military"
-      },
-      {
-        "_id": "7f280571b6b6",
-        "title": "What a similar night to last night! Tribal struggle between two authorities and two sheikhs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425482",
-        "published_date": "2026-06-28T20:40:08Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "0809d08f87b5",
+        "title": "Sanaa.. The Central Bank sets the date for disbursing half of April’s salary in 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425658",
+        "published_date": "2026-07-02T02:45:39Z",
+        "category": "Economy"
+      },
       {
         "_id": "783f494d4200",
         "title": "The humiliation suffered by every Yemeni traveling around the world's airports",
@@ -217,6 +217,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "9bc5d5e71f33",
+        "title": "Taiz.. A gang assaults a citizen, tampers with the contents of his shop, and throws them on the side of the road",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425663",
+        "published_date": "2026-07-02T12:49:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "baf117e13fb7",
         "title": "With its dramatic victory over Senegal, Belgium qualifies for the round of 16 of the World Cup",
@@ -367,14 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425522",
         "published_date": "2026-06-29T11:02:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "14511102234b",
-        "title": "Sanaa.. The Money Changers Association issued a circular to stop dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425518",
-        "published_date": "2026-06-29T08:00:42Z",
         "category": "Local Events"
       }
     ]
