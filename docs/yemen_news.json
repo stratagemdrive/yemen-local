@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-01T13:36:50Z",
+  "last_updated": "2026-07-02T00:13:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "94cbe5109c90",
+        "title": "Sanaa.. Journalist Abu Baraa was arrested after his house was raided and its contents were tampered with",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425646",
+        "published_date": "2026-07-01T23:53:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7f36ba7fc35a",
+        "title": "Bin Shaja'a's office denies allegations that he traveled to Sana'a or concluded any agreement regarding the girl's case",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425636",
+        "published_date": "2026-07-01T18:35:07Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "83ebd7447d2d",
         "title": "Meteorology: Strong winds, hot weather, and scattered rain",
@@ -69,6 +85,14 @@
     ],
     "Military": [
       {
+        "_id": "0252675118d1",
+        "title": "World Cup.. England escapes the Congo trap and qualifies for the final 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425633",
+        "published_date": "2026-07-01T18:20:17Z",
+        "category": "Military"
+      },
+      {
         "_id": "c76305742bfc",
         "title": "Sanaa.. Death sentence for the killers of Al-Kayyal and his wife on Khawlan Street",
         "source": "Yemenat",
@@ -123,14 +147,6 @@
         "url": "https://yemenat.net/archives/425482",
         "published_date": "2026-06-28T20:40:08Z",
         "category": "Military"
-      },
-      {
-        "_id": "b4c432212096",
-        "title": "Earthquake in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425462",
-        "published_date": "2026-06-28T16:43:21Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -140,7 +156,23 @@
         "title": "The humiliation suffered by every Yemeni traveling around the world's airports",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425623",
-        "published_date": "2026-07-01T11:52:46Z",
+        "published_date": "2026-07-01T20:52:46Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "fd4bedbc45a1",
+        "title": "Sanaa.. The Central Bank stops dealing with four banking entities and resumes dealing with two",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425630",
+        "published_date": "2026-07-01T16:32:28Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "5aaaeb3e4b29",
+        "title": "Sanaa.. The civil and financial services issue half-salary reinforcements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425628",
+        "published_date": "2026-07-01T16:13:36Z",
         "category": "Economy"
       },
       {
@@ -185,6 +217,14 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "baf117e13fb7",
+        "title": "With its dramatic victory over Senegal, Belgium qualifies for the round of 16 of the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425643",
+        "published_date": "2026-07-01T23:04:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "735f1e5cc85d",
         "title": "Average gold prices in Sanaa and Aden, Wednesday, July 1, 2026",
@@ -323,7 +363,7 @@
       },
       {
         "_id": "c6b3eaf1c1bb",
-        "title": "An act of sabotage puts Ma'rib's electricity partially out of service",
+        "title": "An act of sabotage puts Marib's electricity partially out of service",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425522",
         "published_date": "2026-06-29T11:02:42Z",
@@ -335,14 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425518",
         "published_date": "2026-06-29T08:00:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a3e344e972d",
-        "title": "Meteorology expects continued thunderstorms in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425514",
-        "published_date": "2026-06-29T07:50:28Z",
         "category": "Local Events"
       }
     ]
