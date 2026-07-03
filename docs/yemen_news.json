@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-03T00:11:01Z",
+  "last_updated": "2026-07-03T13:01:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -32,14 +32,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425684",
         "published_date": "2026-07-02T20:15:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e47427ace7a3",
-        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425655",
-        "published_date": "2026-07-02T02:23:28Z",
         "category": "Diplomacy"
       },
       {
@@ -110,7 +102,7 @@
       },
       {
         "_id": "674502961cd3",
-        "title": "In an exciting European confrontation, the Spanish national team advances to the round of 16 of the World Cup",
+        "title": "In an exciting European confrontation...the Spanish national team advances to the round of 16 of the World Cup",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425700",
         "published_date": "2026-07-02T21:16:13Z",
@@ -155,18 +147,18 @@
         "url": "https://yemenat.net/archives/425598",
         "published_date": "2026-06-30T23:20:15Z",
         "category": "Military"
-      },
-      {
-        "_id": "b24e94bf082d",
-        "title": "World Cup.. Paraguay eliminates Germany on penalties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425548",
-        "published_date": "2026-06-29T23:51:20Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "862c39489510",
+        "title": "World Cup: Portugal eliminates Croatia and qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425720",
+        "published_date": "2026-07-03T01:24:24Z",
+        "category": "Economy"
+      },
       {
         "_id": "bc29d3a267d3",
         "title": "The media in Yemen... between the hammer of violations and the anvil of impotent laws",
@@ -306,6 +298,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "e47427ace7a3",
+        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425655",
+        "published_date": "2026-07-02T02:23:28Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "baf117e13fb7",
         "title": "With its dramatic victory over Senegal, Belgium qualifies for the round of 16 of the World Cup",
         "source": "Yemenat",
@@ -399,14 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425568",
         "published_date": "2026-06-30T04:11:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ddd313f85585",
-        "title": "Venezuela reveals the death toll from the two earthquakes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425561",
-        "published_date": "2026-06-30T01:39:50Z",
         "category": "Local Events"
       }
     ]
