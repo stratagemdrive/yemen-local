@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-02T13:01:32Z",
+  "last_updated": "2026-07-03T00:11:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "7ea82aa74414",
+        "title": "Days after his disappearance, the body of a Yemeni-American child was found in New York State",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425710",
+        "published_date": "2026-07-02T22:30:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b684d6634ec2",
+        "title": "When the truth is buried at the bottom of a deep well, who dares to reveal what is hidden in Mira's case?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425699",
+        "published_date": "2026-07-02T21:12:45Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cf981acad85a",
+        "title": "Limiting jobs to relatives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425684",
+        "published_date": "2026-07-02T20:15:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e47427ace7a3",
         "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
@@ -73,25 +97,33 @@
         "url": "https://yemenat.net/archives/425553",
         "published_date": "2026-06-30T01:24:51Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bc70d9f72b3a",
-        "title": "Al-Maqaleh: Developments in Saudi-Iranian relations will reflect on escalation or calm in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425532",
-        "published_date": "2026-06-29T15:44:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ce32c9e745fe",
-        "title": "Parliamentarian Hashed: The parties to the conflict in Yemen are bandits",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425512",
-        "published_date": "2026-06-29T07:29:00Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "99c860abdc7f",
+        "title": "The strategy of “creating mystery” to obscure the truth (the noise of the Mira case as an example)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425703",
+        "published_date": "2026-07-02T21:16:29Z",
+        "category": "Military"
+      },
+      {
+        "_id": "674502961cd3",
+        "title": "In an exciting European confrontation, the Spanish national team advances to the round of 16 of the World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425700",
+        "published_date": "2026-07-02T21:16:13Z",
+        "category": "Military"
+      },
+      {
+        "_id": "83f989ecb08f",
+        "title": "The fallen mask of “terror”: when pride mixes with “ignorant fanaticism”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425690",
+        "published_date": "2026-07-02T20:52:08Z",
+        "category": "Military"
+      },
       {
         "_id": "662056483297",
         "title": "A violent explosion shakes Aden",
@@ -131,18 +163,42 @@
         "url": "https://yemenat.net/archives/425548",
         "published_date": "2026-06-29T23:51:20Z",
         "category": "Military"
-      },
-      {
-        "_id": "7aa177aa5eb7",
-        "title": "World Cup: Brazil advances to the round of 16 at the expense of Japan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425536",
-        "published_date": "2026-06-29T19:19:26Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "bc29d3a267d3",
+        "title": "The media in Yemen... between the hammer of violations and the anvil of impotent laws",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425707",
+        "published_date": "2026-07-02T21:22:50Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9894a0cb0c12",
+        "title": "The most important memory in my life..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425696",
+        "published_date": "2026-07-02T21:06:53Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "89922d492606",
+        "title": "May God curse every person who distorts Aden by dealing with travelers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425681",
+        "published_date": "2026-07-02T20:00:22Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f7914d20191e",
+        "title": "When the one who supports the voice is wronged, silence is betrayal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425675",
+        "published_date": "2026-07-02T18:35:52Z",
+        "category": "Economy"
+      },
       {
         "_id": "0809d08f87b5",
         "title": "Sanaa.. The Central Bank sets the date for disbursing half of April’s salary in 2026",
@@ -190,33 +246,57 @@
         "url": "https://yemenat.net/archives/425575",
         "published_date": "2026-06-30T05:16:42Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8d70544c4742",
-        "title": "Seedlings",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425542",
-        "published_date": "2026-06-29T19:37:39Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "795ec49369ca",
-        "title": "Al-Beidh: The stability of Yemen enhances the security of the Gulf and the stability of the region",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425520",
-        "published_date": "2026-06-29T08:35:57Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "e10efb483e35",
-        "title": "The Aden Court of Appeal upholds the initial ruling ordering the release of the killer of the young man, Omar Batweel",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425508",
-        "published_date": "2026-06-29T06:13:08Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "624db325924b",
+        "title": "Inmates of the Central Correctional Facility in Taiz face the specter of hunger, and its director issues a distress call",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425717",
+        "published_date": "2026-07-02T23:38:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae7c831f5b07",
+        "title": "First Division League: Al-Sadd enters the competition, Al-Tadamon wins, Al-Ahly wins, and the leader falls to Al-Hilal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425713",
+        "published_date": "2026-07-02T22:52:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6f7b1f79ccd9",
+        "title": "Reckless drivers on the roads... who deters them?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425677",
+        "published_date": "2026-07-02T19:10:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "39edfdd7b1a7",
+        "title": "Sanaa.. The Money Changers Association circulars to re-deal with 3 exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425672",
+        "published_date": "2026-07-02T14:59:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0c5b0e942092",
+        "title": "Armed men attack security headquarters in the city of Al Dhalea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425668",
+        "published_date": "2026-07-02T14:04:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3c9ebb5dca9",
+        "title": "The meteorologist warns of winds and swimming in the beaches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425666",
+        "published_date": "2026-07-02T13:33:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9bc5d5e71f33",
         "title": "Taiz.. A gang assaults a citizen, tampers with the contents of his shop, and throws them on the side of the road",
@@ -327,54 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425561",
         "published_date": "2026-06-30T01:39:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3ad220e644e",
-        "title": "Corruption in Yemen...the end of the state and the destruction of the regime",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425555",
-        "published_date": "2026-06-30T01:29:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "658103aee9d1",
-        "title": "Yemeni intellectuals stand in solidarity with Al-Baithi and journalists whose salaries were cut, and call for a radical solution to their problem.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425545",
-        "published_date": "2026-06-29T20:24:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f97fec67046a",
-        "title": "Marib authorities release a journalist two days after his arrest",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425534",
-        "published_date": "2026-06-29T16:24:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0af9895cb80e",
-        "title": "A new batch of illegal immigrants arrives on the coast of Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425528",
-        "published_date": "2026-06-29T15:16:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ee802a46d129",
-        "title": "Farewell, EXCEED .. It Was Not an Easy Decision",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425525",
-        "published_date": "2026-06-29T14:55:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c6b3eaf1c1bb",
-        "title": "An act of sabotage puts Marib's electricity partially out of service",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425522",
-        "published_date": "2026-06-29T11:02:42Z",
         "category": "Local Events"
       }
     ]
