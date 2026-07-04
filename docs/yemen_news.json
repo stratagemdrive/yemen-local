@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-03T13:01:10Z",
+  "last_updated": "2026-07-04T00:09:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "44821e3ab0ba",
+        "title": "When stubbornness wins and children are defeated... the hidden, painful side of personal status issues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425765",
+        "published_date": "2026-07-03T20:08:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "8ab894eeacf8",
+        "title": "Mediators reveal the reasons for the faltering efforts to contain the crisis of the girl Mira and call for bloodshed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425740",
+        "published_date": "2026-07-03T17:02:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "7ea82aa74414",
         "title": "Days after his disappearance, the body of a Yemeni-American child was found in New York State",
@@ -32,6 +48,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425684",
         "published_date": "2026-07-02T20:15:02Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e47427ace7a3",
+        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425655",
+        "published_date": "2026-07-02T02:23:28Z",
         "category": "Diplomacy"
       },
       {
@@ -65,33 +89,17 @@
         "url": "https://yemenat.net/archives/425604",
         "published_date": "2026-06-30T23:47:53Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c64abf06c316",
-        "title": "Professor Mohamed Al-Sharjabi participates in the Fifth World Congress of Plastic and Burn Surgery in St. Petersburg",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425595",
-        "published_date": "2026-06-30T19:36:33Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "18120e2213db",
-        "title": "Abu Ras warns of the consequences of the outbreak of a tribal war in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425566",
-        "published_date": "2026-06-30T02:02:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "097c8908e747",
-        "title": "Intellectual and political in the mind of Muhammad Ahmed Noman",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425553",
-        "published_date": "2026-06-30T01:24:51Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "796299c881e7",
+        "title": "World Cup.. The Pharaohs advance to the round of 16 at the expense of Australia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425767",
+        "published_date": "2026-07-03T21:09:49Z",
+        "category": "Military"
+      },
       {
         "_id": "99c860abdc7f",
         "title": "The strategy of “creating mystery” to obscure the truth (the noise of the Mira case as an example)",
@@ -102,7 +110,7 @@
       },
       {
         "_id": "674502961cd3",
-        "title": "In an exciting European confrontation...the Spanish national team advances to the round of 16 of the World Cup",
+        "title": "In an exciting European confrontation, the Spanish national team advances to the round of 16 of the World Cup",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425700",
         "published_date": "2026-07-02T21:16:13Z",
@@ -139,18 +147,26 @@
         "url": "https://yemenat.net/archives/425614",
         "published_date": "2026-07-01T11:11:57Z",
         "category": "Military"
-      },
-      {
-        "_id": "af42438ae1f5",
-        "title": "France wins over Sweden and qualifies for the World Cup final",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425598",
-        "published_date": "2026-06-30T23:20:15Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "640b9b78740d",
+        "title": "Yamal: I dream of the World Cup... and we do not fear any team",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425762",
+        "published_date": "2026-07-03T20:04:16Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "653be73befdd",
+        "title": "Questions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425756",
+        "published_date": "2026-07-03T19:57:45Z",
+        "category": "Economy"
+      },
       {
         "_id": "862c39489510",
         "title": "World Cup: Portugal eliminates Croatia and qualifies for the round of 16",
@@ -230,17 +246,89 @@
         "url": "https://yemenat.net/archives/425616",
         "published_date": "2026-07-01T11:38:18Z",
         "category": "Economy"
-      },
-      {
-        "_id": "34e9a03394e6",
-        "title": "Hashid: People’s search for protectionist alternatives is an indication of the disappearance of the state",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425575",
-        "published_date": "2026-06-30T05:16:42Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "1fc675670654",
+        "title": "Ibb.. a well that took the lives of 6 people and harmed three others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425770",
+        "published_date": "2026-07-03T21:39:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88f3f05a5b85",
+        "title": "Ali Jaafar...an educational beacon who deserves to have his name immortalized on the Greater Taiz High School",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425754",
+        "published_date": "2026-07-03T19:52:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1bd70306e3a8",
+        "title": "The Yemeni Song: A Story That Never Ends",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425749",
+        "published_date": "2026-07-03T19:03:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d5c7416951f2",
+        "title": "A year of light",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425747",
+        "published_date": "2026-07-03T18:56:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2dce3fd9aba8",
+        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equivalent to Fahman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425744",
+        "published_date": "2026-07-03T17:41:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1068cc988528",
+        "title": "Four earthquakes were recorded from Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425735",
+        "published_date": "2026-07-03T16:05:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "de4b14c977d5",
+        "title": "Average gold prices in Sanaa and Aden, Friday, July 3, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425733",
+        "published_date": "2026-07-03T15:42:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0cd5c7de4e07",
+        "title": "Saree announces the confrontation of a Saudi military formation and the landing of an Iranian plane at Sanaa airport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425729",
+        "published_date": "2026-07-03T15:34:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ac5e4eb9d69f",
+        "title": "World Cup: Switzerland qualifies for the round of 16 at the expense of Algeria",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425726",
+        "published_date": "2026-07-03T15:14:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "15ff76e9bfe1",
+        "title": "Meteorology: Thunderstorms in parts of the highlands and limited areas of the coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425723",
+        "published_date": "2026-07-03T14:59:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "624db325924b",
         "title": "Inmates of the Central Correctional Facility in Taiz face the specter of hunger, and its director issues a distress call",
@@ -298,14 +386,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "e47427ace7a3",
-        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425655",
-        "published_date": "2026-07-02T02:23:28Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "baf117e13fb7",
         "title": "With its dramatic victory over Senegal, Belgium qualifies for the round of 16 of the World Cup",
         "source": "Yemenat",
@@ -327,78 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425618",
         "published_date": "2026-07-01T11:43:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fc3f56814186",
-        "title": "World Cup: Mexico defeats Ecuador and qualifies for the final 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425606",
-        "published_date": "2026-07-01T04:24:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "622f2faf5146",
-        "title": "Norway defeats Ivory Coast and qualifies for the round of 16 of the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425592",
-        "published_date": "2026-06-30T19:19:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d8d1f69c6c34",
-        "title": "Official report: Nearly 17,000 cases of measles were recorded, with the highest numbers recorded in Abyan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425590",
-        "published_date": "2026-06-30T18:02:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "244c0abcdf96",
-        "title": "Shooting in a camp in the city of Mukalla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425587",
-        "published_date": "2026-06-30T16:00:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9ec3e9449e25",
-        "title": "Internal transport bus drivers paralyze traffic in the city of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425584",
-        "published_date": "2026-06-30T11:10:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8d5779b3e3e7",
-        "title": "Aden.. Armed men trying to storm a security headquarters",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425580",
-        "published_date": "2026-06-30T10:34:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "282ffe9b0bc8",
-        "title": "Meteorology: Rain is expected in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425577",
-        "published_date": "2026-06-30T09:58:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d3dd09c8097c",
-        "title": "The collapse of a mud building in Wadi Hadramaut leaves four victims",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425571",
-        "published_date": "2026-06-30T04:58:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "115d669f86b7",
-        "title": "Morocco qualifies for the World Cup final",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425568",
-        "published_date": "2026-06-30T04:11:56Z",
         "category": "Local Events"
       }
     ]
