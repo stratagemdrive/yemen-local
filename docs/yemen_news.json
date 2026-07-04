@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-04T00:09:35Z",
+  "last_updated": "2026-07-04T12:10:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -73,22 +73,6 @@
         "url": "https://yemenat.net/archives/425636",
         "published_date": "2026-07-01T18:35:07Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "83ebd7447d2d",
-        "title": "Meteorology: Strong winds, hot weather, and scattered rain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425609",
-        "published_date": "2026-07-01T10:52:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "2c3493b97f5e",
-        "title": "Who is concealing the truth?.. A structural reading of the commotion of the “Mira” case and the conflict of narratives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425604",
-        "published_date": "2026-06-30T23:47:53Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -151,6 +135,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "e5ea66c036a0",
+        "title": "Al-Maliki responds to Saree: We will strike firmly and with unprecedented force any attempts to target Saudi Arabia and its capabilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425777",
+        "published_date": "2026-07-04T02:09:51Z",
+        "category": "Economy"
+      },
       {
         "_id": "640b9b78740d",
         "title": "Yamal: I dream of the World Cup... and we do not fear any team",
@@ -250,6 +242,22 @@
     ],
     "Local Events": [
       {
+        "_id": "40c0b371f349",
+        "title": "World Cup: Colombia qualifies for the round of 16 at the expense of Ghana",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425779",
+        "published_date": "2026-07-04T03:51:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4f7e7a009167",
+        "title": "World Cup.. Argentina hardly qualifies to the round of 16 at the expense of Cape Verde",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425773",
+        "published_date": "2026-07-04T01:10:56Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "1fc675670654",
         "title": "Ibb.. a well that took the lives of 6 people and harmed three others",
         "source": "Yemenat",
@@ -283,7 +291,7 @@
       },
       {
         "_id": "2dce3fd9aba8",
-        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equivalent to Fahman",
+        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equal to Fahman",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425744",
         "published_date": "2026-07-03T17:41:55Z",
@@ -391,22 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425643",
         "published_date": "2026-07-01T23:04:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "735f1e5cc85d",
-        "title": "Average gold prices in Sanaa and Aden, Wednesday, July 1, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425622",
-        "published_date": "2026-07-01T11:48:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "570a821648b6",
-        "title": "I know you..",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425618",
-        "published_date": "2026-07-01T11:43:44Z",
         "category": "Local Events"
       }
     ]
