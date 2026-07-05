@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-04T12:10:53Z",
+  "last_updated": "2026-07-05T00:05:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "f06267f61886",
+        "title": "Amid the spread of stray dogs and the absence of control roles, a child died in Sanaa after being infected with rabies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425824",
+        "published_date": "2026-07-04T23:50:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "57bfb7b0063f",
+        "title": "The sand struggle... between the drums of war and the glimmer of peace",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425811",
+        "published_date": "2026-07-04T21:34:49Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c87ed00f647a",
+        "title": "First Division League.. The people of Hadhramaut are unique in the lead, and Yarmouk surpasses the room’s peace",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425805",
+        "published_date": "2026-07-04T21:10:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "44821e3ab0ba",
         "title": "When stubbornness wins and children are defeated... the hidden, painful side of personal status issues",
@@ -65,17 +89,17 @@
         "url": "https://yemenat.net/archives/425646",
         "published_date": "2026-07-01T23:53:24Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "7f36ba7fc35a",
-        "title": "Bin Shaja'a's office denies allegations that he traveled to Sana'a or concluded any agreement regarding the girl's case",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425636",
-        "published_date": "2026-07-01T18:35:07Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "e7148180c0ab",
+        "title": "World Cup.. Morocco reserves the first qualifying tickets to the “8th” round",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425788",
+        "published_date": "2026-07-04T19:39:36Z",
+        "category": "Military"
+      },
       {
         "_id": "796299c881e7",
         "title": "World Cup.. The Pharaohs advance to the round of 16 at the expense of Australia",
@@ -114,22 +138,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425660",
         "published_date": "2026-07-02T12:15:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "0252675118d1",
-        "title": "World Cup.. England escapes the Congo trap and qualifies for the final 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425633",
-        "published_date": "2026-07-01T18:20:17Z",
-        "category": "Military"
-      },
-      {
-        "_id": "c76305742bfc",
-        "title": "Sanaa.. Death sentence for the killers of Al-Kayyal and his wife on Khawlan Street",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425614",
-        "published_date": "2026-07-01T11:11:57Z",
         "category": "Military"
       }
     ],
@@ -185,7 +193,7 @@
       },
       {
         "_id": "89922d492606",
-        "title": "May God curse every person who distorts Aden by dealing with travelers",
+        "title": "Cursed be he who distorts the image of Aden",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425681",
         "published_date": "2026-07-02T20:00:22Z",
@@ -206,41 +214,49 @@
         "url": "https://yemenat.net/archives/425658",
         "published_date": "2026-07-02T02:45:39Z",
         "category": "Economy"
-      },
-      {
-        "_id": "783f494d4200",
-        "title": "The humiliation suffered by every Yemeni traveling around the world's airports",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425623",
-        "published_date": "2026-07-01T20:52:46Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "fd4bedbc45a1",
-        "title": "Sanaa.. The Central Bank stops dealing with four banking entities and resumes dealing with two",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425630",
-        "published_date": "2026-07-01T16:32:28Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "5aaaeb3e4b29",
-        "title": "Sanaa.. The civil and financial services issue half-salary reinforcements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425628",
-        "published_date": "2026-07-01T16:13:36Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "ecc741497201",
-        "title": "Reporting that a commercial ship was involved in a security incident near the coast of eastern Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425616",
-        "published_date": "2026-07-01T11:38:18Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4844a0c03d9d",
+        "title": "The Sami team congratulates the Egyptian and Moroccan teams on their qualification to the knockout rounds of the 2026 World Cup.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425822",
+        "published_date": "2026-07-04T23:42:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9069ee3ba70e",
+        "title": "France passes Paraguay to the World Cup quarter-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425818",
+        "published_date": "2026-07-04T23:21:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "086368a8bd9a",
+        "title": "The hearing team visits a number of old Sanaa markets to see the conditions of citizens",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425796",
+        "published_date": "2026-07-04T20:53:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6bf051cb5abc",
+        "title": "An earthquake was recorded from Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425792",
+        "published_date": "2026-07-04T20:24:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c41ed839e637",
+        "title": "Meteorology: Thunderstorms in parts of 7 governorates and limited parts of 3 others",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425786",
+        "published_date": "2026-07-04T12:12:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "40c0b371f349",
         "title": "World Cup: Colombia qualifies for the round of 16 at the expense of Ghana",
@@ -291,7 +307,7 @@
       },
       {
         "_id": "2dce3fd9aba8",
-        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equal to Fahman",
+        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equivalent to Fahman",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425744",
         "published_date": "2026-07-03T17:41:55Z",
@@ -359,46 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425677",
         "published_date": "2026-07-02T19:10:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "39edfdd7b1a7",
-        "title": "Sanaa.. The Money Changers Association circulars to re-deal with 3 exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425672",
-        "published_date": "2026-07-02T14:59:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0c5b0e942092",
-        "title": "Armed men attack security headquarters in the city of Al Dhalea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425668",
-        "published_date": "2026-07-02T14:04:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3c9ebb5dca9",
-        "title": "The meteorologist warns of winds and swimming in the beaches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425666",
-        "published_date": "2026-07-02T13:33:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9bc5d5e71f33",
-        "title": "Taiz.. A gang assaults a citizen, tampers with the contents of his shop, and throws them on the side of the road",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425663",
-        "published_date": "2026-07-02T12:49:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "baf117e13fb7",
-        "title": "With its dramatic victory over Senegal, Belgium qualifies for the round of 16 of the World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425643",
-        "published_date": "2026-07-01T23:04:23Z",
         "category": "Local Events"
       }
     ]
