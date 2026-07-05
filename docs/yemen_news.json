@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-05T00:05:09Z",
+  "last_updated": "2026-07-05T12:21:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "38f1dc2496c3",
+        "title": "Free tweets... Credibility is a balance of trust, and if it is exhausted, it will not be restored",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425831",
+        "published_date": "2026-07-05T00:54:03Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "f06267f61886",
         "title": "Amid the spread of stray dogs and the absence of control roles, a child died in Sanaa after being infected with rabies",
@@ -81,14 +89,6 @@
         "url": "https://yemenat.net/archives/425655",
         "published_date": "2026-07-02T02:23:28Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "94cbe5109c90",
-        "title": "Sanaa.. Journalist Abu Baraa was arrested after his house was raided and its contents were tampered with",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425646",
-        "published_date": "2026-07-01T23:53:24Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -118,7 +118,7 @@
       },
       {
         "_id": "674502961cd3",
-        "title": "In an exciting European confrontation, the Spanish national team advances to the round of 16 of the World Cup",
+        "title": "In an exciting European confrontation...the Spanish national team advances to the round of 16 of the World Cup",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425700",
         "published_date": "2026-07-02T21:16:13Z",
@@ -143,6 +143,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "6e0f6264dac7",
+        "title": "Yemeni Moran...a creative Yemeni singing voice that awakens memory and breaks the barriers of fear",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425828",
+        "published_date": "2026-07-05T00:07:12Z",
+        "category": "Economy"
+      },
       {
         "_id": "e5ea66c036a0",
         "title": "Al-Maliki responds to Saree: We will strike firmly and with unprecedented force any attempts to target Saudi Arabia and its capabilities",
