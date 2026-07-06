@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-05T12:21:29Z",
+  "last_updated": "2026-07-06T00:11:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e7e60d828ffa",
+        "title": "Random electricity networks in Yemen: a threat to lives and a drain on funds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425878",
+        "published_date": "2026-07-05T23:20:29Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a7e114be54f9",
+        "title": "No to war...yes to peace",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425868",
+        "published_date": "2026-07-05T20:44:00Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d2399d31a4cd",
+        "title": "Jazim Saif, what is less and less",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425853",
+        "published_date": "2026-07-05T19:57:04Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "38f1dc2496c3",
         "title": "Free tweets... Credibility is a balance of trust, and if it is exhausted, it will not be restored",
@@ -73,25 +97,25 @@
         "url": "https://yemenat.net/archives/425699",
         "published_date": "2026-07-02T21:12:45Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "cf981acad85a",
-        "title": "Limiting jobs to relatives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425684",
-        "published_date": "2026-07-02T20:15:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e47427ace7a3",
-        "title": "World Cup: The United States of America eliminates Bosnia and Herzegovina and qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425655",
-        "published_date": "2026-07-02T02:23:28Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "7217cbf68388",
+        "title": "British Navy: A commercial ship was subjected to an armed attack off the coast of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425858",
+        "published_date": "2026-07-05T20:16:09Z",
+        "category": "Military"
+      },
+      {
+        "_id": "53e21dcebccd",
+        "title": "The dualism of the ideological and generative intellectual",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425856",
+        "published_date": "2026-07-05T20:03:09Z",
+        "category": "Military"
+      },
       {
         "_id": "e7148180c0ab",
         "title": "World Cup.. Morocco reserves the first qualifying tickets to the “8th” round",
@@ -118,31 +142,31 @@
       },
       {
         "_id": "674502961cd3",
-        "title": "In an exciting European confrontation...the Spanish national team advances to the round of 16 of the World Cup",
+        "title": "In an exciting European confrontation, the Spanish national team advances to the round of 16 of the World Cup",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425700",
         "published_date": "2026-07-02T21:16:13Z",
-        "category": "Military"
-      },
-      {
-        "_id": "83f989ecb08f",
-        "title": "The fallen mask of “terror”: when pride mixes with “ignorant fanaticism”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425690",
-        "published_date": "2026-07-02T20:52:08Z",
-        "category": "Military"
-      },
-      {
-        "_id": "662056483297",
-        "title": "A violent explosion shakes Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425660",
-        "published_date": "2026-07-02T12:15:57Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "195ba8eb4161",
+        "title": "Trump meets with Zelensky and Sharaa on the sidelines of the NATO summit",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425863",
+        "published_date": "2026-07-05T20:37:34Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "80f1eae7493d",
+        "title": "For how long?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425848",
+        "published_date": "2026-07-05T19:53:29Z",
+        "category": "Economy"
+      },
       {
         "_id": "6e0f6264dac7",
         "title": "Yemeni Moran...a creative Yemeni singing voice that awakens memory and breaks the barriers of fear",
@@ -198,33 +222,49 @@
         "url": "https://yemenat.net/archives/425696",
         "published_date": "2026-07-02T21:06:53Z",
         "category": "Economy"
-      },
-      {
-        "_id": "89922d492606",
-        "title": "Cursed be he who distorts the image of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425681",
-        "published_date": "2026-07-02T20:00:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f7914d20191e",
-        "title": "When the one who supports the voice is wronged, silence is betrayal",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425675",
-        "published_date": "2026-07-02T18:35:52Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "0809d08f87b5",
-        "title": "Sanaa.. The Central Bank sets the date for disbursing half of April’s salary in 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425658",
-        "published_date": "2026-07-02T02:45:39Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "571063649644",
+        "title": "Environmental specialist: Combating the Indian crow requires an integrated program, and its presence is no longer limited to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425881",
+        "published_date": "2026-07-05T23:55:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b2467dbebbe0",
+        "title": "World Cup: Norway eliminates Brazil and qualifies for the quarter-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425873",
+        "published_date": "2026-07-05T22:31:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ba5b9d9a285",
+        "title": "Yemeni intellectuals appeal for a medical scholarship for the polymath intellectual Ibrahim Saghiri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425870",
+        "published_date": "2026-07-05T21:23:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "822269dd6ba0",
+        "title": "The Governor of Aden issues decisions appointing directors for a number of directorates and executive offices",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425859",
+        "published_date": "2026-07-05T20:30:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "96c44c9b987b",
+        "title": "Meteorology: Active winds on parts of the coast and thunderstorms on parts of the highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425842",
+        "published_date": "2026-07-05T16:15:28Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4844a0c03d9d",
         "title": "The Sami team congratulates the Egyptian and Moroccan teams on their qualification to the knockout rounds of the 2026 World Cup.",
@@ -315,7 +355,7 @@
       },
       {
         "_id": "2dce3fd9aba8",
-        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equivalent to Fahman",
+        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equal to Fahman",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425744",
         "published_date": "2026-07-03T17:41:55Z",
@@ -343,46 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425729",
         "published_date": "2026-07-03T15:34:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac5e4eb9d69f",
-        "title": "World Cup: Switzerland qualifies for the round of 16 at the expense of Algeria",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425726",
-        "published_date": "2026-07-03T15:14:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "15ff76e9bfe1",
-        "title": "Meteorology: Thunderstorms in parts of the highlands and limited areas of the coast",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425723",
-        "published_date": "2026-07-03T14:59:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "624db325924b",
-        "title": "Inmates of the Central Correctional Facility in Taiz face the specter of hunger, and its director issues a distress call",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425717",
-        "published_date": "2026-07-02T23:38:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae7c831f5b07",
-        "title": "First Division League: Al-Sadd enters the competition, Al-Tadamon wins, Al-Ahly wins, and the leader falls to Al-Hilal",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425713",
-        "published_date": "2026-07-02T22:52:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6f7b1f79ccd9",
-        "title": "Reckless drivers on the roads... who deters them?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425677",
-        "published_date": "2026-07-02T19:10:35Z",
         "category": "Local Events"
       }
     ]
