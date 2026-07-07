@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-06T14:32:00Z",
+  "last_updated": "2026-07-07T00:13:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "d120ea4a960f",
+        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425945",
+        "published_date": "2026-07-06T23:21:48Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "407f8c477a8f",
+        "title": "Will time provide another blessing?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425931",
+        "published_date": "2026-07-06T22:08:28Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2176dca45499",
         "title": "Sanaa Foreign Ministry: We did not reject the road map, and the Saudi regime must turn its attention to its economic facilities",
@@ -97,17 +113,17 @@
         "url": "https://yemenat.net/archives/425765",
         "published_date": "2026-07-03T20:08:35Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8ab894eeacf8",
-        "title": "Mediators reveal the reasons for the faltering efforts to contain the crisis of the girl Mira and call for bloodshed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425740",
-        "published_date": "2026-07-03T17:02:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "59862ab191a2",
+        "title": "World Cup: Spain defeats Portugal and advances to the quarter-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425913",
+        "published_date": "2026-07-06T21:16:53Z",
+        "category": "Military"
+      },
       {
         "_id": "26f5a1162c13",
         "title": "Violent tribal clashes in Shabwa Governorate",
@@ -151,6 +167,30 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "07b70fedae14",
+        "title": "12 years of hunger, poverty, oppression and humiliation..",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425940",
+        "published_date": "2026-07-06T22:42:16Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "419e33ed37b5",
+        "title": "An invitation to the Yemeni government",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425917",
+        "published_date": "2026-07-06T21:24:38Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a293fd6bfef9",
+        "title": "Hashid: There is an urgent need for new legitimacy and a different social contract, and those present on the scene have betrayed the homeland",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425910",
+        "published_date": "2026-07-06T21:22:25Z",
+        "category": "Economy"
+      },
       {
         "_id": "bf27a6f3fb68",
         "title": "Marginal issues",
@@ -206,17 +246,49 @@
         "url": "https://yemenat.net/archives/425756",
         "published_date": "2026-07-03T19:57:45Z",
         "category": "Economy"
-      },
-      {
-        "_id": "862c39489510",
-        "title": "World Cup: Portugal eliminates Croatia and qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425720",
-        "published_date": "2026-07-03T01:24:24Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "80590bd2b54b",
+        "title": "Victims in tribal clashes in Shabwa Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425947",
+        "published_date": "2026-07-06T23:52:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5912aa96c60e",
+        "title": "Yemeni intellectuals appeal to Al-Alimi and the Attorney General to intervene with the Egyptian authorities to release Ammar Al-Shujaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425942",
+        "published_date": "2026-07-06T23:09:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c09e2a88451",
+        "title": "Earthquake in Al Bayda Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425935",
+        "published_date": "2026-07-06T22:29:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e34b02d821e5",
+        "title": "Suburbs: 760 days of forced absence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425926",
+        "published_date": "2026-07-06T21:39:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae87486b42b8",
+        "title": "Where is the global conscience... regarding the aggression against Yemen?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425923",
+        "published_date": "2026-07-06T21:33:42Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c9cb16627d93",
         "title": "Sanaa.. The Central Bank stops an exchange company",
@@ -335,46 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425773",
         "published_date": "2026-07-04T01:10:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1fc675670654",
-        "title": "Ibb.. a well that took the lives of 6 people and harmed three others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425770",
-        "published_date": "2026-07-03T21:39:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88f3f05a5b85",
-        "title": "Ali Jaafar...an educational beacon who deserves to have his name immortalized on the Greater Taiz High School",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425754",
-        "published_date": "2026-07-03T19:52:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1bd70306e3a8",
-        "title": "The Yemeni Song: A Story That Never Ends",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425749",
-        "published_date": "2026-07-03T19:03:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d5c7416951f2",
-        "title": "A year of light",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425747",
-        "published_date": "2026-07-03T18:56:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2dce3fd9aba8",
-        "title": "First Division League.. Al-Wahda is temporarily in the lead, and Ittihad Ibb is equal to Fahman",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425744",
-        "published_date": "2026-07-03T17:41:55Z",
         "category": "Local Events"
       }
     ]
