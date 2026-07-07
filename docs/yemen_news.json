@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-07T00:13:09Z",
+  "last_updated": "2026-07-07T13:23:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -104,14 +104,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425805",
         "published_date": "2026-07-04T21:10:40Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "44821e3ab0ba",
-        "title": "When stubbornness wins and children are defeated... the hidden, painful side of personal status issues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425765",
-        "published_date": "2026-07-03T20:08:35Z",
         "category": "Diplomacy"
       }
     ],
@@ -230,25 +222,33 @@
         "url": "https://yemenat.net/archives/425777",
         "published_date": "2026-07-04T02:09:51Z",
         "category": "Economy"
-      },
-      {
-        "_id": "640b9b78740d",
-        "title": "Yamal: I dream of the World Cup... and we do not fear any team",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425762",
-        "published_date": "2026-07-03T20:04:16Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "653be73befdd",
-        "title": "Questions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425756",
-        "published_date": "2026-07-03T19:57:45Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "88704419f818",
+        "title": "Prisoners and theories of politicization",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425956",
+        "published_date": "2026-07-07T11:13:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9490fbf7e9d0",
+        "title": "World Cup: Belgium qualifies for the quarter-finals at the expense of the United States",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425952",
+        "published_date": "2026-07-07T02:11:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45ef314e6253",
+        "title": "Four hours changed many of my convictions... Was Yemen a state or just a fragile authority?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425949",
+        "published_date": "2026-07-07T00:20:50Z",
+        "category": "Local Events"
+      },
       {
         "_id": "80590bd2b54b",
         "title": "Victims in tribal clashes in Shabwa Governorate",
@@ -383,30 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425792",
         "published_date": "2026-07-04T20:24:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c41ed839e637",
-        "title": "Meteorology: Thunderstorms in parts of 7 governorates and limited parts of 3 others",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425786",
-        "published_date": "2026-07-04T12:12:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40c0b371f349",
-        "title": "World Cup: Colombia qualifies for the round of 16 at the expense of Ghana",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425779",
-        "published_date": "2026-07-04T03:51:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4f7e7a009167",
-        "title": "World Cup.. Argentina hardly qualifies to the round of 16 at the expense of Cape Verde",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425773",
-        "published_date": "2026-07-04T01:10:56Z",
         "category": "Local Events"
       }
     ]
