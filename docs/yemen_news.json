@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-07T13:23:35Z",
+  "last_updated": "2026-07-08T00:02:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,11 +11,11 @@
   "stories": {
     "Diplomacy": [
       {
-        "_id": "d120ea4a960f",
-        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
+        "_id": "28c3d1d9e707",
+        "title": "The July 7 War assassinated the spirit of peaceful unity and perpetuated the culture of violence and sustainable wars",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425945",
-        "published_date": "2026-07-06T23:21:48Z",
+        "url": "https://yemenat.net/archives/425980",
+        "published_date": "2026-07-07T19:48:15Z",
         "category": "Diplomacy"
       },
       {
@@ -68,7 +68,7 @@
       },
       {
         "_id": "d2399d31a4cd",
-        "title": "Jazim Saif, what is less and less",
+        "title": "Jazm Saif is less and less",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425853",
         "published_date": "2026-07-05T19:57:04Z",
@@ -96,14 +96,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425811",
         "published_date": "2026-07-04T21:34:49Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c87ed00f647a",
-        "title": "First Division League.. The people of Hadhramaut are unique in the lead, and Yarmouk surpasses the room’s peace",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425805",
-        "published_date": "2026-07-04T21:10:40Z",
         "category": "Diplomacy"
       }
     ],
@@ -139,26 +131,18 @@
         "url": "https://yemenat.net/archives/425856",
         "published_date": "2026-07-05T20:03:09Z",
         "category": "Military"
-      },
-      {
-        "_id": "e7148180c0ab",
-        "title": "World Cup.. Morocco reserves the first qualifying tickets to the “8th” round",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425788",
-        "published_date": "2026-07-04T19:39:36Z",
-        "category": "Military"
-      },
-      {
-        "_id": "796299c881e7",
-        "title": "World Cup.. The Pharaohs advance to the round of 16 at the expense of Australia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425767",
-        "published_date": "2026-07-03T21:09:49Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "fd9ac76eba54",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425971",
+        "published_date": "2026-07-07T19:43:13Z",
+        "category": "Economy"
+      },
       {
         "_id": "07b70fedae14",
         "title": "12 years of hunger, poverty, oppression and humiliation..",
@@ -214,17 +198,73 @@
         "url": "https://yemenat.net/archives/425828",
         "published_date": "2026-07-05T00:07:12Z",
         "category": "Economy"
-      },
-      {
-        "_id": "e5ea66c036a0",
-        "title": "Al-Maliki responds to Saree: We will strike firmly and with unprecedented force any attempts to target Saudi Arabia and its capabilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425777",
-        "published_date": "2026-07-04T02:09:51Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "cb3761e06de6",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425991",
+        "published_date": "2026-07-07T23:53:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "432381d367e4",
+        "title": "World Cup: Switzerland qualifies for the quarter-finals at the expense of Colombia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425987",
+        "published_date": "2026-07-07T23:22:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ed8996db60e4",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425984",
+        "published_date": "2026-07-07T21:11:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3edb8552dc6a",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425970",
+        "published_date": "2026-07-07T19:31:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "29ee3b8f8bd8",
+        "title": "A former minister in the Sanaa government calls for reconsidering the start date of the school year",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425967",
+        "published_date": "2026-07-07T19:06:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "75053e9e15f0",
+        "title": "World Cup..Argentina hardly qualifies to the quarter-finals at the expense of Egypt",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425964",
+        "published_date": "2026-07-07T18:28:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b10f3975544",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425961",
+        "published_date": "2026-07-07T17:03:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "915d198bb015",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425958",
+        "published_date": "2026-07-07T15:58:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "88704419f818",
         "title": "Prisoners and theories of politicization",
@@ -251,10 +291,18 @@
       },
       {
         "_id": "80590bd2b54b",
-        "title": "Victims in tribal clashes in Shabwa Governorate",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425947",
         "published_date": "2026-07-06T23:52:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d120ea4a960f",
+        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425945",
+        "published_date": "2026-07-06T23:21:48Z",
         "category": "Local Events"
       },
       {
@@ -311,78 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425897",
         "published_date": "2026-07-06T03:26:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "571063649644",
-        "title": "Environmental specialist: Combating the Indian crow requires an integrated program, and its presence is no longer limited to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425881",
-        "published_date": "2026-07-05T23:55:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b2467dbebbe0",
-        "title": "World Cup: Norway eliminates Brazil and qualifies for the quarter-finals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425873",
-        "published_date": "2026-07-05T22:31:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6ba5b9d9a285",
-        "title": "Yemeni intellectuals appeal for a medical scholarship for the polymath intellectual Ibrahim Saghiri",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425870",
-        "published_date": "2026-07-05T21:23:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "822269dd6ba0",
-        "title": "The Governor of Aden issues decisions appointing directors for a number of directorates and executive offices",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425859",
-        "published_date": "2026-07-05T20:30:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96c44c9b987b",
-        "title": "Meteorology: Active winds on parts of the coast and thunderstorms on parts of the highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425842",
-        "published_date": "2026-07-05T16:15:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4844a0c03d9d",
-        "title": "The Sami team congratulates the Egyptian and Moroccan teams on their qualification to the knockout rounds of the 2026 World Cup.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425822",
-        "published_date": "2026-07-04T23:42:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9069ee3ba70e",
-        "title": "France passes Paraguay to the World Cup quarter-finals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425818",
-        "published_date": "2026-07-04T23:21:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "086368a8bd9a",
-        "title": "The hearing team visits a number of old Sanaa markets to see the conditions of citizens",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425796",
-        "published_date": "2026-07-04T20:53:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6bf051cb5abc",
-        "title": "An earthquake was recorded from Dhamar Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425792",
-        "published_date": "2026-07-04T20:24:40Z",
         "category": "Local Events"
       }
     ]
