@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-08T00:02:41Z",
+  "last_updated": "2026-07-08T12:25:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,11 +11,35 @@
   "stories": {
     "Diplomacy": [
       {
-        "_id": "28c3d1d9e707",
-        "title": "The July 7 War assassinated the spirit of peaceful unity and perpetuated the culture of violence and sustainable wars",
+        "_id": "b562fd76dffb",
+        "title": "Bored lover",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425980",
-        "published_date": "2026-07-07T19:48:15Z",
+        "url": "https://yemenat.net/archives/426010",
+        "published_date": "2026-07-08T02:23:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f0a33a8fff6a",
+        "title": "The listening team offers condolences at the Iranian embassy in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426007",
+        "published_date": "2026-07-08T01:38:58Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fd9ac76eba54",
+        "title": "A UN report reveals a continuous escalation in the pace of illegal immigration to Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425971",
+        "published_date": "2026-07-07T19:43:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d120ea4a960f",
+        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425945",
+        "published_date": "2026-07-06T23:21:48Z",
         "category": "Diplomacy"
       },
       {
@@ -73,33 +97,17 @@
         "url": "https://yemenat.net/archives/425853",
         "published_date": "2026-07-05T19:57:04Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "38f1dc2496c3",
-        "title": "Free tweets... Credibility is a balance of trust, and if it is exhausted, it will not be restored",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425831",
-        "published_date": "2026-07-05T00:54:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f06267f61886",
-        "title": "Amid the spread of stray dogs and the absence of control roles, a child died in Sanaa after being infected with rabies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425824",
-        "published_date": "2026-07-04T23:50:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "57bfb7b0063f",
-        "title": "The sand struggle... between the drums of war and the glimmer of peace",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425811",
-        "published_date": "2026-07-04T21:34:49Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "40da01dc5926",
+        "title": "First Division League.. Ahly Sanaa wins over Al-Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426002",
+        "published_date": "2026-07-08T00:50:22Z",
+        "category": "Military"
+      },
       {
         "_id": "59862ab191a2",
         "title": "World Cup: Spain defeats Portugal and advances to the quarter-finals",
@@ -135,14 +143,6 @@
     ],
     "Energy": [],
     "Economy": [
-      {
-        "_id": "fd9ac76eba54",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425971",
-        "published_date": "2026-07-07T19:43:13Z",
-        "category": "Economy"
-      },
       {
         "_id": "07b70fedae14",
         "title": "12 years of hunger, poverty, oppression and humiliation..",
@@ -182,28 +182,52 @@
         "url": "https://yemenat.net/archives/425863",
         "published_date": "2026-07-05T20:37:34Z",
         "category": "Economy"
-      },
-      {
-        "_id": "80f1eae7493d",
-        "title": "For how long?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425848",
-        "published_date": "2026-07-05T19:53:29Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "6e0f6264dac7",
-        "title": "Yemeni Moran...a creative Yemeni singing voice that awakens memory and breaks the barriers of fear",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425828",
-        "published_date": "2026-07-05T00:07:12Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "3a97617e8fac",
+        "title": "The Egyptian Federation issues a statement regarding the referee of the match between Egypt and Argentina",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426021",
+        "published_date": "2026-07-08T11:16:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "13878ea3d594",
+        "title": "Meteorology: Thunderstorms expected in parts of 13 governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426018",
+        "published_date": "2026-07-08T10:46:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b7784e09dce3",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to release Dr. Ali Al-Madhawi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426014",
+        "published_date": "2026-07-08T06:37:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d6f843362f82",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426012",
+        "published_date": "2026-07-08T03:00:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3835d09c4ac5",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with three banking entities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426000",
+        "published_date": "2026-07-08T00:17:03Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "cb3761e06de6",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Lieutenant General Sultan Al Sami visits September 21 University and praises its level of performance",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425991",
         "published_date": "2026-07-07T23:53:00Z",
@@ -219,15 +243,23 @@
       },
       {
         "_id": "ed8996db60e4",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Aden.. Military deployment around government headquarters and imposition of strict measures around them",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425984",
         "published_date": "2026-07-07T21:11:55Z",
         "category": "Local Events"
       },
       {
+        "_id": "28c3d1d9e707",
+        "title": "The July 7 War assassinated the spirit of peaceful unity and perpetuated the culture of violence and sustainable wars",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/425980",
+        "published_date": "2026-07-07T19:48:15Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "3edb8552dc6a",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "He emphasized the empowerment of a new generation of Yemeni competencies.. Nabil Hayel Saeed meets with members of the Intilaaqah Program and graduates of the SAP Program for Interested Young People",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425970",
         "published_date": "2026-07-07T19:31:32Z",
@@ -251,7 +283,7 @@
       },
       {
         "_id": "7b10f3975544",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A reading of the letter of the Yemeni researcher, Riyad Al-Safwani, “The Jews of Yemen in the 19th and 20th Centuries AD”",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425961",
         "published_date": "2026-07-07T17:03:56Z",
@@ -259,7 +291,7 @@
       },
       {
         "_id": "915d198bb015",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: Strong winds on Socotra and the eastern coasts, and thunderstorms on parts of the highlands",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425958",
         "published_date": "2026-07-07T15:58:37Z",
@@ -291,18 +323,10 @@
       },
       {
         "_id": "80590bd2b54b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Victims in tribal clashes in Shabwa Governorate",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425947",
         "published_date": "2026-07-06T23:52:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d120ea4a960f",
-        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425945",
-        "published_date": "2026-07-06T23:21:48Z",
         "category": "Local Events"
       },
       {
@@ -319,46 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425935",
         "published_date": "2026-07-06T22:29:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e34b02d821e5",
-        "title": "Suburbs: 760 days of forced absence",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425926",
-        "published_date": "2026-07-06T21:39:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae87486b42b8",
-        "title": "Where is the global conscience... regarding the aggression against Yemen?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425923",
-        "published_date": "2026-07-06T21:33:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c9cb16627d93",
-        "title": "Sanaa.. The Central Bank stops an exchange company",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425908",
-        "published_date": "2026-07-06T11:13:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3fe9a34591ec",
-        "title": "Meteorology: Thunderstorms and very hot weather",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425905",
-        "published_date": "2026-07-06T10:19:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a594730788a9",
-        "title": "World Cup: England qualifies for the quarter-finals at the expense of Mexico",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425897",
-        "published_date": "2026-07-06T03:26:29Z",
         "category": "Local Events"
       }
     ]
