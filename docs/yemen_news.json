@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-08T12:25:42Z",
+  "last_updated": "2026-07-09T00:15:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "372fcaa51da0",
+        "title": "A joint committee arrives in Sanaa to visit prisoners included in the recent exchange deal, including Muhammad Qahtan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426042",
+        "published_date": "2026-07-08T23:27:38Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bbe5bfa0582f",
+        "title": "Abu Ras: The pre-Islamic era has returned to rear its head and drag its tails in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426039",
+        "published_date": "2026-07-08T20:26:32Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b562fd76dffb",
         "title": "Bored lover",
@@ -89,14 +105,6 @@
         "url": "https://yemenat.net/archives/425868",
         "published_date": "2026-07-05T20:44:00Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "d2399d31a4cd",
-        "title": "Jazm Saif is less and less",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425853",
-        "published_date": "2026-07-05T19:57:04Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -123,29 +131,13 @@
         "url": "https://yemenat.net/archives/425902",
         "published_date": "2026-07-06T04:20:14Z",
         "category": "Military"
-      },
-      {
-        "_id": "7217cbf68388",
-        "title": "British Navy: A commercial ship was subjected to an armed attack off the coast of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425858",
-        "published_date": "2026-07-05T20:16:09Z",
-        "category": "Military"
-      },
-      {
-        "_id": "53e21dcebccd",
-        "title": "The dualism of the ideological and generative intellectual",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425856",
-        "published_date": "2026-07-05T20:03:09Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
       {
         "_id": "07b70fedae14",
-        "title": "12 years of hunger, poverty, oppression and humiliation..",
+        "title": "A slurred people",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425940",
         "published_date": "2026-07-06T22:42:16Z",
@@ -174,17 +166,33 @@
         "url": "https://yemenat.net/archives/425890",
         "published_date": "2026-07-06T00:46:45Z",
         "category": "Economy"
-      },
-      {
-        "_id": "195ba8eb4161",
-        "title": "Trump meets with Zelensky and Sharaa on the sidelines of the NATO summit",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425863",
-        "published_date": "2026-07-05T20:37:34Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "90b9ee371ccf",
+        "title": "Customs and rituals of which only memories remain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426045",
+        "published_date": "2026-07-09T00:12:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6febf311339f",
+        "title": "First Division League.. Hadramaut Solidarity wins Sana’a unity and temporarily shares the lead with the Hadhramaut people",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426035",
+        "published_date": "2026-07-08T17:52:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b2c2d7eb0a48",
+        "title": "Chairman of the Board of Directors of the Yemen Region of Hayel Saeed Anam & Partners Group meets with workers and young talents and honors veteran employees and distinguished companies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426028",
+        "published_date": "2026-07-08T17:37:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3a97617e8fac",
         "title": "The Egyptian Federation issues a statement regarding the referee of the match between Egypt and Argentina",
@@ -319,30 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425949",
         "published_date": "2026-07-07T00:20:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80590bd2b54b",
-        "title": "Victims in tribal clashes in Shabwa Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425947",
-        "published_date": "2026-07-06T23:52:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5912aa96c60e",
-        "title": "Yemeni intellectuals appeal to Al-Alimi and the Attorney General to intervene with the Egyptian authorities to release Ammar Al-Shujaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425942",
-        "published_date": "2026-07-06T23:09:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1c09e2a88451",
-        "title": "Earthquake in Al Bayda Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425935",
-        "published_date": "2026-07-06T22:29:05Z",
         "category": "Local Events"
       }
     ]
