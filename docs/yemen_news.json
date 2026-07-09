@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-09T00:15:53Z",
+  "last_updated": "2026-07-09T13:51:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "751c4a7a14ac",
+        "title": "America bombs Iran after Trump says the agreement is “over”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426075",
+        "published_date": "2026-07-09T01:06:40Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0657e5df8130",
+        "title": "A mechanism to exclude violators and terrorize public opinion",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426060",
+        "published_date": "2026-07-09T00:39:07Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4f7765a15f11",
+        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the Argentina match",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426047",
+        "published_date": "2026-07-09T00:22:14Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "372fcaa51da0",
         "title": "A joint committee arrives in Sanaa to visit prisoners included in the recent exchange deal, including Muhammad Qahtan",
@@ -65,46 +89,6 @@
         "url": "https://yemenat.net/archives/425931",
         "published_date": "2026-07-06T22:08:28Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "2176dca45499",
-        "title": "Sanaa Foreign Ministry: We did not reject the road map, and the Saudi regime must turn its attention to its economic facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425895",
-        "published_date": "2026-07-06T03:14:24Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d55d6f36a75d",
-        "title": "Al-Maqaleh: The problem with religious groups lies in the failure to acknowledge mistakes and hold their members accountable",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425888",
-        "published_date": "2026-07-06T00:31:31Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "56e11b8ab779",
-        "title": "Neymar announces his retirement from international football after Brazil's exit from the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425884",
-        "published_date": "2026-07-06T00:13:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e7e60d828ffa",
-        "title": "Random electricity networks in Yemen: a threat to lives and a drain on funds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425878",
-        "published_date": "2026-07-05T23:20:29Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a7e114be54f9",
-        "title": "No to war...yes to peace",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425868",
-        "published_date": "2026-07-05T20:44:00Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -115,26 +99,34 @@
         "url": "https://yemenat.net/archives/426002",
         "published_date": "2026-07-08T00:50:22Z",
         "category": "Military"
-      },
-      {
-        "_id": "59862ab191a2",
-        "title": "World Cup: Spain defeats Portugal and advances to the quarter-finals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425913",
-        "published_date": "2026-07-06T21:16:53Z",
-        "category": "Military"
-      },
-      {
-        "_id": "26f5a1162c13",
-        "title": "Violent tribal clashes in Shabwa Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425902",
-        "published_date": "2026-07-06T04:20:14Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "3548c3af8ac1",
+        "title": "Digital hype governments: How do authorities assassinate our minds to finance their survival???",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426072",
+        "published_date": "2026-07-09T00:57:38Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "a14f3c53ed0e",
+        "title": "After the decision to release his father.. Muhammad Fadl Shaker: “A new journey has been written.”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426070",
+        "published_date": "2026-07-09T00:54:15Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ea6b9d8098ed",
+        "title": "When principles are sold in the market of interests... nations fall",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426055",
+        "published_date": "2026-07-09T00:32:07Z",
+        "category": "Economy"
+      },
       {
         "_id": "07b70fedae14",
         "title": "A slurred people",
@@ -158,17 +150,73 @@
         "url": "https://yemenat.net/archives/425910",
         "published_date": "2026-07-06T21:22:25Z",
         "category": "Economy"
-      },
-      {
-        "_id": "bf27a6f3fb68",
-        "title": "Marginal issues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425890",
-        "published_date": "2026-07-06T00:46:45Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e75bf87805ea",
+        "title": "Aden... Zaima burns in the port of Al-Mualla, and thick smoke rises",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426087",
+        "published_date": "2026-07-09T10:45:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d4e443d213b4",
+        "title": "Abyan.. Security forces are on alert in Zanzibar after Al-Ouban was shot at during a security meeting",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426084",
+        "published_date": "2026-07-09T10:07:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ed2de9bc85b1",
+        "title": "Meteorology warns of a widespread dust wave affecting a number of Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426082",
+        "published_date": "2026-07-09T03:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "020d88a87df4",
+        "title": "Wheat farmers in Al-Jawf return to a sit-in in front of the Ministry of Agriculture in Sanaa to demand payment for their crop",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426079",
+        "published_date": "2026-07-09T02:16:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4c3cb88b63bd",
+        "title": "Abdul Bari Taher.. a veteran of culture and politics and a professor of thought and journalism",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426067",
+        "published_date": "2026-07-09T00:48:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "62a65cfa3f2b",
+        "title": "The arch enemy that I thought I had defeated...?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426063",
+        "published_date": "2026-07-09T00:44:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0683f0807399",
+        "title": "I am tired of the long journey, my boats.. and I am tired of waiting for the morning that has not yet come",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426057",
+        "published_date": "2026-07-09T00:35:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a7cca751c7e2",
+        "title": "Regarding the case of the martyr Bashar Al-Absi... compelling facts that require re-investigation from the beginning",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426052",
+        "published_date": "2026-07-09T00:28:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "90b9ee371ccf",
         "title": "Customs and rituals of which only memories remain",
@@ -263,70 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425980",
         "published_date": "2026-07-07T19:48:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3edb8552dc6a",
-        "title": "He emphasized the empowerment of a new generation of Yemeni competencies.. Nabil Hayel Saeed meets with members of the Intilaaqah Program and graduates of the SAP Program for Interested Young People",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425970",
-        "published_date": "2026-07-07T19:31:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "29ee3b8f8bd8",
-        "title": "A former minister in the Sanaa government calls for reconsidering the start date of the school year",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425967",
-        "published_date": "2026-07-07T19:06:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "75053e9e15f0",
-        "title": "World Cup..Argentina hardly qualifies to the quarter-finals at the expense of Egypt",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425964",
-        "published_date": "2026-07-07T18:28:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7b10f3975544",
-        "title": "A reading of the letter of the Yemeni researcher, Riyad Al-Safwani, “The Jews of Yemen in the 19th and 20th Centuries AD”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425961",
-        "published_date": "2026-07-07T17:03:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "915d198bb015",
-        "title": "Meteorology: Strong winds on Socotra and the eastern coasts, and thunderstorms on parts of the highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425958",
-        "published_date": "2026-07-07T15:58:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88704419f818",
-        "title": "Prisoners and theories of politicization",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425956",
-        "published_date": "2026-07-07T11:13:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9490fbf7e9d0",
-        "title": "World Cup: Belgium qualifies for the quarter-finals at the expense of the United States",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425952",
-        "published_date": "2026-07-07T02:11:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45ef314e6253",
-        "title": "Four hours changed many of my convictions... Was Yemen a state or just a fragile authority?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425949",
-        "published_date": "2026-07-07T00:20:50Z",
         "category": "Local Events"
       }
     ]
