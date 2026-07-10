@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-09T13:51:58Z",
+  "last_updated": "2026-07-10T00:09:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "f7f209fff76d",
+        "title": "Reflections",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426118",
+        "published_date": "2026-07-09T20:20:26Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f11b5648100e",
+        "title": "First Division League.. The people of Hadhramaut are in the lead, peace exceeds union, and Arabism comes third",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426112",
+        "published_date": "2026-07-09T19:44:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "63aefc8c8f81",
+        "title": "A joint committee inspects the body of “Muhammad Qahtan”... and his son explains the nature of the inspection",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426091",
+        "published_date": "2026-07-09T18:16:16Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "751c4a7a14ac",
         "title": "America bombs Iran after Trump says the agreement is “over”",
@@ -60,7 +84,7 @@
       },
       {
         "_id": "f0a33a8fff6a",
-        "title": "The listening team offers condolences at the Iranian embassy in Sanaa",
+        "title": "The hearing team offers condolences at the Iranian embassy in Sanaa",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426007",
         "published_date": "2026-07-08T01:38:58Z",
@@ -81,17 +105,17 @@
         "url": "https://yemenat.net/archives/425945",
         "published_date": "2026-07-06T23:21:48Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "407f8c477a8f",
-        "title": "Will time provide another blessing?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425931",
-        "published_date": "2026-07-06T22:08:28Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "5c8fb1947fd4",
+        "title": "Lahj.. The funeral of a young man who was killed by a soldier’s bullets at a military point in Qubaytah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426094",
+        "published_date": "2026-07-09T18:35:55Z",
+        "category": "Military"
+      },
       {
         "_id": "40da01dc5926",
         "title": "First Division League.. Ahly Sanaa wins over Al-Mukalla",
@@ -126,33 +150,33 @@
         "url": "https://yemenat.net/archives/426055",
         "published_date": "2026-07-09T00:32:07Z",
         "category": "Economy"
-      },
-      {
-        "_id": "07b70fedae14",
-        "title": "A slurred people",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425940",
-        "published_date": "2026-07-06T22:42:16Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "419e33ed37b5",
-        "title": "An invitation to the Yemeni government",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425917",
-        "published_date": "2026-07-06T21:24:38Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "a293fd6bfef9",
-        "title": "Hashid: There is an urgent need for new legitimacy and a different social contract, and those present on the scene have betrayed the homeland",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425910",
-        "published_date": "2026-07-06T21:22:25Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9f265fd16ba8",
+        "title": "Hadar Nehemiah: Member of the Yama and Sawt band linking Yemeni Jewish heritage with world music",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426123",
+        "published_date": "2026-07-09T22:35:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6c0dbf3667bb",
+        "title": "World Cup.. France qualifies for the semi-finals at the expense of Morocco",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426120",
+        "published_date": "2026-07-09T22:17:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "780d4b92a420",
+        "title": "Sanaa.. Canceling a ceremony honoring the child Lama Qais, and the organizing committee reveals the reason",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426102",
+        "published_date": "2026-07-09T19:12:19Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e75bf87805ea",
         "title": "Aden... Zaima burns in the port of Al-Mualla, and thick smoke rises",
@@ -287,30 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/425991",
         "published_date": "2026-07-07T23:53:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "432381d367e4",
-        "title": "World Cup: Switzerland qualifies for the quarter-finals at the expense of Colombia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425987",
-        "published_date": "2026-07-07T23:22:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ed8996db60e4",
-        "title": "Aden.. Military deployment around government headquarters and imposition of strict measures around them",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425984",
-        "published_date": "2026-07-07T21:11:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "28c3d1d9e707",
-        "title": "The July 7 War assassinated the spirit of peaceful unity and perpetuated the culture of violence and sustainable wars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425980",
-        "published_date": "2026-07-07T19:48:15Z",
         "category": "Local Events"
       }
     ]
