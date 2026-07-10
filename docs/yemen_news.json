@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-10T00:09:42Z",
+  "last_updated": "2026-07-10T13:15:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ac6519a77b03",
+        "title": "Al-Bukhaiti warns against obstructing the arrival of an Iranian plane to Sanaa and stresses that stability is a common interest for Yemen and Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426129",
+        "published_date": "2026-07-10T05:20:57Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "f7f209fff76d",
         "title": "Reflections",
@@ -97,14 +105,6 @@
         "url": "https://yemenat.net/archives/425971",
         "published_date": "2026-07-07T19:43:13Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "d120ea4a960f",
-        "title": "When Yemeni dignity awakens and the crowds leave, there will be no forces on earth capable of wasting it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425945",
-        "published_date": "2026-07-06T23:21:48Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -127,6 +127,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "1212f64f5704",
+        "title": "Lama Qais explains after canceling her reception in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426132",
+        "published_date": "2026-07-10T05:55:02Z",
+        "category": "Economy"
+      },
       {
         "_id": "3548c3af8ac1",
         "title": "Digital hype governments: How do authorities assassinate our minds to finance their survival???",
@@ -153,6 +161,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "d784b2529b77",
+        "title": "Earthquake in Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426135",
+        "published_date": "2026-07-10T06:27:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3923ea59c29c",
+        "title": "The death of a prominent Yemeni lyricist and media personality",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426126",
+        "published_date": "2026-07-10T04:17:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9f265fd16ba8",
         "title": "Hadar Nehemiah: Member of the Yama and Sawt band linking Yemeni Jewish heritage with world music",
@@ -295,22 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426012",
         "published_date": "2026-07-08T03:00:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3835d09c4ac5",
-        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with three banking entities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426000",
-        "published_date": "2026-07-08T00:17:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cb3761e06de6",
-        "title": "Lieutenant General Sultan Al Sami visits September 21 University and praises its level of performance",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425991",
-        "published_date": "2026-07-07T23:53:00Z",
         "category": "Local Events"
       }
     ]
