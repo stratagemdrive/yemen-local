@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-10T13:15:35Z",
+  "last_updated": "2026-07-11T00:03:00Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,14 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "937b28979e8f",
+        "title": "Al-Murtada: We have fulfilled our obligations to implement the exchange deal, and the other party bears the delay in completing it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426164",
+        "published_date": "2026-07-10T23:54:01Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "ac6519a77b03",
         "title": "Al-Bukhaiti warns against obstructing the arrival of an Iranian plane to Sanaa and stresses that stability is a common interest for Yemen and Saudi Arabia",
         "source": "Yemenat",
@@ -20,7 +28,7 @@
       },
       {
         "_id": "f7f209fff76d",
-        "title": "Reflections",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426118",
         "published_date": "2026-07-09T20:20:26Z",
@@ -36,7 +44,7 @@
       },
       {
         "_id": "63aefc8c8f81",
-        "title": "A joint committee inspects the body of “Muhammad Qahtan”... and his son explains the nature of the inspection",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426091",
         "published_date": "2026-07-09T18:16:16Z",
@@ -60,7 +68,7 @@
       },
       {
         "_id": "4f7765a15f11",
-        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the Argentina match",
+        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the match with Argentina",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426047",
         "published_date": "2026-07-09T00:22:14Z",
@@ -97,14 +105,6 @@
         "url": "https://yemenat.net/archives/426007",
         "published_date": "2026-07-08T01:38:58Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "fd9ac76eba54",
-        "title": "A UN report reveals a continuous escalation in the pace of illegal immigration to Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/425971",
-        "published_date": "2026-07-07T19:43:13Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -127,6 +127,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "c73a581dea6e",
+        "title": "Sources: Canceling a prisoner exchange deal that was scheduled for the next two days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426146",
+        "published_date": "2026-07-10T17:27:22Z",
+        "category": "Economy"
+      },
       {
         "_id": "1212f64f5704",
         "title": "Lama Qais explains after canceling her reception in Sanaa",
@@ -161,6 +169,62 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "2b3075c79198",
+        "title": "Taiz.. A judge and a lawyer were subjected to two armed attacks within days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426161",
+        "published_date": "2026-07-10T23:32:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "205604746959",
+        "title": "Wheat farmers in Al-Jawf: Our lands are without tillage and the agricultural season is threatened with loss due to the Ministry of Agriculture and the Grain Corporation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426158",
+        "published_date": "2026-07-10T22:34:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "380354fb5908",
+        "title": "I am one of you, not one of them",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426155",
+        "published_date": "2026-07-10T21:50:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eeb57b7b8b94",
+        "title": "World Cup: Spain eliminates Belgium and qualifies for the semi-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426152",
+        "published_date": "2026-07-10T21:22:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5a3a80f5f92e",
+        "title": "Recording an earthquake from Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426149",
+        "published_date": "2026-07-10T18:01:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "057a9dce7cf0",
+        "title": "First Division League.. Yarmouk wins Hadhramaut Union",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426143",
+        "published_date": "2026-07-10T16:33:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "280515e50b01",
+        "title": "Meteorology raises the alert level to warning and expects the thunderstorms to expand",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426141",
+        "published_date": "2026-07-10T15:52:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d784b2529b77",
         "title": "Earthquake in Dhamar Governorate",
@@ -263,62 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426052",
         "published_date": "2026-07-09T00:28:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "90b9ee371ccf",
-        "title": "Customs and rituals of which only memories remain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426045",
-        "published_date": "2026-07-09T00:12:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6febf311339f",
-        "title": "First Division League.. Hadramaut Solidarity wins Sana’a unity and temporarily shares the lead with the Hadhramaut people",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426035",
-        "published_date": "2026-07-08T17:52:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b2c2d7eb0a48",
-        "title": "Chairman of the Board of Directors of the Yemen Region of Hayel Saeed Anam & Partners Group meets with workers and young talents and honors veteran employees and distinguished companies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426028",
-        "published_date": "2026-07-08T17:37:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3a97617e8fac",
-        "title": "The Egyptian Federation issues a statement regarding the referee of the match between Egypt and Argentina",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426021",
-        "published_date": "2026-07-08T11:16:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "13878ea3d594",
-        "title": "Meteorology: Thunderstorms expected in parts of 13 governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426018",
-        "published_date": "2026-07-08T10:46:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b7784e09dce3",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to release Dr. Ali Al-Madhawi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426014",
-        "published_date": "2026-07-08T06:37:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d6f843362f82",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426012",
-        "published_date": "2026-07-08T03:00:03Z",
         "category": "Local Events"
       }
     ]
