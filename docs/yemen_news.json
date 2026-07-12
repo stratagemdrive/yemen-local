@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-11T11:57:40Z",
+  "last_updated": "2026-07-12T00:01:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "d8e38e7b83c0",
+        "title": "First Division League: Al-Sadd defeats Al-Hilal by five, and four teams compete for the lead",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426188",
+        "published_date": "2026-07-11T17:02:20Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0a9bacc08a02",
+        "title": "A UN office warns of the outbreak of armed confrontations in Khor Maksar, Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426177",
+        "published_date": "2026-07-11T12:44:37Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "937b28979e8f",
         "title": "Al-Murtada: We have fulfilled our obligations to implement the exchange deal, and the other party bears the delay in completing it",
@@ -68,7 +84,7 @@
       },
       {
         "_id": "4f7765a15f11",
-        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the Argentina match",
+        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the match with Argentina",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426047",
         "published_date": "2026-07-09T00:22:14Z",
@@ -89,39 +105,23 @@
         "url": "https://yemenat.net/archives/426039",
         "published_date": "2026-07-08T20:26:32Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "b562fd76dffb",
-        "title": "Bored lover",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426010",
-        "published_date": "2026-07-08T02:23:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f0a33a8fff6a",
-        "title": "The listening team offers condolences at the Iranian embassy in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426007",
-        "published_date": "2026-07-08T01:38:58Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "78ea009632a1",
+        "title": "Yemeni intellectuals call on the local authority to arrest the attackers against Judge Jazem and lawyer Al-Muhaya",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426206",
+        "published_date": "2026-07-11T20:02:10Z",
+        "category": "Military"
+      },
       {
         "_id": "5c8fb1947fd4",
         "title": "Lahj.. The funeral of a young man who was killed by a soldier’s bullets at a military point in Qubaytah",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426094",
         "published_date": "2026-07-09T18:35:55Z",
-        "category": "Military"
-      },
-      {
-        "_id": "40da01dc5926",
-        "title": "First Division League.. Ahly Sanaa wins over Al-Mukalla",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426002",
-        "published_date": "2026-07-08T00:50:22Z",
         "category": "Military"
       }
     ],
@@ -177,6 +177,62 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "d7cf4cf6abea",
+        "title": "Congratulations on the announcement of “The Rebel”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426209",
+        "published_date": "2026-07-11T23:18:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b4507566c29c",
+        "title": "In the presence of political and cultural figures...the Egyptian Writers Union celebrates the book “The September Revolutionary Abdullah Al-Maori”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426201",
+        "published_date": "2026-07-11T19:32:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3b802603c3bf",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426195",
+        "published_date": "2026-07-11T18:54:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80602c60d2b0",
+        "title": "Sanaa.. The Supreme Committee for Examinations sets the date for announcing the high school results",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426192",
+        "published_date": "2026-07-11T17:12:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7fdf7abcca24",
+        "title": "More than 10 earthquakes were recorded in Lahj Governorate, and the Seismic Monitoring Center warns of rockslides.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426182",
+        "published_date": "2026-07-11T16:24:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "469a87dc73d2",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, July 11, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426180",
+        "published_date": "2026-07-11T13:19:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5e6706d26695",
+        "title": "Meteorology: Thunderstorms in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426175",
+        "published_date": "2026-07-11T12:13:24Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9b6a60c676fa",
         "title": "Aden... Tension in the parade square and its surroundings with the continued influx of armed groups and the deployment of military forces",
@@ -279,62 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426102",
         "published_date": "2026-07-09T19:12:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e75bf87805ea",
-        "title": "Aden... Zaima burns in the port of Al-Mualla, and thick smoke rises",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426087",
-        "published_date": "2026-07-09T10:45:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d4e443d213b4",
-        "title": "Abyan.. Security forces are on alert in Zanzibar after Al-Ouban was shot at during a security meeting",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426084",
-        "published_date": "2026-07-09T10:07:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ed2de9bc85b1",
-        "title": "Meteorology warns of a widespread dust wave affecting a number of Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426082",
-        "published_date": "2026-07-09T03:53:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "020d88a87df4",
-        "title": "Wheat farmers in Al-Jawf return to a sit-in in front of the Ministry of Agriculture in Sanaa to demand payment for their crop",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426079",
-        "published_date": "2026-07-09T02:16:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4c3cb88b63bd",
-        "title": "Abdul Bari Taher.. a veteran of culture and politics and a professor of thought and journalism",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426067",
-        "published_date": "2026-07-09T00:48:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "62a65cfa3f2b",
-        "title": "The arch enemy that I thought I had defeated...?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426063",
-        "published_date": "2026-07-09T00:44:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0683f0807399",
-        "title": "I am tired of the long journey, my boats.. and I am tired of waiting for the morning that has not yet come",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426057",
-        "published_date": "2026-07-09T00:35:07Z",
         "category": "Local Events"
       }
     ]
