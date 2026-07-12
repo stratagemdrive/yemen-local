@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-12T00:01:27Z",
+  "last_updated": "2026-07-12T12:03:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,19 +11,19 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "f8a86fe8414e",
+        "title": "I am talking about Iman Hamid",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426225",
+        "published_date": "2026-07-12T02:06:17Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "d8e38e7b83c0",
         "title": "First Division League: Al-Sadd defeats Al-Hilal by five, and four teams compete for the lead",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426188",
         "published_date": "2026-07-11T17:02:20Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0a9bacc08a02",
-        "title": "A UN office warns of the outbreak of armed confrontations in Khor Maksar, Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426177",
-        "published_date": "2026-07-11T12:44:37Z",
         "category": "Diplomacy"
       },
       {
@@ -81,39 +81,15 @@
         "url": "https://yemenat.net/archives/426060",
         "published_date": "2026-07-09T00:39:07Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4f7765a15f11",
-        "title": "After the Egyptian protest...the first decision from FIFA regarding the referee of the match with Argentina",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426047",
-        "published_date": "2026-07-09T00:22:14Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "372fcaa51da0",
-        "title": "A joint committee arrives in Sanaa to visit prisoners included in the recent exchange deal, including Muhammad Qahtan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426042",
-        "published_date": "2026-07-08T23:27:38Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bbe5bfa0582f",
-        "title": "Abu Ras: The pre-Islamic era has returned to rear its head and drag its tails in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426039",
-        "published_date": "2026-07-08T20:26:32Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
-        "_id": "78ea009632a1",
-        "title": "Yemeni intellectuals call on the local authority to arrest the attackers against Judge Jazem and lawyer Al-Muhaya",
+        "_id": "30f7120e65e6",
+        "title": "World Cup.. England qualifies for the semi-finals at the expense of Norway",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426206",
-        "published_date": "2026-07-11T20:02:10Z",
+        "url": "https://yemenat.net/archives/426212",
+        "published_date": "2026-07-12T00:06:55Z",
         "category": "Military"
       },
       {
@@ -127,6 +103,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "9563fb08fef6",
+        "title": "Free tweets...they create poverty, hunger, and ignorance, and talk about dignity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426215",
+        "published_date": "2026-07-12T00:56:35Z",
+        "category": "Economy"
+      },
       {
         "_id": "03fc8c8ba1e9",
         "title": "A security point detains a journalist in the city of Ma’rib",
@@ -166,23 +150,55 @@
         "url": "https://yemenat.net/archives/426070",
         "published_date": "2026-07-09T00:54:15Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ea6b9d8098ed",
-        "title": "When principles are sold in the market of interests... nations fall",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426055",
-        "published_date": "2026-07-09T00:32:07Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "42672a951a78",
+        "title": "Meteorology: Thunderstorms continue in parts of the highlands, plateaus, and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426241",
+        "published_date": "2026-07-12T10:19:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2f30cb237bff",
+        "title": "Sanaa.. Announcement of the high school results",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426238",
+        "published_date": "2026-07-12T10:10:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eba35ccee568",
+        "title": "A new earthquake was recorded from Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426235",
+        "published_date": "2026-07-12T09:56:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a462a75d9bab",
+        "title": "World Cup: Argentina eliminates Switzerland and qualifies for the semi-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426229",
+        "published_date": "2026-07-12T04:13:47Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d7cf4cf6abea",
         "title": "Congratulations on the announcement of “The Rebel”",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426209",
         "published_date": "2026-07-11T23:18:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "78ea009632a1",
+        "title": "Yemeni intellectuals call on the local authority to arrest the attackers against Judge Jazem and lawyer Al-Muhaya",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426206",
+        "published_date": "2026-07-11T20:02:10Z",
         "category": "Local Events"
       },
       {
@@ -195,7 +211,7 @@
       },
       {
         "_id": "3b802603c3bf",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "When “bare feet” become a badge on the chest of history",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426195",
         "published_date": "2026-07-11T18:54:24Z",
@@ -223,6 +239,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426180",
         "published_date": "2026-07-11T13:19:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a9bacc08a02",
+        "title": "A UN office warns of the outbreak of armed confrontations in Khor Maksar, Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426177",
+        "published_date": "2026-07-11T12:44:37Z",
         "category": "Local Events"
       },
       {
@@ -287,54 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426143",
         "published_date": "2026-07-10T16:33:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "280515e50b01",
-        "title": "Meteorology raises the alert level to warning and expects the thunderstorms to expand",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426141",
-        "published_date": "2026-07-10T15:52:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d784b2529b77",
-        "title": "Earthquake in Dhamar Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426135",
-        "published_date": "2026-07-10T06:27:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3923ea59c29c",
-        "title": "The death of a prominent Yemeni lyricist and media personality",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426126",
-        "published_date": "2026-07-10T04:17:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9f265fd16ba8",
-        "title": "Hadar Nehemiah: Member of the Yama and Sawt band linking Yemeni Jewish heritage with world music",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426123",
-        "published_date": "2026-07-09T22:35:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6c0dbf3667bb",
-        "title": "World Cup.. France qualifies for the semi-finals at the expense of Morocco",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426120",
-        "published_date": "2026-07-09T22:17:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "780d4b92a420",
-        "title": "Sanaa.. Canceling a ceremony honoring the child Lama Qais, and the organizing committee reveals the reason",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426102",
-        "published_date": "2026-07-09T19:12:19Z",
         "category": "Local Events"
       }
     ]
