@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-13T13:28:01Z",
+  "last_updated": "2026-07-13T23:57:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,54 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "8f71b3603da4",
+        "title": "A new wave of strikes on Iran... and Trump confirms that the agreement is still possible",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426370",
+        "published_date": "2026-07-13T22:58:28Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c18a4573b4d8",
+        "title": "Nasser died",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426354",
+        "published_date": "2026-07-13T21:23:49Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "80223f453410",
+        "title": "The UN envoy extends an invitation to the parties to the conflict in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426347",
+        "published_date": "2026-07-13T18:24:54Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ba8b481ec15f",
+        "title": "Al-Maliki announces dealing with missile threats from Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426340",
+        "published_date": "2026-07-13T17:56:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "6e905a88012b",
+        "title": "Following the bombing of Sanaa Airport... the closure of Yemeni airports and reports of the departure of Yemeni planes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426327",
+        "published_date": "2026-07-13T14:12:20Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "37f89f76bcc9",
+        "title": "The Lawyers Against Corruption Network demands an urgent investigation into the incident of abuse of a female lawyer inside the East Secretariat Court",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426323",
+        "published_date": "2026-07-13T13:51:46Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e6a0cab169ff",
         "title": "Between monitoring women's bodies and ignoring people's needs: the crisis of priorities in the shallow discourse of the sheikhs of political Islam",
@@ -81,25 +129,25 @@
         "url": "https://yemenat.net/archives/426188",
         "published_date": "2026-07-11T17:02:20Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "937b28979e8f",
-        "title": "Al-Murtada: We have fulfilled our obligations to implement the exchange deal, and the other party bears the delay in completing it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426164",
-        "published_date": "2026-07-10T23:54:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ac6519a77b03",
-        "title": "Al-Bukhaiti warns against obstructing the arrival of an Iranian plane to Sanaa and stresses that stability is a common interest for Yemen and Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426129",
-        "published_date": "2026-07-10T05:20:57Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "09a73288ee49",
+        "title": "How will the balance of power change in the Middle East during the next decade? What is Yemen’s position in this transformation?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426364",
+        "published_date": "2026-07-13T22:22:22Z",
+        "category": "Military"
+      },
+      {
+        "_id": "39789f811caf",
+        "title": "Saree announces a military operation in Saudi territory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426352",
+        "published_date": "2026-07-13T18:53:56Z",
+        "category": "Military"
+      },
       {
         "_id": "453a52508fb4",
         "title": "A military statement announcing the adoption of targeting Sanaa Airport",
@@ -136,6 +184,14 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "8c17ead94446",
+        "title": "The secret of the exaggerated interest in women by the cleric, even in the presence of general disastrous conditions...?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426333",
+        "published_date": "2026-07-13T14:33:57Z",
+        "category": "Economy"
+      },
+      {
         "_id": "e84ed1cef8d7",
         "title": "Qatar bids farewell to the Father Emir",
         "source": "Yemenat",
@@ -150,33 +206,81 @@
         "url": "https://yemenat.net/archives/426215",
         "published_date": "2026-07-12T00:56:35Z",
         "category": "Economy"
-      },
-      {
-        "_id": "03fc8c8ba1e9",
-        "title": "A security point detains a journalist in the city of Ma’rib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426171",
-        "published_date": "2026-07-11T05:50:44Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "c73a581dea6e",
-        "title": "Sources: Canceling a prisoner exchange deal that was scheduled for the next two days",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426146",
-        "published_date": "2026-07-10T17:27:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "1212f64f5704",
-        "title": "Lama Qais explains after canceling her reception in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426132",
-        "published_date": "2026-07-10T05:55:02Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "cd66f8ffe1f1",
+        "title": "Our calamities will continue indefinitely",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426368",
+        "published_date": "2026-07-13T22:45:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6bc891733501",
+        "title": "Behind the issue, what is worth asking?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426362",
+        "published_date": "2026-07-13T22:17:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b7bf28796874",
+        "title": "A weather expert expects rain of varying intensity to fall in parts of Sanaa and Al-Bayda",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426358",
+        "published_date": "2026-07-13T21:57:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45e822d04c9c",
+        "title": "Sanaa.. The Central Bank stops dealing with five exchange facilities and resumes dealing with one",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426348",
+        "published_date": "2026-07-13T18:26:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ad08b3e0e519",
+        "title": "Sanaa: Crowds of mourners flock to offer their condolences on the death of the father Emir, Sheikh Hamad bin Khalifa Al Thani.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426342",
+        "published_date": "2026-07-13T18:12:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d0c8bcc9d487",
+        "title": "What happened to me buying books?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426337",
+        "published_date": "2026-07-13T14:39:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c4e6ef21c17a",
+        "title": "Who is Judge Imran Jazim?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426330",
+        "published_date": "2026-07-13T14:28:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2bb6e5aeeda5",
+        "title": "How beautiful is the just ruler wherever he is",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426318",
+        "published_date": "2026-07-13T13:37:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2fa436cf43c3",
+        "title": "Meteorology: The state of instability continues in the Yemeni airspace and thunderstorms are expected",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426320",
+        "published_date": "2026-07-13T13:34:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "60da7205b591",
         "title": "The Yemeni Journalists Syndicate warns of the deterioration of Walid Ghaleb’s health and holds the Sana’a authority responsible for his safety",
@@ -263,78 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426229",
         "published_date": "2026-07-12T04:13:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7cf4cf6abea",
-        "title": "Congratulations on the announcement of “The Rebel”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426209",
-        "published_date": "2026-07-11T23:18:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "78ea009632a1",
-        "title": "Yemeni intellectuals call on the local authority to arrest the attackers against Judge Jazem and lawyer Al-Muhaya",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426206",
-        "published_date": "2026-07-11T20:02:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b4507566c29c",
-        "title": "In the presence of political and cultural figures...the Egyptian Writers Union celebrates the book “The September Revolutionary Abdullah Al-Maori”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426201",
-        "published_date": "2026-07-11T19:32:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3b802603c3bf",
-        "title": "When “bare feet” become a badge on the chest of history",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426195",
-        "published_date": "2026-07-11T18:54:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80602c60d2b0",
-        "title": "Sanaa.. The Supreme Committee for Examinations sets the date for announcing the high school results",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426192",
-        "published_date": "2026-07-11T17:12:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7fdf7abcca24",
-        "title": "More than 10 earthquakes were recorded in Lahj Governorate, and the Seismic Monitoring Center warns of rockslides.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426182",
-        "published_date": "2026-07-11T16:24:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "469a87dc73d2",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, July 11, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426180",
-        "published_date": "2026-07-11T13:19:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a9bacc08a02",
-        "title": "A UN office warns of the outbreak of armed confrontations in Khor Maksar, Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426177",
-        "published_date": "2026-07-11T12:44:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5e6706d26695",
-        "title": "Meteorology: Thunderstorms in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426175",
-        "published_date": "2026-07-11T12:13:24Z",
         "category": "Local Events"
       }
     ]
