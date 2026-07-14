@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-13T23:57:53Z",
+  "last_updated": "2026-07-14T12:19:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "9947c96696b7",
+        "title": "Fraudulent justice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426408",
+        "published_date": "2026-07-14T10:12:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bd42bae65b69",
+        "title": "Humaidan: The most dangerous thing the elites do is justify a return to the logic of the tribe and the military",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426391",
+        "published_date": "2026-07-14T04:13:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "dcd89d87fca1",
+        "title": "Al-Maqaleh criticizes those who thirst for war and warns them against turning it against their heads",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426386",
+        "published_date": "2026-07-14T02:16:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "8f71b3603da4",
         "title": "A new wave of strikes on Iran... and Trump confirms that the agreement is still possible",
@@ -113,25 +137,17 @@
         "url": "https://yemenat.net/archives/426274",
         "published_date": "2026-07-12T21:08:38Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "f8a86fe8414e",
-        "title": "I am talking about Iman Hamid",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426225",
-        "published_date": "2026-07-12T02:06:17Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d8e38e7b83c0",
-        "title": "First Division League: Al-Sadd defeats Al-Hilal by five, and four teams compete for the lead",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426188",
-        "published_date": "2026-07-11T17:02:20Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "4ea9c596acda",
+        "title": "Abyan: A security headquarters was targeted in the city of Lawdar, causing casualties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426405",
+        "published_date": "2026-07-14T09:41:50Z",
+        "category": "Military"
+      },
       {
         "_id": "09a73288ee49",
         "title": "How will the balance of power change in the Middle East during the next decade? What is Yemen’s position in this transformation?",
@@ -171,14 +187,6 @@
         "url": "https://yemenat.net/archives/426247",
         "published_date": "2026-07-12T16:32:34Z",
         "category": "Military"
-      },
-      {
-        "_id": "30f7120e65e6",
-        "title": "World Cup.. England qualifies for the semi-finals at the expense of Norway",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426212",
-        "published_date": "2026-07-12T00:06:55Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -198,17 +206,73 @@
         "url": "https://yemenat.net/archives/426280",
         "published_date": "2026-07-12T21:30:24Z",
         "category": "Economy"
-      },
-      {
-        "_id": "9563fb08fef6",
-        "title": "Free tweets...they create poverty, hunger, and ignorance, and talk about dignity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426215",
-        "published_date": "2026-07-12T00:56:35Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "000242320ada",
+        "title": "Thousands of rabies infections in Ibb Governorate, with deaths recorded",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426412",
+        "published_date": "2026-07-14T11:12:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "edd91863da06",
+        "title": "Meteorology: Thunderstorms continue in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426403",
+        "published_date": "2026-07-14T09:23:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "053b6e502595",
+        "title": "Loyalty and disavowal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426400",
+        "published_date": "2026-07-14T09:13:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d997e6617ddb",
+        "title": "Wise stance",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426398",
+        "published_date": "2026-07-14T09:03:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aa17f0a65d3b",
+        "title": "Aden.. Ministry of Transport: Air traffic and flights are proceeding according to approved operational programs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426388",
+        "published_date": "2026-07-14T03:40:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2140d0816cc4",
+        "title": "Yemeni intellectuals appeal to Al-Alimi and Shamsan to release the poet Ammar Al-Zariqi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426383",
+        "published_date": "2026-07-14T01:49:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d005096144cb",
+        "title": "Three earthquakes were recorded in Lahj and Sanaa... and the monitoring center issues a report on seismic activity in Al-Mallah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426378",
+        "published_date": "2026-07-14T01:08:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "64dc8c29ec0d",
+        "title": "The Competitions Committee approves the dates for the 32nd round of the Republic Cup, presents some league matches, and approves penalties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426374",
+        "published_date": "2026-07-14T00:03:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "cd66f8ffe1f1",
         "title": "Our calamities will continue indefinitely",
@@ -303,70 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426277",
         "published_date": "2026-07-12T21:20:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "de69f33d83fe",
-        "title": "Sanaa.. The top students in the general secondary certificate, with its scientific and literary sections, “Asmaa”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426262",
-        "published_date": "2026-07-12T20:53:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "195244416141",
-        "title": "Before Birth: Writing for reflections on the poem (Before the Sea Awakens) by the poet Hussein Al-Sayyab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426256",
-        "published_date": "2026-07-12T17:33:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0d7012fd151f",
-        "title": "The Judges Club in Taiz condemns the targeting of the home of Judge Imran Jazem and demands the arrest of the assailants",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426252",
-        "published_date": "2026-07-12T17:04:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c1b9e6cacdda",
-        "title": "The hearing team offers its condolences to the leadership and people of Qatar on the passing of Prince Hamad bin Khalifa Al Thani",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426249",
-        "published_date": "2026-07-12T16:43:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "42672a951a78",
-        "title": "Meteorology: Thunderstorms continue in parts of the highlands, plateaus, and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426241",
-        "published_date": "2026-07-12T10:19:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2f30cb237bff",
-        "title": "Sanaa.. Announcement of the high school results",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426238",
-        "published_date": "2026-07-12T10:10:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eba35ccee568",
-        "title": "A new earthquake was recorded from Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426235",
-        "published_date": "2026-07-12T09:56:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a462a75d9bab",
-        "title": "World Cup: Argentina eliminates Switzerland and qualifies for the semi-finals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426229",
-        "published_date": "2026-07-12T04:13:47Z",
         "category": "Local Events"
       }
     ]
