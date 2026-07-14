@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-14T12:19:31Z",
+  "last_updated": "2026-07-14T23:56:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "6fc60ca78184",
+        "title": "The UN envoy discusses in Muscat the reduction of escalation in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426435",
+        "published_date": "2026-07-14T20:06:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9947c96696b7",
         "title": "Fraudulent justice",
@@ -141,6 +149,14 @@
     ],
     "Military": [
       {
+        "_id": "b3bfdb5f31a1",
+        "title": "Saree announces the downing of a march in Al-Bayda, and activists publish pictures of the wreckage of a plane that crashed in Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426421",
+        "published_date": "2026-07-14T18:16:24Z",
+        "category": "Military"
+      },
+      {
         "_id": "4ea9c596acda",
         "title": "Abyan: A security headquarters was targeted in the city of Lawdar, causing casualties",
         "source": "Yemenat",
@@ -179,14 +195,6 @@
         "url": "https://yemenat.net/archives/426288",
         "published_date": "2026-07-12T23:01:17Z",
         "category": "Military"
-      },
-      {
-        "_id": "0e973aeda62e",
-        "title": "Tribal clashes in Ma'rib Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426247",
-        "published_date": "2026-07-12T16:32:34Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -209,6 +217,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "cb7b17b2c1dc",
+        "title": "World Cup.. Spain qualifies for the final at the expense of France",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426440",
+        "published_date": "2026-07-14T21:15:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "abae53d801b1",
+        "title": "For the second day in Sanaa... large crowds arrive to offer their condolences for the death of the former Emir of Qatar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426437",
+        "published_date": "2026-07-14T20:35:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "065ac63bbe8f",
+        "title": "Global company SAP honors the human resources systems team at Hayel Saeed & Partners Group and grants them 14 expert certificates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426432",
+        "published_date": "2026-07-14T19:34:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cd07686467c5",
+        "title": "Aden.. The killer of the young man, Omar Batweel, was released",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426416",
+        "published_date": "2026-07-14T13:34:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f3a9de0ec705",
+        "title": "Average gold prices in Sanaa and Aden, Tuesday, July 14, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426414",
+        "published_date": "2026-07-14T12:54:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "000242320ada",
         "title": "Thousands of rabies infections in Ibb Governorate, with deaths recorded",
@@ -327,46 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426330",
         "published_date": "2026-07-13T14:28:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2bb6e5aeeda5",
-        "title": "How beautiful is the just ruler wherever he is",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426318",
-        "published_date": "2026-07-13T13:37:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2fa436cf43c3",
-        "title": "Meteorology: The state of instability continues in the Yemeni airspace and thunderstorms are expected",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426320",
-        "published_date": "2026-07-13T13:34:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "60da7205b591",
-        "title": "The Yemeni Journalists Syndicate warns of the deterioration of Walid Ghaleb’s health and holds the Sana’a authority responsible for his safety",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426298",
-        "published_date": "2026-07-13T03:58:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a48e5a2a2400",
-        "title": "Lahj.. Citizens' homes in Al-Mallah were damaged due to earthquakes, amid fears of their recurrence",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426283",
-        "published_date": "2026-07-12T21:59:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d615ea17db00",
-        "title": "The Forum of Sheikhs and Notables of Yemen offers its condolences to the Qatari leadership and people on the death of the Father Emir",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426277",
-        "published_date": "2026-07-12T21:20:28Z",
         "category": "Local Events"
       }
     ]
