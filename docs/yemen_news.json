@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-14T23:56:17Z",
+  "last_updated": "2026-07-15T12:19:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "9fa5e4f6f870",
+        "title": "Al-Jawi: The American-Iranian escalation may explode the Yemeni arena and reshape the region",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426448",
+        "published_date": "2026-07-15T06:49:54Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "6fc60ca78184",
         "title": "The UN envoy discusses in Muscat the reduction of escalation in Yemen",
@@ -121,33 +129,25 @@
         "url": "https://yemenat.net/archives/426303",
         "published_date": "2026-07-13T11:08:20Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a1d0f045bb94",
-        "title": "The UN envoy: The two parties to the conflict confirmed their commitment to fully implementing the prisoner exchange agreement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426301",
-        "published_date": "2026-07-13T04:58:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b21bbedd640e",
-        "title": "Sanaa Foreign Ministry warns Saudi Arabia against undermining the path of de-escalation and ceasefire",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426296",
-        "published_date": "2026-07-13T03:11:12Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e2fba1c4e7ea",
-        "title": "Bakil Tribal Bloc offers condolences to the Qatari leadership and people on the death of the Father Emir Sheikh Hamad bin Khalifa Al Thani",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426274",
-        "published_date": "2026-07-12T21:08:38Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "b29badd03df9",
+        "title": "The UN Security Council takes a decision on Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426458",
+        "published_date": "2026-07-15T09:16:19Z",
+        "category": "Military"
+      },
+      {
+        "_id": "5c0a8109b6eb",
+        "title": "Hadhramaut.. A Salafist cleric survived an assassination attempt and the killing of those close to him",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426450",
+        "published_date": "2026-07-15T07:26:18Z",
+        "category": "Military"
+      },
       {
         "_id": "b3bfdb5f31a1",
         "title": "Saree announces the downing of a march in Al-Bayda, and activists publish pictures of the wreckage of a plane that crashed in Shabwa",
@@ -187,18 +187,18 @@
         "url": "https://yemenat.net/archives/426309",
         "published_date": "2026-07-13T12:07:24Z",
         "category": "Military"
-      },
-      {
-        "_id": "aab00a7138bb",
-        "title": "The Yemeni Bar Association demands an investigation into the verbal assault against a female lawyer while performing her duty",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426288",
-        "published_date": "2026-07-12T23:01:17Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "8cf182f2870a",
+        "title": "Yemeni merchants and importers from China complain of blackmail by a shipping line",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426446",
+        "published_date": "2026-07-15T06:02:11Z",
+        "category": "Economy"
+      },
       {
         "_id": "8c17ead94446",
         "title": "The secret of the exaggerated interest in women by the cleric, even in the presence of general disastrous conditions...?",
@@ -206,17 +206,41 @@
         "url": "https://yemenat.net/archives/426333",
         "published_date": "2026-07-13T14:33:57Z",
         "category": "Economy"
-      },
-      {
-        "_id": "e84ed1cef8d7",
-        "title": "Qatar bids farewell to the Father Emir",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426280",
-        "published_date": "2026-07-12T21:30:24Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "c92458789ad5",
+        "title": "Inauguration of the town's tourism festival in Hadramaut Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426463",
+        "published_date": "2026-07-15T10:48:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "48867c066073",
+        "title": "First light",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426460",
+        "published_date": "2026-07-15T09:39:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a803102aa12a",
+        "title": "Meteorology reduces the warning to an alert, and rain is expected to continue in parts of the highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426454",
+        "published_date": "2026-07-15T08:42:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "86f5c5300570",
+        "title": "A weather expert expects rain of varying intensity in a number of governorates, the heaviest in four governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426443",
+        "published_date": "2026-07-15T03:35:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "cb7b17b2c1dc",
         "title": "World Cup.. Spain qualifies for the final at the expense of France",
@@ -343,38 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426358",
         "published_date": "2026-07-13T21:57:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45e822d04c9c",
-        "title": "Sanaa.. The Central Bank stops dealing with five exchange facilities and resumes dealing with one",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426348",
-        "published_date": "2026-07-13T18:26:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ad08b3e0e519",
-        "title": "Sanaa: Crowds of mourners flock to offer their condolences on the death of the father Emir, Sheikh Hamad bin Khalifa Al Thani.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426342",
-        "published_date": "2026-07-13T18:12:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d0c8bcc9d487",
-        "title": "What happened to me buying books?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426337",
-        "published_date": "2026-07-13T14:39:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c4e6ef21c17a",
-        "title": "Who is Judge Imran Jazim?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426330",
-        "published_date": "2026-07-13T14:28:50Z",
         "category": "Local Events"
       }
     ]
