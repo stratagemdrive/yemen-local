@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-15T12:19:43Z",
+  "last_updated": "2026-07-16T00:03:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -97,41 +97,17 @@
         "url": "https://yemenat.net/archives/426323",
         "published_date": "2026-07-13T13:51:46Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e6a0cab169ff",
-        "title": "Between monitoring women's bodies and ignoring people's needs: the crisis of priorities in the shallow discourse of the sheikhs of political Islam",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426316",
-        "published_date": "2026-07-13T13:26:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bda0f5b5fd21",
-        "title": "An Iranian plane lands at Hodeidah Airport",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426312",
-        "published_date": "2026-07-13T12:29:26Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "528ffbe9a78d",
-        "title": "Raids target Sanaa Airport, and Sarie announces the end of the de-escalation phase",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426306",
-        "published_date": "2026-07-13T11:34:43Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "60680a88b6d0",
-        "title": "A plane lands at Sanaa International Airport and Al-Uqaili announces the end of patience",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426303",
-        "published_date": "2026-07-13T11:08:20Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "5280f2858be0",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426469",
+        "published_date": "2026-07-15T18:30:51Z",
+        "category": "Military"
+      },
       {
         "_id": "b29badd03df9",
         "title": "The UN Security Council takes a decision on Yemen",
@@ -179,18 +155,18 @@
         "url": "https://yemenat.net/archives/426352",
         "published_date": "2026-07-13T18:53:56Z",
         "category": "Military"
-      },
-      {
-        "_id": "453a52508fb4",
-        "title": "A military statement announcing the adoption of targeting Sanaa Airport",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426309",
-        "published_date": "2026-07-13T12:07:24Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "68e88e66061c",
+        "title": "First Division League.. Hadhramaut people beat Al Hilal and maintain the lead",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426484",
+        "published_date": "2026-07-15T23:31:01Z",
+        "category": "Economy"
+      },
       {
         "_id": "8cf182f2870a",
         "title": "Yemeni merchants and importers from China complain of blackmail by a shipping line",
@@ -209,6 +185,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "fc3a2e7b257f",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426480",
+        "published_date": "2026-07-15T22:10:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d787a70f7798",
+        "title": "World Cup..Argentina defeats the English and qualifies for the final",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426477",
+        "published_date": "2026-07-15T21:20:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d8cc44fabdb8",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426472",
+        "published_date": "2026-07-15T19:07:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c333d2166701",
+        "title": "It called on citizens not to be drawn into misleading rumours.. The Ministry of Agriculture: Newcastle disease does not represent a threat to public health",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426466",
+        "published_date": "2026-07-15T18:15:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c92458789ad5",
         "title": "Inauguration of the town's tourism festival in Hadramaut Governorate",
@@ -335,38 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426378",
         "published_date": "2026-07-14T01:08:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "64dc8c29ec0d",
-        "title": "The Competitions Committee approves the dates for the 32nd round of the Republic Cup, presents some league matches, and approves penalties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426374",
-        "published_date": "2026-07-14T00:03:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cd66f8ffe1f1",
-        "title": "Our calamities will continue indefinitely",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426368",
-        "published_date": "2026-07-13T22:45:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6bc891733501",
-        "title": "Behind the issue, what is worth asking?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426362",
-        "published_date": "2026-07-13T22:17:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b7bf28796874",
-        "title": "A weather expert expects rain of varying intensity to fall in parts of Sanaa and Al-Bayda",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426358",
-        "published_date": "2026-07-13T21:57:05Z",
         "category": "Local Events"
       }
     ]
