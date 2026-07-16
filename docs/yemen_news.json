@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-16T00:03:13Z",
+  "last_updated": "2026-07-16T12:23:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,7 +102,7 @@
     "Military": [
       {
         "_id": "5280f2858be0",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The hearing team and Sheikh Al-Ahmar discuss strengthening national reconciliation efforts",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426469",
         "published_date": "2026-07-15T18:30:51Z",
@@ -186,8 +186,16 @@
     ],
     "Local Events": [
       {
+        "_id": "18f4fb2fb086",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426487",
+        "published_date": "2026-07-16T00:05:05Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "fc3a2e7b257f",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Yemeni intellectuals appeal to Al-Alimi to provide a medical grant for the fighter Al-Muradi and call on the Socialist leadership to intervene",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426480",
         "published_date": "2026-07-15T22:10:50Z",
@@ -203,7 +211,7 @@
       },
       {
         "_id": "d8cc44fabdb8",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A horrific traffic accident in Raymah leaves 20 victims",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426472",
         "published_date": "2026-07-15T19:07:41Z",
@@ -335,14 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426383",
         "published_date": "2026-07-14T01:49:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d005096144cb",
-        "title": "Three earthquakes were recorded in Lahj and Sanaa... and the monitoring center issues a report on seismic activity in Al-Mallah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426378",
-        "published_date": "2026-07-14T01:08:38Z",
         "category": "Local Events"
       }
     ]
