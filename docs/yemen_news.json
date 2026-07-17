@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-17T12:14:52Z",
+  "last_updated": "2026-07-17T23:56:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "b2d19c1eb6c8",
+        "title": "Jordan officially announces the operation of flights to Sanaa Airport, and the Aden government determines its position, and Sanaa clarifies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426589",
+        "published_date": "2026-07-17T20:15:48Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "2cf52f0f473e",
+        "title": "Royal Jordanian announces the operation of flights to Sanaa Airport",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426575",
+        "published_date": "2026-07-17T18:09:07Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3f55327c1c99",
+        "title": "Republic Cup.. The people of Ibb qualify for the round of 16 at the expense of Al-Minaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426565",
+        "published_date": "2026-07-17T16:11:29Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ba0ac296d1ca",
+        "title": "Masks of virtue and dirt on the sidewalk: How does the falsity of authority kill the dignity of the Yemeni person?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426554",
+        "published_date": "2026-07-17T12:45:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "81bc548ca509",
         "title": "Only in Yemen: Hope for life is born from the womb of war after it died in a time of false peace",
@@ -65,30 +97,6 @@
         "url": "https://yemenat.net/archives/426435",
         "published_date": "2026-07-14T20:06:02Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "9947c96696b7",
-        "title": "Fraudulent justice",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426408",
-        "published_date": "2026-07-14T10:12:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bd42bae65b69",
-        "title": "Humaidan: The most dangerous thing the elites do is justify a return to the logic of the tribe and the military",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426391",
-        "published_date": "2026-07-14T04:13:19Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "dcd89d87fca1",
-        "title": "Al-Maqaleh criticizes those who thirst for war and warns them against turning it against their heads",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426386",
-        "published_date": "2026-07-14T02:16:02Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -123,26 +131,26 @@
         "url": "https://yemenat.net/archives/426450",
         "published_date": "2026-07-15T07:26:18Z",
         "category": "Military"
-      },
-      {
-        "_id": "b3bfdb5f31a1",
-        "title": "Saree announces the downing of a march in Al-Bayda, and activists publish pictures of the wreckage of a plane that crashed in Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426421",
-        "published_date": "2026-07-14T18:16:24Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4ea9c596acda",
-        "title": "Abyan: A security headquarters was targeted in the city of Lawdar, causing casualties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426405",
-        "published_date": "2026-07-14T09:41:50Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "614a3cae9c3c",
+        "title": "Horizontal visibility hinders the landing of a plane at Aden and Yemeni airports",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426583",
+        "published_date": "2026-07-17T19:35:05Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "7e4a8352e5b1",
+        "title": "The British Trade Operations Authority reports two maritime incidents near the coasts of Yemen and Oman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426568",
+        "published_date": "2026-07-17T16:50:24Z",
+        "category": "Economy"
+      },
       {
         "_id": "504de290c61b",
         "title": "Half a chicken",
@@ -185,6 +193,70 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "3cae6e5fbf26",
+        "title": "An earthquake hits the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426600",
+        "published_date": "2026-07-17T23:47:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4aa44b1f50c7",
+        "title": "Parliamentarian Hashid reveals that he was prevented from returning to Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426597",
+        "published_date": "2026-07-17T23:06:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bd4c383b405f",
+        "title": "Taiz.. Large amounts of hail fell in Mount Sabr",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426593",
+        "published_date": "2026-07-17T21:23:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c0d3cc54872b",
+        "title": "Aden.. The Yemeni Coast Guard Service clarifies the kidnapping of an oil tanker by pirates near the coast of Hadramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426580",
+        "published_date": "2026-07-17T18:49:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f25d26702be",
+        "title": "First Division League.. Al-Mukalla, Al-Tadamon, and Fahman win over Al-Orouba, Ittihad Ibb, and Ittihad Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426572",
+        "published_date": "2026-07-17T17:34:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44b8e00e587c",
+        "title": "Civil Defense announces the recovery of three bodies who suffocated in a well in Taiz and renews its warning against operating pumps inside wells",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426570",
+        "published_date": "2026-07-17T17:15:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1b0c695771fd",
+        "title": "Cloud coverage over 12 governorates... and meteorology raises the alert to a warning",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426562",
+        "published_date": "2026-07-17T15:57:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b7d9969deb5",
+        "title": "Shabwa.. renewed tribal clashes in Khobar Laqmoush",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426558",
+        "published_date": "2026-07-17T15:32:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e14825d22fbc",
         "title": "A weather expert expects heavy rains in some Yemeni governorates and warns of thunderstorms",
@@ -279,70 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426477",
         "published_date": "2026-07-15T21:20:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d8cc44fabdb8",
-        "title": "A horrific traffic accident in Raymah leaves 20 victims",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426472",
-        "published_date": "2026-07-15T19:07:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c333d2166701",
-        "title": "It called on citizens not to be drawn into misleading rumours.. The Ministry of Agriculture: Newcastle disease does not represent a threat to public health",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426466",
-        "published_date": "2026-07-15T18:15:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c92458789ad5",
-        "title": "Inauguration of the town's tourism festival in Hadramaut Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426463",
-        "published_date": "2026-07-15T10:48:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "48867c066073",
-        "title": "First light",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426460",
-        "published_date": "2026-07-15T09:39:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a803102aa12a",
-        "title": "Meteorology reduces the warning to an alert, and rain is expected to continue in parts of the highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426454",
-        "published_date": "2026-07-15T08:42:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "86f5c5300570",
-        "title": "A weather expert expects rain of varying intensity in a number of governorates, the heaviest in four governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426443",
-        "published_date": "2026-07-15T03:35:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cb7b17b2c1dc",
-        "title": "World Cup.. Spain qualifies for the final at the expense of France",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426440",
-        "published_date": "2026-07-14T21:15:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "abae53d801b1",
-        "title": "For the second day in Sanaa... large crowds arrive to offer their condolences for the death of the former Emir of Qatar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426437",
-        "published_date": "2026-07-14T20:35:38Z",
         "category": "Local Events"
       }
     ]
