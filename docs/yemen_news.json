@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-16T12:23:56Z",
+  "last_updated": "2026-07-17T00:02:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,46 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "81bc548ca509",
+        "title": "Only in Yemen: Hope for life is born from the womb of war after it died in a time of false peace",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426533",
+        "published_date": "2026-07-16T23:13:30Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4a78af3703d2",
+        "title": "Badges",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426527",
+        "published_date": "2026-07-16T23:02:10Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b4cc619d6f6a",
+        "title": "The director of Sana'a Airport announces its readiness to receive flights",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426515",
+        "published_date": "2026-07-16T21:27:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c95e2a9fa787",
+        "title": "Multiple readings and possibilities of meaning in Adonis's poetry: when the poem becomes an endless space for interpretation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426513",
+        "published_date": "2026-07-16T20:48:07Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a650e5208b8f",
+        "title": "Aden.. Civil status and civil registry grant a national number for children",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426503",
+        "published_date": "2026-07-16T15:38:38Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9fa5e4f6f870",
         "title": "Al-Jawi: The American-Iranian escalation may explode the Yemeni arena and reshape the region",
@@ -49,57 +89,17 @@
         "url": "https://yemenat.net/archives/426386",
         "published_date": "2026-07-14T02:16:02Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8f71b3603da4",
-        "title": "A new wave of strikes on Iran... and Trump confirms that the agreement is still possible",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426370",
-        "published_date": "2026-07-13T22:58:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c18a4573b4d8",
-        "title": "Nasser died",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426354",
-        "published_date": "2026-07-13T21:23:49Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "80223f453410",
-        "title": "The UN envoy extends an invitation to the parties to the conflict in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426347",
-        "published_date": "2026-07-13T18:24:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ba8b481ec15f",
-        "title": "Al-Maliki announces dealing with missile threats from Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426340",
-        "published_date": "2026-07-13T17:56:44Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6e905a88012b",
-        "title": "Following the bombing of Sanaa Airport... the closure of Yemeni airports and reports of the departure of Yemeni planes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426327",
-        "published_date": "2026-07-13T14:12:20Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "37f89f76bcc9",
-        "title": "The Lawyers Against Corruption Network demands an urgent investigation into the incident of abuse of a female lawyer inside the East Secretariat Court",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426323",
-        "published_date": "2026-07-13T13:51:46Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "4a2ca5f76715",
+        "title": "A gang kills a young man in Al-Dhalea with an offensive bomb",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426500",
+        "published_date": "2026-07-16T14:42:37Z",
+        "category": "Military"
+      },
       {
         "_id": "5280f2858be0",
         "title": "The hearing team and Sheikh Al-Ahmar discuss strengthening national reconciliation efforts",
@@ -139,26 +139,34 @@
         "url": "https://yemenat.net/archives/426405",
         "published_date": "2026-07-14T09:41:50Z",
         "category": "Military"
-      },
-      {
-        "_id": "09a73288ee49",
-        "title": "How will the balance of power change in the Middle East during the next decade? What is Yemen’s position in this transformation?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426364",
-        "published_date": "2026-07-13T22:22:22Z",
-        "category": "Military"
-      },
-      {
-        "_id": "39789f811caf",
-        "title": "Saree announces a military operation in Saudi territory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426352",
-        "published_date": "2026-07-13T18:53:56Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "504de290c61b",
+        "title": "Half a chicken",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426547",
+        "published_date": "2026-07-16T23:54:45Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "486ed092badc",
+        "title": "Al-Beidh: Homelands cannot be stabilized by wars, and dialogue resolves what rifles and cannons cannot resolve",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426545",
+        "published_date": "2026-07-16T23:33:45Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "6510080917dd",
+        "title": "The health sector: an open market for collection and investment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426541",
+        "published_date": "2026-07-16T23:25:51Z",
+        "category": "Economy"
+      },
       {
         "_id": "68e88e66061c",
         "title": "First Division League.. Hadhramaut people beat Al Hilal and maintain the lead",
@@ -174,17 +182,73 @@
         "url": "https://yemenat.net/archives/426446",
         "published_date": "2026-07-15T06:02:11Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8c17ead94446",
-        "title": "The secret of the exaggerated interest in women by the cleric, even in the presence of general disastrous conditions...?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426333",
-        "published_date": "2026-07-13T14:33:57Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4d3554da5484",
+        "title": "How does your heart carry such great concern?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426536",
+        "published_date": "2026-07-16T23:18:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d2f2d04248d7",
+        "title": "When the law sleeps... corruption wakes up",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426530",
+        "published_date": "2026-07-16T23:09:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d3ce68d8a204",
+        "title": "Taiz parties condemn the attempted assassination of Judge Imran Jazem and demand the arrest of the perpetrators",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426522",
+        "published_date": "2026-07-16T22:43:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0e59042801b3",
+        "title": "Taiz.. A well claimed the lives of three people in Taiziya",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426518",
+        "published_date": "2026-07-16T21:54:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "409e6b902581",
+        "title": "First Division League: Ahly Sanaa and Yarmouk tied, and Al-Salam won over Shabab Al-Bayda",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426507",
+        "published_date": "2026-07-16T16:23:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "87cdd30a33f3",
+        "title": "Taiz: Nearly 20 cases of dog bites were recorded in one day",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426497",
+        "published_date": "2026-07-16T14:00:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "475fe3197b7e",
+        "title": "Average gold prices in Sanaa and Aden, Thursday, July 16, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426492",
+        "published_date": "2026-07-16T12:57:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "415472afa288",
+        "title": "Meteorology: Rainfall in parts of the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426489",
+        "published_date": "2026-07-16T12:37:21Z",
+        "category": "Local Events"
+      },
       {
         "_id": "18f4fb2fb086",
         "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
@@ -279,70 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426432",
         "published_date": "2026-07-14T19:34:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cd07686467c5",
-        "title": "Aden.. The killer of the young man, Omar Batweel, was released",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426416",
-        "published_date": "2026-07-14T13:34:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f3a9de0ec705",
-        "title": "Average gold prices in Sanaa and Aden, Tuesday, July 14, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426414",
-        "published_date": "2026-07-14T12:54:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "000242320ada",
-        "title": "Thousands of rabies infections in Ibb Governorate, with deaths recorded",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426412",
-        "published_date": "2026-07-14T11:12:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "edd91863da06",
-        "title": "Meteorology: Thunderstorms continue in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426403",
-        "published_date": "2026-07-14T09:23:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "053b6e502595",
-        "title": "Loyalty and disavowal",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426400",
-        "published_date": "2026-07-14T09:13:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d997e6617ddb",
-        "title": "Wise stance",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426398",
-        "published_date": "2026-07-14T09:03:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aa17f0a65d3b",
-        "title": "Aden.. Ministry of Transport: Air traffic and flights are proceeding according to approved operational programs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426388",
-        "published_date": "2026-07-14T03:40:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2140d0816cc4",
-        "title": "Yemeni intellectuals appeal to Al-Alimi and Shamsan to release the poet Ammar Al-Zariqi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426383",
-        "published_date": "2026-07-14T01:49:51Z",
         "category": "Local Events"
       }
     ]
