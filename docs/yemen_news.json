@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-17T00:02:21Z",
+  "last_updated": "2026-07-17T12:14:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -186,6 +186,14 @@
     ],
     "Local Events": [
       {
+        "_id": "e14825d22fbc",
+        "title": "A weather expert expects heavy rains in some Yemeni governorates and warns of thunderstorms",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426550",
+        "published_date": "2026-07-17T00:35:05Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "4d3554da5484",
         "title": "How does your heart carry such great concern?!",
         "source": "Yemenat",
@@ -335,14 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426437",
         "published_date": "2026-07-14T20:35:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "065ac63bbe8f",
-        "title": "Global company SAP honors the human resources systems team at Hayel Saeed & Partners Group and grants them 14 expert certificates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426432",
-        "published_date": "2026-07-14T19:34:45Z",
         "category": "Local Events"
       }
     ]
