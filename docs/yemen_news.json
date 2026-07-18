@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-18T11:57:29Z",
+  "last_updated": "2026-07-18T23:58:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "25205ec79308",
+        "title": "Aden.. The Aviation Authority issues a circular regarding permits to enter the Yemeni air territory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426644",
+        "published_date": "2026-07-18T18:18:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0008486ff19d",
+        "title": "Sanaa Foreign Ministry: Dealing with Saudi Arabia as a mediator has contributed to the continued suffering of the Yemenis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426635",
+        "published_date": "2026-07-18T17:22:57Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "17b9991a4180",
         "title": "Humaidan warns against calls to impose international protection on the Bab al-Mandab Strait",
@@ -97,17 +113,17 @@
         "url": "https://yemenat.net/archives/426503",
         "published_date": "2026-07-16T15:38:38Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "9fa5e4f6f870",
-        "title": "Al-Jawi: The American-Iranian escalation may explode the Yemeni arena and reshape the region",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426448",
-        "published_date": "2026-07-15T06:49:54Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "17cdce51bac3",
+        "title": "First Division League: Wahda Sanaa and Al-Sadd Ma’rib tied at the end of the eighth round",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426638",
+        "published_date": "2026-07-18T17:41:55Z",
+        "category": "Military"
+      },
       {
         "_id": "3a1447fc7cb3",
         "title": "Dead and wounded in an armed attack targeting the National Shield forces in the Hadhramaut desert",
@@ -123,34 +139,18 @@
         "url": "https://yemenat.net/archives/426500",
         "published_date": "2026-07-16T14:42:37Z",
         "category": "Military"
-      },
-      {
-        "_id": "5280f2858be0",
-        "title": "The hearing team and Sheikh Al-Ahmar discuss strengthening national reconciliation efforts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426469",
-        "published_date": "2026-07-15T18:30:51Z",
-        "category": "Military"
-      },
-      {
-        "_id": "b29badd03df9",
-        "title": "The UN Security Council takes a decision on Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426458",
-        "published_date": "2026-07-15T09:16:19Z",
-        "category": "Military"
-      },
-      {
-        "_id": "5c0a8109b6eb",
-        "title": "Hadhramaut.. A Salafist cleric survived an assassination attempt and the killing of those close to him",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426450",
-        "published_date": "2026-07-15T07:26:18Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "0b6d69092d84",
+        "title": "After suspending its commitment to the memorandum of understanding, an Iranian threat to target four ports in the Emirates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426648",
+        "published_date": "2026-07-18T19:59:16Z",
+        "category": "Economy"
+      },
       {
         "_id": "614a3cae9c3c",
         "title": "Horizontal visibility hinders the landing of a plane at Aden and Yemeni airports",
@@ -201,6 +201,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "8f4e90a38251",
+        "title": "England seizes 2026 World Cup bronze",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426654",
+        "published_date": "2026-07-18T23:18:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4508fd2d86f2",
+        "title": "An explanatory letter to the state authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426651",
+        "published_date": "2026-07-18T21:21:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "99d262a3c268",
+        "title": "A rare birth case in Yemen.. A mother gives birth to quintuplets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426631",
+        "published_date": "2026-07-18T16:41:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc70846bdc43",
+        "title": "Republic Cup: Shabab Markha qualifies for the round of 16 at the expense of Shabab Al-Jil",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426628",
+        "published_date": "2026-07-18T16:04:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "753fda7e3804",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, July 18, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426626",
+        "published_date": "2026-07-18T15:45:07Z",
+        "category": "Local Events"
+      },
       {
         "_id": "93b9a422ca30",
         "title": "Meteorology: Thunderstorms continue in more than 10 governorates, sometimes accompanied by hail",
@@ -319,46 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426518",
         "published_date": "2026-07-16T21:54:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "409e6b902581",
-        "title": "First Division League: Ahly Sanaa and Yarmouk tied, and Al-Salam won over Shabab Al-Bayda",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426507",
-        "published_date": "2026-07-16T16:23:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "87cdd30a33f3",
-        "title": "Taiz: Nearly 20 cases of dog bites were recorded in one day",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426497",
-        "published_date": "2026-07-16T14:00:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "475fe3197b7e",
-        "title": "Average gold prices in Sanaa and Aden, Thursday, July 16, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426492",
-        "published_date": "2026-07-16T12:57:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "415472afa288",
-        "title": "Meteorology: Rainfall in parts of the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426489",
-        "published_date": "2026-07-16T12:37:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "18f4fb2fb086",
-        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426487",
-        "published_date": "2026-07-16T00:05:05Z",
         "category": "Local Events"
       }
     ]
