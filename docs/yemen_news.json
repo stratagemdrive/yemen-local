@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-17T23:56:35Z",
+  "last_updated": "2026-07-18T11:57:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "17b9991a4180",
+        "title": "Humaidan warns against calls to impose international protection on the Bab al-Mandab Strait",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426621",
+        "published_date": "2026-07-18T06:57:44Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "04e8a4d7c66a",
+        "title": "Saudi Arabia determines its position on operating flights to Sanaa Airport and extends an invitation to the Sanaa Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426609",
+        "published_date": "2026-07-18T00:33:34Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b2d19c1eb6c8",
         "title": "Jordan officially announces the operation of flights to Sanaa Airport, and the Aden government determines its position, and Sanaa clarifies",
@@ -89,17 +105,17 @@
         "url": "https://yemenat.net/archives/426448",
         "published_date": "2026-07-15T06:49:54Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "6fc60ca78184",
-        "title": "The UN envoy discusses in Muscat the reduction of escalation in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426435",
-        "published_date": "2026-07-14T20:06:02Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "3a1447fc7cb3",
+        "title": "Dead and wounded in an armed attack targeting the National Shield forces in the Hadhramaut desert",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426612",
+        "published_date": "2026-07-18T01:25:32Z",
+        "category": "Military"
+      },
       {
         "_id": "4a2ca5f76715",
         "title": "A gang kills a young man in Al-Dhalea with an offensive bomb",
@@ -182,17 +198,25 @@
         "url": "https://yemenat.net/archives/426484",
         "published_date": "2026-07-15T23:31:01Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8cf182f2870a",
-        "title": "Yemeni merchants and importers from China complain of blackmail by a shipping line",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426446",
-        "published_date": "2026-07-15T06:02:11Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "93b9a422ca30",
+        "title": "Meteorology: Thunderstorms continue in more than 10 governorates, sometimes accompanied by hail",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426623",
+        "published_date": "2026-07-18T08:21:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1d3edd29acde",
+        "title": "A weather expert expects rainfall in most Yemeni governorates, the heaviest of which is in the highlands",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426617",
+        "published_date": "2026-07-18T06:16:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3cae6e5fbf26",
         "title": "An earthquake hits the Gulf of Aden",
@@ -335,22 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426487",
         "published_date": "2026-07-16T00:05:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fc3a2e7b257f",
-        "title": "Yemeni intellectuals appeal to Al-Alimi to provide a medical grant for the fighter Al-Muradi and call on the Socialist leadership to intervene",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426480",
-        "published_date": "2026-07-15T22:10:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d787a70f7798",
-        "title": "World Cup..Argentina defeats the English and qualifies for the final",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426477",
-        "published_date": "2026-07-15T21:20:50Z",
         "category": "Local Events"
       }
     ]
