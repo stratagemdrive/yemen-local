@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-18T23:58:17Z",
+  "last_updated": "2026-07-19T12:02:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -117,6 +117,22 @@
     ],
     "Military": [
       {
+        "_id": "b5abd23ff6ed",
+        "title": "The Taiz Bar Association condemns the burning of a lawyer’s car and demands the speedy arrest of the perpetrators",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426663",
+        "published_date": "2026-07-19T02:49:50Z",
+        "category": "Military"
+      },
+      {
+        "_id": "ac41137c3561",
+        "title": "National Shield reveals the number of dead and wounded in the Hadhramaut desert attack",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426658",
+        "published_date": "2026-07-19T02:16:10Z",
+        "category": "Military"
+      },
+      {
         "_id": "17cdce51bac3",
         "title": "First Division League: Wahda Sanaa and Al-Sadd Ma’rib tied at the end of the eighth round",
         "source": "Yemenat",
@@ -130,14 +146,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426612",
         "published_date": "2026-07-18T01:25:32Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4a2ca5f76715",
-        "title": "A gang kills a young man in Al-Dhalea with an offensive bomb",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426500",
-        "published_date": "2026-07-16T14:42:37Z",
         "category": "Military"
       }
     ],
@@ -190,17 +198,57 @@
         "url": "https://yemenat.net/archives/426541",
         "published_date": "2026-07-16T23:25:51Z",
         "category": "Economy"
-      },
-      {
-        "_id": "68e88e66061c",
-        "title": "First Division League.. Hadhramaut people beat Al Hilal and maintain the lead",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426484",
-        "published_date": "2026-07-15T23:31:01Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "97c4f1c27ab6",
+        "title": "President Nasser stipulates a comprehensive Yemeni dialogue following the south-south dialogue in Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426676",
+        "published_date": "2026-07-19T10:53:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "40a504ce4b26",
+        "title": "The father of quintuplets removes them from incubators in Taiz because he is unable to pay the costs",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426674",
+        "published_date": "2026-07-19T10:09:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "290cef27f0b4",
+        "title": "Sanaa.. The Central Bank re-deals with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426672",
+        "published_date": "2026-07-19T09:37:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a467061b9abb",
+        "title": "Meteorology: Varied thunderstorms accompanied by hail in five governorates and scattered in 11 others.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426670",
+        "published_date": "2026-07-19T09:06:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d1e222e6f174",
+        "title": "Parliamentarian Bishr: Everything is still an illusion and is linked to the arrival of mediators in Sanaa.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426667",
+        "published_date": "2026-07-19T03:32:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b805af6169e0",
+        "title": "Taiz.. Parties condemn the storming of the Hadhramaut Socialist headquarters and the assault on female party members and activists",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426660",
+        "published_date": "2026-07-19T02:40:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8f4e90a38251",
         "title": "England seizes 2026 World Cup bronze",
@@ -311,54 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426562",
         "published_date": "2026-07-17T15:57:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7b7d9969deb5",
-        "title": "Shabwa.. renewed tribal clashes in Khobar Laqmoush",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426558",
-        "published_date": "2026-07-17T15:32:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e14825d22fbc",
-        "title": "A weather expert expects heavy rains in some Yemeni governorates and warns of thunderstorms",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426550",
-        "published_date": "2026-07-17T00:35:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4d3554da5484",
-        "title": "How does your heart carry such great concern?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426536",
-        "published_date": "2026-07-16T23:18:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d2f2d04248d7",
-        "title": "When the law sleeps... corruption wakes up",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426530",
-        "published_date": "2026-07-16T23:09:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d3ce68d8a204",
-        "title": "Taiz parties condemn the attempted assassination of Judge Imran Jazem and demand the arrest of the perpetrators",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426522",
-        "published_date": "2026-07-16T22:43:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0e59042801b3",
-        "title": "Taiz.. A well claimed the lives of three people in Taiziya",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426518",
-        "published_date": "2026-07-16T21:54:49Z",
         "category": "Local Events"
       }
     ]
