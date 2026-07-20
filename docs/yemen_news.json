@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-20T00:01:33Z",
+  "last_updated": "2026-07-20T13:11:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "664d6a02ce24",
+        "title": "Saree announces a ban on maritime navigation to Saudi Arabia and confirms the adoption of the “siege with a blockade” equation.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426724",
+        "published_date": "2026-07-20T12:15:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3d178fbfb452",
+        "title": "Sanaa Foreign Ministry: The countries of the region must read the upcoming developments away from financial influences and pressures",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426701",
+        "published_date": "2026-07-20T04:18:11Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4572ff6be7e3",
         "title": "To the decision-makers in the Sana’a Authority",
@@ -97,25 +113,17 @@
         "url": "https://yemenat.net/archives/426565",
         "published_date": "2026-07-17T16:11:29Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ba0ac296d1ca",
-        "title": "Masks of virtue and dirt on the sidewalk: How does the falsity of authority kill the dignity of the Yemeni person?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426554",
-        "published_date": "2026-07-17T12:45:25Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "81bc548ca509",
-        "title": "Only in Yemen: Hope for life is born from the womb of war after it died in a time of false peace",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426533",
-        "published_date": "2026-07-16T23:13:30Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "447ae2ae05d5",
+        "title": "Two earthquakes were recorded from the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426713",
+        "published_date": "2026-07-20T08:24:33Z",
+        "category": "Military"
+      },
       {
         "_id": "b5abd23ff6ed",
         "title": "The Taiz Bar Association condemns the burning of a lawyer’s car and demands the speedy arrest of the perpetrators",
@@ -174,33 +182,65 @@
         "url": "https://yemenat.net/archives/426568",
         "published_date": "2026-07-17T16:50:24Z",
         "category": "Economy"
-      },
-      {
-        "_id": "504de290c61b",
-        "title": "Half a chicken",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426547",
-        "published_date": "2026-07-16T23:54:45Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "486ed092badc",
-        "title": "Al-Beidh: Homelands cannot be stabilized by wars, and dialogue resolves what rifles and cannons cannot resolve",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426545",
-        "published_date": "2026-07-16T23:33:45Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "6510080917dd",
-        "title": "The health sector: an open market for collection and investment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426541",
-        "published_date": "2026-07-16T23:25:51Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "22c4c5bab999",
+        "title": "Humaidan: Aden is a city of integration and coexistence and not an arena for conflicts over origins and lineages",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426727",
+        "published_date": "2026-07-20T12:30:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "16ec21ce049c",
+        "title": "Gas agents warn of a gas crisis in the Taiz countryside",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426721",
+        "published_date": "2026-07-20T09:14:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "986833e5d37b",
+        "title": "Exchange rates against the Yemeni riyal in Sanaa and Aden, Monday, July 20, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426719",
+        "published_date": "2026-07-20T08:56:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "502b642e431c",
+        "title": "Meteorology: Thunderstorms accompanied by blowing winds and hail in the highlands and plains, and scattered in the deserts.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426717",
+        "published_date": "2026-07-20T08:33:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc6f24bd8ac5",
+        "title": "Human rights and media organizations demand to be informed of the results of the preliminary investigations into the assassination of journalist Muhammad Aydah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426711",
+        "published_date": "2026-07-20T08:00:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0ff756240af",
+        "title": "Aden University warns of attacks on campus lands and demands a halt to construction work",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426707",
+        "published_date": "2026-07-20T05:14:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1f070b5ae20f",
+        "title": "Nabil Al-Foudayi reviews excerpts from his book (The Disappeared Dialects of Yemen and Ma’afir) at the Dal Center for Consultations, Cultural and Social Activities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426704",
+        "published_date": "2026-07-20T04:44:28Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c227c7c204a9",
         "title": "The Spanish national team is the champion of the 2026 World Cup",
@@ -303,62 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426628",
         "published_date": "2026-07-18T16:04:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "753fda7e3804",
-        "title": "Average gold prices in Sanaa and Aden, Saturday, July 18, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426626",
-        "published_date": "2026-07-18T15:45:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "93b9a422ca30",
-        "title": "Meteorology: Thunderstorms continue in more than 10 governorates, sometimes accompanied by hail",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426623",
-        "published_date": "2026-07-18T08:21:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1d3edd29acde",
-        "title": "A weather expert expects rainfall in most Yemeni governorates, the heaviest of which is in the highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426617",
-        "published_date": "2026-07-18T06:16:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3cae6e5fbf26",
-        "title": "An earthquake hits the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426600",
-        "published_date": "2026-07-17T23:47:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4aa44b1f50c7",
-        "title": "Parliamentarian Hashid reveals that he was prevented from returning to Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426597",
-        "published_date": "2026-07-17T23:06:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bd4c383b405f",
-        "title": "Taiz.. Large amounts of hail fell in Mount Sabr",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426593",
-        "published_date": "2026-07-17T21:23:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c0d3cc54872b",
-        "title": "Aden.. The Yemeni Coast Guard Service clarifies the kidnapping of an oil tanker by pirates near the coast of Hadramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426580",
-        "published_date": "2026-07-17T18:49:42Z",
         "category": "Local Events"
       }
     ]
