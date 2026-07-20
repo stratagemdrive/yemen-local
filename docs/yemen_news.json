@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-19T12:02:50Z",
+  "last_updated": "2026-07-20T00:01:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4572ff6be7e3",
+        "title": "To the decision-makers in the Sana’a Authority",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426698",
+        "published_date": "2026-07-19T23:21:47Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "46151a67a935",
+        "title": "Over time you are spatially domesticated",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426695",
+        "published_date": "2026-07-19T23:18:20Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0f409f706382",
+        "title": "Why do we stand in solidarity with Dr. Majid Al-Khazan?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426692",
+        "published_date": "2026-07-19T23:11:57Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f2bc82fcafac",
+        "title": "The UN envoy leads broad consultations on Yemen and moves between Riyadh and Muscat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426679",
+        "published_date": "2026-07-19T16:39:36Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "25205ec79308",
         "title": "Aden.. The Aviation Authority issues a circular regarding permits to enter the Yemeni air territory",
@@ -80,38 +112,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426533",
         "published_date": "2026-07-16T23:13:30Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4a78af3703d2",
-        "title": "Badges",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426527",
-        "published_date": "2026-07-16T23:02:10Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b4cc619d6f6a",
-        "title": "The director of Sana'a Airport announces its readiness to receive flights",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426515",
-        "published_date": "2026-07-16T21:27:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c95e2a9fa787",
-        "title": "Multiple readings and possibilities of meaning in Adonis's poetry: when the poem becomes an endless space for interpretation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426513",
-        "published_date": "2026-07-16T20:48:07Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a650e5208b8f",
-        "title": "Aden.. Civil status and civil registry grant a national number for children",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426503",
-        "published_date": "2026-07-16T15:38:38Z",
         "category": "Diplomacy"
       }
     ],
@@ -201,6 +201,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "c227c7c204a9",
+        "title": "The Spanish national team is the champion of the 2026 World Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426688",
+        "published_date": "2026-07-19T22:37:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1b8e4619c6fe",
+        "title": "A detained doctor in Sanaa announces a hunger strike",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426686",
+        "published_date": "2026-07-19T17:53:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2e2cf99f685d",
+        "title": "A citizen is kidnapped and tortured by relatives of a military commander in Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426682",
+        "published_date": "2026-07-19T17:22:12Z",
+        "category": "Local Events"
+      },
       {
         "_id": "97c4f1c27ab6",
         "title": "President Nasser stipulates a comprehensive Yemeni dialogue following the south-south dialogue in Saudi Arabia",
@@ -335,30 +359,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426580",
         "published_date": "2026-07-17T18:49:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f25d26702be",
-        "title": "First Division League.. Al-Mukalla, Al-Tadamon, and Fahman win over Al-Orouba, Ittihad Ibb, and Ittihad Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426572",
-        "published_date": "2026-07-17T17:34:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44b8e00e587c",
-        "title": "Civil Defense announces the recovery of three bodies who suffocated in a well in Taiz and renews its warning against operating pumps inside wells",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426570",
-        "published_date": "2026-07-17T17:15:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1b0c695771fd",
-        "title": "Cloud coverage over 12 governorates... and meteorology raises the alert to a warning",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426562",
-        "published_date": "2026-07-17T15:57:41Z",
         "category": "Local Events"
       }
     ]
