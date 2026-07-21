@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-21T12:26:19Z",
+  "last_updated": "2026-07-21T23:58:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1e47f1539804",
+        "title": "The Saudi Council of Ministers announces measures to protect Saudi ships",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426788",
+        "published_date": "2026-07-21T21:55:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1d88ce2e33e1",
+        "title": "Head of the Sanaa Aviation Authority: Flights to Sanaa Airport are for civil and humanitarian purposes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426781",
+        "published_date": "2026-07-21T20:23:46Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3752e48e2460",
         "title": "Cleared of guilt...Stop making such decisions",
@@ -97,25 +113,17 @@
         "url": "https://yemenat.net/archives/426679",
         "published_date": "2026-07-19T16:39:36Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "25205ec79308",
-        "title": "Aden.. The Aviation Authority issues a circular regarding permits to enter the Yemeni air territory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426644",
-        "published_date": "2026-07-18T18:18:11Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0008486ff19d",
-        "title": "Sanaa Foreign Ministry: Dealing with Saudi Arabia as a mediator has contributed to the continued suffering of the Yemenis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426635",
-        "published_date": "2026-07-18T17:22:57Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "5aebc1540c98",
+        "title": "Sanaa Defense reveals the return of Saudi ships after announcing the navigation ban",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426791",
+        "published_date": "2026-07-21T22:06:30Z",
+        "category": "Military"
+      },
       {
         "_id": "9eb2fd3ca094",
         "title": "The Saudi Foreign Ministry comments on the Sanaa Authority’s announcement banning navigation in the Red Sea",
@@ -163,14 +171,6 @@
         "url": "https://yemenat.net/archives/426658",
         "published_date": "2026-07-19T02:16:10Z",
         "category": "Military"
-      },
-      {
-        "_id": "17cdce51bac3",
-        "title": "First Division League: Wahda Sanaa and Al-Sadd Ma’rib tied at the end of the eighth round",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426638",
-        "published_date": "2026-07-18T17:41:55Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -193,6 +193,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "08d5a1e4b1a8",
+        "title": "Flood accidents are frequent in the city of Ibb. One person died and another was injured, amid calls for preventive measures",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426798",
+        "published_date": "2026-07-21T23:37:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80f07876a1de",
+        "title": "First Division League.. Hadhramaut people cling to the lead, and Fahman surpasses Al Hilal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426795",
+        "published_date": "2026-07-21T22:42:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "229b7523b63d",
+        "title": "After judicial rulings in his favor...the Mujahid Fath Al-Hammadi appeals to Al-Sayyid and the leadership to stop the death threats to force him to go to tribal arbitration",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426784",
+        "published_date": "2026-07-21T20:51:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80a28092572c",
+        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the activist Nasher Al-Absi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426777",
+        "published_date": "2026-07-21T19:47:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1ccdd8cf4f3a",
         "title": "Meteorology warns of blowing winds accompanied by thunderstorms and advises about solar panels",
@@ -319,38 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426682",
         "published_date": "2026-07-19T17:22:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "97c4f1c27ab6",
-        "title": "President Nasser stipulates a comprehensive Yemeni dialogue following the south-south dialogue in Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426676",
-        "published_date": "2026-07-19T10:53:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40a504ce4b26",
-        "title": "The father of quintuplets removes them from incubators in Taiz because he is unable to pay the costs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426674",
-        "published_date": "2026-07-19T10:09:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "290cef27f0b4",
-        "title": "Sanaa.. The Central Bank re-deals with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426672",
-        "published_date": "2026-07-19T09:37:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a467061b9abb",
-        "title": "Meteorology: Varied thunderstorms accompanied by hail in five governorates and scattered in 11 others.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426670",
-        "published_date": "2026-07-19T09:06:02Z",
         "category": "Local Events"
       }
     ]
