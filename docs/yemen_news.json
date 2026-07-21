@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-21T00:01:00Z",
+  "last_updated": "2026-07-21T12:26:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3752e48e2460",
+        "title": "Cleared of guilt...Stop making such decisions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426774",
+        "published_date": "2026-07-21T10:14:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c4e7bb91fa5c",
+        "title": "The United Nations warns of a regional escalation and confirms that its envoy is heading to Muscat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426770",
+        "published_date": "2026-07-21T09:49:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "45acf88e4ee8",
+        "title": "Parliamentarian Hashed: Starving Yemenis is a systematic policy and a common crime",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426764",
+        "published_date": "2026-07-21T05:22:32Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3c9451a2a480",
+        "title": "The Sanaa Foreign Ministry responds to the Saudi Foreign Ministry’s statement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426761",
+        "published_date": "2026-07-21T04:47:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9f638d0ae291",
         "title": "Al-Maliki: Firm operational measures to protect ships in Bab al-Mandab",
@@ -81,33 +113,17 @@
         "url": "https://yemenat.net/archives/426635",
         "published_date": "2026-07-18T17:22:57Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "17b9991a4180",
-        "title": "Humaidan warns against calls to impose international protection on the Bab al-Mandab Strait",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426621",
-        "published_date": "2026-07-18T06:57:44Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "04e8a4d7c66a",
-        "title": "Saudi Arabia determines its position on operating flights to Sanaa Airport and extends an invitation to the Sanaa Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426609",
-        "published_date": "2026-07-18T00:33:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "b2d19c1eb6c8",
-        "title": "Jordan officially announces the operation of flights to Sanaa Airport, and the Aden government determines its position, and Sanaa clarifies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426589",
-        "published_date": "2026-07-17T20:15:48Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "9eb2fd3ca094",
+        "title": "The Saudi Foreign Ministry comments on the Sanaa Authority’s announcement banning navigation in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426757",
+        "published_date": "2026-07-21T04:14:19Z",
+        "category": "Military"
+      },
       {
         "_id": "fc253c071d77",
         "title": "Agency: The costs of shipping insurance through the Red Sea increased following the announcement of the shipping ban on Saudi Arabia",
@@ -155,14 +171,6 @@
         "url": "https://yemenat.net/archives/426638",
         "published_date": "2026-07-18T17:41:55Z",
         "category": "Military"
-      },
-      {
-        "_id": "3a1447fc7cb3",
-        "title": "Dead and wounded in an armed attack targeting the National Shield forces in the Hadhramaut desert",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426612",
-        "published_date": "2026-07-18T01:25:32Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -185,6 +193,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "1ccdd8cf4f3a",
+        "title": "Meteorology warns of blowing winds accompanied by thunderstorms and advises about solar panels",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426767",
+        "published_date": "2026-07-21T08:38:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fe2d1779d9f3",
+        "title": "Taiz.. A citizen accuses security authorities in Al-Maafer of a series of violations and demands investigation and justice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426754",
+        "published_date": "2026-07-21T03:43:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d28e0e739704",
+        "title": "Flashes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426752",
+        "published_date": "2026-07-21T00:56:34Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1726b5937180",
         "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
@@ -235,7 +267,7 @@
       },
       {
         "_id": "502b642e431c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: Thunderstorms accompanied by blowing winds and hail in the highlands and plains, and scattered in the deserts.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426717",
         "published_date": "2026-07-20T08:33:22Z",
@@ -319,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426670",
         "published_date": "2026-07-19T09:06:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d1e222e6f174",
-        "title": "Parliamentarian Bishr: Everything is still an illusion and is linked to the arrival of mediators in Sanaa.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426667",
-        "published_date": "2026-07-19T03:32:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b805af6169e0",
-        "title": "Taiz.. Parties condemn the storming of the Hadhramaut Socialist headquarters and the assault on female party members and activists",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426660",
-        "published_date": "2026-07-19T02:40:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f4e90a38251",
-        "title": "England seizes 2026 World Cup bronze",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426654",
-        "published_date": "2026-07-18T23:18:23Z",
         "category": "Local Events"
       }
     ]
