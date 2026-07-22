@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-21T23:58:40Z",
+  "last_updated": "2026-07-22T12:43:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -155,26 +155,26 @@
         "url": "https://yemenat.net/archives/426713",
         "published_date": "2026-07-20T08:24:33Z",
         "category": "Military"
-      },
-      {
-        "_id": "b5abd23ff6ed",
-        "title": "The Taiz Bar Association condemns the burning of a lawyer’s car and demands the speedy arrest of the perpetrators",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426663",
-        "published_date": "2026-07-19T02:49:50Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ac41137c3561",
-        "title": "National Shield reveals the number of dead and wounded in the Hadhramaut desert attack",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426658",
-        "published_date": "2026-07-19T02:16:10Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "43afb4c3409e",
+        "title": "Regarding the murder of the martyr Bashar Al-Absi... a judicial order to return the file to the prosecution to re-investigate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426816",
+        "published_date": "2026-07-22T12:37:27Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e96ba5db0108",
+        "title": "Sports bullying... when the championship ends and morals remain the real winner",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426814",
+        "published_date": "2026-07-22T12:29:03Z",
+        "category": "Economy"
+      },
       {
         "_id": "5623cccc2d3b",
         "title": "Al-Alimi announces the start of work to resume oil exports",
@@ -182,17 +182,49 @@
         "url": "https://yemenat.net/archives/426739",
         "published_date": "2026-07-20T19:21:17Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0b6d69092d84",
-        "title": "After suspending its commitment to the memorandum of understanding, an Iranian threat to target four ports in the Emirates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426648",
-        "published_date": "2026-07-18T19:59:16Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "9fd29deadb06",
+        "title": "Meteorology: The unstable atmosphere expands over most parts of the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426811",
+        "published_date": "2026-07-22T10:22:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "810595be46a2",
+        "title": "Civil Defense announces the recovery of two people who were swept away by floods in Ibb",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426808",
+        "published_date": "2026-07-22T05:53:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88ae898c517e",
+        "title": "The Disciplinary Committee resolves a dispute between a number of clubs regarding the transfer of player Ayman Abdel Rab",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426806",
+        "published_date": "2026-07-22T05:00:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb35d7765ba4",
+        "title": "Sanaa.. The Central Bank re-deals with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426804",
+        "published_date": "2026-07-22T04:07:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a63171b2210e",
+        "title": "Parliamentarian Hashed: The war has produced a scene of brutality, terror, and lawlessness that has become prevalent throughout Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426801",
+        "published_date": "2026-07-22T03:10:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "08d5a1e4b1a8",
         "title": "Flood accidents are frequent in the city of Ibb. One person died and another was injured, amid calls for preventive measures",
@@ -311,46 +343,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426711",
         "published_date": "2026-07-20T08:00:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f0ff756240af",
-        "title": "Aden University warns of attacks on campus lands and demands a halt to construction work",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426707",
-        "published_date": "2026-07-20T05:14:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f070b5ae20f",
-        "title": "Nabil Al-Foudayi reviews excerpts from his book (The Disappeared Dialects of Yemen and Ma’afir) at the Dal Center for Consultations, Cultural and Social Activities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426704",
-        "published_date": "2026-07-20T04:44:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c227c7c204a9",
-        "title": "The Spanish national team is the champion of the 2026 World Cup",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426688",
-        "published_date": "2026-07-19T22:37:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1b8e4619c6fe",
-        "title": "A detained doctor in Sanaa announces a hunger strike",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426686",
-        "published_date": "2026-07-19T17:53:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e2cf99f685d",
-        "title": "A citizen is kidnapped and tortured by relatives of a military commander in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426682",
-        "published_date": "2026-07-19T17:22:12Z",
         "category": "Local Events"
       }
     ]
