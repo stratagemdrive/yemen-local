@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-22T12:43:18Z",
+  "last_updated": "2026-07-23T00:04:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,30 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "5f750f69fc58",
+        "title": "There is no religious belief in Islam??",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426836",
+        "published_date": "2026-07-22T20:49:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "7e3681e30e3a",
+        "title": "Sanaa Foreign Ministry: International statements regarding Yemen were formulated under American or Saudi dictates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426833",
+        "published_date": "2026-07-22T20:41:08Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ba490c60c3be",
+        "title": "Hayel Saeed Anam & Co. Group, in partnership with Microsoft, launches a new phase for employing artificial intelligence in its business",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426826",
+        "published_date": "2026-07-22T20:31:36Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "1e47f1539804",
         "title": "The Saudi Council of Ministers announces measures to protect Saudi ships",
@@ -81,41 +105,25 @@
         "url": "https://yemenat.net/archives/426701",
         "published_date": "2026-07-20T04:18:11Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4572ff6be7e3",
-        "title": "To the decision-makers in the Sana’a Authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426698",
-        "published_date": "2026-07-19T23:21:47Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "46151a67a935",
-        "title": "Over time you are spatially domesticated",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426695",
-        "published_date": "2026-07-19T23:18:20Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0f409f706382",
-        "title": "Why do we stand in solidarity with Dr. Majid Al-Khazan?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426692",
-        "published_date": "2026-07-19T23:11:57Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f2bc82fcafac",
-        "title": "The UN envoy leads broad consultations on Yemen and moves between Riyadh and Muscat",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426679",
-        "published_date": "2026-07-19T16:39:36Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "1d9b28c701cf",
+        "title": "Saree announces the targeting of two Saudi oil ships in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426841",
+        "published_date": "2026-07-22T21:39:22Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e01de6bc01ec",
+        "title": "Why do prosecutors refuse to photograph the file and provide the accused with a copy of it?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426832",
+        "published_date": "2026-07-22T20:42:36Z",
+        "category": "Military"
+      },
       {
         "_id": "5aebc1540c98",
         "title": "Sanaa Defense reveals the return of Saudi ships after announcing the navigation ban",
@@ -160,6 +168,38 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "1139711132f1",
+        "title": "British Authority: A ship was targeted in the Red Sea with an unknown projectile",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426846",
+        "published_date": "2026-07-22T22:52:14Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "c461dbf509e2",
+        "title": "Aden.. Announcing the start of procedures for resuming the export of crude oil",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426843",
+        "published_date": "2026-07-22T22:19:00Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9b5412f31561",
+        "title": "The United Nations suspends its flights to Sanaa and cancels a trip to Marib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426838",
+        "published_date": "2026-07-22T21:01:16Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "02da3d0cf81d",
+        "title": "The World Food Program disburses aid to more than a million Yemenis and continues to suspend it in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426820",
+        "published_date": "2026-07-22T18:43:24Z",
+        "category": "Economy"
+      },
+      {
         "_id": "43afb4c3409e",
         "title": "Regarding the murder of the martyr Bashar Al-Absi... a judicial order to return the file to the prosecution to re-investigate",
         "source": "Yemenat",
@@ -185,6 +225,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "2d6bf54fe5d3",
+        "title": "First Division League: Yarmouk draws with Tadamon Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426822",
+        "published_date": "2026-07-22T18:50:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "70ed541c1907",
+        "title": "Average gold prices in Sanaa and Aden, Wednesday, July 22, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426818",
+        "published_date": "2026-07-22T13:46:35Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9fd29deadb06",
         "title": "Meteorology: The unstable atmosphere expands over most parts of the country",
@@ -327,22 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426719",
         "published_date": "2026-07-20T08:56:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "502b642e431c",
-        "title": "Meteorology: Thunderstorms accompanied by blowing winds and hail in the highlands and plains, and scattered in the deserts.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426717",
-        "published_date": "2026-07-20T08:33:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc6f24bd8ac5",
-        "title": "Human rights and media organizations demand to be informed of the results of the preliminary investigations into the assassination of journalist Muhammad Aydah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426711",
-        "published_date": "2026-07-20T08:00:57Z",
         "category": "Local Events"
       }
     ]
