@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-23T00:04:19Z",
+  "last_updated": "2026-07-23T12:43:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -97,17 +97,17 @@
         "url": "https://yemenat.net/archives/426724",
         "published_date": "2026-07-20T12:15:35Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3d178fbfb452",
-        "title": "Sanaa Foreign Ministry: The countries of the region must read the upcoming developments away from financial influences and pressures",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426701",
-        "published_date": "2026-07-20T04:18:11Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "fcefe6c29aaf",
+        "title": "The hearing team participates in the group wedding for the blind in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426859",
+        "published_date": "2026-07-23T05:07:04Z",
+        "category": "Military"
+      },
       {
         "_id": "1d9b28c701cf",
         "title": "Saree announces the targeting of two Saudi oil ships in the Red Sea",
@@ -155,18 +155,26 @@
         "url": "https://yemenat.net/archives/426741",
         "published_date": "2026-07-20T20:20:40Z",
         "category": "Military"
-      },
-      {
-        "_id": "447ae2ae05d5",
-        "title": "Two earthquakes were recorded from the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426713",
-        "published_date": "2026-07-20T08:24:33Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "8abf9a0da6dd",
+        "title": "Al-Saqladi raises questions about resuming oil exports and links it to possible understandings between Riyadh and Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426862",
+        "published_date": "2026-07-23T05:31:10Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "11552508b2da",
+        "title": "Saudi Arabia announces the targeting of a commercial ship in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426852",
+        "published_date": "2026-07-23T03:56:39Z",
+        "category": "Economy"
+      },
       {
         "_id": "1139711132f1",
         "title": "British Authority: A ship was targeted in the Red Sea with an unknown projectile",
@@ -225,6 +233,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "9e04a054dc8b",
+        "title": "Meteorology: The instability of the Yemeni atmosphere continues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426871",
+        "published_date": "2026-07-23T08:31:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f5e5fd7de3fe",
+        "title": "Shabwa... Tension in Habban between a military campaign and tribal militants",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426865",
+        "published_date": "2026-07-23T08:08:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2ae2f36047e6",
+        "title": "Wide cloud coverage in Sanaa and neighboring governorates as morning rain continues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426849",
+        "published_date": "2026-07-23T03:38:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2d6bf54fe5d3",
         "title": "First Division League: Yarmouk draws with Tadamon Hadhramaut",
@@ -359,30 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426730",
         "published_date": "2026-07-20T17:42:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "22c4c5bab999",
-        "title": "Humaidan: Aden is a city of integration and coexistence and not an arena for conflicts over origins and lineages",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426727",
-        "published_date": "2026-07-20T12:30:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "16ec21ce049c",
-        "title": "Gas agents warn of a gas crisis in the Taiz countryside",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426721",
-        "published_date": "2026-07-20T09:14:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "986833e5d37b",
-        "title": "Exchange rates against the Yemeni riyal in Sanaa and Aden, Monday, July 20, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426719",
-        "published_date": "2026-07-20T08:56:40Z",
         "category": "Local Events"
       }
     ]
