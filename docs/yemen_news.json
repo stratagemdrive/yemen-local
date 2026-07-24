@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-24T00:04:59Z",
+  "last_updated": "2026-07-24T12:23:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "5d7556982b1c",
+        "title": "Flashes",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426903",
+        "published_date": "2026-07-24T10:03:59Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "556508e0cd91",
         "title": "Republic Cup: Aden Unit qualifies for the round of 16",
