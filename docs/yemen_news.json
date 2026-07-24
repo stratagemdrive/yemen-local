@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-23T12:43:16Z",
+  "last_updated": "2026-07-24T00:04:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "556508e0cd91",
+        "title": "Republic Cup: Aden Unit qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426894",
+        "published_date": "2026-07-23T22:16:05Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "29cb963864b6",
+        "title": "The Sultanate of Oman reveals efforts to resume the political track in Yemen and calls for avoiding escalation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426892",
+        "published_date": "2026-07-23T21:56:33Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "46e4413a3239",
+        "title": "The UN envoy warns of Yemen's deepening involvement in a tense regional environment",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426887",
+        "published_date": "2026-07-23T21:07:34Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f403c3ee83d0",
+        "title": "Limited cabinet reshuffle in Al-Zindani's government",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426876",
+        "published_date": "2026-07-23T19:16:00Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5f750f69fc58",
         "title": "There is no religious belief in Islam??",
@@ -81,22 +113,6 @@
         "url": "https://yemenat.net/archives/426761",
         "published_date": "2026-07-21T04:47:22Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "9f638d0ae291",
-        "title": "Al-Maliki: Firm operational measures to protect ships in Bab al-Mandab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426744",
-        "published_date": "2026-07-20T20:57:51Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "664d6a02ce24",
-        "title": "Saree announces a ban on maritime navigation to Saudi Arabia and confirms the adoption of the “siege with a blockade” equation.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426724",
-        "published_date": "2026-07-20T12:15:35Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -139,26 +155,34 @@
         "url": "https://yemenat.net/archives/426757",
         "published_date": "2026-07-21T04:14:19Z",
         "category": "Military"
-      },
-      {
-        "_id": "fc253c071d77",
-        "title": "Agency: The costs of shipping insurance through the Red Sea increased following the announcement of the shipping ban on Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426747",
-        "published_date": "2026-07-20T21:33:21Z",
-        "category": "Military"
-      },
-      {
-        "_id": "f895d0fdbd9f",
-        "title": "Hanan Hussein: They demand that the people carry weapons while they are busy calculating the balances",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426741",
-        "published_date": "2026-07-20T20:20:40Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "4aa878d10187",
+        "title": "Hanan Hussein criticizes the appointment of Al-Zouba as Minister of Foreign Affairs and calls for the restoration of academic titles",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426900",
+        "published_date": "2026-07-23T23:14:47Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "51e059e92049",
+        "title": "The Listening Team: We have neglected culture for 11 years...and it is time to do justice to writers and creators",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426880",
+        "published_date": "2026-07-23T20:09:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f26d236e4bf6",
+        "title": "Parliamentarian Hashid: There is no national bearer to restore the state and the homeland",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426878",
+        "published_date": "2026-07-23T19:37:37Z",
+        "category": "Economy"
+      },
       {
         "_id": "8abf9a0da6dd",
         "title": "Al-Saqladi raises questions about resuming oil exports and links it to possible understandings between Riyadh and Sanaa",
@@ -222,17 +246,41 @@
         "url": "https://yemenat.net/archives/426814",
         "published_date": "2026-07-22T12:29:03Z",
         "category": "Economy"
-      },
-      {
-        "_id": "5623cccc2d3b",
-        "title": "Al-Alimi announces the start of work to resume oil exports",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426739",
-        "published_date": "2026-07-20T19:21:17Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "ce00751f09fa",
+        "title": "An agency determines the location of the hijacked chemical tanker in the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426897",
+        "published_date": "2026-07-23T22:39:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dde5c4dc900a",
+        "title": "First Division League.. Al-Mukalla inflicts “Al-Sadd” its first loss, and Ittihad Ibb wins over Shabab Al-Bayda",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426889",
+        "published_date": "2026-07-23T21:37:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0e295762bcbe",
+        "title": "When the stone cries at the thresholds of justice: a hymn of pain for the soul of Adel Saleh Yahya",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426883",
+        "published_date": "2026-07-23T20:27:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ac02be22701",
+        "title": "The revolution of July 23, 1952 is not a memory to be recounted, but rather the light of free people whenever a people is liberated from the basement of slavery.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426874",
+        "published_date": "2026-07-23T18:36:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9e04a054dc8b",
         "title": "Meteorology: The instability of the Yemeni atmosphere continues",
@@ -359,38 +407,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426754",
         "published_date": "2026-07-21T03:43:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d28e0e739704",
-        "title": "Flashes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426752",
-        "published_date": "2026-07-21T00:56:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1726b5937180",
-        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426737",
-        "published_date": "2026-07-20T18:40:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d25b9c37a9c8",
-        "title": "The hearing team discusses with the President of the Supreme Judicial Council the development of the judicial system and accelerating the adjudication of citizens’ cases",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426732",
-        "published_date": "2026-07-20T18:23:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dea1730be625",
-        "title": "Sanaa.. A doctor lifts his hunger strike and leaves prosecutor’s custody",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426730",
-        "published_date": "2026-07-20T17:42:45Z",
         "category": "Local Events"
       }
     ]
