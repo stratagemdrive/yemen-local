@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-25T00:08:52Z",
+  "last_updated": "2026-07-25T12:05:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -117,6 +117,22 @@
     ],
     "Military": [
       {
+        "_id": "aad5415258fe",
+        "title": "Agency: Saudi defenses intercepted two ballistic missiles in the airspace of Yanbu",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426954",
+        "published_date": "2026-07-25T09:34:10Z",
+        "category": "Military"
+      },
+      {
+        "_id": "1481c798b76c",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426949",
+        "published_date": "2026-07-25T05:49:42Z",
+        "category": "Military"
+      },
+      {
         "_id": "399a47192bfe",
         "title": "Al-Maliki announces the implementation of air strikes in Hodeidah",
         "source": "Yemenat",
@@ -147,18 +163,18 @@
         "url": "https://yemenat.net/archives/426832",
         "published_date": "2026-07-22T20:42:36Z",
         "category": "Military"
-      },
-      {
-        "_id": "5aebc1540c98",
-        "title": "Sanaa Defense reveals the return of Saudi ships after announcing the navigation ban",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426791",
-        "published_date": "2026-07-21T22:06:30Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "ef908a6469a0",
+        "title": "Sanaa Interior Ministry warns against publishing scenes of bombing sites",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426947",
+        "published_date": "2026-07-25T05:24:20Z",
+        "category": "Economy"
+      },
       {
         "_id": "7f4049e3fd55",
         "title": "Al-Jawi: The Sanaa authority moves from one file to another without integrated management of the crisis",
@@ -257,6 +273,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "4a460caaed70",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426957",
+        "published_date": "2026-07-25T11:02:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a31dabf12b7b",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426952",
+        "published_date": "2026-07-25T09:07:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "38cb58cef051",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426943",
+        "published_date": "2026-07-25T05:02:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3a5ad536cd60",
+        "title": "Saudi Civil Defense warns residents of Jizan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426940",
+        "published_date": "2026-07-25T03:48:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aba0e8cb75bf",
+        "title": "Saudi Civil Defense warns of danger to Yanbu Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426937",
+        "published_date": "2026-07-25T02:18:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2023361ae980",
         "title": "Sanaa identifies the sites of raids in Hodeidah, and the Ministry of Foreign Affairs vows to equate “escalation with escalation”",
@@ -359,62 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426818",
         "published_date": "2026-07-22T13:46:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9fd29deadb06",
-        "title": "Meteorology: The unstable atmosphere expands over most parts of the country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426811",
-        "published_date": "2026-07-22T10:22:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "810595be46a2",
-        "title": "Civil Defense announces the recovery of two people who were swept away by floods in Ibb",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426808",
-        "published_date": "2026-07-22T05:53:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88ae898c517e",
-        "title": "The Disciplinary Committee resolves a dispute between a number of clubs regarding the transfer of player Ayman Abdel Rab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426806",
-        "published_date": "2026-07-22T05:00:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fb35d7765ba4",
-        "title": "Sanaa.. The Central Bank re-deals with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426804",
-        "published_date": "2026-07-22T04:07:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a63171b2210e",
-        "title": "Parliamentarian Hashed: The war has produced a scene of brutality, terror, and lawlessness that has become prevalent throughout Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426801",
-        "published_date": "2026-07-22T03:10:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "08d5a1e4b1a8",
-        "title": "Flood accidents are frequent in the city of Ibb. One person died and another was injured, amid calls for preventive measures",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426798",
-        "published_date": "2026-07-21T23:37:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80f07876a1de",
-        "title": "First Division League.. Hadhramaut people cling to the lead, and Fahman surpasses Al Hilal",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426795",
-        "published_date": "2026-07-21T22:42:22Z",
         "category": "Local Events"
       }
     ]
