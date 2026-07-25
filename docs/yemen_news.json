@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-24T12:23:29Z",
+  "last_updated": "2026-07-25T00:08:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,46 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "e7732b6f08b8",
+        "title": "The Saudi Transport Authority announces the targeting of a new ship in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426934",
+        "published_date": "2026-07-24T23:20:55Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a738c88d471c",
+        "title": "Warplanes bombed the city of Hodeidah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426921",
+        "published_date": "2026-07-24T20:36:31Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a420698d1379",
+        "title": "Muhammad Abdel Salam explains about the closure of the Bab al-Mandab Strait",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426915",
+        "published_date": "2026-07-24T17:32:50Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1752ebb7510b",
+        "title": "Oil Minister Bamaqa: Arrangements with Saudi Arabia to resume oil exports and a plan to secure navigation in Bab al-Mandab",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426909",
+        "published_date": "2026-07-24T15:47:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "71f60350ad16",
+        "title": "Aburas: Lifting the siege on Yemen is a condition for ending the “siege versus siege” equation.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426907",
+        "published_date": "2026-07-24T15:28:03Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5d7556982b1c",
         "title": "Flashes",
@@ -73,57 +113,17 @@
         "url": "https://yemenat.net/archives/426826",
         "published_date": "2026-07-22T20:31:36Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "1e47f1539804",
-        "title": "The Saudi Council of Ministers announces measures to protect Saudi ships",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426788",
-        "published_date": "2026-07-21T21:55:23Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "1d88ce2e33e1",
-        "title": "Head of the Sanaa Aviation Authority: Flights to Sanaa Airport are for civil and humanitarian purposes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426781",
-        "published_date": "2026-07-21T20:23:46Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3752e48e2460",
-        "title": "Cleared of guilt...Stop making such decisions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426774",
-        "published_date": "2026-07-21T10:14:35Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c4e7bb91fa5c",
-        "title": "The United Nations warns of a regional escalation and confirms that its envoy is heading to Muscat",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426770",
-        "published_date": "2026-07-21T09:49:19Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "45acf88e4ee8",
-        "title": "Parliamentarian Hashed: Starving Yemenis is a systematic policy and a common crime",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426764",
-        "published_date": "2026-07-21T05:22:32Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3c9451a2a480",
-        "title": "The Sanaa Foreign Ministry responds to the Saudi Foreign Ministry’s statement",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426761",
-        "published_date": "2026-07-21T04:47:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "399a47192bfe",
+        "title": "Al-Maliki announces the implementation of air strikes in Hodeidah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426927",
+        "published_date": "2026-07-24T21:42:01Z",
+        "category": "Military"
+      },
       {
         "_id": "fcefe6c29aaf",
         "title": "The hearing team participates in the group wedding for the blind in Sanaa",
@@ -155,18 +155,18 @@
         "url": "https://yemenat.net/archives/426791",
         "published_date": "2026-07-21T22:06:30Z",
         "category": "Military"
-      },
-      {
-        "_id": "9eb2fd3ca094",
-        "title": "The Saudi Foreign Ministry comments on the Sanaa Authority’s announcement banning navigation in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426757",
-        "published_date": "2026-07-21T04:14:19Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "7f4049e3fd55",
+        "title": "Al-Jawi: The Sanaa authority moves from one file to another without integrated management of the crisis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426919",
+        "published_date": "2026-07-24T17:53:03Z",
+        "category": "Economy"
+      },
       {
         "_id": "4aa878d10187",
         "title": "Hanan Hussein criticizes the appointment of Al-Zouba as Minister of Foreign Affairs and calls for the restoration of academic titles",
@@ -257,6 +257,38 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "2023361ae980",
+        "title": "Sanaa identifies the sites of raids in Hodeidah, and the Ministry of Foreign Affairs vows to equate “escalation with escalation”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426931",
+        "published_date": "2026-07-24T22:27:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dc62e6c4745a",
+        "title": "Aden.. Appointment of a governor for Saada Governorate and a commander for the Abyan axis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426924",
+        "published_date": "2026-07-24T21:13:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "849d03de4293",
+        "title": "First Division League: Ittihad Hadhramaut and Al-Ahly Sanaa tied",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426912",
+        "published_date": "2026-07-24T16:06:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ff492ab86d7f",
+        "title": "Meteorology: Thunderstorms accompanied by hailstones and blowing winds over most of the highlands and the Tihama Plain.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426905",
+        "published_date": "2026-07-24T15:05:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ce00751f09fa",
         "title": "An agency determines the location of the hijacked chemical tanker in the Gulf of Aden",
@@ -383,38 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426795",
         "published_date": "2026-07-21T22:42:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "229b7523b63d",
-        "title": "After judicial rulings in his favor...the Mujahid Fath Al-Hammadi appeals to Al-Sayyid and the leadership to stop the death threats to force him to go to tribal arbitration",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426784",
-        "published_date": "2026-07-21T20:51:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80a28092572c",
-        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the activist Nasher Al-Absi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426777",
-        "published_date": "2026-07-21T19:47:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1ccdd8cf4f3a",
-        "title": "Meteorology warns of blowing winds accompanied by thunderstorms and advises about solar panels",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426767",
-        "published_date": "2026-07-21T08:38:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fe2d1779d9f3",
-        "title": "Taiz.. A citizen accuses security authorities in Al-Maafer of a series of violations and demands investigation and justice",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426754",
-        "published_date": "2026-07-21T03:43:15Z",
         "category": "Local Events"
       }
     ]
