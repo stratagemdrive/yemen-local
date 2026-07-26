@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-25T12:05:25Z",
+  "last_updated": "2026-07-26T00:03:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "7df0f6fb57b5",
+        "title": "The listening team warns: The Saudi escalation exacerbates the tragedy, and defending sovereignty is a legitimate right",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426977",
+        "published_date": "2026-07-25T20:28:27Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e7732b6f08b8",
         "title": "The Saudi Transport Authority announces the targeting of a new ship in the Red Sea",
@@ -97,25 +105,25 @@
         "url": "https://yemenat.net/archives/426836",
         "published_date": "2026-07-22T20:49:01Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "7e3681e30e3a",
-        "title": "Sanaa Foreign Ministry: International statements regarding Yemen were formulated under American or Saudi dictates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426833",
-        "published_date": "2026-07-22T20:41:08Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "ba490c60c3be",
-        "title": "Hayel Saeed Anam & Co. Group, in partnership with Microsoft, launches a new phase for employing artificial intelligence in its business",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426826",
-        "published_date": "2026-07-22T20:31:36Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "0882a05a880d",
+        "title": "Three earthquakes were recorded from the southern Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426962",
+        "published_date": "2026-07-25T16:28:49Z",
+        "category": "Military"
+      },
+      {
+        "_id": "ec2d1b1cd759",
+        "title": "Saree announces the targeting of Aramco facilities in Jizan and Yanbu",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426960",
+        "published_date": "2026-07-25T12:10:07Z",
+        "category": "Military"
+      },
       {
         "_id": "aad5415258fe",
         "title": "Agency: Saudi defenses intercepted two ballistic missiles in the airspace of Yanbu",
@@ -126,7 +134,7 @@
       },
       {
         "_id": "1481c798b76c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The United Nations expresses its concern about the resumption of attacks on ships and calls for a reduction in escalation",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426949",
         "published_date": "2026-07-25T05:49:42Z",
@@ -155,18 +163,18 @@
         "url": "https://yemenat.net/archives/426841",
         "published_date": "2026-07-22T21:39:22Z",
         "category": "Military"
-      },
-      {
-        "_id": "e01de6bc01ec",
-        "title": "Why do prosecutors refuse to photograph the file and provide the accused with a copy of it?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426832",
-        "published_date": "2026-07-22T20:42:36Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "d9ffd34cff53",
+        "title": "Al-Maqaleh questions the priorities of Sana'a's conditions and warns against escalation without national goals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426984",
+        "published_date": "2026-07-25T23:01:19Z",
+        "category": "Economy"
+      },
       {
         "_id": "ef908a6469a0",
         "title": "Sanaa Interior Ministry warns against publishing scenes of bombing sites",
@@ -246,36 +254,44 @@
         "url": "https://yemenat.net/archives/426838",
         "published_date": "2026-07-22T21:01:16Z",
         "category": "Economy"
-      },
-      {
-        "_id": "02da3d0cf81d",
-        "title": "The World Food Program disburses aid to more than a million Yemenis and continues to suspend it in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426820",
-        "published_date": "2026-07-22T18:43:24Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "43afb4c3409e",
-        "title": "Regarding the murder of the martyr Bashar Al-Absi... a judicial order to return the file to the prosecution to re-investigate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426816",
-        "published_date": "2026-07-22T12:37:27Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "e96ba5db0108",
-        "title": "Sports bullying... when the championship ends and morals remain the real winner",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426814",
-        "published_date": "2026-07-22T12:29:03Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "e9ee34364261",
+        "title": "They want a people to die of hunger and applaud their rulers!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426981",
+        "published_date": "2026-07-25T22:01:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "daada3297658",
+        "title": "Al-Mukalla: exchanges between young men turn into an exchange of gunfire and casualties",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426979",
+        "published_date": "2026-07-25T21:57:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "523950abfe24",
+        "title": "Yemeni intellectuals call for the release of a bus hijacked in Abyan Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426973",
+        "published_date": "2026-07-25T20:19:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "86e3477b22c7",
+        "title": "First Division League: Sanaa’s Unit wins over Salam Al-Gharafa at the end of the ninth round matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/426967",
+        "published_date": "2026-07-25T16:55:59Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "4a460caaed70",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "“Document”... Aden.. The Ministry of Higher Education cancels the executive doctorate program",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426957",
         "published_date": "2026-07-25T11:02:15Z",
@@ -283,7 +299,7 @@
       },
       {
         "_id": "a31dabf12b7b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: The atmosphere will continue to be unstable and an influx of humidity will occur",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426952",
         "published_date": "2026-07-25T09:07:58Z",
@@ -291,7 +307,7 @@
       },
       {
         "_id": "38cb58cef051",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Saudi Civil Defense warns again of a danger to Yanbu Governorate",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426943",
         "published_date": "2026-07-25T05:02:03Z",
@@ -399,22 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426849",
         "published_date": "2026-07-23T03:38:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2d6bf54fe5d3",
-        "title": "First Division League: Yarmouk draws with Tadamon Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426822",
-        "published_date": "2026-07-22T18:50:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "70ed541c1907",
-        "title": "Average gold prices in Sanaa and Aden, Wednesday, July 22, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426818",
-        "published_date": "2026-07-22T13:46:35Z",
         "category": "Local Events"
       }
     ]
