@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-27T00:04:29Z",
+  "last_updated": "2026-07-27T13:46:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "9ca5cb3cd84c",
+        "title": "Al-Jawi: Controlled escalation is a tool to protect the truce",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427057",
+        "published_date": "2026-07-27T08:32:13Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "cb1c3a290a2a",
         "title": "Republic Cup: The people of Hadhramaut, the people of Sanaa and Sayun qualified for the round of 16",
@@ -49,65 +57,25 @@
         "url": "https://yemenat.net/archives/426921",
         "published_date": "2026-07-24T20:36:31Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a420698d1379",
-        "title": "Muhammad Abdel Salam explains the closure of the Bab al-Mandab Strait",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426915",
-        "published_date": "2026-07-24T17:32:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "1752ebb7510b",
-        "title": "Oil Minister Bamaqa: Arrangements with Saudi Arabia to resume oil exports and a plan to secure navigation in Bab al-Mandab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426909",
-        "published_date": "2026-07-24T15:47:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "71f60350ad16",
-        "title": "Aburas: Lifting the siege on Yemen is a condition for ending the “siege versus siege” equation.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426907",
-        "published_date": "2026-07-24T15:28:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "5d7556982b1c",
-        "title": "Flashes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426903",
-        "published_date": "2026-07-24T10:03:59Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "556508e0cd91",
-        "title": "Republic Cup: Aden Unit qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426894",
-        "published_date": "2026-07-23T22:16:05Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "29cb963864b6",
-        "title": "The Sultanate of Oman reveals efforts to resume the political track in Yemen and calls for avoiding escalation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426892",
-        "published_date": "2026-07-23T21:56:33Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "46e4413a3239",
-        "title": "The UN envoy warns of Yemen's deepening involvement in a tense regional environment",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426887",
-        "published_date": "2026-07-23T21:07:34Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "3f721fa9cfc4",
+        "title": "Saree announces the targeting of sites linked to Saudi oil supplies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427074",
+        "published_date": "2026-07-27T13:42:36Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e21e7672335e",
+        "title": "Are you a bad person?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427039",
+        "published_date": "2026-07-27T02:34:09Z",
+        "category": "Military"
+      },
       {
         "_id": "168f05944139",
         "title": "Escalating confrontations on several Yemeni fronts.. Is the hour of explosion approaching?",
@@ -157,8 +125,41 @@
         "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "c3bf67f97f9e",
+        "title": "Aden.. Electricity clarifies the amendment of the electricity consumption tariff and clarifies the scope of the new increases",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427054",
+        "published_date": "2026-07-27T08:04:22Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
+      {
+        "_id": "c9496ee23a97",
+        "title": "Report: Students are sent on scholarship to study majors available in Yemeni universities, and scholarships in humanitarian majors exceed scientific ones.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427059",
+        "published_date": "2026-07-27T08:52:24Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f6bf24ab449d",
+        "title": "Between digital feudalism and techno-communism: the post-capitalist economy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427045",
+        "published_date": "2026-07-27T02:50:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "50267eceb566",
+        "title": "The road to Rajah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427042",
+        "published_date": "2026-07-27T02:40:09Z",
+        "category": "Economy"
+      },
       {
         "_id": "f0a69f32d553",
         "title": "Researcher Dr. Abdul Latif Haider.. A reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy Bet (2-4)",
@@ -214,25 +215,65 @@
         "url": "https://yemenat.net/archives/426947",
         "published_date": "2026-07-25T05:24:20Z",
         "category": "Economy"
-      },
-      {
-        "_id": "7f4049e3fd55",
-        "title": "Al-Jawi: The Sanaa authority moves from one file to another without integrated management of the crisis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426919",
-        "published_date": "2026-07-24T17:53:03Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "4aa878d10187",
-        "title": "Hanan Hussein criticizes the appointment of Al-Zouba as Minister of Foreign Affairs and calls for the restoration of academic titles",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426900",
-        "published_date": "2026-07-23T23:14:47Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "30aa5355467a",
+        "title": "Yemeni intellectuals demand an investigation into the corruption of the distribution of scholarships at the Ministry of Higher Education in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427072",
+        "published_date": "2026-07-27T10:42:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f024fb813e05",
+        "title": "The Father Who Thought He Was Sacrificing for His Family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427069",
+        "published_date": "2026-07-27T10:14:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a55991b0f536",
+        "title": "Meteorology: Thunderstorms accompanied by hail in parts of the highlands and the Tihama Plain, and scattered in other governorates.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427066",
+        "published_date": "2026-07-27T09:42:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a75d86f90304",
+        "title": "The youth team wins over Yarmouk as part of its preparations for the Asian qualifiers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427063",
+        "published_date": "2026-07-27T09:22:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "627e0551ea35",
+        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427052",
+        "published_date": "2026-07-27T07:39:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4b7a12e301f7",
+        "title": "Meteorology: Low and dense cumulus clouds in the east and dust in the south and west",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427049",
+        "published_date": "2026-07-27T07:10:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bb5851e4d9e9",
+        "title": "If fate gave you sixty years, it has given you a whole life.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427037",
+        "published_date": "2026-07-27T02:30:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "170a46dad288",
         "title": "Aden.. The Scholarship Review Committee monitors imbalances in the distribution of scholarships and the control of more than 280 families at the expense of outstanding students.",
@@ -335,62 +376,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426952",
         "published_date": "2026-07-25T09:07:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "38cb58cef051",
-        "title": "Saudi Civil Defense warns again of a danger to Yanbu Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426943",
-        "published_date": "2026-07-25T05:02:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3a5ad536cd60",
-        "title": "Saudi Civil Defense warns residents of Jizan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426940",
-        "published_date": "2026-07-25T03:48:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aba0e8cb75bf",
-        "title": "Saudi Civil Defense warns of danger to Yanbu Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426937",
-        "published_date": "2026-07-25T02:18:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2023361ae980",
-        "title": "Sanaa identifies the sites of raids in Hodeidah, and the Ministry of Foreign Affairs vows to equate “escalation with escalation”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426931",
-        "published_date": "2026-07-24T22:27:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dc62e6c4745a",
-        "title": "Aden.. Appointment of a governor for Saada Governorate and a commander for the Abyan axis",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426924",
-        "published_date": "2026-07-24T21:13:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "849d03de4293",
-        "title": "First Division League: Ittihad Hadhramaut and Al-Ahly Sanaa tied",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426912",
-        "published_date": "2026-07-24T16:06:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ff492ab86d7f",
-        "title": "Meteorology: Thunderstorms accompanied by hailstones and blowing winds over most of the highlands and the Tihama Plain.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426905",
-        "published_date": "2026-07-24T15:05:13Z",
         "category": "Local Events"
       }
     ]
