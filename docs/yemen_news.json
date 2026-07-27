@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-26T12:09:16Z",
+  "last_updated": "2026-07-27T00:04:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "cb1c3a290a2a",
+        "title": "Republic Cup: The people of Hadhramaut, the people of Sanaa and Sayun qualified for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427034",
+        "published_date": "2026-07-26T20:00:37Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "f757184adaa0",
         "title": "Between Al-Alimi’s bills and a wedding visa: How is legitimacy diplomacy managed?",
@@ -44,7 +52,7 @@
       },
       {
         "_id": "a420698d1379",
-        "title": "Muhammad Abdel Salam explains about the closure of the Bab al-Mandab Strait",
+        "title": "Muhammad Abdel Salam explains the closure of the Bab al-Mandab Strait",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426915",
         "published_date": "2026-07-24T17:32:50Z",
@@ -96,14 +104,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426887",
         "published_date": "2026-07-23T21:07:34Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f403c3ee83d0",
-        "title": "Limited cabinet reshuffle in Al-Zindani's government",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426876",
-        "published_date": "2026-07-23T19:16:00Z",
         "category": "Diplomacy"
       }
     ],
@@ -230,25 +230,25 @@
         "url": "https://yemenat.net/archives/426900",
         "published_date": "2026-07-23T23:14:47Z",
         "category": "Economy"
-      },
-      {
-        "_id": "51e059e92049",
-        "title": "The Listening Team: We have neglected culture for 11 years...and it is time to do justice to writers and creators",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426880",
-        "published_date": "2026-07-23T20:09:55Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f26d236e4bf6",
-        "title": "Parliamentarian Hashid: There is no national bearer to restore the state and the homeland",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426878",
-        "published_date": "2026-07-23T19:37:37Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "170a46dad288",
+        "title": "Aden.. The Scholarship Review Committee monitors imbalances in the distribution of scholarships and the control of more than 280 families at the expense of outstanding students.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427030",
+        "published_date": "2026-07-26T19:25:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "05f31aeef933",
+        "title": "A father who thought he was sacrificing for his family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427026",
+        "published_date": "2026-07-26T18:21:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c30d23b1be63",
         "title": "We don't realize the loss until it's too late",
@@ -391,22 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426905",
         "published_date": "2026-07-24T15:05:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ce00751f09fa",
-        "title": "An agency determines the location of the hijacked chemical tanker in the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426897",
-        "published_date": "2026-07-23T22:39:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dde5c4dc900a",
-        "title": "First Division League.. Al-Mukalla inflicts “Al-Sadd” its first loss, and Ittihad Ibb wins over Shabab Al-Bayda",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426889",
-        "published_date": "2026-07-23T21:37:15Z",
         "category": "Local Events"
       }
     ]
