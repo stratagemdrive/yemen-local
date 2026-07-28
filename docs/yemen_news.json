@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-28T00:05:54Z",
+  "last_updated": "2026-07-28T13:02:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "730f70d0f289",
+        "title": "After being subjected to threats of imprisonment...a shooting targets a cleric in the city of Ma'rib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427129",
+        "published_date": "2026-07-28T12:27:46Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "40695785dc45",
+        "title": "FAO warns of the effects of declining rains and warns of a food crisis that more than half of Yemen's population will face",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427108",
+        "published_date": "2026-07-28T07:11:14Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "8ed9c5ba9dda",
+        "title": "The embers of longing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427096",
+        "published_date": "2026-07-28T04:15:32Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3e8f64c4984b",
+        "title": "Yemen... when the state becomes less than the tribe, and war becomes more than politics",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427091",
+        "published_date": "2026-07-28T02:22:54Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "639de3d19fb4",
         "title": "Our state in Yemen takes and does not give",
@@ -69,51 +101,11 @@
         "category": "Military"
       },
       {
-        "_id": "e21e7672335e",
-        "title": "Are you a bad person?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427039",
-        "published_date": "2026-07-27T02:34:09Z",
-        "category": "Military"
-      },
-      {
         "_id": "168f05944139",
         "title": "Escalating confrontations on several Yemeni fronts.. Is the hour of explosion approaching?",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426988",
         "published_date": "2026-07-26T04:46:26Z",
-        "category": "Military"
-      },
-      {
-        "_id": "0882a05a880d",
-        "title": "Three earthquakes were recorded from the southern Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426962",
-        "published_date": "2026-07-25T16:28:49Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ec2d1b1cd759",
-        "title": "Saree announces the targeting of Aramco facilities in Jizan and Yanbu",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426960",
-        "published_date": "2026-07-25T12:10:07Z",
-        "category": "Military"
-      },
-      {
-        "_id": "aad5415258fe",
-        "title": "Agency: Saudi defenses intercepted two ballistic missiles in the airspace of Yanbu",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426954",
-        "published_date": "2026-07-25T09:34:10Z",
-        "category": "Military"
-      },
-      {
-        "_id": "1481c798b76c",
-        "title": "The United Nations expresses its concern about the resumption of attacks on ships and calls for a reduction in escalation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426949",
-        "published_date": "2026-07-25T05:49:42Z",
         "category": "Military"
       }
     ],
@@ -128,6 +120,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "cc58b82fc431",
+        "title": "Al-Maqbi: Restoring the state begins with dismantling the system of illegal detention and protecting human rights",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427105",
+        "published_date": "2026-07-28T06:03:08Z",
+        "category": "Economy"
+      },
       {
         "_id": "02cdbed709d7",
         "title": "Report: The Scholarship Review Committee monitors violations in the grades of a number of scholarship students abroad, some of whom do not have qualifications or documents.",
@@ -207,17 +207,57 @@
         "url": "https://yemenat.net/archives/426984",
         "published_date": "2026-07-25T23:01:19Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ef908a6469a0",
-        "title": "Sanaa Interior Ministry warns against publishing scenes of bombing sites",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426947",
-        "published_date": "2026-07-25T05:24:20Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "20c6e6aeaa99",
+        "title": "Ahmed Tayel: The biography of creativity and paths of awareness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427125",
+        "published_date": "2026-07-28T12:03:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "14e85cd1ea7d",
+        "title": "Average gold prices in Sanaa and Aden Tuesday, July 28, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427123",
+        "published_date": "2026-07-28T11:42:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "72830322e6ae",
+        "title": "Meteorology: Thunderstorms in parts of 5 governorates, the Tihama Plain, and the western coasts, and scattered in other governorates.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427118",
+        "published_date": "2026-07-28T08:46:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ade3c4922fc",
+        "title": "Aden.. Academics demand the speedy approval of their financial settlements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427115",
+        "published_date": "2026-07-28T08:12:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5f5d61667f22",
+        "title": "A citizen demands that a complaint be referred to a neutral party in a case of kidnapping, detention, and torture in Al-Ma’afir, Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427102",
+        "published_date": "2026-07-28T05:28:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f952fbd1fcf",
+        "title": "Weather expert: Heavy rain in some mountainous areas, which may be accompanied by lightning, winds, and hail",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427098",
+        "published_date": "2026-07-28T05:01:32Z",
+        "category": "Local Events"
+      },
       {
         "_id": "51048c317a23",
         "title": "When the law is unable to protect childhood... who will judge the conscience of the nation?",
@@ -328,54 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427013",
         "published_date": "2026-07-26T11:13:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fab16f76565b",
-        "title": "Saree announces the downing of a Turkish-made reconnaissance plane",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426998",
-        "published_date": "2026-07-26T09:57:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4bd95ac7af25",
-        "title": "Abyan.. Signs of the emergence of land piracy on the road to Amra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426995",
-        "published_date": "2026-07-26T09:13:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c9ffa3bb354d",
-        "title": "Meteorology: Moderate to heavy rain accompanied by blowing winds and hail on most highlands and some coasts.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426991",
-        "published_date": "2026-07-26T08:19:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e9ee34364261",
-        "title": "They want a people to die of hunger and applaud their rulers!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426981",
-        "published_date": "2026-07-25T22:01:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "daada3297658",
-        "title": "Al-Mukalla: exchanges between young men turn into an exchange of gunfire and casualties",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426979",
-        "published_date": "2026-07-25T21:57:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "523950abfe24",
-        "title": "Yemeni intellectuals call for the release of a bus hijacked in Abyan Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426973",
-        "published_date": "2026-07-25T20:19:31Z",
         "category": "Local Events"
       }
     ]
