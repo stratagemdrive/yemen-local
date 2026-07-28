@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-27T13:46:07Z",
+  "last_updated": "2026-07-28T00:05:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "639de3d19fb4",
+        "title": "Our state in Yemen takes and does not give",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427087",
+        "published_date": "2026-07-27T22:13:09Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9ca5cb3cd84c",
         "title": "Al-Jawi: Controlled escalation is a tool to protect the truce",
@@ -41,25 +49,17 @@
         "url": "https://yemenat.net/archives/426977",
         "published_date": "2026-07-25T20:28:27Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e7732b6f08b8",
-        "title": "The Saudi Transport Authority announces the targeting of a new ship in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426934",
-        "published_date": "2026-07-24T23:20:55Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a738c88d471c",
-        "title": "Warplanes bombed the city of Hodeidah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426921",
-        "published_date": "2026-07-24T20:36:31Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "22bdacc4a451",
+        "title": "Trump: If the Houthi problem is renewed, we may have to intervene again",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427089",
+        "published_date": "2026-07-27T23:24:00Z",
+        "category": "Military"
+      },
       {
         "_id": "3f721fa9cfc4",
         "title": "Saree announces the targeting of sites linked to Saudi oil supplies",
@@ -115,14 +115,6 @@
         "url": "https://yemenat.net/archives/426949",
         "published_date": "2026-07-25T05:49:42Z",
         "category": "Military"
-      },
-      {
-        "_id": "399a47192bfe",
-        "title": "Al-Maliki announces the implementation of air strikes in Hodeidah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426927",
-        "published_date": "2026-07-24T21:42:01Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -136,6 +128,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "02cdbed709d7",
+        "title": "Report: The Scholarship Review Committee monitors violations in the grades of a number of scholarship students abroad, some of whom do not have qualifications or documents.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427083",
+        "published_date": "2026-07-27T20:18:50Z",
+        "category": "Economy"
+      },
       {
         "_id": "c9496ee23a97",
         "title": "Report: Students are sent on scholarship to study majors available in Yemeni universities, and scholarships in humanitarian majors exceed scientific ones.",
@@ -218,6 +218,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "51048c317a23",
+        "title": "When the law is unable to protect childhood... who will judge the conscience of the nation?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427085",
+        "published_date": "2026-07-27T21:59:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e981107d8ed6",
+        "title": "More than a hundred judges are without work and their rights are suspended.. Hundreds of millions are evaporating and the dust of neglect covers the “24th batch” of graduates of the Higher Judicial Institute in Sana’a!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427079",
+        "published_date": "2026-07-27T19:06:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e6d6d04b78d6",
+        "title": "Republic Cup.. May 22 qualifies for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427076",
+        "published_date": "2026-07-27T18:37:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "30aa5355467a",
         "title": "Yemeni intellectuals demand an investigation into the corruption of the distribution of scholarships at the Ministry of Higher Education in Aden",
@@ -352,30 +376,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/426973",
         "published_date": "2026-07-25T20:19:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "86e3477b22c7",
-        "title": "First Division League: Sanaa’s Unit wins over Salam Al-Gharafa at the end of the ninth round matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426967",
-        "published_date": "2026-07-25T16:55:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4a460caaed70",
-        "title": "“Document”... Aden.. The Ministry of Higher Education cancels the executive doctorate program",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426957",
-        "published_date": "2026-07-25T11:02:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a31dabf12b7b",
-        "title": "Meteorology: The atmosphere will continue to be unstable and an influx of humidity will occur",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426952",
-        "published_date": "2026-07-25T09:07:58Z",
         "category": "Local Events"
       }
     ]
