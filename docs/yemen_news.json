@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-29T00:02:04Z",
+  "last_updated": "2026-07-29T13:04:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,17 +65,33 @@
         "url": "https://yemenat.net/archives/427034",
         "published_date": "2026-07-26T20:00:37Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "f757184adaa0",
-        "title": "Between Al-Alimi’s bills and a wedding visa: How is legitimacy diplomacy managed?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427015",
-        "published_date": "2026-07-26T11:20:59Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "a611ee16f998",
+        "title": "The escalation in Yemen is a local confrontation or an extension of a regional conflict?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427170",
+        "published_date": "2026-07-29T07:06:51Z",
+        "category": "Military"
+      },
+      {
+        "_id": "782fe3dcf66b",
+        "title": "Announcement of a ship accident in the Red Sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427158",
+        "published_date": "2026-07-29T04:18:14Z",
+        "category": "Military"
+      },
+      {
+        "_id": "2e167e252dfe",
+        "title": "Saudi Defense announces the implementation of air strikes in Iraq",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427153",
+        "published_date": "2026-07-29T03:20:15Z",
+        "category": "Military"
+      },
       {
         "_id": "35921584589b",
         "title": "Saree announces the targeting of a Saudi oil ship",
@@ -112,6 +128,22 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "0c769bc1627c",
+        "title": "Text of the report of the Committee for Reviewing Lists of Scholarships Abroad and Scholarship Mechanisms",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427172",
+        "published_date": "2026-07-29T09:19:59Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e98424d31921",
+        "title": "Stories from within the collection of Hayel Saeed Anam",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427162",
+        "published_date": "2026-07-29T04:39:52Z",
+        "category": "Economy"
+      },
       {
         "_id": "7c60a9c29198",
         "title": "Free tweets... A people crushed by poverty and their money in banks and basements",
@@ -175,41 +207,57 @@
         "url": "https://yemenat.net/archives/427042",
         "published_date": "2026-07-27T02:40:09Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f0a69f32d553",
-        "title": "Researcher Dr. Abdul Latif Haider.. A reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy Bet (2-4)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427022",
-        "published_date": "2026-07-26T11:35:51Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "86f3e853529a",
-        "title": "Why have child abuse crimes surfaced recently?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427009",
-        "published_date": "2026-07-26T11:06:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "cfa14c42be1d",
-        "title": "Researcher Dr. عبد اللطيف حيدر.. قراءة وعرض لكتابه الجديد: الخيال والتنمية رهان اقتصاد المعرفة منخفض التكلفة (١-٤)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427007",
-        "published_date": "2026-07-26T11:02:00Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "4cb49075db63",
-        "title": "A British authority announces a maritime accident in the southern Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427000",
-        "published_date": "2026-07-26T10:30:27Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "199fa0479d19",
+        "title": "Ahmed Tayel: A Journey of Creativity and the Paths of Consciousness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427190",
+        "published_date": "2026-07-29T12:23:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8406609a9fcf",
+        "title": "Meteorology: Continuing thunderstorms accompanied by blowing winds and hail",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427174",
+        "published_date": "2026-07-29T08:15:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b5edba2990c",
+        "title": "Aden.. The Ministry of Education sets the start date for the 2026/2027 academic year",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427167",
+        "published_date": "2026-07-29T06:14:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4fb2cf2ea6fd",
+        "title": "Floods cause damage to the streets of Ibb city",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427164",
+        "published_date": "2026-07-29T05:15:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "877a809a9efa",
+        "title": "Fast announces the downing of a reconnaissance plane",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427156",
+        "published_date": "2026-07-29T03:50:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "57dd6a2250c0",
+        "title": "A weather expert expects scattered rain to fall in parts of some Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427150",
+        "published_date": "2026-07-29T02:09:47Z",
+        "category": "Local Events"
+      },
       {
         "_id": "738dc5d6ce44",
         "title": "How does religion transform from a moral force into a tool of tyranny?",
@@ -320,54 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427066",
         "published_date": "2026-07-27T09:42:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a75d86f90304",
-        "title": "The youth team wins over Yarmouk as part of its preparations for the Asian qualifiers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427063",
-        "published_date": "2026-07-27T09:22:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "627e0551ea35",
-        "title": "Sanaa.. The Central Bank stops dealing with two exchange facilities",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427052",
-        "published_date": "2026-07-27T07:39:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4b7a12e301f7",
-        "title": "Meteorology: Low and dense cumulus clouds in the east and dust in the south and west",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427049",
-        "published_date": "2026-07-27T07:10:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bb5851e4d9e9",
-        "title": "If fate gave you sixty years, it has given you a whole life.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427037",
-        "published_date": "2026-07-27T02:30:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "170a46dad288",
-        "title": "Aden.. The Scholarship Review Committee monitors imbalances in the distribution of scholarships and the control of more than 280 families at the expense of outstanding students.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427030",
-        "published_date": "2026-07-26T19:25:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "05f31aeef933",
-        "title": "A father who thought he was sacrificing for his family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427026",
-        "published_date": "2026-07-26T18:21:51Z",
         "category": "Local Events"
       }
     ]
