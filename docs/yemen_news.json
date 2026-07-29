@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-28T13:02:15Z",
+  "last_updated": "2026-07-29T00:02:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -73,17 +73,17 @@
         "url": "https://yemenat.net/archives/427015",
         "published_date": "2026-07-26T11:20:59Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "7df0f6fb57b5",
-        "title": "The listening team warns: The Saudi escalation exacerbates the tragedy, and defending sovereignty is a legitimate right",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426977",
-        "published_date": "2026-07-25T20:28:27Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "35921584589b",
+        "title": "Saree announces the targeting of a Saudi oil ship",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427132",
+        "published_date": "2026-07-28T17:57:55Z",
+        "category": "Military"
+      },
       {
         "_id": "22bdacc4a451",
         "title": "Trump: If the Houthi problem is renewed, we may have to intervene again",
@@ -99,14 +99,6 @@
         "url": "https://yemenat.net/archives/427074",
         "published_date": "2026-07-27T13:42:36Z",
         "category": "Military"
-      },
-      {
-        "_id": "168f05944139",
-        "title": "Escalating confrontations on several Yemeni fronts.. Is the hour of explosion approaching?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426988",
-        "published_date": "2026-07-26T04:46:26Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -120,6 +112,30 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "7c60a9c29198",
+        "title": "Free tweets... A people crushed by poverty and their money in banks and basements",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427143",
+        "published_date": "2026-07-28T20:17:22Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f6ad0c0e17b1",
+        "title": "Radaa: The struggle of the times",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427139",
+        "published_date": "2026-07-28T19:54:47Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "08b75e06e004",
+        "title": "Researcher Dr. Abdul Latif Haider.. A reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy Bet (3-4)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427137",
+        "published_date": "2026-07-28T19:37:32Z",
+        "category": "Economy"
+      },
       {
         "_id": "cc58b82fc431",
         "title": "Al-Maqbi: Restoring the state begins with dismantling the system of illegal detention and protecting human rights",
@@ -178,7 +194,7 @@
       },
       {
         "_id": "cfa14c42be1d",
-        "title": "Researcher Dr. Abdul Latif Haider.. A reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy Bet (1-4)",
+        "title": "Researcher Dr. عبد اللطيف حيدر.. قراءة وعرض لكتابه الجديد: الخيال والتنمية رهان اقتصاد المعرفة منخفض التكلفة (١-٤)",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427007",
         "published_date": "2026-07-26T11:02:00Z",
@@ -191,25 +207,25 @@
         "url": "https://yemenat.net/archives/427000",
         "published_date": "2026-07-26T10:30:27Z",
         "category": "Economy"
-      },
-      {
-        "_id": "030e21e9c5d7",
-        "title": "The local authority in Hadramaut announces conditional support for the resumption of oil exports",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426986",
-        "published_date": "2026-07-26T03:13:46Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "d9ffd34cff53",
-        "title": "Al-Maqaleh questions the priorities of Sana'a's conditions and warns against escalation without national goals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/426984",
-        "published_date": "2026-07-25T23:01:19Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "738dc5d6ce44",
+        "title": "How does religion transform from a moral force into a tool of tyranny?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427141",
+        "published_date": "2026-07-28T19:59:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4645cab3bc36",
+        "title": "A rockslide cuts off roads west of Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427134",
+        "published_date": "2026-07-28T18:03:43Z",
+        "category": "Local Events"
+      },
       {
         "_id": "20c6e6aeaa99",
         "title": "Ahmed Tayel: The biography of creativity and paths of awareness",
@@ -352,22 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427026",
         "published_date": "2026-07-26T18:21:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c30d23b1be63",
-        "title": "We don't realize the loss until it's too late",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427019",
-        "published_date": "2026-07-26T11:27:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8388ec001a17",
-        "title": "Professor Ali Saleh Al-Jamra in (Stories across Time and Space)... between the eye of the journalist, the insight of the historian, and the knowledge of the intellectual",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427013",
-        "published_date": "2026-07-26T11:13:25Z",
         "category": "Local Events"
       }
     ]
