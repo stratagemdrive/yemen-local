@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-29T13:04:38Z",
+  "last_updated": "2026-07-30T00:04:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "ccfe279eb840",
+        "title": "When we left our hearts at the gates of fear, failure became our rule",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427198",
+        "published_date": "2026-07-29T17:15:25Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "730f70d0f289",
         "title": "After being subjected to threats of imprisonment...a shooting targets a cleric in the city of Ma'rib",
@@ -57,17 +65,17 @@
         "url": "https://yemenat.net/archives/427057",
         "published_date": "2026-07-27T08:32:13Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "cb1c3a290a2a",
-        "title": "Republic Cup: The people of Hadhramaut, the people of Sanaa and Sayun qualified for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427034",
-        "published_date": "2026-07-26T20:00:37Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "4caa8ca2005a",
+        "title": "Humaidan calls for the restoration of Yemeni decision-making and stresses that the future of Yemen is not made by weapons",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427216",
+        "published_date": "2026-07-30T00:01:11Z",
+        "category": "Military"
+      },
       {
         "_id": "a611ee16f998",
         "title": "The escalation in Yemen is a local confrontation or an extension of a regional conflict?",
@@ -191,25 +199,49 @@
         "url": "https://yemenat.net/archives/427059",
         "published_date": "2026-07-27T08:52:24Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f6bf24ab449d",
-        "title": "Between digital feudalism and techno-communism: the post-capitalist economy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427045",
-        "published_date": "2026-07-27T02:50:55Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "50267eceb566",
-        "title": "The road to Rajah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427042",
-        "published_date": "2026-07-27T02:40:09Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "ac948809c079",
+        "title": "Lieutenant General Sultan Al Sami from the shrine of the martyr Al Sammad: Loyalty to the martyrs is a national responsibility.. and he meets grooms whose joy was inspired by his path",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427213",
+        "published_date": "2026-07-29T19:07:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0e0a5edd53a1",
+        "title": "Death torso",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427209",
+        "published_date": "2026-07-29T18:02:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "da365b99f0e1",
+        "title": "Dropping a march west of Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427205",
+        "published_date": "2026-07-29T17:38:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4e8edc987467",
+        "title": "Well, Ansar Allah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427202",
+        "published_date": "2026-07-29T17:23:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a08599405ea6",
+        "title": "Republic Cup.. Ahly Aden qualifies for the round of 16 at the expense of Fahman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427195",
+        "published_date": "2026-07-29T16:55:18Z",
+        "category": "Local Events"
+      },
       {
         "_id": "199fa0479d19",
         "title": "Ahmed Tayel: A Journey of Creativity and the Paths of Consciousness",
@@ -328,46 +360,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427085",
         "published_date": "2026-07-27T21:59:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e981107d8ed6",
-        "title": "More than a hundred judges are without work and their rights are suspended.. Hundreds of millions are evaporating and the dust of neglect covers the “24th batch” of graduates of the Higher Judicial Institute in Sana’a!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427079",
-        "published_date": "2026-07-27T19:06:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e6d6d04b78d6",
-        "title": "Republic Cup.. May 22 qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427076",
-        "published_date": "2026-07-27T18:37:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "30aa5355467a",
-        "title": "Yemeni intellectuals demand an investigation into the corruption of the distribution of scholarships at the Ministry of Higher Education in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427072",
-        "published_date": "2026-07-27T10:42:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f024fb813e05",
-        "title": "The Father Who Thought He Was Sacrificing for His Family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427069",
-        "published_date": "2026-07-27T10:14:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a55991b0f536",
-        "title": "Meteorology: Thunderstorms accompanied by hail in parts of the highlands and the Tihama Plain, and scattered in other governorates.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427066",
-        "published_date": "2026-07-27T09:42:10Z",
         "category": "Local Events"
       }
     ]
