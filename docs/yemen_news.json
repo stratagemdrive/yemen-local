@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-30T12:48:50Z",
+  "last_updated": "2026-07-31T00:06:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "10884a464f41",
+        "title": "Announcing the establishment of a multinational maritime coalition to protect navigation in the Red Sea and Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427249",
+        "published_date": "2026-07-30T18:21:01Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "ccfe279eb840",
         "title": "When we left our hearts at the gates of fear, failure became our rule",
@@ -48,14 +56,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427091",
         "published_date": "2026-07-28T02:22:54Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "639de3d19fb4",
-        "title": "Our state in Yemen takes and does not give",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427087",
-        "published_date": "2026-07-27T22:13:09Z",
         "category": "Diplomacy"
       }
     ],
@@ -106,14 +106,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427089",
         "published_date": "2026-07-27T23:24:00Z",
-        "category": "Military"
-      },
-      {
-        "_id": "3f721fa9cfc4",
-        "title": "Saree announces the targeting of sites linked to Saudi oil supplies",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427074",
-        "published_date": "2026-07-27T13:42:36Z",
         "category": "Military"
       }
     ],
@@ -182,17 +174,57 @@
         "url": "https://yemenat.net/archives/427105",
         "published_date": "2026-07-28T06:03:08Z",
         "category": "Economy"
-      },
-      {
-        "_id": "02cdbed709d7",
-        "title": "Report: The Scholarship Review Committee monitors violations in the grades of a number of scholarship students abroad, some of whom do not have qualifications or documents.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427083",
-        "published_date": "2026-07-27T20:18:50Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "80b93911629b",
+        "title": "Siamese twins in Al-Sabeen Hospital in Sanaa amid urgent calls to save their lives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427259",
+        "published_date": "2026-07-30T23:05:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf85801edec8",
+        "title": "The listening team visits the Charitable Medical Center in Amanat Al Asimah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427256",
+        "published_date": "2026-07-30T22:17:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c9d734d7f52b",
+        "title": "Republic Cup: Sanaa, Al-Sadd, Salam Al-Ghurfa and Hilal Al-Hudaydah qualified for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427253",
+        "published_date": "2026-07-30T18:55:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a83d64d233ea",
+        "title": "Foreign forces arrive in Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427247",
+        "published_date": "2026-07-30T17:04:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c0ab01c3ef3b",
+        "title": "First Division League: Sanaa’s Union wins over Al-Mukalla",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427244",
+        "published_date": "2026-07-30T15:46:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1aa3d6e774ac",
+        "title": "Stealing the future: How did the Yemeni legitimate government plunder the grants of the poor?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427241",
+        "published_date": "2026-07-30T15:17:59Z",
+        "category": "Local Events"
+      },
       {
         "_id": "570ac929cf8b",
         "title": "Meteorology expects continued rainfall and strong winds and warns of the collapse of old buildings",
@@ -303,54 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427164",
         "published_date": "2026-07-29T05:15:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "877a809a9efa",
-        "title": "Fast announces the downing of a reconnaissance plane",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427156",
-        "published_date": "2026-07-29T03:50:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "57dd6a2250c0",
-        "title": "A weather expert expects scattered rain to fall in parts of some Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427150",
-        "published_date": "2026-07-29T02:09:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "738dc5d6ce44",
-        "title": "How does religion transform from a moral force into a tool of tyranny?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427141",
-        "published_date": "2026-07-28T19:59:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4645cab3bc36",
-        "title": "A rockslide cuts off roads west of Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427134",
-        "published_date": "2026-07-28T18:03:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20c6e6aeaa99",
-        "title": "Ahmed Tayel: The biography of creativity and paths of awareness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427125",
-        "published_date": "2026-07-28T12:03:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "14e85cd1ea7d",
-        "title": "Average gold prices in Sanaa and Aden Tuesday, July 28, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427123",
-        "published_date": "2026-07-28T11:42:04Z",
         "category": "Local Events"
       }
     ]
