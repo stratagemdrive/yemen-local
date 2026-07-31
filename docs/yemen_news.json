@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-31T00:06:19Z",
+  "last_updated": "2026-07-31T13:00:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "f5b7421b5ee9",
+        "title": "Sanaa.. The Foreign Ministry clarifies the targeting of a ship in Damietta, Egypt",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427280",
+        "published_date": "2026-07-31T05:54:25Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "ab8b58a5bc3b",
+        "title": "When competence is assassinated, corruption is born",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427266",
+        "published_date": "2026-07-31T01:28:55Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "10884a464f41",
         "title": "Announcing the establishment of a multinational maritime coalition to protect navigation in the Red Sea and Gulf of Aden",
@@ -32,30 +48,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427129",
         "published_date": "2026-07-28T12:27:46Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "40695785dc45",
-        "title": "FAO warns of the effects of declining rains and warns of a food crisis that more than half of Yemen's population will face",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427108",
-        "published_date": "2026-07-28T07:11:14Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "8ed9c5ba9dda",
-        "title": "The embers of longing",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427096",
-        "published_date": "2026-07-28T04:15:32Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3e8f64c4984b",
-        "title": "Yemen... when the state becomes less than the tribe, and war becomes more than politics",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427091",
-        "published_date": "2026-07-28T02:22:54Z",
         "category": "Diplomacy"
       }
     ],
@@ -99,18 +91,34 @@
         "url": "https://yemenat.net/archives/427132",
         "published_date": "2026-07-28T17:57:55Z",
         "category": "Military"
-      },
-      {
-        "_id": "22bdacc4a451",
-        "title": "Trump: If the Houthi problem is renewed, we may have to intervene again",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427089",
-        "published_date": "2026-07-27T23:24:00Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "a00736365197",
+        "title": "Aden.. Jannah Seeds Company denounces the continued marginalization of local seeds and calls on organizations to support national production",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427270",
+        "published_date": "2026-07-31T04:28:19Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "7fdbdf690ac2",
+        "title": "Researcher Dr. Abdul Latif Haider...a reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy’s Bet (4-4)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427268",
+        "published_date": "2026-07-31T01:35:16Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "48acbf353bee",
+        "title": "When scholarships become a family heirloom",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427263",
+        "published_date": "2026-07-31T01:23:12Z",
+        "category": "Economy"
+      },
       {
         "_id": "a1d235bec211",
         "title": "Al-Wadiah land port prevents the entry of a number of materials into Saudi Arabia",
@@ -166,17 +174,49 @@
         "url": "https://yemenat.net/archives/427137",
         "published_date": "2026-07-28T19:37:32Z",
         "category": "Economy"
-      },
-      {
-        "_id": "cc58b82fc431",
-        "title": "Al-Maqbi: Restoring the state begins with dismantling the system of illegal detention and protecting human rights",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427105",
-        "published_date": "2026-07-28T06:03:08Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "068ab7c48aa4",
+        "title": "Meteorology: Continuing thunderstorms accompanied by hailstones and blowing winds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427288",
+        "published_date": "2026-07-31T08:27:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "69fd6e5451ba",
+        "title": "A traffic accident cuts off a road linking Aden to Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427285",
+        "published_date": "2026-07-31T07:48:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "550f5300459f",
+        "title": "Aden.. The Yemeni Coast Guard announces the arrest of “Tawakkul” in Bab al-Mandab",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427282",
+        "published_date": "2026-07-31T06:22:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1740eebeca58",
+        "title": "Warnings about the circulation of Brazilian sugar contaminated with heavy and toxic elements, and thousands of bags were seized in Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427277",
+        "published_date": "2026-07-31T05:33:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4a789911ad05",
+        "title": "A weather expert expects heavy rains and dusty winds in several Yemeni regions in the coming hours",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427273",
+        "published_date": "2026-07-31T05:05:40Z",
+        "category": "Local Events"
+      },
       {
         "_id": "80b93911629b",
         "title": "Siamese twins in Al-Sabeen Hospital in Sanaa amid urgent calls to save their lives",
@@ -295,46 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427202",
         "published_date": "2026-07-29T17:23:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a08599405ea6",
-        "title": "Republic Cup.. Ahly Aden qualifies for the round of 16 at the expense of Fahman",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427195",
-        "published_date": "2026-07-29T16:55:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "199fa0479d19",
-        "title": "Ahmed Tayel: A Journey of Creativity and the Paths of Consciousness",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427190",
-        "published_date": "2026-07-29T12:23:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8406609a9fcf",
-        "title": "Meteorology: Continuing thunderstorms accompanied by blowing winds and hail",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427174",
-        "published_date": "2026-07-29T08:15:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9b5edba2990c",
-        "title": "Aden.. The Ministry of Education sets the start date for the 2026/2027 academic year",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427167",
-        "published_date": "2026-07-29T06:14:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4fb2cf2ea6fd",
-        "title": "Floods cause damage to the streets of Ibb city",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427164",
-        "published_date": "2026-07-29T05:15:24Z",
         "category": "Local Events"
       }
     ]
