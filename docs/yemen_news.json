@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-01T00:04:26Z",
+  "last_updated": "2026-08-01T12:04:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -45,6 +45,22 @@
     ],
     "Military": [
       {
+        "_id": "9b5a17baff63",
+        "title": "Sanaa clarifies the imposition of fees on ships crossing the Bab al-Mandab Strait",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427318",
+        "published_date": "2026-08-01T11:45:18Z",
+        "category": "Military"
+      },
+      {
+        "_id": "fe6333729462",
+        "title": "Saree announces that Saudi ships were forced to change their course",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427306",
+        "published_date": "2026-08-01T09:51:06Z",
+        "category": "Military"
+      },
+      {
         "_id": "4caa8ca2005a",
         "title": "Humaidan calls for the restoration of Yemeni decision-making and stresses that the future of Yemen is not made by weapons",
         "source": "Yemenat",
@@ -79,6 +95,14 @@
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "61ae97a7e941",
+        "title": "The Yemeni Embassy in Rabat clarifies the missing Yemenis in Morocco",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427308",
+        "published_date": "2026-08-01T10:22:05Z",
+        "category": "Economy"
+      },
       {
         "_id": "a00736365197",
         "title": "Aden.. Jannah Seeds Company denounces the continued marginalization of local seeds and calls on organizations to support national production",
@@ -134,33 +158,25 @@
         "url": "https://yemenat.net/archives/427162",
         "published_date": "2026-07-29T04:39:52Z",
         "category": "Economy"
-      },
-      {
-        "_id": "7c60a9c29198",
-        "title": "Free tweets... A people crushed by poverty and their money in banks and basements",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427143",
-        "published_date": "2026-07-28T20:17:22Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "f6ad0c0e17b1",
-        "title": "Radaa: The struggle of the times",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427139",
-        "published_date": "2026-07-28T19:54:47Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "08b75e06e004",
-        "title": "Researcher Dr. Abdul Latif Haider.. A reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy Bet (3-4)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427137",
-        "published_date": "2026-07-28T19:37:32Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5b992b5c8d35",
+        "title": "Average gold prices in Sanaa and Aden, Saturday, August 1, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427314",
+        "published_date": "2026-08-01T11:00:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1086b10ff732",
+        "title": "Meteorology expects thunderstorms of varying intensity to continue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427304",
+        "published_date": "2026-08-01T09:25:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4ab0aac80949",
         "title": "A fire broke out in a camp for displaced people in Ma’rib, and an official report reveals the causes of more than 100 fire cases in 6 months.",
@@ -303,22 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427221",
         "published_date": "2026-07-30T01:45:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2880e4d81b0b",
-        "title": "The Regional Hospital for Retinal Surgery and Ophthalmology launches comprehensive vision screening and screening offers for only 2,000 riyals",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427218",
-        "published_date": "2026-07-30T00:12:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac948809c079",
-        "title": "Lieutenant General Sultan Al Sami from the shrine of the martyr Al Sammad: Loyalty to the martyrs is a national responsibility.. and he meets grooms whose joy was inspired by his path",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427213",
-        "published_date": "2026-07-29T19:07:56Z",
         "category": "Local Events"
       }
     ]
