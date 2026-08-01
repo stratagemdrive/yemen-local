@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-07-31T13:00:48Z",
+  "last_updated": "2026-08-01T00:04:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -41,14 +41,6 @@
         "url": "https://yemenat.net/archives/427198",
         "published_date": "2026-07-29T17:15:25Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "730f70d0f289",
-        "title": "After being subjected to threats of imprisonment...a shooting targets a cleric in the city of Ma'rib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427129",
-        "published_date": "2026-07-28T12:27:46Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -82,14 +74,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427153",
         "published_date": "2026-07-29T03:20:15Z",
-        "category": "Military"
-      },
-      {
-        "_id": "35921584589b",
-        "title": "Saree announces the targeting of a Saudi oil ship",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427132",
-        "published_date": "2026-07-28T17:57:55Z",
         "category": "Military"
       }
     ],
@@ -177,6 +161,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "4ab0aac80949",
+        "title": "A fire broke out in a camp for displaced people in Ma’rib, and an official report reveals the causes of more than 100 fire cases in 6 months.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427300",
+        "published_date": "2026-07-31T19:43:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6dc0aba1058a",
+        "title": "Republic Cup... Al-Tilal and Tadamon Hadhramaut qualified for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427297",
+        "published_date": "2026-07-31T19:12:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c0d4b8c938d3",
+        "title": "Thousands of Moroccans are fleeing towards Spanish territory, and the authorities are strengthening their security deployment at the crossings",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427292",
+        "published_date": "2026-07-31T18:47:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "068ab7c48aa4",
         "title": "Meteorology: Continuing thunderstorms accompanied by hailstones and blowing winds",
@@ -311,30 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427213",
         "published_date": "2026-07-29T19:07:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0e0a5edd53a1",
-        "title": "Death torso",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427209",
-        "published_date": "2026-07-29T18:02:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "da365b99f0e1",
-        "title": "Dropping a march west of Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427205",
-        "published_date": "2026-07-29T17:38:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e8edc987467",
-        "title": "Well, Ansar Allah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427202",
-        "published_date": "2026-07-29T17:23:23Z",
         "category": "Local Events"
       }
     ]
