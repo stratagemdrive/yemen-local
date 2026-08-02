@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-01T12:04:57Z",
+  "last_updated": "2026-08-02T00:01:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,22 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "cf6f03b59686",
+        "title": "Regarding the murder of the martyr Bashar Al-Absi... a summary of the violations and imbalances in the course of the investigation in the Damnat Khadir Prosecution",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427334",
+        "published_date": "2026-08-01T22:20:26Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "605f09d1050d",
+        "title": "Habra launches a national appeal to spare Yemen from a new war and calls for a comprehensive peace initiative",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427324",
+        "published_date": "2026-08-01T12:41:06Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "f5b7421b5ee9",
         "title": "Sanaa.. The Foreign Ministry clarifies the targeting of a ship in Damietta, Egypt",
         "source": "Yemenat",
@@ -19,11 +35,11 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "ab8b58a5bc3b",
-        "title": "When competence is assassinated, corruption is born",
+        "_id": "7fdbdf690ac2",
+        "title": "Researcher Dr. عبداللطيف حيدر.. قراءة وعرض لكتابه الجديد: الخيال والتنمية رهان اقتصاد المعرفة منخفض التكلفة (4-4)",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427266",
-        "published_date": "2026-07-31T01:28:55Z",
+        "url": "https://yemenat.net/archives/427268",
+        "published_date": "2026-07-31T01:35:16Z",
         "category": "Diplomacy"
       },
       {
@@ -75,26 +91,18 @@
         "url": "https://yemenat.net/archives/427170",
         "published_date": "2026-07-29T07:06:51Z",
         "category": "Military"
-      },
-      {
-        "_id": "782fe3dcf66b",
-        "title": "Announcement of a ship accident in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427158",
-        "published_date": "2026-07-29T04:18:14Z",
-        "category": "Military"
-      },
-      {
-        "_id": "2e167e252dfe",
-        "title": "Saudi Defense announces the implementation of air strikes in Iraq",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427153",
-        "published_date": "2026-07-29T03:20:15Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "19b57883961d",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to intervene to release lawyer Abdul Majeed Sabra",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427330",
+        "published_date": "2026-08-01T18:34:32Z",
+        "category": "Economy"
+      },
       {
         "_id": "61ae97a7e941",
         "title": "The Yemeni Embassy in Rabat clarifies the missing Yemenis in Morocco",
@@ -105,18 +113,10 @@
       },
       {
         "_id": "a00736365197",
-        "title": "Aden.. Jannah Seeds Company denounces the continued marginalization of local seeds and calls on organizations to support national production",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427270",
         "published_date": "2026-07-31T04:28:19Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "7fdbdf690ac2",
-        "title": "Researcher Dr. Abdul Latif Haider...a reading and presentation of his new book: Imagination and Development, the Low-Cost Knowledge Economy’s Bet (4-4)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427268",
-        "published_date": "2026-07-31T01:35:16Z",
         "category": "Economy"
       },
       {
@@ -150,17 +150,41 @@
         "url": "https://yemenat.net/archives/427172",
         "published_date": "2026-07-29T09:19:59Z",
         "category": "Economy"
-      },
-      {
-        "_id": "e98424d31921",
-        "title": "Stories from within the collection of Hayel Saeed Anam",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427162",
-        "published_date": "2026-07-29T04:39:52Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "411a6a9441e3",
+        "title": "Dust on the shelves and ashes in the soul: the diary of a man crushed by want",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427336",
+        "published_date": "2026-08-01T22:27:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "58dd436f055c",
+        "title": "When the homeland becomes a bag and the sea becomes a graveyard: Asylum and migration between the law and human pain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427332",
+        "published_date": "2026-08-01T22:10:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a3389c49b147",
+        "title": "A sharp decline in demand for the College of Education at Taiz University",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427326",
+        "published_date": "2026-08-01T17:30:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "073076d70f48",
+        "title": "Hadhramaut.. Assassination of a leader in the “Homeland Shield” forces",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427321",
+        "published_date": "2026-08-01T12:19:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5b992b5c8d35",
         "title": "Average gold prices in Sanaa and Aden, Saturday, August 1, 2026",
@@ -242,6 +266,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "ab8b58a5bc3b",
+        "title": "When competence is assassinated, corruption is born",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427266",
+        "published_date": "2026-07-31T01:28:55Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "80b93911629b",
         "title": "Siamese twins in Al-Sabeen Hospital in Sanaa amid urgent calls to save their lives",
         "source": "Yemenat",
@@ -279,46 +311,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427244",
         "published_date": "2026-07-30T15:46:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1aa3d6e774ac",
-        "title": "Stealing the future: How did the Yemeni legitimate government plunder the grants of the poor?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427241",
-        "published_date": "2026-07-30T15:17:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "570ac929cf8b",
-        "title": "Meteorology expects continued rainfall and strong winds and warns of the collapse of old buildings",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427237",
-        "published_date": "2026-07-30T07:57:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a9e39678708",
-        "title": "Sanaa.. The Central Bank stops dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427235",
-        "published_date": "2026-07-30T07:35:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9f26a5145bac",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to release engineer Saddam Al-Sufi in implementation of a judicial decision",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427226",
-        "published_date": "2026-07-30T03:16:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0eaa368b9eff",
-        "title": "A weather expert expects two waves of rain in the coming days in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427221",
-        "published_date": "2026-07-30T01:45:31Z",
         "category": "Local Events"
       }
     ]
