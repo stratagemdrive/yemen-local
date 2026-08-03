@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-02T12:13:16Z",
+  "last_updated": "2026-08-03T00:02:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -69,6 +69,14 @@
     ],
     "Military": [
       {
+        "_id": "9c98f3880d69",
+        "title": "Sanaa.. Queues in front of gas filling stations and the company clarifies gas reserves",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427376",
+        "published_date": "2026-08-02T19:05:32Z",
+        "category": "Military"
+      },
+      {
         "_id": "34da0a0cf533",
         "title": "More than ten casualties in clashes on the Hadhramaut coast",
         "source": "Yemenat",
@@ -90,14 +98,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427306",
         "published_date": "2026-08-01T09:51:06Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4caa8ca2005a",
-        "title": "Humaidan calls for the restoration of Yemeni decision-making and stresses that the future of Yemen is not made by weapons",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427216",
-        "published_date": "2026-07-30T00:01:11Z",
         "category": "Military"
       }
     ],
@@ -170,6 +170,46 @@
     ],
     "Local Events": [
       {
+        "_id": "7444084d0240",
+        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the artist Maysa Al-Katef",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427389",
+        "published_date": "2026-08-02T20:39:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "73eeb378309b",
+        "title": "The hearing team inspects Kawkaban Fort and the historic city of Shibam and praises the efforts to restore archaeological sites",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427380",
+        "published_date": "2026-08-02T20:13:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0988d2e8fa18",
+        "title": "The hearing team visits the artist Ali Al-Kawkabani and calls for urgent action to complete his treatment outside Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427372",
+        "published_date": "2026-08-02T17:17:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "767f0218e18f",
+        "title": "Sanaa.. The Ministry of Health announces the exhaustion of the stock of basic vaccines and holds the United Nations responsible",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427368",
+        "published_date": "2026-08-02T14:55:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1a8248e701d2",
+        "title": "More than 30 cases of rabies were recorded in Ibb Governorate within a day",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427366",
+        "published_date": "2026-08-02T13:54:35Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "fd1bbcb03caa",
         "title": "Meteorology calls on the concerned authorities to take appropriate measures to protect lives and property",
         "source": "Yemenat",
@@ -227,7 +267,7 @@
       },
       {
         "_id": "073076d70f48",
-        "title": "Hadhramaut.. Assassination of a leader in the “National Shield” forces",
+        "title": "Hadhramaut.. Assassination of a leader in the “Homeland Shield” forces",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427321",
         "published_date": "2026-08-01T12:19:29Z",
@@ -287,46 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427285",
         "published_date": "2026-07-31T07:48:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "550f5300459f",
-        "title": "Aden.. The Yemeni Coast Guard announces the arrest of “Tawakkal” in Bab al-Mandab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427282",
-        "published_date": "2026-07-31T06:22:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1740eebeca58",
-        "title": "Warnings about the circulation of Brazilian sugar contaminated with heavy and toxic elements, and thousands of bags were seized in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427277",
-        "published_date": "2026-07-31T05:33:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4a789911ad05",
-        "title": "A weather expert expects heavy rains and dusty winds in several Yemeni regions in the coming hours",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427273",
-        "published_date": "2026-07-31T05:05:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80b93911629b",
-        "title": "Siamese twins in Al-Sabeen Hospital in Sanaa amid urgent calls to save their lives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427259",
-        "published_date": "2026-07-30T23:05:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bf85801edec8",
-        "title": "The listening team visits the Charitable Medical Center in Amanat Al Asimah",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427256",
-        "published_date": "2026-07-30T22:17:59Z",
         "category": "Local Events"
       }
     ]
