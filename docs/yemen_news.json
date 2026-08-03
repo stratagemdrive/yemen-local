@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-03T00:02:26Z",
+  "last_updated": "2026-08-03T13:44:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a29b7d08eb8d",
+        "title": "An evening in the midst of division and disappointment... and the question that does not want to die",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427392",
+        "published_date": "2026-08-03T00:22:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "44033f6323c7",
         "title": "Al-Saqladi questions Saudi Arabia’s exclusion of the UAE from the Red Sea Alliance",
@@ -150,25 +158,57 @@
         "url": "https://yemenat.net/archives/427263",
         "published_date": "2026-07-31T01:23:12Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a1d235bec211",
-        "title": "Al-Wadiah land port prevents the entry of a number of materials into Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427232",
-        "published_date": "2026-07-30T04:34:20Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "563acf3a1af5",
-        "title": "Tales from Inside the Hayel Saeed Anam Group",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427229",
-        "published_date": "2026-07-30T03:53:48Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "7cd2230b6f07",
+        "title": "“A Document”: More than 8 million riyals for organizing a support march, and the president’s photo alone costs more than a million and a half riyals.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427426",
+        "published_date": "2026-08-03T10:28:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e55eec154a9b",
+        "title": "Meteorology: Rainfall continues in most Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427424",
+        "published_date": "2026-08-03T08:37:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e7b9433fc673",
+        "title": "A “photo visit” was not considered.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427403",
+        "published_date": "2026-08-03T08:28:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "486060bdad3d",
+        "title": "Measles outbreak in Ma'rib Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427400",
+        "published_date": "2026-08-03T07:56:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b01e70d328f",
+        "title": "Weather expert: A depression affects Hadhramaut and thunderstorms extend to Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427397",
+        "published_date": "2026-08-03T03:56:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a1d2f0d159b",
+        "title": "A massive earthquake was felt by the residents of Egypt and several countries in the Middle East",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427394",
+        "published_date": "2026-08-03T00:35:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7444084d0240",
         "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the artist Maysa Al-Katef",
@@ -279,54 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427314",
         "published_date": "2026-08-01T11:00:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1086b10ff732",
-        "title": "Meteorology expects thunderstorms of varying intensity to continue",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427304",
-        "published_date": "2026-08-01T09:25:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4ab0aac80949",
-        "title": "A fire broke out in a camp for displaced people in Ma’rib, and an official report reveals the causes of more than 100 fire cases in 6 months.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427300",
-        "published_date": "2026-07-31T19:43:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6dc0aba1058a",
-        "title": "Republic Cup... Al-Tilal and Tadamon Hadhramaut qualified for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427297",
-        "published_date": "2026-07-31T19:12:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c0d4b8c938d3",
-        "title": "Thousands of Moroccans are fleeing towards Spanish territory, and the authorities are strengthening their security deployment at the crossings",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427292",
-        "published_date": "2026-07-31T18:47:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "068ab7c48aa4",
-        "title": "Meteorology: Continuing thunderstorms accompanied by hailstones and blowing winds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427288",
-        "published_date": "2026-07-31T08:27:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69fd6e5451ba",
-        "title": "A traffic accident cuts off a road linking Aden to Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427285",
-        "published_date": "2026-07-31T07:48:44Z",
         "category": "Local Events"
       }
     ]
