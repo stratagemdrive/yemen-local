@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-05T12:58:24Z",
+  "last_updated": "2026-08-06T00:03:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,22 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "8d197126aea1",
+        "title": "UN-Yemeni discussions regarding developments in the situation and peace efforts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427513",
+        "published_date": "2026-08-05T22:37:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "14fb2bd3dea3",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427511",
+        "published_date": "2026-08-05T22:19:39Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "fecfa7c7f36b",
         "title": "Location: An interim agreement to reopen the Strait of Hormuz is approaching",
         "source": "Yemenat",
@@ -20,18 +36,10 @@
       },
       {
         "_id": "79ed34ddbee6",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Al-Aqili reveals an aspect of financial corruption within the “legitimate” army",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427489",
         "published_date": "2026-08-05T06:08:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4e88c0d952c9",
-        "title": "Al-Awlaki talks about a plan to address dual employment and reduce fake jobs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427481",
-        "published_date": "2026-08-05T03:44:03Z",
         "category": "Diplomacy"
       },
       {
@@ -51,11 +59,11 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "6b9f308efb35",
-        "title": "It creates forty similarities. Do we actually live our lives, or do we repeat the lives of others in different ways?",
+        "_id": "a643e911a263",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427439",
-        "published_date": "2026-08-03T17:17:11Z",
+        "url": "https://yemenat.net/archives/427432",
+        "published_date": "2026-08-03T13:58:38Z",
         "category": "Diplomacy"
       },
       {
@@ -76,36 +84,20 @@
       },
       {
         "_id": "210825653026",
-        "title": "American embassies warn their citizens in the Middle East of possible escalation and call on them to prepare to leave",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427343",
         "published_date": "2026-08-02T04:22:40Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cf6f03b59686",
-        "title": "Regarding the murder of the martyr Bashar Al-Absi... a summary of the violations and imbalances in the course of the investigation in the Damnat Khadir Prosecution",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427334",
-        "published_date": "2026-08-01T22:20:26Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "605f09d1050d",
-        "title": "Habra launches a national appeal to spare Yemen from a new war and calls for a comprehensive peace initiative",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427324",
-        "published_date": "2026-08-01T12:41:06Z",
         "category": "Diplomacy"
       }
     ],
     "Military": [
       {
-        "_id": "576a58a88f74",
-        "title": "Saree announces the targeting of a Saudi oil ship in the Red Sea and vows to escalate operations",
+        "_id": "7996edf4222d",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427496",
-        "published_date": "2026-08-05T07:30:01Z",
+        "url": "https://yemenat.net/archives/427520",
+        "published_date": "2026-08-05T23:21:50Z",
         "category": "Military"
       },
       {
@@ -136,11 +128,27 @@
     "Energy": [],
     "Economy": [
       {
-        "_id": "a1e6900d4f2d",
-        "title": "Al-Baidh: Yemen's merger with the Gulf Cooperation Council was an opportunity to change the face of the region",
+        "_id": "605d75feac41",
+        "title": "First Division League.. Al-Orouba escapes loss and Fahman returns with a valuable point",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427445",
-        "published_date": "2026-08-04T04:30:58Z",
+        "url": "https://yemenat.net/archives/427522",
+        "published_date": "2026-08-05T23:44:51Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "7c34c8eb3185",
+        "title": "Real estate recession in Yemen...legislative and administrative reforms to restore confidence and stimulate the economy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427517",
+        "published_date": "2026-08-05T23:03:04Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "742f327ed6c8",
+        "title": "Sanaa.. The Central Bank stops dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427456",
+        "published_date": "2026-08-04T08:21:58Z",
         "category": "Economy"
       },
       {
@@ -150,17 +158,17 @@
         "url": "https://yemenat.net/archives/427353",
         "published_date": "2026-08-02T06:27:23Z",
         "category": "Economy"
-      },
-      {
-        "_id": "19b57883961d",
-        "title": "Yemeni intellectuals appeal to the Sanaa authority to intervene to release lawyer Abdul Majeed Sabra",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427330",
-        "published_date": "2026-08-01T18:34:32Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "ce6b227ed22c",
+        "title": "Republic Cup.. Al-Mukalla completes the contract for the teams qualifying for the round of 16",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427508",
+        "published_date": "2026-08-05T22:04:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5d264ec03354",
         "title": "An Unexpected Visit",
@@ -179,7 +187,7 @@
       },
       {
         "_id": "b82d8eb5b3c4",
-        "title": "Aden.. The Ministry of Education stops certifying the certificates of students coming from areas under Sana’a authority",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427486",
         "published_date": "2026-08-05T04:27:45Z",
@@ -191,14 +199,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427478",
         "published_date": "2026-08-04T18:01:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "371f9ae1e0a2",
-        "title": "Three earthquakes were recorded from Al-Hudaydah and Taiz governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427474",
-        "published_date": "2026-08-04T17:28:21Z",
         "category": "Local Events"
       },
       {
@@ -219,26 +219,10 @@
       },
       {
         "_id": "c65647a7048c",
-        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the activist Ali Al-Qadi",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427461",
         "published_date": "2026-08-04T09:30:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f5036ccce712",
-        "title": "Meteorology: Thunderstorms in parts of deserts, plateaus and highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427458",
-        "published_date": "2026-08-04T08:47:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "742f327ed6c8",
-        "title": "Sanaa.. The Central Bank stops dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427456",
-        "published_date": "2026-08-04T08:21:58Z",
         "category": "Local Events"
       },
       {
@@ -258,27 +242,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "a643e911a263",
-        "title": "Sanaa.. Civil Status takes a decision regarding expired personal cards",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427432",
-        "published_date": "2026-08-03T13:58:38Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "7cd2230b6f07",
         "title": "“A Document”: More than 8 million riyals for organizing a support march, and the president’s photo alone costs more than a million and a half riyals.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427426",
         "published_date": "2026-08-03T10:28:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e55eec154a9b",
-        "title": "Meteorology: Rainfall continues in most Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427424",
-        "published_date": "2026-08-03T08:37:50Z",
         "category": "Local Events"
       },
       {
@@ -298,14 +266,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "9b01e70d328f",
-        "title": "Weather expert: A depression affects Hadhramaut and thunderstorms extend to Shabwa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427397",
-        "published_date": "2026-08-03T03:56:32Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "9a1d2f0d159b",
         "title": "A massive earthquake was felt by the residents of Egypt and several countries in the Middle East",
         "source": "Yemenat",
@@ -319,6 +279,46 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427389",
         "published_date": "2026-08-02T20:39:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "73eeb378309b",
+        "title": "The hearing team inspects Kawkaban Fort and the historic city of Shibam and praises the efforts to restore archaeological sites",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427380",
+        "published_date": "2026-08-02T20:13:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0988d2e8fa18",
+        "title": "The hearing team visits the artist Ali Al-Kawkabani and calls for urgent action to complete his treatment outside Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427372",
+        "published_date": "2026-08-02T17:17:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "767f0218e18f",
+        "title": "Sanaa.. The Ministry of Health announces the exhaustion of the stock of basic vaccines and holds the United Nations responsible",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427368",
+        "published_date": "2026-08-02T14:55:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1a8248e701d2",
+        "title": "More than 30 cases of rabies were recorded in Ibb Governorate within a day",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427366",
+        "published_date": "2026-08-02T13:54:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "11a759c56aea",
+        "title": "Female students at Taiz University complain about raising university housing fees amid fears of obstructing the education of rural girls",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427355",
+        "published_date": "2026-08-02T08:36:17Z",
         "category": "Local Events"
       }
     ]
