@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-07T01:42:44Z",
+  "last_updated": "2026-08-07T11:50:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "c014d37589ef",
+        "title": "Al-Maliki announces attacks targeting southwestern Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427596",
+        "published_date": "2026-08-07T07:39:20Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "0f73fc6ddd2a",
         "title": "Bullying women",
@@ -97,25 +105,25 @@
         "url": "https://yemenat.net/archives/427467",
         "published_date": "2026-08-04T11:17:33Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8261745b1cff",
-        "title": "Weather expert: Waves of rain are expected in Yemen until mid-August",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427442",
-        "published_date": "2026-08-04T04:18:58Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "6b9f308efb35",
-        "title": "It creates forty similarities. Do we actually live our lives, or do we repeat the lives of others in different ways?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427439",
-        "published_date": "2026-08-03T17:17:11Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "4aed6186f8f8",
+        "title": "Violent explosions in Marib and columns of smoke rising",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427599",
+        "published_date": "2026-08-07T08:12:14Z",
+        "category": "Military"
+      },
+      {
+        "_id": "171ec772cbc2",
+        "title": "Closed nets at the top of the first division league.. Ahly Sanaa stops the victories of the people of Hadhramaut",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427590",
+        "published_date": "2026-08-07T07:10:11Z",
+        "category": "Military"
+      },
       {
         "_id": "622d5ffdec99",
         "title": "Lawyers against corruption: Preventing lawyers from pleading is an attack on justice and the prestige of the judiciary",
@@ -222,17 +230,25 @@
         "url": "https://yemenat.net/archives/427517",
         "published_date": "2026-08-05T23:03:04Z",
         "category": "Economy"
-      },
-      {
-        "_id": "a1e6900d4f2d",
-        "title": "Al-Baidh: Yemen's merger with the Gulf Cooperation Council was an opportunity to change the face of the region",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427445",
-        "published_date": "2026-08-04T04:30:58Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "1bc5d7dd4a5a",
+        "title": "Parliamentarian Al-Maqtari after his home was targeted: I will not be intimidated by your threats, and I will continue to defend the oppressed",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427602",
+        "published_date": "2026-08-07T09:17:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "912c7e49ad9a",
+        "title": "Astronomical: Rains over large parts of Sanaa, coinciding with a relative improvement in rains across the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427587",
+        "published_date": "2026-08-07T06:33:48Z",
+        "category": "Local Events"
+      },
       {
         "_id": "bdf6fa381917",
         "title": "A bureaucratic crime in the name of legitimacy.. How did the political decision turn into collective punishment for Yemeni students?",
@@ -375,22 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427461",
         "published_date": "2026-08-04T09:30:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f5036ccce712",
-        "title": "Meteorology: Thunderstorms in parts of deserts, plateaus and highlands",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427458",
-        "published_date": "2026-08-04T08:47:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "742f327ed6c8",
-        "title": "Sanaa.. The Central Bank stops dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427456",
-        "published_date": "2026-08-04T08:21:58Z",
         "category": "Local Events"
       }
     ]
