@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-07T11:50:09Z",
+  "last_updated": "2026-08-07T23:37:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "477d382c553f",
+        "title": "Ambassador Road.. and strengthening Yemeni-Turkish communication",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427631",
+        "published_date": "2026-08-07T21:29:01Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bc993767c12a",
+        "title": "Signing a joint defense agreement between Saudi Arabia, Turkey and Pakistan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427624",
+        "published_date": "2026-08-07T20:31:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f90c7c24d28b",
+        "title": "From the vastness of Mecca... to the scales of power!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427621",
+        "published_date": "2026-08-07T20:15:17Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "459aa18c8098",
+        "title": "After 10 months in the hospital morgue... Wafa Saddam Al-Basha Al-Mikhlafi was buried while waiting for justice to have its say.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427611",
+        "published_date": "2026-08-07T18:15:02Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "c014d37589ef",
         "title": "Al-Maliki announces attacks targeting southwestern Saudi Arabia",
@@ -97,17 +129,17 @@
         "url": "https://yemenat.net/archives/427481",
         "published_date": "2026-08-05T03:44:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8090deb3349f",
-        "title": "God Creates Forty Lookalikes: But Do We Truly Live Our Own Lives, or Are We Merely Repeating the Lives of Others in Different Forms?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427467",
-        "published_date": "2026-08-04T11:17:33Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "3191f364500c",
+        "title": "Sanaa.. Sirens are sounding in Al-Saila and the rains are the heaviest since the beginning of the season",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427608",
+        "published_date": "2026-08-07T13:18:09Z",
+        "category": "Military"
+      },
       {
         "_id": "4aed6186f8f8",
         "title": "Violent explosions in Marib and columns of smoke rising",
@@ -179,14 +211,6 @@
         "url": "https://yemenat.net/archives/427496",
         "published_date": "2026-08-05T07:30:01Z",
         "category": "Military"
-      },
-      {
-        "_id": "aeda2663abf5",
-        "title": "Sources: A booby-trapped boat sinks a cargo ship in the Red Sea",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427471",
-        "published_date": "2026-08-04T14:54:54Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -233,6 +257,46 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "6962fcf89275",
+        "title": "A lawyer's car was burned in Ibb Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427639",
+        "published_date": "2026-08-07T22:23:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2e8aab79e2cc",
+        "title": "An earthquake was recorded from Rayma Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427636",
+        "published_date": "2026-08-07T21:56:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "41a8ff668d20",
+        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the poet Ismail Al-Makhawi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427628",
+        "published_date": "2026-08-07T21:13:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1c8b361c86a",
+        "title": "First Division League.. Tadamon Hadhramaut proves second place, Al Sadd shines with a hat-trick, and Yarmouk snatches an exciting draw",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427618",
+        "published_date": "2026-08-07T18:53:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8610929acd78",
+        "title": "Saree announces the targeting of military concentrations in Marib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427615",
+        "published_date": "2026-08-07T18:26:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1bc5d7dd4a5a",
         "title": "Parliamentarian Al-Maqtari after his home was targeted: I will not be intimidated by your threats, and I will continue to defend the oppressed",
@@ -351,46 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427486",
         "published_date": "2026-08-05T04:27:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "302d94c48a5f",
-        "title": "Republic Cup: Sanaa Unit qualifies for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427478",
-        "published_date": "2026-08-04T18:01:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "371f9ae1e0a2",
-        "title": "Three earthquakes were recorded from Al-Hudaydah and Taiz governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427474",
-        "published_date": "2026-08-04T17:28:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a145bd58c728",
-        "title": "Forming a committee to review housing fees for female students at Taiz University",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427469",
-        "published_date": "2026-08-04T12:55:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "30a440cc2877",
-        "title": "Saree announces the targeting of an airport in southwestern Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427464",
-        "published_date": "2026-08-04T10:48:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c65647a7048c",
-        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the activist Ali Al-Qadi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427461",
-        "published_date": "2026-08-04T09:30:53Z",
         "category": "Local Events"
       }
     ]
