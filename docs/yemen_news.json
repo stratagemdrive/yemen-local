@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-07T23:37:16Z",
+  "last_updated": "2026-08-08T11:35:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "9105bb3bffdc",
+        "title": "The UN envoy warns of Yemen's return to a wide-scale conflict and calls on the parties to exercise restraint and return to negotiations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427647",
+        "published_date": "2026-08-08T07:41:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "477d382c553f",
         "title": "Ambassador Road.. and strengthening Yemeni-Turkish communication",
@@ -113,25 +121,17 @@
         "url": "https://yemenat.net/archives/427498",
         "published_date": "2026-08-05T10:34:36Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "79ed34ddbee6",
-        "title": "Al-Aqili reveals an aspect of financial corruption within the “legitimate” army",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427489",
-        "published_date": "2026-08-05T06:08:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4e88c0d952c9",
-        "title": "Al-Awlaki talks about a plan to address dual employment and reduce fake jobs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427481",
-        "published_date": "2026-08-05T03:44:03Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "01a1ee177e0b",
+        "title": "Al-Nazili announces the implementation of a military operation that included several fronts along the lines of contact",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427642",
+        "published_date": "2026-08-08T07:15:11Z",
+        "category": "Military"
+      },
       {
         "_id": "3191f364500c",
         "title": "Sanaa.. Sirens are sounding in Al-Saila and the rains are the heaviest since the beginning of the season",
@@ -203,18 +203,18 @@
         "url": "https://yemenat.net/archives/427504",
         "published_date": "2026-08-05T21:22:28Z",
         "category": "Military"
-      },
-      {
-        "_id": "576a58a88f74",
-        "title": "Saree announces the targeting of a Saudi oil ship in the Red Sea and vows to escalate operations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427496",
-        "published_date": "2026-08-05T07:30:01Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "91cee1900cc9",
+        "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427655",
+        "published_date": "2026-08-08T09:47:28Z",
+        "category": "Economy"
+      },
       {
         "_id": "6d8942fec303",
         "title": "Yemenis...victims of other people's wars",
@@ -257,6 +257,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "b251997c7141",
+        "title": "Yemeni intellectuals demand the arrest of those who carried out the attack on the home of the Al-Maqtari parliamentarian and the provision of protection for him and his family",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427651",
+        "published_date": "2026-08-08T09:07:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7298575c7812",
+        "title": "Meteorology: The continued instability in the atmosphere, the influx of high humidity, and the formation of rainy nimbus clouds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427649",
+        "published_date": "2026-08-08T08:06:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6962fcf89275",
         "title": "A lawyer's car was burned in Ibb Governorate",
@@ -399,22 +415,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427501",
         "published_date": "2026-08-05T12:36:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "928194f2b267",
-        "title": "“Deranged” text",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427492",
-        "published_date": "2026-08-05T06:33:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b82d8eb5b3c4",
-        "title": "Aden.. The Ministry of Education stops certifying the certificates of students coming from areas under Sana’a authority",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427486",
-        "published_date": "2026-08-05T04:27:45Z",
         "category": "Local Events"
       }
     ]
