@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-08T11:35:10Z",
+  "last_updated": "2026-08-08T23:33:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "b06834ae3e16",
+        "title": "Does the Mecca Agreement draw a new security map for the Middle East? Why is Egypt outside the triangle?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427663",
+        "published_date": "2026-08-08T14:32:01Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9105bb3bffdc",
         "title": "The UN envoy warns of Yemen's return to a wide-scale conflict and calls on the parties to exercise restraint and return to negotiations",
@@ -113,14 +121,6 @@
         "url": "https://yemenat.net/archives/427506",
         "published_date": "2026-08-05T21:37:08Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "fecfa7c7f36b",
-        "title": "Location: An interim agreement to reopen the Strait of Hormuz is approaching",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427498",
-        "published_date": "2026-08-05T10:34:36Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -195,21 +195,21 @@
         "url": "https://yemenat.net/archives/427520",
         "published_date": "2026-08-05T23:21:50Z",
         "category": "Military"
-      },
-      {
-        "_id": "3c9f1d59edea",
-        "title": "Saree announces the targeting of a new Saudi ship",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427504",
-        "published_date": "2026-08-05T21:22:28Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
       {
+        "_id": "d862c315e6ab",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427660",
+        "published_date": "2026-08-08T13:33:44Z",
+        "category": "Economy"
+      },
+      {
         "_id": "91cee1900cc9",
-        "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427655",
         "published_date": "2026-08-08T09:47:28Z",
@@ -258,6 +258,14 @@
     ],
     "Local Events": [
       {
+        "_id": "d910e7bd67cb",
+        "title": "The first anniversary of the passing of the poet Karim El Hanky",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427667",
+        "published_date": "2026-08-08T16:58:34Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "b251997c7141",
         "title": "Yemeni intellectuals demand the arrest of those who carried out the attack on the home of the Al-Maqtari parliamentarian and the provision of protection for him and his family",
         "source": "Yemenat",
@@ -298,14 +306,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "b1c8b361c86a",
-        "title": "First Division League.. Tadamon Hadhramaut proves second place, Al Sadd shines with a hat-trick, and Yarmouk snatches an exciting draw",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427618",
-        "published_date": "2026-08-07T18:53:11Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "8610929acd78",
         "title": "Saree announces the targeting of military concentrations in Marib",
         "source": "Yemenat",
@@ -335,14 +335,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427578",
         "published_date": "2026-08-06T22:19:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "51a55b39c5ab",
-        "title": "Sockets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427565",
-        "published_date": "2026-08-06T19:16:27Z",
         "category": "Local Events"
       },
       {
@@ -407,14 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427508",
         "published_date": "2026-08-05T22:04:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d264ec03354",
-        "title": "An Unexpected Visit",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427501",
-        "published_date": "2026-08-05T12:36:46Z",
         "category": "Local Events"
       }
     ]
