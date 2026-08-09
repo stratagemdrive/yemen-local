@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-08T23:33:01Z",
+  "last_updated": "2026-08-09T11:35:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "6f66e0ced1dd",
+        "title": "The National Foundation for Combating Human Trafficking warns against impersonation of its name through electronic fraud",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427682",
+        "published_date": "2026-08-09T07:48:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "b06834ae3e16",
         "title": "Does the Mecca Agreement draw a new security map for the Middle East? Why is Egypt outside the triangle?",
@@ -97,33 +105,17 @@
         "url": "https://yemenat.net/archives/427532",
         "published_date": "2026-08-06T02:14:53Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "8d197126aea1",
-        "title": "UN-Yemeni discussions regarding developments in the situation and peace efforts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427513",
-        "published_date": "2026-08-05T22:37:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "14fb2bd3dea3",
-        "title": "Let us meet over our common pain.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427511",
-        "published_date": "2026-08-05T22:19:39Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3fc630f630c9",
-        "title": "Washington reduces its diplomatic representation in Yemen after Fagin's departure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427506",
-        "published_date": "2026-08-05T21:37:08Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "b87ea92b7cfc",
+        "title": "Saree announces a military operation in Al-Mokha, Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427695",
+        "published_date": "2026-08-09T10:09:03Z",
+        "category": "Military"
+      },
       {
         "_id": "01a1ee177e0b",
         "title": "Al-Nazili announces the implementation of a military operation that included several fronts along the lines of contact",
@@ -187,21 +179,22 @@
         "url": "https://yemenat.net/archives/427548",
         "published_date": "2026-08-06T14:27:09Z",
         "category": "Military"
-      },
-      {
-        "_id": "7996edf4222d",
-        "title": "Aden.. Military and security appointments and promotions in the security forces and the State Security Apparatus",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427520",
-        "published_date": "2026-08-05T23:21:50Z",
-        "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "699864af36d3",
+        "title": "The Saudi Ministry of Energy announces a fire in one of the Aramco refinery facilities in Jizan",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427689",
+        "published_date": "2026-08-09T09:14:56Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
       {
         "_id": "d862c315e6ab",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427660",
         "published_date": "2026-08-08T13:33:44Z",
@@ -209,7 +202,7 @@
       },
       {
         "_id": "91cee1900cc9",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427655",
         "published_date": "2026-08-08T09:47:28Z",
@@ -233,30 +226,62 @@
       },
       {
         "_id": "94372e9c393f",
-        "title": "Qadri Ahmed Haider.. a giant of thought and steadfastness in his position",
+        "title": "Qadri Ahmed Haider... a giant of thought and steadfastness in his position",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427535",
         "published_date": "2026-08-06T02:18:13Z",
         "category": "Economy"
-      },
-      {
-        "_id": "605d75feac41",
-        "title": "First Division League.. Al-Orouba escapes loss and Fahman returns with a valuable point",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427522",
-        "published_date": "2026-08-05T23:44:51Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "7c34c8eb3185",
-        "title": "Real estate recession in Yemen...legislative and administrative reforms to restore confidence and stimulate the economy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427517",
-        "published_date": "2026-08-05T23:03:04Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "91c633073a4e",
+        "title": "Plumes of smoke rise from the port of Mokha after successive explosions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427692",
+        "published_date": "2026-08-09T09:45:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "56ade13b8d04",
+        "title": "Meteorology: Continuing thunderstorms accompanied by strong blowing winds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427686",
+        "published_date": "2026-08-09T07:55:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4bc083d93571",
+        "title": "The Yemeni poet Al-Tuhamy Ismail Makhawi was involved in a traffic accident and needs our support",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427679",
+        "published_date": "2026-08-09T07:15:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc45f0015e57",
+        "title": "Saree announces the targeting of a Saudi oil facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427676",
+        "published_date": "2026-08-09T06:53:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e4c403a34809",
+        "title": "An earthquake was recorded in Ibb Governorate, which was felt by residents of districts adjacent to Dhamar and Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427673",
+        "published_date": "2026-08-09T06:14:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "94616d0d0924",
+        "title": "A weather expert expects heavy rains in several Yemeni governorates and warns of hail and torrential rains",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427670",
+        "published_date": "2026-08-09T05:28:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d910e7bd67cb",
         "title": "The first anniversary of the passing of the poet Karim El Hanky",
@@ -306,6 +331,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "b1c8b361c86a",
+        "title": "First Division League.. Tadamon Hadhramaut proves second place, Al Sadd shines with a hat-trick, and Yarmouk snatches an exciting draw",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427618",
+        "published_date": "2026-08-07T18:53:11Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "8610929acd78",
         "title": "Saree announces the targeting of military concentrations in Marib",
         "source": "Yemenat",
@@ -338,6 +371,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "51a55b39c5ab",
+        "title": "Sockets",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427565",
+        "published_date": "2026-08-06T19:16:27Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "18bf55417de7",
         "title": "Sanaa.. The Ministry of Education sets the date for the supplementary round of high school exams and the number of testable subjects",
         "source": "Yemenat",
@@ -351,54 +392,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427555",
         "published_date": "2026-08-06T15:34:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "378d8a86b47f",
-        "title": "Saree announces the targeting of camps in Hadramaut and Marib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427553",
-        "published_date": "2026-08-06T14:49:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4c9f1208cccd",
-        "title": "Lahj.. A parliamentary house was targeted with an attack bomb",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427544",
-        "published_date": "2026-08-06T10:17:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c02d679e6cb6",
-        "title": "Meteorology: Thunderstorms accompanied by hail and blowing winds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427540",
-        "published_date": "2026-08-06T09:38:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "03554f340478",
-        "title": "Urgent messages to the “legitimacy of silent killing”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427529",
-        "published_date": "2026-08-06T02:10:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cd0304ce3c55",
-        "title": "Yemeni intellectuals send an urgent appeal to the authorities of Aden and Sanaa to provide a medical grant for parliamentarian Hashid.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427526",
-        "published_date": "2026-08-06T00:16:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ce6b227ed22c",
-        "title": "Republic Cup.. Al-Mukalla completes the contract for the teams qualifying for the round of 16",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427508",
-        "published_date": "2026-08-05T22:04:30Z",
         "category": "Local Events"
       }
     ]
