@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-09T11:35:19Z",
+  "last_updated": "2026-08-09T23:36:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3b83fe91a2e5",
+        "title": "A literary evening celebrating the novel (Shortly Before Its Music Plays)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427702",
+        "published_date": "2026-08-09T17:20:40Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "6f66e0ced1dd",
         "title": "The National Foundation for Combating Human Trafficking warns against impersonation of its name through electronic fraud",
@@ -89,25 +97,17 @@
         "url": "https://yemenat.net/archives/427574",
         "published_date": "2026-08-06T22:12:07Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "a1f654eaf355",
-        "title": "A reading of Judge Abdulaziz Al-Baghdadi’s article titled “Impoverishment and Ignorance... Isn’t it at the top of all crimes?”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427537",
-        "published_date": "2026-08-06T02:21:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "23a4e97c4a3b",
-        "title": "Enough of the tampering and corruption in the diplomatic corps!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427532",
-        "published_date": "2026-08-06T02:14:53Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "4bd4bf3deb6a",
+        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427698",
+        "published_date": "2026-08-09T13:00:32Z",
+        "category": "Military"
+      },
       {
         "_id": "b87ea92b7cfc",
         "title": "Saree announces a military operation in Al-Mokha, Taiz",
@@ -193,6 +193,14 @@
     ],
     "Economy": [
       {
+        "_id": "15291983867f",
+        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427708",
+        "published_date": "2026-08-09T17:42:04Z",
+        "category": "Economy"
+      },
+      {
         "_id": "d862c315e6ab",
         "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
         "source": "Yemenat",
@@ -223,17 +231,17 @@
         "url": "https://yemenat.net/archives/427559",
         "published_date": "2026-08-06T16:35:18Z",
         "category": "Economy"
-      },
-      {
-        "_id": "94372e9c393f",
-        "title": "Qadri Ahmed Haider... a giant of thought and steadfastness in his position",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427535",
-        "published_date": "2026-08-06T02:18:13Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "c13d23fb4d09",
+        "title": "The Seismic Monitoring Center explains the seismic activity in Al-Adin, Ibb",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427713",
+        "published_date": "2026-08-09T18:59:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "91c633073a4e",
         "title": "Plumes of smoke rise from the port of Mokha after successive explosions",
@@ -384,14 +392,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427557",
         "published_date": "2026-08-06T16:04:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "08d76a28e3db",
-        "title": "A match was postponed in Hodeidah after the Football Association suspended various competitions in the governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427555",
-        "published_date": "2026-08-06T15:34:47Z",
         "category": "Local Events"
       }
     ]
