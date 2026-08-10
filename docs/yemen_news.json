@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-09T23:36:19Z",
+  "last_updated": "2026-08-10T11:52:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "34e07fc1a1ad",
+        "title": "A slight increase in the number of illegal African immigrants arriving in Yemen during last July",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427722",
+        "published_date": "2026-08-10T08:41:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3b83fe91a2e5",
         "title": "A literary evening celebrating the novel (Shortly Before Its Music Plays)",
@@ -101,6 +109,14 @@
     ],
     "Military": [
       {
+        "_id": "ec352bb267f9",
+        "title": "Al-Nuzaili announces the number of victims of the attack on Mokha and confirms that marches were shot down",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427725",
+        "published_date": "2026-08-10T08:59:20Z",
+        "category": "Military"
+      },
+      {
         "_id": "4bd4bf3deb6a",
         "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
         "source": "Yemenat",
@@ -171,14 +187,6 @@
         "url": "https://yemenat.net/archives/427563",
         "published_date": "2026-08-06T18:03:53Z",
         "category": "Military"
-      },
-      {
-        "_id": "a53150b468a4",
-        "title": "Dozens of victims in missile attacks targeting emergency forces camps",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427548",
-        "published_date": "2026-08-06T14:27:09Z",
-        "category": "Military"
       }
     ],
     "Energy": [
@@ -192,6 +200,14 @@
       }
     ],
     "Economy": [
+      {
+        "_id": "c7e390ca7063",
+        "title": "Astronomer Al-Shawafi expects a gradual expansion of rain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427719",
+        "published_date": "2026-08-10T04:28:31Z",
+        "category": "Economy"
+      },
       {
         "_id": "15291983867f",
         "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
@@ -223,20 +239,36 @@
         "url": "https://yemenat.net/archives/427567",
         "published_date": "2026-08-06T19:21:42Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f11bc10abbe6",
-        "title": "Aden.. The Central Bank suspends the licenses of three exchange facilities and closes their headquarters",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427559",
-        "published_date": "2026-08-06T16:35:18Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
       {
+        "_id": "3a2701088b85",
+        "title": "Yemeni intellectuals appeal to the authorities in Aden to cancel the decision not to approve certificates issued by Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427733",
+        "published_date": "2026-08-10T11:47:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "de1902e70630",
+        "title": "Aden... drones flying and ground anti-aircraft guns firing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427731",
+        "published_date": "2026-08-10T10:09:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb7d58798566",
+        "title": "Meteorology: A state of instability dominates the country’s atmosphere",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427728",
+        "published_date": "2026-08-10T09:31:09Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "c13d23fb4d09",
-        "title": "The Seismic Monitoring Center explains the seismic activity in Al-Adin, Ibb",
+        "title": "The Seismic Monitoring Center explains the seismic activity in Al-Udayn, Ibb",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427713",
         "published_date": "2026-08-09T18:59:03Z",
@@ -368,30 +400,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427587",
         "published_date": "2026-08-07T06:33:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bdf6fa381917",
-        "title": "A bureaucratic crime in the name of legitimacy.. How did the political decision turn into collective punishment for Yemeni students?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427578",
-        "published_date": "2026-08-06T22:19:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "51a55b39c5ab",
-        "title": "Sockets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427565",
-        "published_date": "2026-08-06T19:16:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "18bf55417de7",
-        "title": "Sanaa.. The Ministry of Education sets the date for the supplementary round of high school exams and the number of testable subjects",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427557",
-        "published_date": "2026-08-06T16:04:31Z",
         "category": "Local Events"
       }
     ]
