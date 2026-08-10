@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-10T11:52:48Z",
+  "last_updated": "2026-08-10T23:43:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "135d8c6dafda",
+        "title": "Whoever believes that Yemen is built by excluding Yemenis...is delusional",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427754",
+        "published_date": "2026-08-10T21:47:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fdb89e6485de",
+        "title": "The Anti-Human Trafficking Foundation calls for an end to the violence in Yemen and the payment of employee salaries",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427746",
+        "published_date": "2026-08-10T17:03:18Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "a368a933a03f",
+        "title": "Iran: An agreement with Oman regarding a navigation route in Hormuz awaits the resolution of technical issues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427740",
+        "published_date": "2026-08-10T14:16:37Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c2529c755f59",
+        "title": "FIFA approves Karim Al-Zubaidi’s eligibility to represent the Yemeni national teams",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427735",
+        "published_date": "2026-08-10T13:24:39Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "34e07fc1a1ad",
         "title": "A slight increase in the number of illegal African immigrants arriving in Yemen during last July",
@@ -67,14 +99,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "f90c7c24d28b",
-        "title": "From the vastness of Mecca... to the scales of power!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427621",
-        "published_date": "2026-08-07T20:15:17Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "459aa18c8098",
         "title": "After 10 months in the hospital morgue... Wafa Saddam Al-Basha Al-Mikhlafi was buried while waiting for justice to have its say.",
         "source": "Yemenat",
@@ -84,30 +108,22 @@
       },
       {
         "_id": "c014d37589ef",
-        "title": "Al-Maliki announces attacks targeting southwestern Saudi Arabia",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427596",
         "published_date": "2026-08-07T07:39:20Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "0f73fc6ddd2a",
-        "title": "Bullying women",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427576",
-        "published_date": "2026-08-06T22:15:00Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f6526837f69e",
-        "title": "Metaphor as existence and vision: A quick reading of the collection (I Choose This Metaphor) by Ziad Al-Salmi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427574",
-        "published_date": "2026-08-06T22:12:07Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "85b6c91cc459",
+        "title": "Parliamentarian Bishr criticizes the continuation of the war and describes it as a “conspiracy against Yemen”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427749",
+        "published_date": "2026-08-10T19:15:32Z",
+        "category": "Military"
+      },
       {
         "_id": "ec352bb267f9",
         "title": "Al-Nuzaili announces the number of victims of the attack on Mokha and confirms that marches were shot down",
@@ -126,7 +142,7 @@
       },
       {
         "_id": "b87ea92b7cfc",
-        "title": "Saree announces a military operation in Al-Mokha, Taiz",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427695",
         "published_date": "2026-08-09T10:09:03Z",
@@ -150,7 +166,7 @@
       },
       {
         "_id": "4aed6186f8f8",
-        "title": "Violent explosions in Marib and columns of smoke rising",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427599",
         "published_date": "2026-08-07T08:12:14Z",
@@ -162,30 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427590",
         "published_date": "2026-08-07T07:10:11Z",
-        "category": "Military"
-      },
-      {
-        "_id": "622d5ffdec99",
-        "title": "Lawyers against corruption: Preventing lawyers from pleading is an attack on justice and the prestige of the judiciary",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427581",
-        "published_date": "2026-08-06T22:26:35Z",
-        "category": "Military"
-      },
-      {
-        "_id": "cb1172dd7759",
-        "title": "What's left of me?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427572",
-        "published_date": "2026-08-06T22:08:57Z",
-        "category": "Military"
-      },
-      {
-        "_id": "cb4957bca8bd",
-        "title": "Tyranny that exudes betrayal may accumulate the power of authority... but it does not create respect, and it inevitably falls.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427563",
-        "published_date": "2026-08-06T18:03:53Z",
         "category": "Military"
       }
     ],
@@ -209,39 +201,39 @@
         "category": "Economy"
       },
       {
-        "_id": "15291983867f",
-        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427708",
-        "published_date": "2026-08-09T17:42:04Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "d862c315e6ab",
-        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427660",
-        "published_date": "2026-08-08T13:33:44Z",
-        "category": "Economy"
-      },
-      {
         "_id": "91cee1900cc9",
         "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427655",
         "published_date": "2026-08-08T09:47:28Z",
         "category": "Economy"
-      },
-      {
-        "_id": "6d8942fec303",
-        "title": "Yemenis...victims of other people's wars",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427567",
-        "published_date": "2026-08-06T19:21:42Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "5bf094fd1f18",
+        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity is unable to stop?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427759",
+        "published_date": "2026-08-10T22:24:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "61d4abb6a6dc",
+        "title": "First silence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427751",
+        "published_date": "2026-08-10T20:46:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a9352bc4f0b",
+        "title": "Lahj.. Dozens of trucks loaded with goods were seized in Tur Al-Baha",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427742",
+        "published_date": "2026-08-10T16:11:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3a2701088b85",
         "title": "Yemeni intellectuals appeal to the authorities in Aden to cancel the decision not to approve certificates issued by Sanaa",
@@ -252,7 +244,7 @@
       },
       {
         "_id": "de1902e70630",
-        "title": "Aden... drones flying and ground anti-aircraft guns firing",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427731",
         "published_date": "2026-08-10T10:09:57Z",
@@ -276,7 +268,7 @@
       },
       {
         "_id": "91c633073a4e",
-        "title": "Plumes of smoke rise from the port of Mokha after successive explosions",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427692",
         "published_date": "2026-08-09T09:45:57Z",
@@ -323,11 +315,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "d910e7bd67cb",
-        "title": "The first anniversary of the passing of the poet Karim El Hanky",
+        "_id": "d862c315e6ab",
+        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427667",
-        "published_date": "2026-08-08T16:58:34Z",
+        "url": "https://yemenat.net/archives/427660",
+        "published_date": "2026-08-08T13:33:44Z",
         "category": "Local Events"
       },
       {
@@ -376,30 +368,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427618",
         "published_date": "2026-08-07T18:53:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8610929acd78",
-        "title": "Saree announces the targeting of military concentrations in Marib",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427615",
-        "published_date": "2026-08-07T18:26:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1bc5d7dd4a5a",
-        "title": "Parliamentarian Al-Maqtari after his home was targeted: I will not be intimidated by your threats, and I will continue to defend the oppressed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427602",
-        "published_date": "2026-08-07T09:17:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "912c7e49ad9a",
-        "title": "Astronomical: Rains over large parts of Sanaa, coinciding with a relative improvement in rains across the country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427587",
-        "published_date": "2026-08-07T06:33:48Z",
         "category": "Local Events"
       }
     ]
