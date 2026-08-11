@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-11T11:49:18Z",
+  "last_updated": "2026-08-11T23:46:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "4fdf8213827b",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427794",
+        "published_date": "2026-08-11T20:45:25Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "30b84c209063",
+        "title": "The Arabism trilogy brings down the peace of the room and ignites the struggle for the lead in the first division",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427787",
+        "published_date": "2026-08-11T19:46:08Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "135d8c6dafda",
         "title": "Whoever believes that Yemen is built by excluding Yemenis...is delusional",
@@ -59,6 +75,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "4bd4bf3deb6a",
+        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427698",
+        "published_date": "2026-08-09T13:00:32Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "6f66e0ced1dd",
         "title": "The National Foundation for Combating Human Trafficking warns against impersonation of its name through electronic fraud",
         "source": "Yemenat",
@@ -89,33 +113,33 @@
         "url": "https://yemenat.net/archives/427631",
         "published_date": "2026-08-07T21:29:01Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "bc993767c12a",
-        "title": "Signing a joint defense agreement between Saudi Arabia, Turkey and Pakistan",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427624",
-        "published_date": "2026-08-07T20:31:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f90c7c24d28b",
-        "title": "From the vastness of Mecca... to the scales of power!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427621",
-        "published_date": "2026-08-07T20:15:17Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "459aa18c8098",
-        "title": "After 10 months in the hospital morgue... Wafa Saddam Al-Basha Al-Mikhlafi was buried while waiting for justice to have its say.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427611",
-        "published_date": "2026-08-07T18:15:02Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "a3c7681488e7",
+        "title": "Saree announces the targeting of military concentrations and headquarters in Taiz and Ma’rib",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427784",
+        "published_date": "2026-08-11T19:28:58Z",
+        "category": "Military"
+      },
+      {
+        "_id": "3f645afdb639",
+        "title": "Aden.. The Coast Guard Service reveals details of the targeting of a ship in Bab al-Mandab and the number of victims",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427779",
+        "published_date": "2026-08-11T19:04:56Z",
+        "category": "Military"
+      },
+      {
+        "_id": "ab5f87c73991",
+        "title": "Sanaa.. Announcing the targeting of a Saudi ship in Bab al-Mandab",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427776",
+        "published_date": "2026-08-11T18:21:35Z",
+        "category": "Military"
+      },
       {
         "_id": "8e32f4f8688f",
         "title": "I was killed twice...a journey in search of justice “10 episodes”",
@@ -130,14 +154,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427766",
         "published_date": "2026-08-11T08:52:53Z",
-        "category": "Military"
-      },
-      {
-        "_id": "caac67896868",
-        "title": "Field lead and opponent map",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427761",
-        "published_date": "2026-08-11T08:09:54Z",
         "category": "Military"
       },
       {
@@ -162,14 +178,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427725",
         "published_date": "2026-08-10T08:59:20Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4bd4bf3deb6a",
-        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427698",
-        "published_date": "2026-08-09T13:00:32Z",
         "category": "Military"
       },
       {
@@ -210,7 +218,7 @@
       },
       {
         "_id": "15291983867f",
-        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427708",
         "published_date": "2026-08-09T17:42:04Z",
@@ -235,6 +243,14 @@
     ],
     "Local Events": [
       {
+        "_id": "d041aade3b5c",
+        "title": "A second earthquake was recorded in Lahj Governorate during the past 24 hours",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427790",
+        "published_date": "2026-08-11T20:08:01Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "027141761a13",
         "title": "Meteorology: Thunderstorms in parts of the highlands and coasts",
         "source": "Yemenat",
@@ -244,7 +260,7 @@
       },
       {
         "_id": "23c403ee51d7",
-        "title": "Recording an earthquake from Lahj Governorate",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427763",
         "published_date": "2026-08-11T08:28:29Z",
@@ -276,7 +292,7 @@
       },
       {
         "_id": "3a2701088b85",
-        "title": "Yemeni intellectuals appeal to the authorities in Aden to cancel the decision not to approve certificates issued by Sanaa",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427733",
         "published_date": "2026-08-10T11:47:38Z",
@@ -376,14 +392,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427649",
         "published_date": "2026-08-08T08:06:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6962fcf89275",
-        "title": "A lawyer's car was burned in Ibb Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427639",
-        "published_date": "2026-08-07T22:23:14Z",
         "category": "Local Events"
       },
       {
