@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-10T23:43:34Z",
+  "last_updated": "2026-08-11T11:49:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -99,23 +99,55 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "f90c7c24d28b",
+        "title": "From the vastness of Mecca... to the scales of power!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427621",
+        "published_date": "2026-08-07T20:15:17Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "459aa18c8098",
         "title": "After 10 months in the hospital morgue... Wafa Saddam Al-Basha Al-Mikhlafi was buried while waiting for justice to have its say.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427611",
         "published_date": "2026-08-07T18:15:02Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "c014d37589ef",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427596",
-        "published_date": "2026-08-07T07:39:20Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "8e32f4f8688f",
+        "title": "I was killed twice...a journey in search of justice “10 episodes”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427772",
+        "published_date": "2026-08-11T10:05:45Z",
+        "category": "Military"
+      },
+      {
+        "_id": "c5501c1d1446",
+        "title": "Targeting a ship in the Bab al-Mandab Strait",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427766",
+        "published_date": "2026-08-11T08:52:53Z",
+        "category": "Military"
+      },
+      {
+        "_id": "caac67896868",
+        "title": "Field lead and opponent map",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427761",
+        "published_date": "2026-08-11T08:09:54Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e4b730f3c92f",
+        "title": "Abdullah Al-Maqtari... When they are unable to confront the situation, they target its owner",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427756",
+        "published_date": "2026-08-10T21:59:32Z",
+        "category": "Military"
+      },
       {
         "_id": "85b6c91cc459",
         "title": "Parliamentarian Bishr criticizes the continuation of the war and describes it as a “conspiracy against Yemen”",
@@ -142,7 +174,7 @@
       },
       {
         "_id": "b87ea92b7cfc",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Saree announces a military operation in Al-Mokha, Taiz",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427695",
         "published_date": "2026-08-09T10:09:03Z",
@@ -154,30 +186,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427642",
         "published_date": "2026-08-08T07:15:11Z",
-        "category": "Military"
-      },
-      {
-        "_id": "3191f364500c",
-        "title": "Sanaa.. Sirens are sounding in Al-Saila and the rains are the heaviest since the beginning of the season",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427608",
-        "published_date": "2026-08-07T13:18:09Z",
-        "category": "Military"
-      },
-      {
-        "_id": "4aed6186f8f8",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427599",
-        "published_date": "2026-08-07T08:12:14Z",
-        "category": "Military"
-      },
-      {
-        "_id": "171ec772cbc2",
-        "title": "Closed nets at the top of the first division league.. Ahly Sanaa stops the victories of the people of Hadhramaut",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427590",
-        "published_date": "2026-08-07T07:10:11Z",
         "category": "Military"
       }
     ],
@@ -201,6 +209,22 @@
         "category": "Economy"
       },
       {
+        "_id": "15291983867f",
+        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427708",
+        "published_date": "2026-08-09T17:42:04Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "d862c315e6ab",
+        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427660",
+        "published_date": "2026-08-08T13:33:44Z",
+        "category": "Economy"
+      },
+      {
         "_id": "91cee1900cc9",
         "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
         "source": "Yemenat",
@@ -210,6 +234,22 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "027141761a13",
+        "title": "Meteorology: Thunderstorms in parts of the highlands and coasts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427770",
+        "published_date": "2026-08-11T09:16:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "23c403ee51d7",
+        "title": "Recording an earthquake from Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427763",
+        "published_date": "2026-08-11T08:28:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5bf094fd1f18",
         "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity is unable to stop?",
@@ -244,7 +284,7 @@
       },
       {
         "_id": "de1902e70630",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Aden... drones flying and ground anti-aircraft guns firing",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427731",
         "published_date": "2026-08-10T10:09:57Z",
@@ -268,7 +308,7 @@
       },
       {
         "_id": "91c633073a4e",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Plumes of smoke rise from the port of Mokha after successive explosions",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427692",
         "published_date": "2026-08-09T09:45:57Z",
@@ -315,11 +355,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "d862c315e6ab",
-        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
+        "_id": "d910e7bd67cb",
+        "title": "The first anniversary of the passing of the poet Karim El Hanky",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427660",
-        "published_date": "2026-08-08T13:33:44Z",
+        "url": "https://yemenat.net/archives/427667",
+        "published_date": "2026-08-08T16:58:34Z",
         "category": "Local Events"
       },
       {
@@ -352,22 +392,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427636",
         "published_date": "2026-08-07T21:56:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41a8ff668d20",
-        "title": "Yemeni intellectuals appeal to the authorities of Sanaa and Aden to provide a medical grant for the poet Ismail Al-Makhawi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427628",
-        "published_date": "2026-08-07T21:13:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1c8b361c86a",
-        "title": "First Division League.. Tadamon Hadhramaut proves second place, Al Sadd shines with a hat-trick, and Yarmouk snatches an exciting draw",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427618",
-        "published_date": "2026-08-07T18:53:11Z",
         "category": "Local Events"
       }
     ]
