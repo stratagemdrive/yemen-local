@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-12T11:52:18Z",
+  "last_updated": "2026-08-12T23:47:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a934511257d3",
+        "title": "Document.. A court in Sanaa announces through the official press that he will appear before it despite his arrest for nearly a year",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427826",
+        "published_date": "2026-08-12T23:26:39Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "4fdf8213827b",
         "title": "Kuwait withdraws its citizenship from more than 180 Yemenis, and the embassy completes procedures to prove their identity",
@@ -59,14 +67,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "34e07fc1a1ad",
-        "title": "A slight increase in the number of illegal African immigrants arriving in Yemen during last July",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427722",
-        "published_date": "2026-08-10T08:41:52Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "3b83fe91a2e5",
         "title": "A literary evening celebrating the novel (Shortly Before Its Music Plays)",
         "source": "Yemenat",
@@ -81,17 +81,17 @@
         "url": "https://yemenat.net/archives/427682",
         "published_date": "2026-08-09T07:48:51Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "b06834ae3e16",
-        "title": "Does the Mecca Agreement draw a new security map for the Middle East? Why is Egypt outside the triangle?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427663",
-        "published_date": "2026-08-08T14:32:01Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "0685ec065aa5",
+        "title": "Pakistan officially announces the casualties of its citizens in an accident targeting a ship in Bab al-Mandab",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427812",
+        "published_date": "2026-08-12T13:23:31Z",
+        "category": "Military"
+      },
       {
         "_id": "a3c7681488e7",
         "title": "Saree announces the targeting of military concentrations and headquarters in Taiz and Ma’rib",
@@ -117,14 +117,6 @@
         "category": "Military"
       },
       {
-        "_id": "8e32f4f8688f",
-        "title": "I was killed twice...a journey in search of justice “10 episodes”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427772",
-        "published_date": "2026-08-11T10:05:45Z",
-        "category": "Military"
-      },
-      {
         "_id": "c5501c1d1446",
         "title": "Targeting a ship in the Bab al-Mandab Strait",
         "source": "Yemenat",
@@ -134,7 +126,7 @@
       },
       {
         "_id": "caac67896868",
-        "title": "Field lead and opponent map",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427761",
         "published_date": "2026-08-11T08:09:54Z",
@@ -158,7 +150,7 @@
       },
       {
         "_id": "ec352bb267f9",
-        "title": "Al-Nuzaili announces the number of victims of the attack on Mokha and confirms that marches were shot down",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427725",
         "published_date": "2026-08-10T08:59:20Z",
@@ -193,39 +185,39 @@
     ],
     "Economy": [
       {
-        "_id": "c7e390ca7063",
-        "title": "Astronomer Al-Shawafi expects a gradual expansion of rain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427719",
-        "published_date": "2026-08-10T04:28:31Z",
-        "category": "Economy"
-      },
-      {
         "_id": "15291983867f",
         "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427708",
         "published_date": "2026-08-09T17:42:04Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d862c315e6ab",
-        "title": "The Security Council calls for a halt to the escalation and stresses the unity and sovereignty of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427660",
-        "published_date": "2026-08-08T13:33:44Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "91cee1900cc9",
-        "title": "Aslam and Golan are the top scorers.. and the people of Hadhramaut have a firm grip on the top of the league",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427655",
-        "published_date": "2026-08-08T09:47:28Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "898f8515d8d7",
+        "title": "A second earthquake was recorded in Ibb Governorate within 3 days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427822",
+        "published_date": "2026-08-12T22:51:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a127444f3733",
+        "title": "Al-Ahly Sanaa rains four goals against Ittihad Ibb in the first division league",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427817",
+        "published_date": "2026-08-12T22:20:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc98b4af5471",
+        "title": "Holden’s Voice Between Salinger’s Language and Halasa’s Translation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427814",
+        "published_date": "2026-08-12T21:53:35Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dde032e5e125",
         "title": "Meteorology: The unstable atmosphere expands over most of the country",
@@ -292,7 +284,7 @@
       },
       {
         "_id": "5bf094fd1f18",
-        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity cannot stop?",
+        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity is unable to stop?",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427759",
         "published_date": "2026-08-10T22:24:29Z",
@@ -300,7 +292,7 @@
       },
       {
         "_id": "61d4abb6a6dc",
-        "title": "First silence",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427751",
         "published_date": "2026-08-10T20:46:23Z",
@@ -331,16 +323,16 @@
         "category": "Local Events"
       },
       {
-        "_id": "fb7d58798566",
-        "title": "Meteorology: A state of instability dominates the country’s atmosphere",
+        "_id": "34e07fc1a1ad",
+        "title": "A slight increase in the number of illegal African immigrants arriving in Yemen during last July",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427728",
-        "published_date": "2026-08-10T09:31:09Z",
+        "url": "https://yemenat.net/archives/427722",
+        "published_date": "2026-08-10T08:41:52Z",
         "category": "Local Events"
       },
       {
         "_id": "c13d23fb4d09",
-        "title": "The Seismic Monitoring Center explains the seismic activity in Al-Udayn, Ibb",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427713",
         "published_date": "2026-08-09T18:59:03Z",
@@ -360,30 +352,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427686",
         "published_date": "2026-08-09T07:55:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4bc083d93571",
-        "title": "The Yemeni poet Al-Tuhamy Ismail Makhawi was involved in a traffic accident and needs our support",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427679",
-        "published_date": "2026-08-09T07:15:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc45f0015e57",
-        "title": "Saree announces the targeting of a Saudi oil facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427676",
-        "published_date": "2026-08-09T06:53:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e4c403a34809",
-        "title": "An earthquake was recorded in Ibb Governorate, which was felt by residents of districts adjacent to Dhamar and Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427673",
-        "published_date": "2026-08-09T06:14:18Z",
         "category": "Local Events"
       }
     ]
