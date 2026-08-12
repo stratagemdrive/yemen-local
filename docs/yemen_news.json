@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-11T23:46:32Z",
+  "last_updated": "2026-08-12T11:52:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -12,7 +12,7 @@
     "Diplomacy": [
       {
         "_id": "4fdf8213827b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Kuwait withdraws its citizenship from more than 180 Yemenis, and the embassy completes procedures to prove their identity",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427794",
         "published_date": "2026-08-11T20:45:25Z",
@@ -75,14 +75,6 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "4bd4bf3deb6a",
-        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427698",
-        "published_date": "2026-08-09T13:00:32Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "6f66e0ced1dd",
         "title": "The National Foundation for Combating Human Trafficking warns against impersonation of its name through electronic fraud",
         "source": "Yemenat",
@@ -96,22 +88,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427663",
         "published_date": "2026-08-08T14:32:01Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "9105bb3bffdc",
-        "title": "The UN envoy warns of Yemen's return to a wide-scale conflict and calls on the parties to exercise restraint and return to negotiations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427647",
-        "published_date": "2026-08-08T07:41:40Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "477d382c553f",
-        "title": "Ambassador Road.. and strengthening Yemeni-Turkish communication",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427631",
-        "published_date": "2026-08-07T21:29:01Z",
         "category": "Diplomacy"
       }
     ],
@@ -157,6 +133,14 @@
         "category": "Military"
       },
       {
+        "_id": "caac67896868",
+        "title": "Field lead and opponent map",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427761",
+        "published_date": "2026-08-11T08:09:54Z",
+        "category": "Military"
+      },
+      {
         "_id": "e4b730f3c92f",
         "title": "Abdullah Al-Maqtari... When they are unable to confront the situation, they target its owner",
         "source": "Yemenat",
@@ -181,19 +165,19 @@
         "category": "Military"
       },
       {
+        "_id": "4bd4bf3deb6a",
+        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427698",
+        "published_date": "2026-08-09T13:00:32Z",
+        "category": "Military"
+      },
+      {
         "_id": "b87ea92b7cfc",
         "title": "Saree announces a military operation in Al-Mokha, Taiz",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427695",
         "published_date": "2026-08-09T10:09:03Z",
-        "category": "Military"
-      },
-      {
-        "_id": "01a1ee177e0b",
-        "title": "Al-Nazili announces the implementation of a military operation that included several fronts along the lines of contact",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427642",
-        "published_date": "2026-08-08T07:15:11Z",
         "category": "Military"
       }
     ],
@@ -218,7 +202,7 @@
       },
       {
         "_id": "15291983867f",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427708",
         "published_date": "2026-08-09T17:42:04Z",
@@ -243,6 +227,46 @@
     ],
     "Local Events": [
       {
+        "_id": "dde032e5e125",
+        "title": "Meteorology: The unstable atmosphere expands over most of the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427809",
+        "published_date": "2026-08-12T09:58:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a6e2ea8e96dc",
+        "title": "A military pilot was arrested in Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427805",
+        "published_date": "2026-08-12T09:32:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3a5821b434f5",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427803",
+        "published_date": "2026-08-12T05:35:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a94685a43809",
+        "title": "Holden's voice is between Salinger's language and Hilsa's translation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427800",
+        "published_date": "2026-08-12T05:15:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4566686bc1b3",
+        "title": "A weather expert expects rain to expand over large areas of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427797",
+        "published_date": "2026-08-12T04:53:04Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "d041aade3b5c",
         "title": "A second earthquake was recorded in Lahj Governorate during the past 24 hours",
         "source": "Yemenat",
@@ -260,7 +284,7 @@
       },
       {
         "_id": "23c403ee51d7",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Recording an earthquake from Lahj Governorate",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427763",
         "published_date": "2026-08-11T08:28:29Z",
@@ -268,7 +292,7 @@
       },
       {
         "_id": "5bf094fd1f18",
-        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity is unable to stop?",
+        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity cannot stop?",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427759",
         "published_date": "2026-08-10T22:24:29Z",
@@ -292,7 +316,7 @@
       },
       {
         "_id": "3a2701088b85",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Yemeni intellectuals appeal to the authorities in Aden to cancel the decision not to approve certificates issued by Sanaa",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427733",
         "published_date": "2026-08-10T11:47:38Z",
@@ -360,46 +384,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427673",
         "published_date": "2026-08-09T06:14:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "94616d0d0924",
-        "title": "A weather expert expects heavy rains in several Yemeni governorates and warns of hail and torrential rains",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427670",
-        "published_date": "2026-08-09T05:28:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d910e7bd67cb",
-        "title": "The first anniversary of the passing of the poet Karim El Hanky",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427667",
-        "published_date": "2026-08-08T16:58:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b251997c7141",
-        "title": "Yemeni intellectuals demand the arrest of those who carried out the attack on the home of the Al-Maqtari parliamentarian and the provision of protection for him and his family",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427651",
-        "published_date": "2026-08-08T09:07:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7298575c7812",
-        "title": "Meteorology: The continued instability in the atmosphere, the influx of high humidity, and the formation of rainy nimbus clouds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427649",
-        "published_date": "2026-08-08T08:06:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e8aab79e2cc",
-        "title": "An earthquake was recorded from Rayma Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427636",
-        "published_date": "2026-08-07T21:56:16Z",
         "category": "Local Events"
       }
     ]
