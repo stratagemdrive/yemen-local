@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-13T11:53:01Z",
+  "last_updated": "2026-08-13T23:51:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "3b98aaf9b535",
+        "title": "The UN envoy issues a warning from the Security Council regarding Yemen and calls on the parties to reduce the escalation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427882",
+        "published_date": "2026-08-13T23:10:59Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "212be583d241",
+        "title": "When the herd confiscates the minds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427862",
+        "published_date": "2026-08-13T18:34:24Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "9c9549d9a2da",
         "title": "A session of the UN Security Council to follow up on the situation in Yemen",
@@ -72,22 +88,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427735",
         "published_date": "2026-08-10T13:24:39Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "34e07fc1a1ad",
-        "title": "A slight increase in the number of illegal African immigrants arriving in Yemen during last July",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427722",
-        "published_date": "2026-08-10T08:41:52Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "3b83fe91a2e5",
-        "title": "A literary evening celebrating the novel (Shortly Before Its Music Plays)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427702",
-        "published_date": "2026-08-09T17:20:40Z",
         "category": "Diplomacy"
       }
     ],
@@ -158,7 +158,7 @@
       },
       {
         "_id": "e4b730f3c92f",
-        "title": "Abdullah Al-Maqtari... When they are unable to confront the situation, they target its owner",
+        "title": "Abdullah Al-Maqtari.. When they are unable to confront the situation, they target its owner",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427756",
         "published_date": "2026-08-10T21:59:32Z",
@@ -179,22 +179,6 @@
         "url": "https://yemenat.net/archives/427725",
         "published_date": "2026-08-10T08:59:20Z",
         "category": "Military"
-      },
-      {
-        "_id": "4bd4bf3deb6a",
-        "title": "Ministry of Transport in Aden: Targeting the port of Mokha threatens international navigation and exposes civilian facilities to danger",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427698",
-        "published_date": "2026-08-09T13:00:32Z",
-        "category": "Military"
-      },
-      {
-        "_id": "b87ea92b7cfc",
-        "title": "Saree announces a military operation in Al-Mokha, Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427695",
-        "published_date": "2026-08-09T10:09:03Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
@@ -206,25 +190,49 @@
         "url": "https://yemenat.net/archives/427843",
         "published_date": "2026-08-13T09:26:17Z",
         "category": "Economy"
-      },
-      {
-        "_id": "c7e390ca7063",
-        "title": "Astronomer Al-Shawafi expects a gradual expansion of rain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427719",
-        "published_date": "2026-08-10T04:28:31Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "15291983867f",
-        "title": "The Bar Association condemns the attempted assassination of a lawyer and his family in Amran and demands the arrest of those involved",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427708",
-        "published_date": "2026-08-09T17:42:04Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "79c338cafc0f",
+        "title": "Qualifying 70 male and female teachers in Taiz as part of the “International Professional Certificates in Teaching (IPTC)” project in Yemen.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427874",
+        "published_date": "2026-08-13T22:52:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5295684b7908",
+        "title": "Sanaa.. The Central Bank stops dealing with 3 exchange facilities",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427872",
+        "published_date": "2026-08-13T22:41:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e9fd57a24e67",
+        "title": "Sanaa forces announce the targeting of a Saudi oil refinery",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427870",
+        "published_date": "2026-08-13T22:30:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c68ae7e12022",
+        "title": "Qafshat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427868",
+        "published_date": "2026-08-13T21:35:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eba96ef5c309",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to stop any measures to confiscate the headquarters of the Union of Yemeni Authors and Writers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427858",
+        "published_date": "2026-08-13T15:02:38Z",
+        "category": "Local Events"
+      },
       {
         "_id": "aff98408a360",
         "title": "Seven victims, most of them women, as a result of a dispute between relatives in Ibb Governorate",
@@ -283,7 +291,7 @@
       },
       {
         "_id": "a127444f3733",
-        "title": "Ahly Sanaa rains down four goals against Ittihad Ibb in the first division league",
+        "title": "Al-Ahly Sanaa rains four goals against Ittihad Ibb in the first division league",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427817",
         "published_date": "2026-08-12T22:20:02Z",
@@ -322,14 +330,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "a94685a43809",
-        "title": "Holden's voice is between Salinger's language and Hilsa's translation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427800",
-        "published_date": "2026-08-12T05:15:52Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "4566686bc1b3",
         "title": "A weather expert expects rain to expand over large areas of Yemen",
         "source": "Yemenat",
@@ -351,38 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427770",
         "published_date": "2026-08-11T09:16:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23c403ee51d7",
-        "title": "Recording an earthquake from Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427763",
-        "published_date": "2026-08-11T08:28:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5bf094fd1f18",
-        "title": "How did asylum turn from a right guaranteed by law into a tragedy that humanity cannot stop?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427759",
-        "published_date": "2026-08-10T22:24:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "61d4abb6a6dc",
-        "title": "First silence",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427751",
-        "published_date": "2026-08-10T20:46:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a9352bc4f0b",
-        "title": "Lahj.. Dozens of trucks loaded with goods were seized in Tur Al-Baha",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427742",
-        "published_date": "2026-08-10T16:11:51Z",
         "category": "Local Events"
       }
     ]
