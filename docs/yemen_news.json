@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-14T11:49:49Z",
+  "last_updated": "2026-08-14T23:26:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -59,45 +59,29 @@
         "category": "Diplomacy"
       },
       {
-        "_id": "135d8c6dafda",
-        "title": "Whoever believes that Yemen is built by excluding Yemenis...is delusional",
+        "_id": "ab5f87c73991",
+        "title": "Sanaa.. Announcing the targeting of a Saudi ship in Bab al-Mandab",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427754",
-        "published_date": "2026-08-10T21:47:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "fdb89e6485de",
-        "title": "The Anti-Human Trafficking Foundation calls for an end to the violence in Yemen and the payment of employee salaries",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427746",
-        "published_date": "2026-08-10T17:03:18Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "a368a933a03f",
-        "title": "Iran: An agreement with Oman regarding a navigation route in Hormuz awaits the resolution of technical issues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427740",
-        "published_date": "2026-08-10T14:16:37Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "c2529c755f59",
-        "title": "FIFA approves Karim Al-Zubaidi’s eligibility to represent the Yemeni national teams",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427735",
-        "published_date": "2026-08-10T13:24:39Z",
+        "url": "https://yemenat.net/archives/427776",
+        "published_date": "2026-08-11T18:21:35Z",
         "category": "Diplomacy"
       }
     ],
     "Military": [
       {
-        "_id": "ec65d6adf7fc",
-        "title": "Ittihad Hadhramout strikes with a hat-trick... and a new stumble for the Sanaa unit against Yarmouk in the first division league",
+        "_id": "37deec8a4d48",
+        "title": "Military source: Mocha port and vital facilities were targeted with several ballistic missiles",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427886",
-        "published_date": "2026-08-14T00:01:58Z",
+        "url": "https://yemenat.net/archives/427902",
+        "published_date": "2026-08-14T20:09:59Z",
+        "category": "Military"
+      },
+      {
+        "_id": "e092280d6e5e",
+        "title": "Saree announces a military operation in Mocha",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427895",
+        "published_date": "2026-08-14T19:21:31Z",
         "category": "Military"
       },
       {
@@ -126,31 +110,15 @@
       },
       {
         "_id": "3f645afdb639",
-        "title": "Aden.. The Coast Guard Service reveals details of the targeting of a ship in Bab al-Mandab and the number of victims",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427779",
         "published_date": "2026-08-11T19:04:56Z",
         "category": "Military"
       },
       {
-        "_id": "ab5f87c73991",
-        "title": "Sanaa.. Announcing the targeting of a Saudi ship in Bab al-Mandab",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427776",
-        "published_date": "2026-08-11T18:21:35Z",
-        "category": "Military"
-      },
-      {
-        "_id": "8e32f4f8688f",
-        "title": "I was killed twice...a journey in search of justice “10 episodes”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427772",
-        "published_date": "2026-08-11T10:05:45Z",
-        "category": "Military"
-      },
-      {
         "_id": "c5501c1d1446",
-        "title": "Targeting a ship in the Bab al-Mandab Strait",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427766",
         "published_date": "2026-08-11T08:52:53Z",
@@ -171,21 +139,29 @@
         "url": "https://yemenat.net/archives/427756",
         "published_date": "2026-08-10T21:59:32Z",
         "category": "Military"
-      },
-      {
-        "_id": "85b6c91cc459",
-        "title": "Parliamentarian Bishr criticizes the continuation of the war and describes it as a “conspiracy against Yemen”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427749",
-        "published_date": "2026-08-10T19:15:32Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
       {
+        "_id": "d33ad5e57229",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427898",
+        "published_date": "2026-08-14T19:47:43Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "0d2885ac7833",
+        "title": "First Division League.. Haidan leads Fahman Abyan to topple Al Sadd Marib with a valuable double",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427892",
+        "published_date": "2026-08-14T19:01:23Z",
+        "category": "Economy"
+      },
+      {
         "_id": "0cc16469b72b",
-        "title": "The Egyptian Ministry of Transport issues a clarification about its relationship with a ship that was targeted in the Bab al-Mandab Strait",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427843",
         "published_date": "2026-08-13T09:26:17Z",
@@ -194,8 +170,32 @@
     ],
     "Local Events": [
       {
+        "_id": "721ac486e5f3",
+        "title": "An abandoned well ends the life of a young man south of Hodeidah",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427906",
+        "published_date": "2026-08-14T20:41:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fe323a814bb3",
+        "title": "Meteorology: Weather instability is still affecting most of the country’s governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427889",
+        "published_date": "2026-08-14T12:00:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ec65d6adf7fc",
+        "title": "Ittihad Hadhramout strikes with a hat-trick... and a new stumble for the Sanaa unit against Yarmouk in the first division league",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427886",
+        "published_date": "2026-08-14T00:01:58Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "79c338cafc0f",
-        "title": "Qualifying 70 male and female teachers in Taiz as part of the “International Professional Certificates in Teaching (IPTC)” project in Yemen.",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427874",
         "published_date": "2026-08-13T22:52:23Z",
@@ -219,7 +219,7 @@
       },
       {
         "_id": "c68ae7e12022",
-        "title": "Qafshat",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427868",
         "published_date": "2026-08-13T21:35:05Z",
@@ -243,7 +243,7 @@
       },
       {
         "_id": "287b74766cfc",
-        "title": "Meteorology: The atmosphere continues to be unstable over most of the country, and moderate to heavy rain is expected",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427849",
         "published_date": "2026-08-13T10:37:04Z",
@@ -314,14 +314,6 @@
         "category": "Local Events"
       },
       {
-        "_id": "a6e2ea8e96dc",
-        "title": "A military pilot was arrested in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427805",
-        "published_date": "2026-08-12T09:32:40Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "3a5821b434f5",
         "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
         "source": "Yemenat",
@@ -335,22 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427800",
         "published_date": "2026-08-12T05:15:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4566686bc1b3",
-        "title": "A weather expert expects rain to expand over large areas of Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427797",
-        "published_date": "2026-08-12T04:53:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d041aade3b5c",
-        "title": "A second earthquake was recorded in Lahj Governorate during the past 24 hours",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427790",
-        "published_date": "2026-08-11T20:08:01Z",
         "category": "Local Events"
       }
     ]
