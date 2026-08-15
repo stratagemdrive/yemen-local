@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-15T11:26:10Z",
+  "last_updated": "2026-08-15T23:24:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "1c8e78343009",
+        "title": "The hearing team meets with the Deputy Speaker of the House of Representatives",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427938",
+        "published_date": "2026-08-15T22:00:31Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "3b98aaf9b535",
         "title": "The UN envoy issues a warning from the Security Council regarding Yemen and calls on the parties to reduce the escalation",
@@ -56,14 +64,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427787",
         "published_date": "2026-08-11T19:46:08Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "135d8c6dafda",
-        "title": "Whoever believes that Yemen is built by excluding Yemenis...is delusional",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427754",
-        "published_date": "2026-08-10T21:47:18Z",
         "category": "Diplomacy"
       }
     ],
@@ -133,40 +133,56 @@
         "category": "Military"
       },
       {
+        "_id": "8e32f4f8688f",
+        "title": "I was killed twice...a journey in search of justice “10 episodes”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427772",
+        "published_date": "2026-08-11T10:05:45Z",
+        "category": "Military"
+      },
+      {
         "_id": "c5501c1d1446",
         "title": "Targeting a ship in the Bab al-Mandab Strait",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427766",
         "published_date": "2026-08-11T08:52:53Z",
         "category": "Military"
-      },
-      {
-        "_id": "caac67896868",
-        "title": "Field lead and opponent map",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427761",
-        "published_date": "2026-08-11T08:09:54Z",
-        "category": "Military"
-      },
-      {
-        "_id": "e4b730f3c92f",
-        "title": "Abdullah Al-Maqtari... When they are unable to confront the situation, they target its owner",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427756",
-        "published_date": "2026-08-10T21:59:32Z",
-        "category": "Military"
-      },
-      {
-        "_id": "85b6c91cc459",
-        "title": "Parliamentarian Bishr criticizes the continuation of the war and describes it as a “conspiracy against Yemen”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427749",
-        "published_date": "2026-08-10T19:15:32Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "f6cd8e7f3dcb",
+        "title": "This is not a country... This is a group that expands geographically and narrows nationally..!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427936",
+        "published_date": "2026-08-15T17:49:06Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ad5fae9dff9d",
+        "title": "While Al-Alimi expands the subsistence statements... Veteran journalist Mahboob Ali has been without a salary for 10 years, and the presidency ignores his reviews.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427930",
+        "published_date": "2026-08-15T17:03:25Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "49afb8da27e3",
+        "title": "Al-Alimi forms a committee to expand subsistence statements and raise their allocations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427923",
+        "published_date": "2026-08-15T13:25:46Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "d33ad5e57229",
+        "title": "The Yemeni Journalists Syndicate condemns attempts to seize the headquarters of the Writers Union and warns against targeting civil society institutions",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427898",
+        "published_date": "2026-08-14T19:47:43Z",
+        "category": "Economy"
+      },
       {
         "_id": "0cc16469b72b",
         "title": "The Egyptian Ministry of Transport issues a clarification about its relationship with a ship that was targeted in the Bab al-Mandab Strait",
@@ -177,6 +193,30 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "fb3c9f64b8b8",
+        "title": "The passion of the soul",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427926",
+        "published_date": "2026-08-15T14:01:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d1dfa51115aa",
+        "title": "Announcing a national initiative to rebuild education in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427918",
+        "published_date": "2026-08-15T12:39:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1eb0dc247cc9",
+        "title": "Sanaa.. A truck fell into a sewage room and the driver and his son died of suffocation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427914",
+        "published_date": "2026-08-15T12:03:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ba5db23f9322",
         "title": "Meteorology confirms the continued instability of the atmosphere and expects thunderstorms in many governorates",
@@ -191,14 +231,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427906",
         "published_date": "2026-08-14T20:41:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d33ad5e57229",
-        "title": "The Yemeni Journalists Syndicate condemns attempts to seize the headquarters of the Writers Union and warns against targeting civil society institutions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427898",
-        "published_date": "2026-08-14T19:47:43Z",
         "category": "Local Events"
       },
       {
@@ -227,7 +259,7 @@
       },
       {
         "_id": "5295684b7908",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Sanaa.. The Central Bank stops dealing with 3 exchange facilities",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427872",
         "published_date": "2026-08-13T22:41:55Z",
@@ -239,6 +271,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427870",
         "published_date": "2026-08-13T22:30:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c68ae7e12022",
+        "title": "Qafshat",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427868",
+        "published_date": "2026-08-13T21:35:05Z",
         "category": "Local Events"
       },
       {
@@ -307,34 +347,10 @@
       },
       {
         "_id": "a127444f3733",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Al-Ahly Sanaa rains four goals against Ittihad Ibb in the first division league",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427817",
         "published_date": "2026-08-12T22:20:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc98b4af5471",
-        "title": "Holden’s Voice Between Salinger’s Language and Halasa’s Translation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427814",
-        "published_date": "2026-08-12T21:53:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dde032e5e125",
-        "title": "Meteorology: The unstable atmosphere expands over most of the country",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427809",
-        "published_date": "2026-08-12T09:58:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a6e2ea8e96dc",
-        "title": "A military pilot was arrested in Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427805",
-        "published_date": "2026-08-12T09:32:40Z",
         "category": "Local Events"
       }
     ]
