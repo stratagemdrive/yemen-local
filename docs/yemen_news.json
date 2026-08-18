@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-18T11:31:08Z",
+  "last_updated": "2026-08-18T23:26:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "d55dcfd86bdd",
+        "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428084",
+        "published_date": "2026-08-18T20:00:32Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0e47b2cacad2",
+        "title": "The thorn of a vice... Desolation with no door",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428079",
+        "published_date": "2026-08-18T19:46:22Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "cb99787830a3",
         "title": "The youth team leaves for India in preparation for the Asian qualifiers",
@@ -52,7 +68,7 @@
       },
       {
         "_id": "7a330c6256fc",
-        "title": "Al-Jawi: There is a clear shift in the compass of the escalation in Sana'a over the past days",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428018",
         "published_date": "2026-08-17T12:53:10Z",
@@ -81,20 +97,28 @@
         "url": "https://yemenat.net/archives/427938",
         "published_date": "2026-08-15T22:00:31Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "591bfb66c75c",
-        "title": "When accusations turn into a media campaign",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427996",
-        "published_date": "2026-08-14T23:46:17Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
+        "_id": "00f323a3ec84",
+        "title": "Yemeni intellectuals appeal to Al-Alimi to intervene with the Eritrean authorities to allow the return of a military pilot to Aden.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428094",
+        "published_date": "2026-08-18T21:36:20Z",
+        "category": "Military"
+      },
+      {
+        "_id": "3e22682f9cd0",
+        "title": "Mountain Elegy in the Oud Mountains: When Abu Muammar dismounts and the sword breaks in the hands of the comrades",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428091",
+        "published_date": "2026-08-18T20:58:18Z",
+        "category": "Military"
+      },
+      {
         "_id": "9a369c60e25b",
-        "title": "Saree announces the targeting of a Saudi ship and boats in the Red Sea",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428014",
         "published_date": "2026-08-17T12:01:48Z",
@@ -120,6 +144,22 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "33ca9a6f9fbe",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428074",
+        "published_date": "2026-08-18T12:39:58Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "dab2b400e40e",
+        "title": "Ghadeer Al-Sharabi comments on the acquittal of the accused of killing her father, Saif Mahmoud Faraj, and confirms adherence to the appeal",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428070",
+        "published_date": "2026-08-18T11:54:02Z",
+        "category": "Economy"
+      },
+      {
         "_id": "3ba1539c6cdf",
         "title": "British Authority: An unknown projectile targets a ship in the Strait of Hormuz, causing losses among its crew",
         "source": "Yemenat",
@@ -128,16 +168,8 @@
         "category": "Economy"
       },
       {
-        "_id": "8972a6f4189d",
-        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428055",
-        "published_date": "2026-08-18T10:12:09Z",
-        "category": "Economy"
-      },
-      {
         "_id": "67964b3ee51c",
-        "title": "Sanaa.. The Ministry of Agriculture announces the start date of the temporary ban on importing dates",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428025",
         "published_date": "2026-08-17T20:15:05Z",
@@ -161,7 +193,7 @@
       },
       {
         "_id": "62eeacb8ed08",
-        "title": "Sanaa.. The Civil Service announces the start of issuing half-salary reinforcements in May 2026",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427949",
         "published_date": "2026-08-16T13:25:33Z",
@@ -174,25 +206,17 @@
         "url": "https://yemenat.net/archives/427936",
         "published_date": "2026-08-15T17:49:06Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ad5fae9dff9d",
-        "title": "While Al-Alimi expands the subsistence statements... Veteran journalist Mahboob Ali has been without a salary for 10 years, and the presidency ignores his reviews.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427930",
-        "published_date": "2026-08-15T17:03:25Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "49afb8da27e3",
-        "title": "Al-Alimi forms a committee to expand subsistence statements and raise their allocations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427923",
-        "published_date": "2026-08-15T13:25:46Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "e5125696232f",
+        "title": "British Authority: A ship was involved in a security incident near the Yemeni coast",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428086",
+        "published_date": "2026-08-18T20:25:46Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d51c97e8a14c",
         "title": "Average gold prices in Sanaa and Aden Tuesday, August 18, 2026",
@@ -202,16 +226,16 @@
         "category": "Local Events"
       },
       {
-        "_id": "e53dd16452c4",
-        "title": "To the Minister of Education...",
+        "_id": "8972a6f4189d",
+        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428058",
-        "published_date": "2026-08-18T10:15:37Z",
+        "url": "https://yemenat.net/archives/428055",
+        "published_date": "2026-08-18T10:12:09Z",
         "category": "Local Events"
       },
       {
         "_id": "6ea75b2fbadd",
-        "title": "Weather expert: Heavy rain is expected over large areas, strong winds, and flood warnings",
+        "title": "Weather expert: Heavy rains are expected over large areas, strong winds, and flood warnings",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428049",
         "published_date": "2026-08-18T04:13:13Z",
@@ -343,14 +367,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427952",
         "published_date": "2026-08-16T14:05:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "79ff391b4c5e",
-        "title": "Average gold prices in Sanaa and Aden Sunday, August 16, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427947",
-        "published_date": "2026-08-16T12:55:05Z",
         "category": "Local Events"
       }
     ]
