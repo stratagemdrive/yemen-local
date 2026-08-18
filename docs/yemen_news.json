@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-17T23:26:28Z",
+  "last_updated": "2026-08-18T11:31:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "cb99787830a3",
+        "title": "The youth team leaves for India in preparation for the Asian qualifiers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428062",
+        "published_date": "2026-08-18T10:53:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0ab6e400f209",
+        "title": "“Taiz” and the plight of national partnership..!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428060",
+        "published_date": "2026-08-18T10:18:31Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "baa1c4b06e0f",
+        "title": "Prophecy with microphones",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428053",
+        "published_date": "2026-08-18T10:09:00Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f20420babda3",
+        "title": "The Listening Team: The Zionist aggression against Lebanon and the West Bank represents a disregard for international laws and conventions.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428031",
+        "published_date": "2026-08-17T20:37:49Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "2e4ca31dc8b7",
         "title": "An international warning against Yemen sliding into a comprehensive conflict",
@@ -57,14 +89,6 @@
         "url": "https://yemenat.net/archives/427996",
         "published_date": "2026-08-14T23:46:17Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "3b98aaf9b535",
-        "title": "The UN envoy issues a warning from the Security Council regarding Yemen and calls on the parties to reduce the escalation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427882",
-        "published_date": "2026-08-13T23:10:59Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -85,32 +109,32 @@
         "category": "Military"
       },
       {
-        "_id": "37deec8a4d48",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "_id": "2a4eb9dacab5",
+        "title": "The Union of Yemeni Authors and Writers and the absurd attempts",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427902",
-        "published_date": "2026-08-14T20:09:59Z",
-        "category": "Military"
-      },
-      {
-        "_id": "e092280d6e5e",
-        "title": "Saree announces a military operation in Mocha",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427895",
-        "published_date": "2026-08-14T19:21:31Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ec65d6adf7fc",
-        "title": "Ittihad Hadhramout strikes with a hat-trick... and a new stumble for the Sanaa unit against Yarmouk in the first division league",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427886",
-        "published_date": "2026-08-14T00:01:58Z",
+        "url": "https://yemenat.net/archives/427976",
+        "published_date": "2026-08-16T21:30:45Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "3ba1539c6cdf",
+        "title": "British Authority: An unknown projectile targets a ship in the Strait of Hormuz, causing losses among its crew",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428067",
+        "published_date": "2026-08-18T11:28:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "8972a6f4189d",
+        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428055",
+        "published_date": "2026-08-18T10:12:09Z",
+        "category": "Economy"
+      },
       {
         "_id": "67964b3ee51c",
         "title": "Sanaa.. The Ministry of Agriculture announces the start date of the temporary ban on importing dates",
@@ -166,25 +190,33 @@
         "url": "https://yemenat.net/archives/427923",
         "published_date": "2026-08-15T13:25:46Z",
         "category": "Economy"
-      },
-      {
-        "_id": "1eb0dc247cc9",
-        "title": "Sanaa.. A truck fell into a sewage room and the driver and his son died of suffocation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427914",
-        "published_date": "2026-08-15T12:03:26Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "d33ad5e57229",
-        "title": "The Yemeni Journalists Syndicate condemns attempts to seize the headquarters of the Writers Union and warns against targeting civil society institutions",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427898",
-        "published_date": "2026-08-14T19:47:43Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d51c97e8a14c",
+        "title": "Average gold prices in Sanaa and Aden Tuesday, August 18, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428065",
+        "published_date": "2026-08-18T11:12:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e53dd16452c4",
+        "title": "To the Minister of Education...",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428058",
+        "published_date": "2026-08-18T10:15:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ea75b2fbadd",
+        "title": "Weather expert: Heavy rain is expected over large areas, strong winds, and flood warnings",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428049",
+        "published_date": "2026-08-18T04:13:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c3305370fe82",
         "title": "To the Minister of Education in Sanaa",
@@ -195,7 +227,7 @@
       },
       {
         "_id": "ae18e5ea5b6c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Imran.. A horrific traffic accident claimed the lives of 9 citizens while treating those injured in the exchange of gunfire",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428043",
         "published_date": "2026-08-17T22:41:01Z",
@@ -203,7 +235,7 @@
       },
       {
         "_id": "16745700413c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The death of the owner of the Yemeni stadiums archive, Ali Shaher",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428038",
         "published_date": "2026-08-17T22:09:36Z",
@@ -219,7 +251,7 @@
       },
       {
         "_id": "adcbf845fa5b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: Rain of varying intensity is expected on parts of the highlands and coasts",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428009",
         "published_date": "2026-08-17T10:52:37Z",
@@ -274,16 +306,8 @@
         "category": "Local Events"
       },
       {
-        "_id": "2a4eb9dacab5",
-        "title": "The Union of Yemeni Authors and Writers and the absurd attempts",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427976",
-        "published_date": "2026-08-16T21:30:45Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "cc2600669dae",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Yemeni intellectuals appeal to the authorities and everyone concerned to provide a medical grant for a citizen exhausted by the disease",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427972",
         "published_date": "2026-08-16T21:16:05Z",
@@ -306,8 +330,16 @@
         "category": "Local Events"
       },
       {
+        "_id": "c5512d7222ab",
+        "title": "A vice grip...from one tyrant to another",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/427956",
+        "published_date": "2026-08-16T20:10:02Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "d0c4b8d7c1be",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The roof of the sewage drains collapsed and the street in downtown Taiz was closed",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427952",
         "published_date": "2026-08-16T14:05:44Z",
@@ -319,30 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427947",
         "published_date": "2026-08-16T12:55:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d57989549ec",
-        "title": "The people of Hadhramaut continue to soar... a fiery hat-trick topples Al-Mukalla and tightens its grip on the top of the first division league",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427943",
-        "published_date": "2026-08-16T12:37:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dc726e128007",
-        "title": "Meteorology expects thundery rain accompanied by thunderstorms. It is advised to stay away from tall trees and turn off phones.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427941",
-        "published_date": "2026-08-16T11:39:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "91d1e942d18d",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428003",
-        "published_date": "2026-08-16T00:01:28Z",
         "category": "Local Events"
       }
     ]
