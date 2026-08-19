@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-19T11:30:41Z",
+  "last_updated": "2026-08-19T23:26:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,8 +11,48 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "4859b9117234",
+        "title": "A Chance Meeting, Worth a Thousand Meetings",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428127",
+        "published_date": "2026-08-19T15:46:56Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cd75ec82ab22",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428118",
+        "published_date": "2026-08-19T15:33:05Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "dea949ed7dec",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428113",
+        "published_date": "2026-08-19T14:30:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "25f153b4b202",
+        "title": "The listening group warns: Your end will be as dire as the end of the first two",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428109",
+        "published_date": "2026-08-19T13:38:51Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "d183c51a70d5",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428102",
+        "published_date": "2026-08-19T10:45:11Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "98a9e63c8543",
-        "title": "Coincidence or a thousand dates",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428097",
         "published_date": "2026-08-19T04:45:09Z",
@@ -20,7 +60,7 @@
       },
       {
         "_id": "d55dcfd86bdd",
-        "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428084",
         "published_date": "2026-08-18T20:00:32Z",
@@ -28,7 +68,7 @@
       },
       {
         "_id": "0e47b2cacad2",
-        "title": "The thorn of a vice... Desolation with no door",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428079",
         "published_date": "2026-08-18T19:46:22Z",
@@ -36,18 +76,10 @@
       },
       {
         "_id": "cb99787830a3",
-        "title": "The youth team leaves for India in preparation for the Asian qualifiers",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428062",
         "published_date": "2026-08-18T10:53:35Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0ab6e400f209",
-        "title": "“Taiz” and the plight of national partnership..!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428060",
-        "published_date": "2026-08-18T10:18:31Z",
         "category": "Diplomacy"
       },
       {
@@ -60,7 +92,7 @@
       },
       {
         "_id": "f20420babda3",
-        "title": "The Listening Team: The Zionist aggression against Lebanon and the West Bank represents a disregard for international laws and conventions.",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428031",
         "published_date": "2026-08-17T20:37:49Z",
@@ -89,25 +121,9 @@
         "url": "https://yemenat.net/archives/428016",
         "published_date": "2026-08-17T12:25:08Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "f47de75e7879",
-        "title": "Marseille rewrites the history of Hayel Saeed Anam",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427962",
-        "published_date": "2026-08-16T20:36:50Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
-      {
-        "_id": "00f323a3ec84",
-        "title": "Yemeni intellectuals appeal to Al-Alimi to intervene with the Eritrean authorities to allow the return of a military pilot to Aden.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428094",
-        "published_date": "2026-08-18T21:36:20Z",
-        "category": "Military"
-      },
       {
         "_id": "3e22682f9cd0",
         "title": "Mountain Elegy in the Oud Mountains: When Abu Muammar dismounts and the sword breaks in the hands of the comrades",
@@ -144,14 +160,6 @@
     "Energy": [],
     "Economy": [
       {
-        "_id": "d183c51a70d5",
-        "title": "Decline in transport traffic through the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428102",
-        "published_date": "2026-08-19T10:45:11Z",
-        "category": "Economy"
-      },
-      {
         "_id": "33ca9a6f9fbe",
         "title": "Hani Al-Baidh: The southern dialogue will not succeed unless all governorates participate in shaping the future of the south",
         "source": "Yemenat",
@@ -177,7 +185,7 @@
       },
       {
         "_id": "8972a6f4189d",
-        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428055",
         "published_date": "2026-08-18T10:12:09Z",
@@ -206,23 +214,47 @@
         "url": "https://yemenat.net/archives/428005",
         "published_date": "2026-08-17T01:00:46Z",
         "category": "Economy"
-      },
-      {
-        "_id": "62eeacb8ed08",
-        "title": "Sanaa.. The Civil Service announces the start of issuing half-salary reinforcements in May 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427949",
-        "published_date": "2026-08-16T13:25:33Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d9b99f9f8b1a",
+        "title": "The pain of a deputy... my shadow that did not fall",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428132",
+        "published_date": "2026-08-19T20:09:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "59d334093b2e",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428129",
+        "published_date": "2026-08-19T16:05:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1968a201016e",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428115",
+        "published_date": "2026-08-19T15:10:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "592a12b07399",
         "title": "Meteorology: Chances of thunderstorms continue",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428100",
         "published_date": "2026-08-19T10:19:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "00f323a3ec84",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428094",
+        "published_date": "2026-08-18T21:36:20Z",
         "category": "Local Events"
       },
       {
@@ -234,51 +266,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "45bb1b62fd83",
-        "title": "Meteorology: Thunderstorms continue in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428077",
-        "published_date": "2026-08-18T13:16:26Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "d51c97e8a14c",
         "title": "Average gold prices in Sanaa and Aden Tuesday, August 18, 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428065",
         "published_date": "2026-08-18T11:12:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e53dd16452c4",
-        "title": "To the Minister of Education...",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428058",
-        "published_date": "2026-08-18T10:15:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6ea75b2fbadd",
-        "title": "Weather expert: Heavy rains are expected over large areas, strong winds, and flood warnings",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428049",
-        "published_date": "2026-08-18T04:13:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c3305370fe82",
-        "title": "To the Minister of Education in Sanaa",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428047",
-        "published_date": "2026-08-17T23:05:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae18e5ea5b6c",
-        "title": "Imran.. A horrific traffic accident claimed the lives of 9 citizens while treating those injured in the exchange of gunfire",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428043",
-        "published_date": "2026-08-17T22:41:01Z",
         "category": "Local Events"
       },
       {
@@ -323,7 +315,7 @@
       },
       {
         "_id": "8bf4eed2308b",
-        "title": "In reference to attempts to exclude Al-Sami’i... Al-Mekhlafi: How can an authority that was unable to accept a member of the Supreme Political Council be open to partnership?!",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427990",
         "published_date": "2026-08-16T23:14:33Z",
@@ -339,7 +331,7 @@
       },
       {
         "_id": "5b2bf10821bc",
-        "title": "Why do we urgently need a national initiative to rebuild education in Yemen?",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427981",
         "published_date": "2026-08-16T22:08:03Z",
@@ -359,22 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427972",
         "published_date": "2026-08-16T21:16:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "067a456f65bc",
-        "title": "Tadamon Hadramaut hits Hilal Al-Hudaydah with a double and continues its pursuit of the leaders",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427968",
-        "published_date": "2026-08-16T20:57:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0d1037ed2a49",
-        "title": "Aden.. The gas company announces the completion of maintenance work for gas production plants",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427959",
-        "published_date": "2026-08-16T20:26:54Z",
         "category": "Local Events"
       }
     ]
