@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-18T23:26:48Z",
+  "last_updated": "2026-08-19T11:30:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "98a9e63c8543",
+        "title": "Coincidence or a thousand dates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428097",
+        "published_date": "2026-08-19T04:45:09Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "d55dcfd86bdd",
         "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
@@ -68,7 +76,7 @@
       },
       {
         "_id": "7a330c6256fc",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Al-Jawi: There is a clear shift in the compass of the escalation in Sana'a over the past days",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428018",
         "published_date": "2026-08-17T12:53:10Z",
@@ -88,14 +96,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427962",
         "published_date": "2026-08-16T20:36:50Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "1c8e78343009",
-        "title": "The hearing team meets with the Deputy Speaker of the House of Representatives",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427938",
-        "published_date": "2026-08-15T22:00:31Z",
         "category": "Diplomacy"
       }
     ],
@@ -118,7 +118,7 @@
       },
       {
         "_id": "9a369c60e25b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Saree announces the targeting of a Saudi ship and boats in the Red Sea",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428014",
         "published_date": "2026-08-17T12:01:48Z",
@@ -144,8 +144,16 @@
     "Energy": [],
     "Economy": [
       {
+        "_id": "d183c51a70d5",
+        "title": "Decline in transport traffic through the Strait of Hormuz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428102",
+        "published_date": "2026-08-19T10:45:11Z",
+        "category": "Economy"
+      },
+      {
         "_id": "33ca9a6f9fbe",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Hani Al-Baidh: The southern dialogue will not succeed unless all governorates participate in shaping the future of the south",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428074",
         "published_date": "2026-08-18T12:39:58Z",
@@ -168,8 +176,16 @@
         "category": "Economy"
       },
       {
+        "_id": "8972a6f4189d",
+        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428055",
+        "published_date": "2026-08-18T10:12:09Z",
+        "category": "Economy"
+      },
+      {
         "_id": "67964b3ee51c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Sanaa.. The Ministry of Agriculture announces the start date of the temporary ban on importing dates",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428025",
         "published_date": "2026-08-17T20:15:05Z",
@@ -193,28 +209,36 @@
       },
       {
         "_id": "62eeacb8ed08",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Sanaa.. The Civil Service announces the start of issuing half-salary reinforcements in May 2026",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427949",
         "published_date": "2026-08-16T13:25:33Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f6cd8e7f3dcb",
-        "title": "This is not a country... This is a group that expands geographically and narrows nationally..!!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427936",
-        "published_date": "2026-08-15T17:49:06Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "592a12b07399",
+        "title": "Meteorology: Chances of thunderstorms continue",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428100",
+        "published_date": "2026-08-19T10:19:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e5125696232f",
         "title": "British Authority: A ship was involved in a security incident near the Yemeni coast",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428086",
         "published_date": "2026-08-18T20:25:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45bb1b62fd83",
+        "title": "Meteorology: Thunderstorms continue in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428077",
+        "published_date": "2026-08-18T13:16:26Z",
         "category": "Local Events"
       },
       {
@@ -226,11 +250,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "8972a6f4189d",
-        "title": "Mr. President, Yemen does not need someone to applaud it, but rather someone to save it",
+        "_id": "e53dd16452c4",
+        "title": "To the Minister of Education...",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428055",
-        "published_date": "2026-08-18T10:12:09Z",
+        "url": "https://yemenat.net/archives/428058",
+        "published_date": "2026-08-18T10:15:37Z",
         "category": "Local Events"
       },
       {
@@ -351,22 +375,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/427959",
         "published_date": "2026-08-16T20:26:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c5512d7222ab",
-        "title": "A vice grip...from one tyrant to another",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427956",
-        "published_date": "2026-08-16T20:10:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d0c4b8d7c1be",
-        "title": "The roof of the sewage drains collapsed and the street in downtown Taiz was closed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/427952",
-        "published_date": "2026-08-16T14:05:44Z",
         "category": "Local Events"
       }
     ]
