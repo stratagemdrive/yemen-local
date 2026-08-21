@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-20T23:29:44Z",
+  "last_updated": "2026-08-21T11:31:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,7 +44,7 @@
       },
       {
         "_id": "cd75ec82ab22",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Sponsored by Hayel Saeed Group and the Saudi Reconstruction Program for Yemen.. Conclusion of the International Professional Certificates in Teaching (IPTC) project in Aden",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428118",
         "published_date": "2026-08-19T15:33:05Z",
@@ -116,6 +116,22 @@
       }
     ],
     "Military": [
+      {
+        "_id": "8dc8a2fab5d8",
+        "title": "Corruption, power, and subordinate elites..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428204",
+        "published_date": "2026-08-21T02:35:29Z",
+        "category": "Military"
+      },
+      {
+        "_id": "76c1184c4118",
+        "title": "Pauses",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428200",
+        "published_date": "2026-08-21T02:29:11Z",
+        "category": "Military"
+      },
       {
         "_id": "5f7f23956f65",
         "title": "Saree announces two military operations in Saudi Arabia",
@@ -275,7 +291,7 @@
       },
       {
         "_id": "9c4193877fe9",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "First Division League.. Al-Ahly defeats Shabab Al-Bayda, Fahman surpasses Al-Mukalla, and Al-Hilal embarrasses Salam Al-Chamber",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428169",
         "published_date": "2026-08-20T19:53:40Z",
@@ -378,19 +394,19 @@
         "category": "Local Events"
       },
       {
-        "_id": "e53dd16452c4",
-        "title": "To the Minister of Education...",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428058",
-        "published_date": "2026-08-18T10:15:37Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "6ea75b2fbadd",
         "title": "Weather expert: Heavy rains are expected over large areas, strong winds, and flood warnings",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428049",
         "published_date": "2026-08-18T04:13:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c3305370fe82",
+        "title": "To the Minister of Education in Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428047",
+        "published_date": "2026-08-17T23:05:50Z",
         "category": "Local Events"
       }
     ]
