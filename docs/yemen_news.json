@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-21T23:27:57Z",
+  "last_updated": "2026-08-22T11:25:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -35,6 +35,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "1ff91c786981",
+        "title": "Hanan Hussein: Focusing on formal achievement does not reflect the essence of the work of the Ministry of Legal Affairs and does not address the problems of the justice system",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428222",
+        "published_date": "2026-08-21T14:05:46Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "e820410c2c94",
         "title": "A Yemeni astronomer expects rain to expand to Sanaa during the next 48 hours",
         "source": "Yemenat",
@@ -48,6 +56,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428138",
         "published_date": "2026-08-20T00:13:48Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "613d1a5ce62e",
+        "title": "Electronic blackmail...the crime that kills the victim twice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428136",
+        "published_date": "2026-08-20T00:07:57Z",
         "category": "Diplomacy"
       },
       {
@@ -68,7 +84,7 @@
       },
       {
         "_id": "dea949ed7dec",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Saree announces the number of Saudi ships targeted and the number of strikes",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428113",
         "published_date": "2026-08-19T14:30:41Z",
@@ -91,6 +107,14 @@
         "category": "Diplomacy"
       },
       {
+        "_id": "d55dcfd86bdd",
+        "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428084",
+        "published_date": "2026-08-18T20:00:32Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "0e47b2cacad2",
         "title": "The thorn of a vice... Desolation with no door",
         "source": "Yemenat",
@@ -102,7 +126,7 @@
     "Military": [
       {
         "_id": "1981a81ab70f",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "First Division League surprise.. Ittihad Ibb stops the train of the Hadhramaut people, and Al-Sadd deepens the wounds of solidarity",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428230",
         "published_date": "2026-08-21T16:37:50Z",
@@ -110,7 +134,7 @@
       },
       {
         "_id": "8dc8a2fab5d8",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Corruption, power, and subordinate elites..?!",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428204",
         "published_date": "2026-08-21T02:35:29Z",
@@ -201,7 +225,7 @@
       },
       {
         "_id": "24f3a6507c2b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Aslam is the top scorer in the first division, amid intense persecution from Golan and Basfar",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428104",
         "published_date": "2026-08-19T11:31:20Z",
@@ -214,17 +238,25 @@
         "url": "https://yemenat.net/archives/428102",
         "published_date": "2026-08-19T10:45:11Z",
         "category": "Economy"
-      },
-      {
-        "_id": "33ca9a6f9fbe",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428074",
-        "published_date": "2026-08-18T12:39:58Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "2823263cb80a",
+        "title": "Meteorology: Thunderstorms in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428248",
+        "published_date": "2026-08-22T10:57:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dd56c9b0a104",
+        "title": "28 players were called to the preliminary list of the first national team in the internal camp in Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428244",
+        "published_date": "2026-08-22T04:07:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "48bff968dbe7",
         "title": "Deputy Ghasa... one hundred and twenty rounds",
@@ -239,6 +271,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428218",
         "published_date": "2026-08-21T13:06:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "40a20f28759b",
+        "title": "Meteorology: Thunderstorms accompanied by blowing winds in parts of the highlands and deserts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428212",
+        "published_date": "2026-08-21T12:11:01Z",
         "category": "Local Events"
       },
       {
@@ -291,7 +331,7 @@
       },
       {
         "_id": "9c4193877fe9",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "First Division League.. Al-Ahly defeats Shabab Al-Bayda, Fahman surpasses Al-Mukalla, and Al-Hilal embarrasses Salam Al-Chamber",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428169",
         "published_date": "2026-08-20T19:53:40Z",
@@ -307,7 +347,7 @@
       },
       {
         "_id": "f3b068ba3d84",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The youth team draws with its Indian counterpart in a friendly match",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428156",
         "published_date": "2026-08-20T13:28:00Z",
@@ -323,7 +363,7 @@
       },
       {
         "_id": "e8800e6ad538",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Meteorology: Yemen's atmosphere continues to be unstable",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428145",
         "published_date": "2026-08-20T09:09:16Z",
@@ -359,30 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428115",
         "published_date": "2026-08-19T15:10:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "592a12b07399",
-        "title": "Meteorology: Chances of thunderstorms continue",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428100",
-        "published_date": "2026-08-19T10:19:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e5125696232f",
-        "title": "British Authority: A ship was involved in a security incident near the Yemeni coast",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428086",
-        "published_date": "2026-08-18T20:25:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d55dcfd86bdd",
-        "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428084",
-        "published_date": "2026-08-18T20:00:32Z",
         "category": "Local Events"
       }
     ]
