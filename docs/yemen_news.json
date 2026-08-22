@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-22T11:25:57Z",
+  "last_updated": "2026-08-22T23:24:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,22 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "f5e422ec87b8",
+        "title": "Beware of the tools of division that exhaust societies",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428282",
+        "published_date": "2026-08-22T21:27:13Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b923d3e4ecb6",
+        "title": "Sanaa.. Next Tuesday is an official holiday",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428257",
+        "published_date": "2026-08-22T13:38:54Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "b80600c48cf4",
         "title": "Formal sermon",
         "source": "Yemenat",
@@ -20,50 +36,18 @@
       },
       {
         "_id": "b46d14fa398f",
-        "title": "In the presence of Omar Al-Jawi",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428227",
         "published_date": "2026-08-21T15:33:14Z",
         "category": "Diplomacy"
       },
       {
-        "_id": "69aeaf5d7a10",
-        "title": "Al-Salahi: Yemen needs a modern road map to get out of the crises of the past",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428225",
-        "published_date": "2026-08-21T14:55:24Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "1ff91c786981",
-        "title": "Hanan Hussein: Focusing on formal achievement does not reflect the essence of the work of the Ministry of Legal Affairs and does not address the problems of the justice system",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428222",
-        "published_date": "2026-08-21T14:05:46Z",
-        "category": "Diplomacy"
-      },
-      {
         "_id": "e820410c2c94",
-        "title": "A Yemeni astronomer expects rain to expand to Sanaa during the next 48 hours",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428191",
         "published_date": "2026-08-20T22:04:03Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "dd7185d0d07f",
-        "title": "Engineer Ali Al-Shaibani...the most precious symbol in the equation of thought and action",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428138",
-        "published_date": "2026-08-20T00:13:48Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "613d1a5ce62e",
-        "title": "Electronic blackmail...the crime that kills the victim twice",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428136",
-        "published_date": "2026-08-20T00:07:57Z",
         "category": "Diplomacy"
       },
       {
@@ -81,49 +65,25 @@
         "url": "https://yemenat.net/archives/428118",
         "published_date": "2026-08-19T15:33:05Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "dea949ed7dec",
-        "title": "Saree announces the number of Saudi ships targeted and the number of strikes",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428113",
-        "published_date": "2026-08-19T14:30:41Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "25f153b4b202",
-        "title": "The listening team warns: Your end will be as dire as the end of the first two",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428109",
-        "published_date": "2026-08-19T13:38:51Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "98a9e63c8543",
-        "title": "Coincidence or a thousand dates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428097",
-        "published_date": "2026-08-19T04:45:09Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "d55dcfd86bdd",
-        "title": "The listening team renews the call for national reconciliation and ending the war in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428084",
-        "published_date": "2026-08-18T20:00:32Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "0e47b2cacad2",
-        "title": "The thorn of a vice... Desolation with no door",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428079",
-        "published_date": "2026-08-18T19:46:22Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "8ad9361eb82b",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428280",
+        "published_date": "2026-08-22T21:18:51Z",
+        "category": "Military"
+      },
+      {
+        "_id": "91ecd262252d",
+        "title": "A vice episode.. An hour that feels like a year",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428274",
+        "published_date": "2026-08-22T20:47:02Z",
+        "category": "Military"
+      },
       {
         "_id": "1981a81ab70f",
         "title": "First Division League surprise.. Ittihad Ibb stops the train of the Hadhramaut people, and Al-Sadd deepens the wounds of solidarity",
@@ -142,47 +102,23 @@
       },
       {
         "_id": "76c1184c4118",
-        "title": "Pauses",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428200",
         "published_date": "2026-08-21T02:29:11Z",
-        "category": "Military"
-      },
-      {
-        "_id": "5f7f23956f65",
-        "title": "Saree announces two military operations in Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428160",
-        "published_date": "2026-08-20T14:10:08Z",
-        "category": "Military"
-      },
-      {
-        "_id": "ac753a5d0ef2",
-        "title": "A British authority announces that gunmen took control of a ship near the coast of Yemen and changed its course",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428152",
-        "published_date": "2026-08-20T12:53:49Z",
-        "category": "Military"
-      },
-      {
-        "_id": "00f323a3ec84",
-        "title": "Yemeni intellectuals appeal to Al-Alimi to intervene with the Eritrean authorities to allow the return of a military pilot to Aden.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428094",
-        "published_date": "2026-08-18T21:36:20Z",
-        "category": "Military"
-      },
-      {
-        "_id": "3e22682f9cd0",
-        "title": "Mountain Elegy in the Oud Mountains: When Abu Muammar dismounts and the sword breaks in the hands of the comrades",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428091",
-        "published_date": "2026-08-18T20:58:18Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "85d4a41050a6",
+        "title": "Lawyer Al-Samawi calls on the Sanaa authority to release the detainees on the anniversary of the Prophet’s birthday",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428252",
+        "published_date": "2026-08-22T12:02:51Z",
+        "category": "Economy"
+      },
       {
         "_id": "816a0011d947",
         "title": "Sanaa.. The Ministry of Information refuses to renew the license of “No” newspaper",
@@ -193,7 +129,7 @@
       },
       {
         "_id": "959927e02193",
-        "title": "The listening team checks on the health of Sheikh Yahya Al-Habbari and praises his economic and national contributions",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428179",
         "published_date": "2026-08-20T21:14:40Z",
@@ -222,25 +158,65 @@
         "url": "https://yemenat.net/archives/428140",
         "published_date": "2026-08-20T00:18:48Z",
         "category": "Economy"
-      },
-      {
-        "_id": "24f3a6507c2b",
-        "title": "Aslam is the top scorer in the first division, amid intense persecution from Golan and Basfar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428104",
-        "published_date": "2026-08-19T11:31:20Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "d183c51a70d5",
-        "title": "Decline in transport traffic through the Strait of Hormuz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428102",
-        "published_date": "2026-08-19T10:45:11Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "d33d7fde23d0",
+        "title": "Yemen...a country on compulsory vacation since 2011",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428272",
+        "published_date": "2026-08-22T19:05:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "58a43f706696",
+        "title": "The dialectic of the relationship between the symbols of de facto authority..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428270",
+        "published_date": "2026-08-22T18:59:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3b4695f32f4c",
+        "title": "A stifling gas crisis in Aden and other governorates.. and Ibn Wahit announce the return of the second plant to service within hours",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428268",
+        "published_date": "2026-08-22T18:30:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "037acb72d9fb",
+        "title": "Humaidan calls for protecting Aden’s heritage from obliteration and warns of dangers targeting the Al-Khasaf Temple",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428264",
+        "published_date": "2026-08-22T17:46:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e2b339df2f2a",
+        "title": "An earthquake was recorded from Al-Hudaydah Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428260",
+        "published_date": "2026-08-22T15:48:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a83ee9a650f5",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428255",
+        "published_date": "2026-08-22T13:09:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2846b8443562",
+        "title": "Gold prices rise...average prices on Saturday, August 22, 2026 in Sanaa and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428250",
+        "published_date": "2026-08-22T11:37:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2823263cb80a",
         "title": "Meteorology: Thunderstorms in several governorates",
@@ -250,19 +226,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "dd56c9b0a104",
-        "title": "28 players were called to the preliminary list of the first national team in the internal camp in Aden",
+        "_id": "69aeaf5d7a10",
+        "title": "Al-Salahi: Yemen needs a modern road map to get out of the crises of the past",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428244",
-        "published_date": "2026-08-22T04:07:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "48bff968dbe7",
-        "title": "Deputy Ghasa... one hundred and twenty rounds",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428240",
-        "published_date": "2026-08-21T19:55:46Z",
+        "url": "https://yemenat.net/archives/428225",
+        "published_date": "2026-08-21T14:55:24Z",
         "category": "Local Events"
       },
       {
@@ -351,54 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428156",
         "published_date": "2026-08-20T13:28:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c731dba8e0fb",
-        "title": "Days after announcing the completion of maintenance, a gas production plant at the Safer facility stopped, and there were warnings of a domestic gas shortage.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428148",
-        "published_date": "2026-08-20T09:43:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e8800e6ad538",
-        "title": "Meteorology: Yemen's atmosphere continues to be unstable",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428145",
-        "published_date": "2026-08-20T09:09:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d9b99f9f8b1a",
-        "title": "The pain of a deputy... my shadow that did not fall",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428132",
-        "published_date": "2026-08-19T20:09:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "59d334093b2e",
-        "title": "Yarmouk topples Al-Orouba and ignites a struggle for the lead in the First Division League",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428129",
-        "published_date": "2026-08-19T16:05:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3423d857cc6b",
-        "title": "Waiting for arrival",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428125",
-        "published_date": "2026-08-19T15:39:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1968a201016e",
-        "title": "Abyan.. A leader in the National Security was killed",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428115",
-        "published_date": "2026-08-19T15:10:17Z",
         "category": "Local Events"
       }
     ]
