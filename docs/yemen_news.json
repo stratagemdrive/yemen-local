@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-22T23:24:33Z",
+  "last_updated": "2026-08-23T11:26:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -28,18 +28,26 @@
       },
       {
         "_id": "b80600c48cf4",
-        "title": "Formal sermon",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428236",
         "published_date": "2026-08-21T18:45:17Z",
         "category": "Diplomacy"
       },
       {
-        "_id": "b46d14fa398f",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "_id": "69aeaf5d7a10",
+        "title": "Al-Salahi: Yemen needs a modern road map to get out of the crises of the past",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428227",
-        "published_date": "2026-08-21T15:33:14Z",
+        "url": "https://yemenat.net/archives/428225",
+        "published_date": "2026-08-21T14:55:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1ff91c786981",
+        "title": "Hanan Hussein: Focusing on formal achievement does not reflect the essence of the work of the Ministry of Legal Affairs and does not address the problems of the justice system",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428222",
+        "published_date": "2026-08-21T14:05:46Z",
         "category": "Diplomacy"
       },
       {
@@ -49,28 +57,20 @@
         "url": "https://yemenat.net/archives/428191",
         "published_date": "2026-08-20T22:04:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "4859b9117234",
-        "title": "A Chance Meeting, Worth a Thousand Meetings",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428127",
-        "published_date": "2026-08-19T15:46:56Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "cd75ec82ab22",
-        "title": "Sponsored by Hayel Saeed Group and the Saudi Reconstruction Program for Yemen.. Conclusion of the International Professional Certificates in Teaching (IPTC) project in Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428118",
-        "published_date": "2026-08-19T15:33:05Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
+        "_id": "4a619273f446",
+        "title": "About “the farm and the spoils” and “the institution and the constitution”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428286",
+        "published_date": "2026-08-23T00:26:13Z",
+        "category": "Military"
+      },
+      {
         "_id": "8ad9361eb82b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "The survival of corruption and the stability of the internal front!",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428280",
         "published_date": "2026-08-22T21:18:51Z",
@@ -93,24 +93,32 @@
         "category": "Military"
       },
       {
-        "_id": "8dc8a2fab5d8",
-        "title": "Corruption, power, and subordinate elites..?!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428204",
-        "published_date": "2026-08-21T02:35:29Z",
-        "category": "Military"
-      },
-      {
         "_id": "76c1184c4118",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Pauses",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428200",
         "published_date": "2026-08-21T02:29:11Z",
+        "category": "Military"
+      },
+      {
+        "_id": "ac753a5d0ef2",
+        "title": "A British authority announces that gunmen took control of a ship near the coast of Yemen and changed its course",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428152",
+        "published_date": "2026-08-20T12:53:49Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "f8dbc65c821b",
+        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428292",
+        "published_date": "2026-08-23T10:03:57Z",
+        "category": "Economy"
+      },
       {
         "_id": "85d4a41050a6",
         "title": "Lawyer Al-Samawi calls on the Sanaa authority to release the detainees on the anniversary of the Prophet’s birthday",
@@ -142,25 +150,17 @@
         "url": "https://yemenat.net/archives/428173",
         "published_date": "2026-08-20T20:11:41Z",
         "category": "Economy"
-      },
-      {
-        "_id": "f29a48b756aa",
-        "title": "Naib's sorrow.. I am expelled from Sana'a and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428164",
-        "published_date": "2026-08-20T19:16:06Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "b50d66d57751",
-        "title": "Taiz between exploiting crises and suppressing freedoms: Why do you pursue free pens and protect the perpetrators?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428140",
-        "published_date": "2026-08-20T00:18:48Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "73a0c1c16b2f",
+        "title": "Meteorology expects thunderstorms to continue and warns of torrential rains and low horizontal visibility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428288",
+        "published_date": "2026-08-23T09:46:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d33d7fde23d0",
         "title": "Yemen...a country on compulsory vacation since 2011",
@@ -171,7 +171,7 @@
       },
       {
         "_id": "58a43f706696",
-        "title": "The dialectic of the relationship between the symbols of de facto authority..?!",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428270",
         "published_date": "2026-08-22T18:59:08Z",
@@ -203,18 +203,10 @@
       },
       {
         "_id": "a83ee9a650f5",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Yemeni intellectuals demand the Sanaa authority to release Dr. Al-Mudhawi",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428255",
         "published_date": "2026-08-22T13:09:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2846b8443562",
-        "title": "Gold prices rise...average prices on Saturday, August 22, 2026 in Sanaa and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428250",
-        "published_date": "2026-08-22T11:37:25Z",
         "category": "Local Events"
       },
       {
@@ -226,11 +218,19 @@
         "category": "Local Events"
       },
       {
-        "_id": "69aeaf5d7a10",
-        "title": "Al-Salahi: Yemen needs a modern road map to get out of the crises of the past",
+        "_id": "dd56c9b0a104",
+        "title": "28 players were called to the preliminary list of the first national team in the internal camp in Aden",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428225",
-        "published_date": "2026-08-21T14:55:24Z",
+        "url": "https://yemenat.net/archives/428244",
+        "published_date": "2026-08-22T04:07:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "48bff968dbe7",
+        "title": "Deputy Ghasa... one hundred and twenty rounds",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428240",
+        "published_date": "2026-08-21T19:55:46Z",
         "category": "Local Events"
       },
       {
@@ -266,27 +266,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "cd978598fa22",
-        "title": "Two earthquakes were recorded in Dhamar and Ibb governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428193",
-        "published_date": "2026-08-20T22:20:47Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "c2120ef3c215",
-        "title": "The listener who adheres to the essence of the state",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428188",
         "published_date": "2026-08-20T21:54:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20acaa451273",
-        "title": "Sheikh Sultan Al-Sami'i is one of those who are honored by authority and who are not honored by it",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428183",
-        "published_date": "2026-08-20T21:40:35Z",
         "category": "Local Events"
       },
       {
@@ -306,19 +290,27 @@
         "category": "Local Events"
       },
       {
-        "_id": "a65561182884",
-        "title": "Sanaa.. The Money Changers Association announces the resumption of dealing with two exchange facilities",
+        "_id": "f29a48b756aa",
+        "title": "Naib's sorrow.. I am expelled from Sana'a and Aden",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428162",
-        "published_date": "2026-08-20T14:40:29Z",
+        "url": "https://yemenat.net/archives/428164",
+        "published_date": "2026-08-20T19:16:06Z",
         "category": "Local Events"
       },
       {
-        "_id": "f3b068ba3d84",
-        "title": "The youth team draws with its Indian counterpart in a friendly match",
+        "_id": "e8800e6ad538",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428156",
-        "published_date": "2026-08-20T13:28:00Z",
+        "url": "https://yemenat.net/archives/428145",
+        "published_date": "2026-08-20T09:09:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b50d66d57751",
+        "title": "Taiz between exploiting crises and suppressing freedoms: Why do you pursue free pens and protect the perpetrators?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428140",
+        "published_date": "2026-08-20T00:18:48Z",
         "category": "Local Events"
       }
     ]
