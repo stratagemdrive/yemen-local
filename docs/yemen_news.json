@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-23T23:24:55Z",
+  "last_updated": "2026-08-24T11:34:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,19 +9,246 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
-    "Military": [],
+    "Diplomacy": [
+      {
+        "_id": "66516b7b18ef",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428329",
+        "published_date": "2026-08-24T04:22:28Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "69aeaf5d7a10",
+        "title": "Al-Salahi: Yemen needs a modern road map to get out of the crises of the past",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428225",
+        "published_date": "2026-08-21T14:55:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "1ff91c786981",
+        "title": "Hanan Hussein: Focusing on formal achievement does not reflect the essence of the work of the Ministry of Legal Affairs and does not address the problems of the justice system",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428222",
+        "published_date": "2026-08-21T14:05:46Z",
+        "category": "Diplomacy"
+      }
+    ],
+    "Military": [
+      {
+        "_id": "4a619273f446",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428286",
+        "published_date": "2026-08-23T00:26:13Z",
+        "category": "Military"
+      },
+      {
+        "_id": "91ecd262252d",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428274",
+        "published_date": "2026-08-22T20:47:02Z",
+        "category": "Military"
+      },
+      {
+        "_id": "8dc8a2fab5d8",
+        "title": "Corruption, power, and subordinate elites..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428204",
+        "published_date": "2026-08-21T02:35:29Z",
+        "category": "Military"
+      },
+      {
+        "_id": "76c1184c4118",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428200",
+        "published_date": "2026-08-21T02:29:11Z",
+        "category": "Military"
+      }
+    ],
     "Energy": [],
     "Economy": [
       {
-        "_id": "816a0011d947",
+        "_id": "d67742ba2485",
+        "title": "Sanaa.. The Central Bank re-deals with an exchange company and stops dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428340",
+        "published_date": "2026-08-24T09:29:52Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "f8dbc65c821b",
+        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428292",
+        "published_date": "2026-08-23T10:03:57Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "037acb72d9fb",
+        "title": "Humaidan calls for protecting the heritage of Aden from obliteration and warns of dangers targeting the Al-Khasaf Temple",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428264",
+        "published_date": "2026-08-22T17:46:28Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "85d4a41050a6",
         "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428252",
+        "published_date": "2026-08-22T12:02:51Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "816a0011d947",
+        "title": "Sanaa.. The Ministry of Information refuses to renew the license of “No” newspaper",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428215",
         "published_date": "2026-08-21T12:46:57Z",
         "category": "Economy"
       }
     ],
-    "Local Events": []
+    "Local Events": [
+      {
+        "_id": "2beaba18a4a0",
+        "title": "Al-Maqbi: Taiz’s violations cannot be separated from the political environment that incubates impunity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428348",
+        "published_date": "2026-08-24T11:10:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ca60aecdcd6",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428336",
+        "published_date": "2026-08-24T09:05:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb26ed45209e",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428333",
+        "published_date": "2026-08-24T08:51:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "08c2b5adf98d",
+        "title": "Deputy's stomach... “legalities” eat our livers and our strength",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428320",
+        "published_date": "2026-08-23T21:08:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a579e57e3409",
+        "title": "The political environment in Taiz provided political cover for human rights violations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428318",
+        "published_date": "2026-08-23T19:47:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b7730acde46",
+        "title": "The Silent One reveals: The mobile phone of the killer of Efthan Al-Mashahri has arrived in Al-Hawban, and his extradition requires three prisoners",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428312",
+        "published_date": "2026-08-23T19:19:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c6a7fabd4ebd",
+        "title": "Yemeni intellectuals appeal to provide a medical scholarship for “Nada,” the daughter of the forcibly disappeared Mutahar Al-Eryani.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428307",
+        "published_date": "2026-08-23T16:58:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a00cd6ae15c0",
+        "title": "Recording an earthquake from Taiz Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428303",
+        "published_date": "2026-08-23T16:14:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cead17ef4396",
+        "title": "An archaeological landmark in Aden is at risk of having its sanctuary seized, years after some of its belongings were looted",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428300",
+        "published_date": "2026-08-23T15:46:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a48ec69aeab9",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428296",
+        "published_date": "2026-08-23T14:48:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d33d7fde23d0",
+        "title": "Yemen...a country on compulsory vacation since 2011",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428272",
+        "published_date": "2026-08-22T19:05:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3b4695f32f4c",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428268",
+        "published_date": "2026-08-22T18:30:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a83ee9a650f5",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428255",
+        "published_date": "2026-08-22T13:09:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2846b8443562",
+        "title": "Gold prices rise...average prices on Saturday, August 22, 2026 in Sanaa and Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428250",
+        "published_date": "2026-08-22T11:37:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8b614be2e6a4",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428218",
+        "published_date": "2026-08-21T13:06:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fd97b4cb1365",
+        "title": "Aden “document”: The Ministry of Education stops registering students in Yemeni schools in Egypt for the next academic year",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428208",
+        "published_date": "2026-08-21T11:32:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3f707c8d9772",
+        "title": "Aden.. A directive to release a shipment of Brazilian sugar and confirm its compliance with specifications",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428196",
+        "published_date": "2026-08-20T22:41:57Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
