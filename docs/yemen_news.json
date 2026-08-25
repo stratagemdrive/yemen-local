@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-24T23:25:41Z",
+  "last_updated": "2026-08-25T11:33:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,14 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "ffb1b8c30d8f",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428382",
+        "published_date": "2026-08-24T22:49:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "69463d72dd71",
         "title": "Fifty Years… O, Short Story!",
