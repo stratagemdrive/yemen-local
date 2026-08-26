@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-25T23:27:57Z",
+  "last_updated": "2026-08-26T11:34:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -20,6 +20,22 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428371",
         "published_date": "2026-08-24T21:22:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b333489c7af6",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428342",
+        "published_date": "2026-08-24T10:02:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "08c2b5adf98d",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428320",
+        "published_date": "2026-08-23T21:08:38Z",
         "category": "Local Events"
       }
     ]
