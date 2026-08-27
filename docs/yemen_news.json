@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-27T04:26:48Z",
+  "last_updated": "2026-08-27T20:57:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "755e6da1ec03",
+        "title": "An expert in Yemeni antiquities: An ancient bronze statue is offered for sale at an auction in Tel Aviv",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428495",
+        "published_date": "2026-08-27T09:41:35Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c959ae6201d5",
+        "title": "When we derive determination from men who established the path of goodness in the Qubaita District",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428482",
+        "published_date": "2026-08-27T07:41:05Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "7485b4464028",
         "title": "When the scales of justice tilt... who protects people from injustice?",
@@ -36,7 +52,7 @@
       },
       {
         "_id": "b5ca280cccc5",
-        "title": "A file consisting of approximately 5,000 pages. The Specialized Criminal Court continues investigating the suburbs and refuses to give him a copy of the case file.",
+        "title": "A file consisting of approximately 5,000 pages.. The Specialized Criminal Court continues to investigate the suburbs and refuses to give him a copy of the case file",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428459",
         "published_date": "2026-08-26T15:06:37Z",
@@ -97,41 +113,17 @@
         "url": "https://yemenat.net/archives/428404",
         "published_date": "2026-08-25T09:59:26Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "97b316252c5a",
-        "title": "Al-Zindani's government appoints a new leadership for an international telecommunications company split between Sana'a and Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428388",
-        "published_date": "2026-08-25T09:39:25Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "81f3970f988c",
-        "title": "Hayel Saeed Anam & Co. Group and Chevening launch a new partnership to invest in the leaders and makers of Yemen’s future",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428354",
-        "published_date": "2026-08-24T15:22:13Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "66516b7b18ef",
-        "title": "He chose him as a mercy to the worlds, peace and blessings be upon him",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428329",
-        "published_date": "2026-08-24T04:22:28Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "63d1874e7e43",
-        "title": "My companion on the road",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428326",
-        "published_date": "2026-08-24T04:15:44Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "74d74966616d",
+        "title": "When they believe their lies... the world fears them!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428493",
+        "published_date": "2026-08-27T07:04:58Z",
+        "category": "Military"
+      },
       {
         "_id": "bf0a89c20430",
         "title": "The family that has become the symbol of stability and national tranquility..!",
@@ -155,26 +147,26 @@
         "url": "https://yemenat.net/archives/428365",
         "published_date": "2026-08-24T20:47:09Z",
         "category": "Military"
-      },
-      {
-        "_id": "cafe5c42bc69",
-        "title": "Saree announces three military operations, one of which targeted an oil ship",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428352",
-        "published_date": "2026-08-24T14:50:09Z",
-        "category": "Military"
-      },
-      {
-        "_id": "0eaf11c7d6bf",
-        "title": "Announcing the targeting of a ship near the Saudi port of Yanbu",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428344",
-        "published_date": "2026-08-24T10:38:06Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "cb13ddf05d41",
+        "title": "Tadamon Hadhramaut qualifies for the quarter-finals of the Republic Cup",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428510",
+        "published_date": "2026-08-27T15:58:57Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "7cacb78f3b44",
+        "title": "The news that millions have been waiting for",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428491",
+        "published_date": "2026-08-27T09:03:51Z",
+        "category": "Economy"
+      },
       {
         "_id": "40c05d97c2bb",
         "title": "Yemeni antiquities researcher: Four antiquities are offered for sale on Facebook and looting is still continuing in Al-Jawf",
@@ -190,25 +182,65 @@
         "url": "https://yemenat.net/archives/428396",
         "published_date": "2026-08-25T09:58:58Z",
         "category": "Economy"
-      },
-      {
-        "_id": "d67742ba2485",
-        "title": "Sanaa.. The Central Bank re-deals with an exchange company and stops dealing with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428340",
-        "published_date": "2026-08-24T09:29:52Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "27b8a686b9b7",
-        "title": "A bank that cannot be reached by whips",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428323",
-        "published_date": "2026-08-23T22:25:37Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "1a72faacc4f8",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428507",
+        "published_date": "2026-08-27T15:04:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f3aade54899",
+        "title": "Aden.. The Ministry of Education announces the results of the high school exams, “Names of First Class”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428505",
+        "published_date": "2026-08-27T13:06:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "db6c0a1abef2",
+        "title": "The Seismic Monitoring Center issues a special bulletin regarding seismic activity in Shabwa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428500",
+        "published_date": "2026-08-27T10:49:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "82d6b7596afa",
+        "title": "The draw for the Asian junior qualifiers places the Yemeni team in the sixth group",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428498",
+        "published_date": "2026-08-27T10:22:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ab17d4ade48",
+        "title": "A harp for longing",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428488",
+        "published_date": "2026-08-27T08:56:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ff960b9d5360",
+        "title": "Meteorology: Strong blowing winds accompany thunderstorms expected in more than ten governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428485",
+        "published_date": "2026-08-27T08:09:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "433590461ad3",
+        "title": "Many wells in the Sanaa Basin have dried up amid the expansion of Qat cultivation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428479",
+        "published_date": "2026-08-27T07:10:29Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e9de7545a52a",
         "title": "A tangible and mild earthquake was recorded in Shabwa Governorate",
@@ -307,66 +339,10 @@
       },
       {
         "_id": "58f9eff25226",
-        "title": "Fifty years... short story!",
+        "title": "Fifty years... what a short story!",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428394",
         "published_date": "2026-08-25T10:14:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5071c3aaa4f1",
-        "title": "The people of Hadramaut are in the first group.. Draw the draw for the third edition of the Gulf Champions League for clubs",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428400",
-        "published_date": "2026-08-25T00:31:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3b2415ecd488",
-        "title": "Yemeni intellectuals appeal to the leadership of the General People's Congress to take action to provide a medical grant for journalist Russell Al-Qurashi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428385",
-        "published_date": "2026-08-24T23:04:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ffb1b8c30d8f",
-        "title": "A word of truth to the activist Al-Nabhani and an apology",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428382",
-        "published_date": "2026-08-24T22:49:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69b71aa1fd6f",
-        "title": "Communications service interruption in Shabwa Governorate... and a communications source reveals the reason",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428378",
-        "published_date": "2026-08-24T22:19:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a1a4d801ab96",
-        "title": "The throes of a vice...from a revolutionary to a tyrant..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428375",
-        "published_date": "2026-08-24T21:45:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69463d72dd71",
-        "title": "Fifty Years… O, Short Story!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428371",
-        "published_date": "2026-08-24T21:22:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "710fbc6cc1de",
-        "title": "Dr. Al Madhawi appears before the prosecution after more than 800 days of detention",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428368",
-        "published_date": "2026-08-24T20:53:51Z",
         "category": "Local Events"
       }
     ]
