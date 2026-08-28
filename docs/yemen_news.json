@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-28T06:49:35Z",
+  "last_updated": "2026-08-28T21:20:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,132 +11,17 @@
   "stories": {
     "Diplomacy": [
       {
-        "_id": "90c10dfbc148",
-        "title": "The impact of comedy on society",
+        "_id": "553d7d2c903b",
+        "title": "The Impact of Comedy on Society",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428519",
-        "published_date": "2026-08-27T22:37:09Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "51e171bab38c",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428435",
-        "published_date": "2026-08-25T21:24:21Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "97b316252c5a",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428388",
-        "published_date": "2026-08-25T09:39:25Z",
+        "url": "https://yemenat.net/archives/428547",
+        "published_date": "2026-08-28T16:30:55Z",
         "category": "Diplomacy"
       }
     ],
-    "Military": [
-      {
-        "_id": "8d9b54e6ad37",
-        "title": "Justice under the penalty of bargaining...and collusion shrouded in silence!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428406",
-        "published_date": "2026-08-25T10:06:02Z",
-        "category": "Military"
-      }
-    ],
+    "Military": [],
     "Energy": [],
-    "Economy": [
-      {
-        "_id": "cb13ddf05d41",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428510",
-        "published_date": "2026-08-27T15:58:57Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "7cacb78f3b44",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428491",
-        "published_date": "2026-08-27T09:03:51Z",
-        "category": "Economy"
-      }
-    ],
-    "Local Events": [
-      {
-        "_id": "7f3aade54899",
-        "title": "Aden.. The Ministry of Education announces the results of the high school exams, “Names of First Class”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428505",
-        "published_date": "2026-08-27T13:06:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "82d6b7596afa",
-        "title": "The draw for the Asian junior qualifiers places the Yemeni team in the sixth group",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428498",
-        "published_date": "2026-08-27T10:22:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ff960b9d5360",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428485",
-        "published_date": "2026-08-27T08:09:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "11202fe9052b",
-        "title": "The arrival of a number of leaders of Hayel Saeed Anam and Partners Group to Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428469",
-        "published_date": "2026-08-26T22:58:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "40c05d97c2bb",
-        "title": "Yemeni antiquities researcher: Four antiquities are offered for sale on Facebook and looting is still continuing in Al-Jawf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428461",
-        "published_date": "2026-08-26T16:32:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac60ee8df25b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428425",
-        "published_date": "2026-08-25T20:04:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "65cef121dedb",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428410",
-        "published_date": "2026-08-25T10:39:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3b2415ecd488",
-        "title": "Yemeni intellectuals appeal to the leadership of the General People's Congress to take action to provide a medical grant for journalist Russell Al-Qurashi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428385",
-        "published_date": "2026-08-24T23:04:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69463d72dd71",
-        "title": "Fifty Years… O, Short Story!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428371",
-        "published_date": "2026-08-24T21:22:22Z",
-        "category": "Local Events"
-      }
-    ]
+    "Economy": [],
+    "Local Events": []
   }
 }
