@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-29T04:04:19Z",
+  "last_updated": "2026-08-29T15:33:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -22,6 +22,47 @@
     "Military": [],
     "Energy": [],
     "Economy": [],
-    "Local Events": []
+    "Local Events": [
+      {
+        "_id": "88ac70c43a64",
+        "title": "Two earthquakes were recorded in Dhamar and the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428590",
+        "published_date": "2026-08-29T14:56:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "98775853d489",
+        "title": "Salam Al-Ghurfa wins against Ittihad Hadhramaut in a postponed match from the First Division League",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428587",
+        "published_date": "2026-08-29T14:19:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "15219c1d23fd",
+        "title": "The Egyptian Interior Ministry announces the arrest of the accused of killing a Yemeni citizen and her mother in Giza",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428583",
+        "published_date": "2026-08-29T13:38:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d4d0e1664272",
+        "title": "Aden.. Determine the period for submitting grievances regarding the results of high school exams",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428581",
+        "published_date": "2026-08-29T12:57:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b783ead67415",
+        "title": "Average gold prices in Sanaa and Aden Friday, August 28, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428549",
+        "published_date": "2026-08-28T17:03:12Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
