@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-08-30T15:21:24Z",
+  "last_updated": "2026-08-31T01:14:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,24 +11,315 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "77d3d86d1a46",
+        "title": "I fear that our country will be the sacrifice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428680",
+        "published_date": "2026-08-30T22:42:52Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "b3337445b013",
+        "title": "Al-Baradouni, the fluffy bastard and the spread out bed... the twenty-seventh anniversary",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428675",
+        "published_date": "2026-08-30T22:27:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "10876bb175c6",
+        "title": "The General People's Congress warns against harming its entity and confirms that it is an entity that is not managed from outside the country",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428661",
+        "published_date": "2026-08-30T16:22:49Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "0deb2fd5fed7",
+        "title": "A passing reading of the behavior of some Muslims in the current situation..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428621",
+        "published_date": "2026-08-30T02:14:11Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "3ccb986895bb",
+        "title": "A ship has been detained for a month. Aden port authorities refuse to supply it with fuel, and the Ministry of Transport clarifies its legal status",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428552",
+        "published_date": "2026-08-28T17:35:32Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "553d7d2c903b",
         "title": "The Impact of Comedy on Society",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428547",
         "published_date": "2026-08-28T16:30:55Z",
         "category": "Diplomacy"
+      },
+      {
+        "_id": "90c10dfbc148",
+        "title": "The impact of comedy on society",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428519",
+        "published_date": "2026-08-27T22:37:09Z",
+        "category": "Diplomacy"
       }
     ],
-    "Military": [],
-    "Energy": [],
-    "Economy": [],
+    "Military": [
+      {
+        "_id": "e94b53bb9275",
+        "title": "The bitter truth...the battle to restore Yemen as a state has not yet begun!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428637",
+        "published_date": "2026-08-30T06:50:31Z",
+        "category": "Military"
+      },
+      {
+        "_id": "853c7fd36213",
+        "title": "The head of the “Lawyers Against Corruption” network calls for a national campaign and deterrent legislation to combat electronic blackmail",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428609",
+        "published_date": "2026-08-30T00:02:26Z",
+        "category": "Military"
+      },
+      {
+        "_id": "f8e431e380dd",
+        "title": "Ghast Naeeb..Alimi is easy to use",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428599",
+        "published_date": "2026-08-29T21:25:17Z",
+        "category": "Military"
+      }
+    ],
+    "Energy": [
+      {
+        "_id": "68fc11ff2442",
+        "title": "There is no salvation for Yemen except through democracy",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428611",
+        "published_date": "2026-08-30T01:54:06Z",
+        "category": "Energy"
+      },
+      {
+        "_id": "582a7aa380b8",
+        "title": "Insulting public office",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428605",
+        "published_date": "2026-08-29T23:47:50Z",
+        "category": "Energy"
+      }
+    ],
+    "Economy": [
+      {
+        "_id": "4e4db7a500a6",
+        "title": "Al-Maqaleh: The Sanaa authority is life-threatening and legitimacy is uglier",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428649",
+        "published_date": "2026-08-30T14:03:33Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "d9b23a860970",
+        "title": "A geologist explains the earthquakes recorded in Yemeni geography",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428630",
+        "published_date": "2026-08-30T06:09:45Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "8a87baaa3815",
+        "title": "Between the tyrant who creates tyranny and the people who allow him tyranny",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428619",
+        "published_date": "2026-08-30T02:10:59Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "73bebd40743d",
+        "title": "Their streets and homes reveal fatigue and poverty",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428617",
+        "published_date": "2026-08-30T02:08:00Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e332ce351d0c",
+        "title": "We didn't sell...was it our fault?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428607",
+        "published_date": "2026-08-29T23:53:48Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "ba6d3c199b0f",
+        "title": "When intelligence becomes above Parliament",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428576",
+        "published_date": "2026-08-29T04:21:29Z",
+        "category": "Economy"
+      }
+    ],
     "Local Events": [
       {
+        "_id": "397155e83ff7",
+        "title": "The sons of Kalfut and Maili plunge Ma'rib into darkness",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428685",
+        "published_date": "2026-08-31T00:06:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3b38a5077577",
+        "title": "The Disciplinary Committee takes a decision on the appeal submitted by Ittihad Ibb Club regarding the player Ali Yaqout",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428683",
+        "published_date": "2026-08-30T23:09:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "739b0657ef19",
+        "title": "Yemen...the country of researchers!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428678",
+        "published_date": "2026-08-30T22:34:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6afa99742196",
+        "title": "Translational pluralism",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428672",
+        "published_date": "2026-08-30T18:12:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c23811aad8d1",
+        "title": "Aden.. The Supreme Committee for Examinations takes decisions regarding a Syrian student, a disabled student, and an outstanding student, and re-testing the biology subject",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428668",
+        "published_date": "2026-08-30T17:01:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "776d94e7326f",
+        "title": "Sanaa.. The Central Bank re-deals with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428666",
+        "published_date": "2026-08-30T16:39:07Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "1f4da1c965ce",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Where did the early warning system succeed in Nepal, and where did it fail? And the lesson learned in Yemen",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428656",
         "published_date": "2026-08-30T14:55:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "69aeb42e9264",
+        "title": "A moderate earthquake was recorded from the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428652",
+        "published_date": "2026-08-30T14:41:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5dab79c7ea3f",
+        "title": "Antiquities expert: 14 pieces of Yemeni antiquities are for sale at an auction in London",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428646",
+        "published_date": "2026-08-30T11:18:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ce92d11579b1",
+        "title": "Meteorology: Expansion of unstable weather conditions and increased chances of rain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428643",
+        "published_date": "2026-08-30T10:06:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2da5866474d9",
+        "title": "Yemeni intellectuals appeal to the Sanaa authority to return the headquarters of the Yemeni Writers and Authors Union branch in Ibb Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428640",
+        "published_date": "2026-08-30T07:07:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b7880e2d56b",
+        "title": "Bullets of treachery and an undying thought... in the martyrdom of the thinker and activist Abdul Salam Al-Dumaini",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428634",
+        "published_date": "2026-08-30T06:44:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a9a1ee5f42de",
+        "title": "Astronomer Al-Shawafi expects relatively widespread rainy weather during the coming days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428623",
+        "published_date": "2026-08-30T04:27:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "86d099f01a9f",
+        "title": "I left the arena to you... and took my greetings with me",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428615",
+        "published_date": "2026-08-30T02:03:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3300e38f711b",
+        "title": "When corruption becomes the culture and identity of a nation..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428613",
+        "published_date": "2026-08-30T01:57:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5a25891a63a1",
+        "title": "Republic Cup.. Seiyun and the people of Sanaa qualify for the quarter-finals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428595",
+        "published_date": "2026-08-29T20:51:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c64b9a2a56c6",
+        "title": "Night rain falls in the capital, Sanaa",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428593",
+        "published_date": "2026-08-29T18:55:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88ac70c43a64",
+        "title": "Two earthquakes were recorded in Dhamar and the Gulf of Aden",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428590",
+        "published_date": "2026-08-29T14:56:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "98775853d489",
+        "title": "Salam Al-Ghurfa wins against Ittihad Hadhramaut in a postponed match from the First Division League",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428587",
+        "published_date": "2026-08-29T14:19:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "15219c1d23fd",
+        "title": "The Egyptian Interior Ministry announces the arrest of the accused of killing a Yemeni citizen and her mother in Giza",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428583",
+        "published_date": "2026-08-29T13:38:31Z",
         "category": "Local Events"
       }
     ]
