@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-02T00:54:57Z",
+  "last_updated": "2026-09-02T15:02:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -84,7 +84,7 @@
       },
       {
         "_id": "4582d0d03090",
-        "title": "Putin: Russia is moving towards ending the Ukrainian conflict",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428710",
         "published_date": "2026-08-31T21:49:04Z",
@@ -157,17 +157,16 @@
         "category": "Military"
       }
     ],
-    "Energy": [
-      {
-        "_id": "68fc11ff2442",
-        "title": "There is no salvation for Yemen except through democracy",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428611",
-        "published_date": "2026-08-30T01:54:06Z",
-        "category": "Energy"
-      }
-    ],
+    "Energy": [],
     "Economy": [
+      {
+        "_id": "1640b12d333a",
+        "title": "A security accident involving a Saudi tanker in the Strait of Hormuz claims the lives of sailors",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428776",
+        "published_date": "2026-09-02T09:14:57Z",
+        "category": "Economy"
+      },
       {
         "_id": "58be2358de20",
         "title": "The Yemeni Bar Association condemns the attack on a lawyer inside the Public Prosecutor’s Office",
@@ -186,30 +185,46 @@
       },
       {
         "_id": "d9b23a860970",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A geologist explains the earthquakes recorded in Yemeni geography",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428630",
         "published_date": "2026-08-30T06:09:45Z",
         "category": "Economy"
-      },
-      {
-        "_id": "8a87baaa3815",
-        "title": "Between the tyrant who creates tyranny and the people who allow him tyranny",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428619",
-        "published_date": "2026-08-30T02:10:59Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "73bebd40743d",
-        "title": "Their streets and homes reveal fatigue and poverty",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428617",
-        "published_date": "2026-08-30T02:08:00Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "4227b9290456",
+        "title": "Forming a technical and administrative staff for the Yemeni national team under the age of 15 years",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428780",
+        "published_date": "2026-09-02T14:59:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8cfecb2a0a03",
+        "title": "Average gold prices in Sanaa and Aden Wednesday, September 2, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428778",
+        "published_date": "2026-09-02T09:58:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0975f0085752",
+        "title": "Meteorology: Thunderstorms continue, accompanied by winds and hailstones, in the highlands and the Tihama Plain",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428769",
+        "published_date": "2026-09-02T08:06:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "95382ce81d87",
+        "title": "A citizen and his son died of suffocation inside a well in Dhamar",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428765",
+        "published_date": "2026-09-02T04:56:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "112d5c10a569",
         "title": "Two thunderbolts strike a house in Ibb, causing severe damage",
@@ -324,7 +339,7 @@
       },
       {
         "_id": "6afa99742196",
-        "title": "Translational pluralism",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428672",
         "published_date": "2026-08-30T18:12:09Z",
@@ -336,38 +351,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428668",
         "published_date": "2026-08-30T17:01:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "776d94e7326f",
-        "title": "Sanaa.. The Central Bank re-deals with an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428666",
-        "published_date": "2026-08-30T16:39:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f4da1c965ce",
-        "title": "Where did the early warning system succeed in Nepal, and where did it fail? And the lesson learned in Yemen",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428656",
-        "published_date": "2026-08-30T14:55:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69aeb42e9264",
-        "title": "A moderate earthquake was recorded from the Gulf of Aden",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428652",
-        "published_date": "2026-08-30T14:41:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5dab79c7ea3f",
-        "title": "Antiquities expert: 14 pieces of Yemeni antiquities are for sale at an auction in London",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428646",
-        "published_date": "2026-08-30T11:18:52Z",
         "category": "Local Events"
       }
     ]
