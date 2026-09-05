@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-05T00:45:41Z",
+  "last_updated": "2026-09-05T13:48:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,6 +89,38 @@
         "url": "https://yemenat.net/archives/428733",
         "published_date": "2026-09-01T15:54:47Z",
         "category": "Diplomacy"
+      },
+      {
+        "_id": "ee7798bb0426",
+        "title": "A young Yemeni man throws himself from the roof of a building in Saudi Arabia",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428728",
+        "published_date": "2026-08-31T23:56:02Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "bbcbf59350b6",
+        "title": "The impact remains.. Rashad Al-Alimi is preparing to travel to New York...so what will he return to Yemen with?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428726",
+        "published_date": "2026-08-31T23:38:33Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "45380e718cbe",
+        "title": "Two Yemeni women who went to Cairo for cancer treatment were killed and their reputations were smeared under the pretext of a romantic relationship with the perpetrator",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428721",
+        "published_date": "2026-08-31T23:04:42Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4582d0d03090",
+        "title": "Putin: Russia is moving towards ending the Ukrainian conflict",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428710",
+        "published_date": "2026-08-31T21:49:04Z",
+        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -98,6 +130,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428757",
         "published_date": "2026-09-01T21:27:18Z",
+        "category": "Military"
+      },
+      {
+        "_id": "2a202f430942",
+        "title": "From the cherished, aging and clotted remnants of memory: about the ill-fated events of August 23 and 24, 1968 AD.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428723",
+        "published_date": "2026-08-31T23:24:59Z",
         "category": "Military"
       }
     ],
@@ -118,9 +158,49 @@
         "url": "https://yemenat.net/archives/428776",
         "published_date": "2026-09-02T09:14:57Z",
         "category": "Economy"
+      },
+      {
+        "_id": "58be2358de20",
+        "title": "The Yemeni Bar Association condemns the attack on a lawyer inside the Public Prosecutor’s Office",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428708",
+        "published_date": "2026-08-31T21:37:46Z",
+        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "29e0dc7355c3",
+        "title": "Updates on the military confrontations on the Taiz and Hodeidah fronts",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428854",
+        "published_date": "2026-09-05T11:58:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "42ba0d88862c",
+        "title": "Meteorology: Thunderstorms of varying intensity and thunderstorm warnings",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428852",
+        "published_date": "2026-09-05T10:24:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "994221f69c97",
+        "title": "Within less than 24 hours.. a second earthquake was recorded in Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428848",
+        "published_date": "2026-09-05T01:33:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "66e1b5f496c0",
+        "title": "Astronomer Al-Shawafi: Scattered rain will continue in a number of Yemeni governorates during the next 72 hours",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428845",
+        "published_date": "2026-09-05T01:15:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "513f97a86a90",
         "title": "An earthquake was recorded from Dhamar Governorate",
@@ -247,38 +327,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428780",
         "published_date": "2026-09-02T14:59:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8cfecb2a0a03",
-        "title": "Average gold prices in Sanaa and Aden Wednesday, September 2, 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428778",
-        "published_date": "2026-09-02T09:58:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0975f0085752",
-        "title": "Meteorology: Thunderstorms continue, accompanied by winds and hailstones, in the highlands and the Tihama Plain",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428769",
-        "published_date": "2026-09-02T08:06:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "95382ce81d87",
-        "title": "A citizen and his son died of suffocation inside a well in Dhamar",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428765",
-        "published_date": "2026-09-02T04:56:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "112d5c10a569",
-        "title": "Two thunderbolts strike a house in Ibb, causing severe damage",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428762",
-        "published_date": "2026-09-02T00:17:47Z",
         "category": "Local Events"
       }
     ]
