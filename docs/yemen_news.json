@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-04T14:53:19Z",
+  "last_updated": "2026-09-05T00:45:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -89,54 +89,6 @@
         "url": "https://yemenat.net/archives/428733",
         "published_date": "2026-09-01T15:54:47Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "ee7798bb0426",
-        "title": "A young Yemeni man throws himself from the roof of a building in Saudi Arabia",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428728",
-        "published_date": "2026-08-31T23:56:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "bbcbf59350b6",
-        "title": "The impact remains.. Rashad Al-Alimi is preparing to travel to New York...so what will he return to Yemen with?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428726",
-        "published_date": "2026-08-31T23:38:33Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "45380e718cbe",
-        "title": "Two Yemeni women who went to Cairo for cancer treatment were killed and their reputations were smeared under the pretext of a romantic relationship with the perpetrator",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428721",
-        "published_date": "2026-08-31T23:04:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4582d0d03090",
-        "title": "Putin: Russia is moving towards ending the Ukrainian conflict",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428710",
-        "published_date": "2026-08-31T21:49:04Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "e638ae3a1786",
-        "title": "A representative's gasp.. His Excellency's Parliament..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428696",
-        "published_date": "2026-08-31T12:27:06Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "77d3d86d1a46",
-        "title": "I fear that our country will be the sacrifice",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428680",
-        "published_date": "2026-08-30T22:42:52Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -146,14 +98,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428757",
         "published_date": "2026-09-01T21:27:18Z",
-        "category": "Military"
-      },
-      {
-        "_id": "2a202f430942",
-        "title": "From the cherished, aging and clotted remnants of memory: about the ill-fated events of August 23 and 24, 1968 AD.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428723",
-        "published_date": "2026-08-31T23:24:59Z",
         "category": "Military"
       }
     ],
@@ -174,17 +118,33 @@
         "url": "https://yemenat.net/archives/428776",
         "published_date": "2026-09-02T09:14:57Z",
         "category": "Economy"
-      },
-      {
-        "_id": "58be2358de20",
-        "title": "The Yemeni Bar Association condemns the attack on a lawyer inside the Public Prosecutor’s Office",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428708",
-        "published_date": "2026-08-31T21:37:46Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "513f97a86a90",
+        "title": "An earthquake was recorded from Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428842",
+        "published_date": "2026-09-04T17:01:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf2cc4da4d23",
+        "title": "Average gold prices in Sanaa and Aden on Friday, September 4, 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428840",
+        "published_date": "2026-09-04T16:49:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cde6df299db6",
+        "title": "Ali Lafta Saeed...one of those who remained loyal to what they started in their youth",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428837",
+        "published_date": "2026-09-04T16:28:24Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ad3a986ad519",
         "title": "Continuing confrontations southeast of Hodeidah",
@@ -235,7 +195,7 @@
       },
       {
         "_id": "5dcb9f1a9288",
-        "title": "Sanaa.. Announcement of the results of the supplementary round exams for the general secondary school for the year 1447 AH",
+        "title": "Sanaa.. Announcing the results of the supplementary round exams for the general secondary school for the year 1447 AH",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428800",
         "published_date": "2026-09-03T08:57:19Z",
@@ -275,7 +235,7 @@
       },
       {
         "_id": "bc56eee76507",
-        "title": "An earthquake was recorded from Lahj Governorate",
+        "title": "Recording an earthquake from Lahj Governorate",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428786",
         "published_date": "2026-09-02T19:08:00Z",
@@ -319,30 +279,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428762",
         "published_date": "2026-09-02T00:17:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "35e038f0eebd",
-        "title": "Yemeni intellectuals call for the release of the poet Al-Zariqi and the accountability of land brokers in the soil of Taiz",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428760",
-        "published_date": "2026-09-01T23:23:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9260e3074e1a",
-        "title": "Deputy’s grief.. “Alimi” successive shocks",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428752",
-        "published_date": "2026-09-01T20:28:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d37e25079851",
-        "title": "What does a man do when situations lead to him being hungry?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428738",
-        "published_date": "2026-09-01T17:38:18Z",
         "category": "Local Events"
       }
     ]
