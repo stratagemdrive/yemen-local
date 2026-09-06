@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-05T13:48:42Z",
+  "last_updated": "2026-09-06T00:44:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,11 +11,19 @@
   "stories": {
     "Diplomacy": [
       {
-        "_id": "1364ecda1d91",
-        "title": "Social Media: The Silent Focus Killer",
+        "_id": "6e83fb4a434e",
+        "title": "Deputy's gasp.. the day Al-Alimi bombed me with a meteorite",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428828",
-        "published_date": "2026-09-03T23:38:49Z",
+        "url": "https://yemenat.net/archives/428872",
+        "published_date": "2026-09-05T18:55:59Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4b24faa8323f",
+        "title": "Exile in the Shape of a Woman",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428859",
+        "published_date": "2026-09-05T16:38:50Z",
         "category": "Diplomacy"
       },
       {
@@ -28,7 +36,7 @@
       },
       {
         "_id": "0608a49dcd8e",
-        "title": "As if the curtain had not closed yet",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428802",
         "published_date": "2026-09-03T09:24:11Z",
@@ -105,22 +113,6 @@
         "url": "https://yemenat.net/archives/428726",
         "published_date": "2026-08-31T23:38:33Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "45380e718cbe",
-        "title": "Two Yemeni women who went to Cairo for cancer treatment were killed and their reputations were smeared under the pretext of a romantic relationship with the perpetrator",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428721",
-        "published_date": "2026-08-31T23:04:42Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "4582d0d03090",
-        "title": "Putin: Russia is moving towards ending the Ukrainian conflict",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428710",
-        "published_date": "2026-08-31T21:49:04Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
@@ -131,18 +123,26 @@
         "url": "https://yemenat.net/archives/428757",
         "published_date": "2026-09-01T21:27:18Z",
         "category": "Military"
-      },
-      {
-        "_id": "2a202f430942",
-        "title": "From the cherished, aging and clotted remnants of memory: about the ill-fated events of August 23 and 24, 1968 AD.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428723",
-        "published_date": "2026-08-31T23:24:59Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "de712259c90d",
+        "title": "The battle of identity is no less dangerous than the battle of sovereignty",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428865",
+        "published_date": "2026-09-05T18:10:36Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "6e525978bf57",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428861",
+        "published_date": "2026-09-05T17:07:52Z",
+        "category": "Economy"
+      },
       {
         "_id": "5acdabf173df",
         "title": "The Yemeni youth team wins over Kuwait and revives its hopes of qualifying",
@@ -158,17 +158,25 @@
         "url": "https://yemenat.net/archives/428776",
         "published_date": "2026-09-02T09:14:57Z",
         "category": "Economy"
-      },
-      {
-        "_id": "58be2358de20",
-        "title": "The Yemeni Bar Association condemns the attack on a lawyer inside the Public Prosecutor’s Office",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428708",
-        "published_date": "2026-08-31T21:37:46Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "8c032110c9c9",
+        "title": "Haifan's crime: When motherhood is openly assassinated and treachery triumphs!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428863",
+        "published_date": "2026-09-05T18:03:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "04167b438bea",
+        "title": "Closure of a main road linking the cities of Taiz and Mokha",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428856",
+        "published_date": "2026-09-05T16:11:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "29e0dc7355c3",
         "title": "Updates on the military confrontations on the Taiz and Hodeidah fronts",
@@ -243,7 +251,7 @@
       },
       {
         "_id": "1346d73e68fe",
-        "title": "Naib’s Ghisa.. Al-Alimi’s first victories",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428822",
         "published_date": "2026-09-03T22:57:29Z",
@@ -251,7 +259,7 @@
       },
       {
         "_id": "639e5107dd7a",
-        "title": "An earthquake was recorded from the Gulf of Aden and an earthquake from Dhamar Governorate",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428819",
         "published_date": "2026-09-03T20:09:29Z",
@@ -275,7 +283,7 @@
       },
       {
         "_id": "5dcb9f1a9288",
-        "title": "Sanaa.. Announcing the results of the supplementary round exams for the general secondary school for the year 1447 AH",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428800",
         "published_date": "2026-09-03T08:57:19Z",
@@ -311,22 +319,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428789",
         "published_date": "2026-09-02T21:14:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc56eee76507",
-        "title": "Recording an earthquake from Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428786",
-        "published_date": "2026-09-02T19:08:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4227b9290456",
-        "title": "Forming a technical and administrative staff for the Yemeni national team under the age of 15 years",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428780",
-        "published_date": "2026-09-02T14:59:03Z",
         "category": "Local Events"
       }
     ]
