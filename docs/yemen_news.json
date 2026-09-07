@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-07T00:47:59Z",
+  "last_updated": "2026-09-07T16:21:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,25 +11,124 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "701c211758f6",
+        "title": "Weather expert: Rain chances will increase and expand gradually over the coming days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428938",
+        "published_date": "2026-09-07T03:03:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "04a7a80eda9e",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428869",
+        "published_date": "2026-09-05T18:23:22Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "4b24faa8323f",
         "title": "Exile in the Shape of a Woman",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428859",
         "published_date": "2026-09-05T16:38:50Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "887c38d0be57",
-        "title": "Khaled Al Youssef: The Arab World’s Foremost Servant of the Short Story?",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428784",
-        "published_date": "2026-09-02T16:39:33Z",
-        "category": "Diplomacy"
       }
     ],
-    "Military": [],
+    "Military": [
+      {
+        "_id": "2f29683bc331",
+        "title": "Al-Nuzaili announces progress in Al-Bayda and Al-Jawf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428970",
+        "published_date": "2026-09-07T11:28:51Z",
+        "category": "Military"
+      },
+      {
+        "_id": "58e654347dde",
+        "title": "Aden.. The Coast Guard announces the interception of an oil tanker",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428963",
+        "published_date": "2026-09-07T04:06:27Z",
+        "category": "Military"
+      }
+    ],
     "Energy": [],
-    "Economy": [],
-    "Local Events": []
+    "Economy": [
+      {
+        "_id": "ff485ad1f244",
+        "title": "(The Thread That Became Strings) The Question of War and the Question of Pain and Loss by “Rima Salman Hamza”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428940",
+        "published_date": "2026-09-07T07:11:44Z",
+        "category": "Economy"
+      }
+    ],
+    "Local Events": [
+      {
+        "_id": "546a1889ccce",
+        "title": "The listening team and the Ministry of Culture honor the writer Muhammad Al-Qaoud at the conclusion of the First Baradouni Festival",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428975",
+        "published_date": "2026-09-07T16:06:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3c418427e989",
+        "title": "Sanaa.. Announcing the targeting of mobilizations in eastern Al-Jawf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428972",
+        "published_date": "2026-09-07T12:15:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf83b33bc613",
+        "title": "Meteorology forecasts thunderstorms of varying intensity in several governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428967",
+        "published_date": "2026-09-07T10:04:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "afb262308bc4",
+        "title": "Yemeni intellectuals are calling for the rehabilitation of engineer Samir Abdel Habib and addressing his injustice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428949",
+        "published_date": "2026-09-07T06:30:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d7d8f8af8d1",
+        "title": "A foggy scene on the western fronts of Taiz... the continued closure of Al-Kadha Road and violent confrontations in its vicinity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428945",
+        "published_date": "2026-09-07T05:09:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "23233cb157a0",
+        "title": "Saree announces the downing of the second Saudi reconnaissance plane",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428961",
+        "published_date": "2026-09-07T02:41:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4a5d76f3ead7",
+        "title": "Me and the Scoundrels I Love by the Yemeni poet Adel Al-Amiri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428957",
+        "published_date": "2026-09-07T02:09:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5dfda1ed19a2",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428904",
+        "published_date": "2026-09-06T14:53:28Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
