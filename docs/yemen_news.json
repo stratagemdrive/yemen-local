@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-09T01:07:25Z",
+  "last_updated": "2026-09-09T15:03:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,6 +11,38 @@
   "stories": {
     "Diplomacy": [
       {
+        "_id": "80931aa99f34",
+        "title": "Saudi Foreign Minister: The door to diplomacy is still open to deal with the Houthis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429050",
+        "published_date": "2026-09-09T11:31:58Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cacda344b8b5",
+        "title": "Nala Forum: A Tribute to Short Story Writers, Revisiting Their Journeys and Showcasing Their Works",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429045",
+        "published_date": "2026-09-09T09:57:02Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "4cf68e26599e",
+        "title": "Abu Ras to the parties to the conflict: If you annihilate the people and destroy the homeland, who will you rule?",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429036",
+        "published_date": "2026-09-09T07:54:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "fb1a238552b4",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429023",
+        "published_date": "2026-09-08T19:59:03Z",
+        "category": "Diplomacy"
+      },
+      {
         "_id": "84ab0db7247b",
         "title": "Al-Maliki announces that four regions in southern Saudi Arabia have been subjected to attacks from Yemen and reveals statistics of the victims",
         "source": "Yemenat",
@@ -20,7 +52,7 @@
       },
       {
         "_id": "f07ce804beb7",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "A weather expert expects varying and heavy rains in various areas of Yemen in the coming days",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428997",
         "published_date": "2026-09-08T03:09:45Z",
@@ -33,31 +65,79 @@
         "url": "https://yemenat.net/archives/428938",
         "published_date": "2026-09-07T03:03:19Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "07cfbbe1f4e7",
-        "title": "A Yemeni-Omani agreement to connect a double electric line",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428899",
-        "published_date": "2026-09-06T10:54:55Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
       {
-        "_id": "dff0534251ad",
-        "title": "Patience has reached its end..?!",
+        "_id": "ee7a9ba6e2e4",
+        "title": "Back-and-forth confrontations on the western fronts of Taiz",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428932",
-        "published_date": "2026-09-07T00:51:26Z",
+        "url": "https://yemenat.net/archives/429047",
+        "published_date": "2026-09-09T10:49:25Z",
         "category": "Military"
       },
       {
-        "_id": "fdcfa294628d",
-        "title": "Al-Nuzaili announces the targeting of a camp in Al-Jawf Governorate",
+        "_id": "4f1288f41f3e",
+        "title": "Air strikes renewed on several areas in Ma’rib and Al-Jawf governorates",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428897",
-        "published_date": "2026-09-06T10:40:33Z",
+        "url": "https://yemenat.net/archives/429040",
+        "published_date": "2026-09-09T08:27:09Z",
+        "category": "Military"
+      },
+      {
+        "_id": "43a0f9fe2366",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429012",
+        "published_date": "2026-09-08T07:53:13Z",
+        "category": "Military"
+      },
+      {
+        "_id": "8320be879332",
+        "title": "Military escalation in Al-Jawf and Al-Bayda...and the official narratives are content with generalizations",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429009",
+        "published_date": "2026-09-08T07:24:01Z",
+        "category": "Military"
+      },
+      {
+        "_id": "d497bc8e8689",
+        "title": "Al-Jawi: Yemen is heading towards a darker stage unless strategic achievements are achieved that move the political path",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429000",
+        "published_date": "2026-09-08T04:30:47Z",
+        "category": "Military"
+      },
+      {
+        "_id": "0f2394f1fe82",
+        "title": "The Anti-Human Trafficking Foundation condemns the targeting of Al-Jawf prison and demands an international investigation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428994",
+        "published_date": "2026-09-07T21:12:30Z",
+        "category": "Military"
+      },
+      {
+        "_id": "a6282312cb94",
+        "title": "The UN envoy calls for an end to the escalation in Yemen and warns against the return of widespread fighting",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428983",
+        "published_date": "2026-09-07T17:19:16Z",
+        "category": "Military"
+      },
+      {
+        "_id": "2f29683bc331",
+        "title": "Al-Nuzaili announces progress in Al-Bayda and Al-Jawf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428970",
+        "published_date": "2026-09-07T11:28:51Z",
+        "category": "Military"
+      },
+      {
+        "_id": "dff0534251ad",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428932",
+        "published_date": "2026-09-07T00:51:26Z",
         "category": "Military"
       }
     ],
@@ -88,26 +168,74 @@
         "category": "Economy"
       },
       {
-        "_id": "3b83b2223f42",
-        "title": "When a person falls into the trap of destitution, the state collapses and the legitimacy of every conflict is lost",
+        "_id": "0f2de442e8c8",
+        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428928",
-        "published_date": "2026-09-07T00:46:11Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "812e214c38eb",
-        "title": "Dr. Al-Madhawi's wife announces that the prosecution has finished investigating him and appeals for his release",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428923",
-        "published_date": "2026-09-06T21:22:44Z",
+        "url": "https://yemenat.net/archives/428921",
+        "published_date": "2026-09-06T19:02:48Z",
         "category": "Economy"
       }
     ],
     "Local Events": [
       {
-        "_id": "bf83b33bc613",
+        "_id": "0348109fc95c",
+        "title": "Astronomer Al-Shawafi: Varied rain will fall on a number of Yemeni governorates during the next four days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429026",
+        "published_date": "2026-09-09T04:06:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4066d978ada1",
+        "title": "Approval of the dates for the quarter-finals of the Republic Cup and the resumption of First Division matches",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429021",
+        "published_date": "2026-09-08T17:18:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a2f9b879f51f",
+        "title": "Two earthquakes in the Gulf of Aden and Lahj Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429018",
+        "published_date": "2026-09-08T09:25:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e851a27dad64",
         "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428992",
+        "published_date": "2026-09-07T20:18:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ab53b0b7bf2b",
+        "title": "The Sanaa government announces that Saudi aircraft targeted the Al-Jawf Central Correctional Facility, and the Health Ministry announces preliminary statistics of the victims",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428988",
+        "published_date": "2026-09-07T19:23:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4e71e89bf4c0",
+        "title": "Al-Nuzaili announces approaching Dhi Na'im... and Saree announces the shooting down of a new reconnaissance plane",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428985",
+        "published_date": "2026-09-07T17:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3c418427e989",
+        "title": "Sanaa.. Announcing the targeting of mobilizations in eastern Al-Jawf",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428972",
+        "published_date": "2026-09-07T12:15:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf83b33bc613",
+        "title": "Meteorology forecasts thunderstorms of varying intensity in several governorates",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428967",
         "published_date": "2026-09-07T10:04:05Z",
@@ -139,7 +267,7 @@
       },
       {
         "_id": "23233cb157a0",
-        "title": "Saree announces the shooting down of the second Saudi reconnaissance plane",
+        "title": "Saree announces the downing of the second Saudi reconnaissance plane",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428961",
         "published_date": "2026-09-07T02:41:02Z",
@@ -155,58 +283,18 @@
       },
       {
         "_id": "3d5cbcaa384b",
-        "title": "A fraternal stroke par excellence",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428937",
         "published_date": "2026-09-07T01:13:49Z",
         "category": "Local Events"
       },
       {
-        "_id": "25580b2199ca",
-        "title": "Night storage... psychological disorder and academic failure",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428926",
-        "published_date": "2026-09-07T00:42:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f2de442e8c8",
-        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428921",
-        "published_date": "2026-09-06T19:02:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9aec9dba485a",
-        "title": "The hearing team checks on the health of Shura Council members Al-Ammari and Al-Hammadi",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428914",
-        "published_date": "2026-09-06T18:07:03Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "d4d24d7aae73",
-        "title": "Within four days.. a third earthquake was recorded in Dhamar Governorate",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428911",
         "published_date": "2026-09-06T17:39:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20d516b88ade",
-        "title": "The youth team loses to Japan at the end of its participation in the Asian qualifiers",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428906",
-        "published_date": "2026-09-06T15:31:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8e89829ef0ee",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428887",
-        "published_date": "2026-09-06T04:16:02Z",
         "category": "Local Events"
       }
     ]
