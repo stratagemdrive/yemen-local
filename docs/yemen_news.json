@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-08T15:01:19Z",
+  "last_updated": "2026-09-09T01:07:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,59 +9,204 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
+    "Diplomacy": [
+      {
+        "_id": "84ab0db7247b",
+        "title": "Al-Maliki announces that four regions in southern Saudi Arabia have been subjected to attacks from Yemen and reveals statistics of the victims",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429006",
+        "published_date": "2026-09-08T06:11:02Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f07ce804beb7",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428997",
+        "published_date": "2026-09-08T03:09:45Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "701c211758f6",
+        "title": "Weather expert: Rain chances will increase and expand gradually over the coming days",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428938",
+        "published_date": "2026-09-07T03:03:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "07cfbbe1f4e7",
+        "title": "A Yemeni-Omani agreement to connect a double electric line",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428899",
+        "published_date": "2026-09-06T10:54:55Z",
+        "category": "Diplomacy"
+      }
+    ],
     "Military": [
       {
-        "_id": "a30cdca53302",
-        "title": "The Saudi Ministry of Energy announces that energy sector facilities and installations in the southern region have been targeted",
+        "_id": "dff0534251ad",
+        "title": "Patience has reached its end..?!",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429016",
-        "published_date": "2026-09-08T08:48:53Z",
+        "url": "https://yemenat.net/archives/428932",
+        "published_date": "2026-09-07T00:51:26Z",
+        "category": "Military"
+      },
+      {
+        "_id": "fdcfa294628d",
+        "title": "Al-Nuzaili announces the targeting of a camp in Al-Jawf Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428897",
+        "published_date": "2026-09-06T10:40:33Z",
         "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
       {
-        "_id": "84ab0db7247b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "_id": "ff485ad1f244",
+        "title": "(The Thread That Became Strings) The Question of War and the Question of Pain and Loss by “Rima Salman Hamza”",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429006",
-        "published_date": "2026-09-08T06:11:02Z",
+        "url": "https://yemenat.net/archives/428940",
+        "published_date": "2026-09-07T07:11:44Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "4a5d76f3ead7",
+        "title": "Me and the Scoundrels I Love by the Yemeni poet Adel Al-Amiri",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428957",
+        "published_date": "2026-09-07T02:09:28Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "9402390a3246",
+        "title": "From Prison Literature (Episode One)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428935",
+        "published_date": "2026-09-07T00:55:46Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "3b83b2223f42",
+        "title": "When a person falls into the trap of destitution, the state collapses and the legitimacy of every conflict is lost",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428928",
+        "published_date": "2026-09-07T00:46:11Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "812e214c38eb",
+        "title": "Dr. Al-Madhawi's wife announces that the prosecution has finished investigating him and appeals for his release",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428923",
+        "published_date": "2026-09-06T21:22:44Z",
         "category": "Economy"
       }
     ],
     "Local Events": [
       {
-        "_id": "a2f9b879f51f",
-        "title": "Two earthquakes in the Gulf of Aden and Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429018",
-        "published_date": "2026-09-08T09:25:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e0cc6e44aa01",
-        "title": "Meteorology: Thunderstorms and strong winds in a number of Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429014",
-        "published_date": "2026-09-08T08:12:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e851a27dad64",
+        "_id": "bf83b33bc613",
         "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428992",
-        "published_date": "2026-09-07T20:18:11Z",
+        "url": "https://yemenat.net/archives/428967",
+        "published_date": "2026-09-07T10:04:05Z",
         "category": "Local Events"
       },
       {
-        "_id": "8c032110c9c9",
+        "_id": "afb262308bc4",
+        "title": "Yemeni intellectuals are calling for the rehabilitation of engineer Samir Abdel Habib and addressing his injustice",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428949",
+        "published_date": "2026-09-07T06:30:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d7d8f8af8d1",
+        "title": "A foggy scene on the western fronts of Taiz... the continued closure of Al-Kadha Road and violent confrontations in its vicinity",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428945",
+        "published_date": "2026-09-07T05:09:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "58e654347dde",
+        "title": "Aden.. The Coast Guard announces the interception of an oil tanker",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428963",
+        "published_date": "2026-09-07T04:06:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "23233cb157a0",
+        "title": "Saree announces the shooting down of the second Saudi reconnaissance plane",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428961",
+        "published_date": "2026-09-07T02:41:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "30f432117a2c",
+        "title": "Don't be too proud of a dead person",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428952",
+        "published_date": "2026-09-07T01:42:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3d5cbcaa384b",
+        "title": "A fraternal stroke par excellence",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428937",
+        "published_date": "2026-09-07T01:13:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "25580b2199ca",
+        "title": "Night storage... psychological disorder and academic failure",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428926",
+        "published_date": "2026-09-07T00:42:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0f2de442e8c8",
+        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428921",
+        "published_date": "2026-09-06T19:02:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9aec9dba485a",
+        "title": "The hearing team checks on the health of Shura Council members Al-Ammari and Al-Hammadi",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428914",
+        "published_date": "2026-09-06T18:07:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d4d24d7aae73",
+        "title": "Within four days.. a third earthquake was recorded in Dhamar Governorate",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428911",
+        "published_date": "2026-09-06T17:39:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "20d516b88ade",
+        "title": "The youth team loses to Japan at the end of its participation in the Asian qualifiers",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428906",
+        "published_date": "2026-09-06T15:31:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8e89829ef0ee",
         "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428863",
-        "published_date": "2026-09-05T18:03:42Z",
+        "url": "https://yemenat.net/archives/428887",
+        "published_date": "2026-09-06T04:16:02Z",
         "category": "Local Events"
       }
     ]
