@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-09T15:03:54Z",
+  "last_updated": "2026-09-10T00:56:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,22 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "8714fe628e36",
+        "title": "Yemeni human rights organizations and the professional crisis in times of war",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429072",
+        "published_date": "2026-09-09T21:29:24Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "e6388773b536",
+        "title": "The UN envoy condemns the attacks on Saudi Arabia and calls for an end to the escalation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429064",
+        "published_date": "2026-09-09T20:06:51Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "80931aa99f34",
         "title": "Saudi Foreign Minister: The door to diplomacy is still open to deal with the Houthis",
@@ -36,7 +52,7 @@
       },
       {
         "_id": "fb1a238552b4",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "“Nala” Forum is a tribute to short story writers, retracing their progress and reviewing their publications",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429023",
         "published_date": "2026-09-08T19:59:03Z",
@@ -69,11 +85,35 @@
     ],
     "Military": [
       {
-        "_id": "ee7a9ba6e2e4",
-        "title": "Back-and-forth confrontations on the western fronts of Taiz",
+        "_id": "ffb024b0e75e",
+        "title": "Yemen between internal enemies and external enemies..?!",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429047",
-        "published_date": "2026-09-09T10:49:25Z",
+        "url": "https://yemenat.net/archives/429082",
+        "published_date": "2026-09-09T23:02:39Z",
+        "category": "Military"
+      },
+      {
+        "_id": "885abf39ac71",
+        "title": "Armed men attack the convoy of Defense Minister Al-Uqaili in Al-Dhalea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429076",
+        "published_date": "2026-09-09T22:30:53Z",
+        "category": "Military"
+      },
+      {
+        "_id": "1df5d7b08ff8",
+        "title": "Al-Maliki announces the targeting of Saudi cities with missiles and drones",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429074",
+        "published_date": "2026-09-09T21:41:33Z",
+        "category": "Military"
+      },
+      {
+        "_id": "c9efa4a00703",
+        "title": "Al-Sami responds to Ahmed Al-Sharaa: Liberate your occupied land first before offering lessons to the Yemenis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429067",
+        "published_date": "2026-09-09T20:37:34Z",
         "category": "Military"
       },
       {
@@ -85,8 +125,16 @@
         "category": "Military"
       },
       {
+        "_id": "a30cdca53302",
+        "title": "The Saudi Ministry of Energy announces that energy sector facilities and installations in the southern region have been targeted",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429016",
+        "published_date": "2026-09-08T08:48:53Z",
+        "category": "Military"
+      },
+      {
         "_id": "43a0f9fe2366",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Saree announces a large military operation against Saudi targets",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429012",
         "published_date": "2026-09-08T07:53:13Z",
@@ -131,18 +179,26 @@
         "url": "https://yemenat.net/archives/428970",
         "published_date": "2026-09-07T11:28:51Z",
         "category": "Military"
-      },
-      {
-        "_id": "dff0534251ad",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428932",
-        "published_date": "2026-09-07T00:51:26Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "58f4a3164ca9",
+        "title": "Yemen between the logic of the state and the logic of domination",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429080",
+        "published_date": "2026-09-09T23:18:55Z",
+        "category": "Economy"
+      },
+      {
+        "_id": "e363cff120a1",
+        "title": "Al-Tilal Club: We did not obstruct Adel Abbas’s transfer to Al-Shabab Saudi Arabia and we support his professional experience",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429058",
+        "published_date": "2026-09-09T19:27:05Z",
+        "category": "Economy"
+      },
       {
         "_id": "ff485ad1f244",
         "title": "(The Thread That Became Strings) The Question of War and the Question of Pain and Loss by “Rima Salman Hamza”",
@@ -166,17 +222,65 @@
         "url": "https://yemenat.net/archives/428935",
         "published_date": "2026-09-07T00:55:46Z",
         "category": "Economy"
-      },
-      {
-        "_id": "0f2de442e8c8",
-        "title": "Sanaa.. The Central Bank stops dealing with a company and an exchange facility",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428921",
-        "published_date": "2026-09-06T19:02:48Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "64a572af0f2f",
+        "title": "Taiz.. postponement of the trial of the silent and single journalists.. and their defense provides a formal defense amid the absence of the Taiz axis",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429069",
+        "published_date": "2026-09-09T20:59:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "48bb2676064b",
+        "title": "Taiz is a city that works for its own salvation and does not expect it from anyone",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429062",
+        "published_date": "2026-09-09T19:38:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2cb8f93441d8",
+        "title": "Rapid: 48 air strikes by Saudi warplanes targeted 6 Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429055",
+        "published_date": "2026-09-09T15:49:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ee7a9ba6e2e4",
+        "title": "Back-and-forth confrontations on the western fronts of Taiz",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429047",
+        "published_date": "2026-09-09T10:49:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "43093ef73edf",
+        "title": "Meteorology: An expanding state of instability in the highlands, and it is expected to continue during the next 48 hours",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429043",
+        "published_date": "2026-09-09T08:51:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0132d32b4d91",
+        "title": "Military escalation in Marib and Al-Jawf governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429032",
+        "published_date": "2026-09-09T07:21:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f26c23af654",
+        "title": "More than 20 raids targeting three governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429028",
+        "published_date": "2026-09-09T04:51:50Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0348109fc95c",
         "title": "Astronomer Al-Shawafi: Varied rain will fall on a number of Yemeni governorates during the next four days",
@@ -202,8 +306,24 @@
         "category": "Local Events"
       },
       {
+        "_id": "e0cc6e44aa01",
+        "title": "Meteorology: Thunderstorms and strong winds in a number of Yemeni governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429014",
+        "published_date": "2026-09-08T08:12:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1f5fc92ab55f",
+        "title": "Marib.. The execution of a sheep shepherd by the families of four victims who were killed and whose belongings were looted in Wadi Ubaida.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429002",
+        "published_date": "2026-09-08T05:03:02Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "e851a27dad64",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Best talk",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428992",
         "published_date": "2026-09-07T20:18:11Z",
@@ -223,6 +343,14 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428985",
         "published_date": "2026-09-07T17:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "546a1889ccce",
+        "title": "The listening team and the Ministry of Culture honor the writer Muhammad Al-Qaoud at the conclusion of the First Baradouni Festival",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/428975",
+        "published_date": "2026-09-07T16:06:08Z",
         "category": "Local Events"
       },
       {
@@ -255,46 +383,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428945",
         "published_date": "2026-09-07T05:09:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "58e654347dde",
-        "title": "Aden.. The Coast Guard announces the interception of an oil tanker",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428963",
-        "published_date": "2026-09-07T04:06:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23233cb157a0",
-        "title": "Saree announces the downing of the second Saudi reconnaissance plane",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428961",
-        "published_date": "2026-09-07T02:41:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "30f432117a2c",
-        "title": "Don't be too proud of a dead person",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428952",
-        "published_date": "2026-09-07T01:42:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3d5cbcaa384b",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428937",
-        "published_date": "2026-09-07T01:13:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d4d24d7aae73",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428911",
-        "published_date": "2026-09-06T17:39:04Z",
         "category": "Local Events"
       }
     ]
