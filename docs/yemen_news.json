@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-10T00:56:41Z",
+  "last_updated": "2026-09-10T14:56:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "a195743a4811",
+        "title": "An emergency session of the Security Council to discuss the situation in Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429110",
+        "published_date": "2026-09-10T08:28:51Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "58b69801ad1d",
+        "title": "Universality of September's great goals",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429101",
+        "published_date": "2026-09-10T01:37:56Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "68fc578d3779",
+        "title": "The text... when we are complete",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429099",
+        "published_date": "2026-09-10T01:30:23Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "60a2752fa145",
+        "title": "From Prison Literature (Episode Two)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429097",
+        "published_date": "2026-09-10T01:24:29Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "8714fe628e36",
         "title": "Yemeni human rights organizations and the professional crisis in times of war",
@@ -73,17 +105,25 @@
         "url": "https://yemenat.net/archives/428997",
         "published_date": "2026-09-08T03:09:45Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "701c211758f6",
-        "title": "Weather expert: Rain chances will increase and expand gradually over the coming days",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428938",
-        "published_date": "2026-09-07T03:03:19Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "8c06bad25bb8",
+        "title": "Do not let cancer force Yemenis to travel in search of a diagnosis!!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429091",
+        "published_date": "2026-09-10T01:15:50Z",
+        "category": "Military"
+      },
+      {
+        "_id": "9b8823749f5f",
+        "title": "Yemen between internal enemies and external enemies..?!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429084",
+        "published_date": "2026-09-10T00:58:04Z",
+        "category": "Military"
+      },
       {
         "_id": "ffb024b0e75e",
         "title": "Yemen between internal enemies and external enemies..?!",
@@ -171,18 +211,18 @@
         "url": "https://yemenat.net/archives/428983",
         "published_date": "2026-09-07T17:19:16Z",
         "category": "Military"
-      },
-      {
-        "_id": "2f29683bc331",
-        "title": "Al-Nuzaili announces progress in Al-Bayda and Al-Jawf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428970",
-        "published_date": "2026-09-07T11:28:51Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "278a4af1e53c",
+        "title": "The Republic does not wear the “sponsor’s headband” and is not managed by remote control from Riyadh",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429095",
+        "published_date": "2026-09-10T01:20:43Z",
+        "category": "Economy"
+      },
       {
         "_id": "58f4a3164ca9",
         "title": "Yemen between the logic of the state and the logic of domination",
@@ -198,33 +238,65 @@
         "url": "https://yemenat.net/archives/429058",
         "published_date": "2026-09-09T19:27:05Z",
         "category": "Economy"
-      },
-      {
-        "_id": "ff485ad1f244",
-        "title": "(The Thread That Became Strings) The Question of War and the Question of Pain and Loss by “Rima Salman Hamza”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428940",
-        "published_date": "2026-09-07T07:11:44Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "4a5d76f3ead7",
-        "title": "Me and the Scoundrels I Love by the Yemeni poet Adel Al-Amiri",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428957",
-        "published_date": "2026-09-07T02:09:28Z",
-        "category": "Economy"
-      },
-      {
-        "_id": "9402390a3246",
-        "title": "From Prison Literature (Episode One)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428935",
-        "published_date": "2026-09-07T00:55:46Z",
-        "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "2f582b643579",
+        "title": "Agency: The Houthis control the coastal city of Mokha",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429115",
+        "published_date": "2026-09-10T10:20:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5f5af624df0c",
+        "title": "The junior national team faces Lebanon, Syria and Palestine in the 13th West Asian Championship in Aqaba",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429112",
+        "published_date": "2026-09-10T09:28:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d95800ad94a1",
+        "title": "Saree announces the downing of a Saudi reconnaissance plane",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429108",
+        "published_date": "2026-09-10T08:10:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "09b7a8be6ca7",
+        "title": "Meteorology: Thunderstorms continue and moderate to heavy rains are expected in ten governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429106",
+        "published_date": "2026-09-10T07:52:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "407d4a3d2a40",
+        "title": "Rapid developments on the western coast.. Sanaa government forces reach the sea",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429103",
+        "published_date": "2026-09-10T07:25:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "096c27f35f89",
+        "title": "The lost lawyer searching for the judge",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429093",
+        "published_date": "2026-09-10T01:17:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "83a3457cec2e",
+        "title": "The democratic Yemeni state is the homeland of everyone",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429087",
+        "published_date": "2026-09-10T01:03:11Z",
+        "category": "Local Events"
+      },
       {
         "_id": "64a572af0f2f",
         "title": "Taiz.. postponement of the trial of the silent and single journalists.. and their defense provides a formal defense amid the absence of the Taiz axis",
@@ -327,62 +399,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/428992",
         "published_date": "2026-09-07T20:18:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ab53b0b7bf2b",
-        "title": "The Sanaa government announces that Saudi aircraft targeted the Al-Jawf Central Correctional Facility, and the Health Ministry announces preliminary statistics of the victims",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428988",
-        "published_date": "2026-09-07T19:23:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e71e89bf4c0",
-        "title": "Al-Nuzaili announces approaching Dhi Na'im... and Saree announces the shooting down of a new reconnaissance plane",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428985",
-        "published_date": "2026-09-07T17:53:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "546a1889ccce",
-        "title": "The listening team and the Ministry of Culture honor the writer Muhammad Al-Qaoud at the conclusion of the First Baradouni Festival",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428975",
-        "published_date": "2026-09-07T16:06:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3c418427e989",
-        "title": "Sanaa.. Announcing the targeting of mobilizations in eastern Al-Jawf",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428972",
-        "published_date": "2026-09-07T12:15:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bf83b33bc613",
-        "title": "Meteorology forecasts thunderstorms of varying intensity in several governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428967",
-        "published_date": "2026-09-07T10:04:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "afb262308bc4",
-        "title": "Yemeni intellectuals are calling for the rehabilitation of engineer Samir Abdel Habib and addressing his injustice",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428949",
-        "published_date": "2026-09-07T06:30:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2d7d8f8af8d1",
-        "title": "A foggy scene on the western fronts of Taiz... the continued closure of Al-Kadha Road and violent confrontations in its vicinity",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428945",
-        "published_date": "2026-09-07T05:09:23Z",
         "category": "Local Events"
       }
     ]
