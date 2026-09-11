@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-10T14:56:23Z",
+  "last_updated": "2026-09-11T00:53:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,38 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "162bf0929065",
+        "title": "Al-Sharafi: Yemen is entering a phase that may be the most violent, and the escalation may lead to a regional and international confrontation",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429150",
+        "published_date": "2026-09-10T22:58:03Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "f0e175919b42",
+        "title": "Grundberg: Yemen has entered a dangerous phase of escalation, and the question today is related to how to deal with a new phase",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429139",
+        "published_date": "2026-09-10T20:57:09Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "cad23f677650",
+        "title": "Whoever tampers with the scales of justice opens the door to the downfall of the state",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429135",
+        "published_date": "2026-09-10T20:10:19Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "c6c504632634",
+        "title": "A reading of Khaled Al-Yousef’s novelistic experience...the Saudi novel and Najdi memory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429121",
+        "published_date": "2026-09-10T16:24:53Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "a195743a4811",
         "title": "An emergency session of the Security Council to discuss the situation in Yemen",
@@ -89,25 +121,25 @@
         "url": "https://yemenat.net/archives/429023",
         "published_date": "2026-09-08T19:59:03Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "84ab0db7247b",
-        "title": "Al-Maliki announces that four regions in southern Saudi Arabia have been subjected to attacks from Yemen and reveals statistics of the victims",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429006",
-        "published_date": "2026-09-08T06:11:02Z",
-        "category": "Diplomacy"
-      },
-      {
-        "_id": "f07ce804beb7",
-        "title": "A weather expert expects varying and heavy rains in various areas of Yemen in the coming days",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428997",
-        "published_date": "2026-09-08T03:09:45Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [
+      {
+        "_id": "c73cea8a5601",
+        "title": "Saudi Civil Defense issues alerts about dangers to cities in the south of the Kingdom",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429152",
+        "published_date": "2026-09-11T00:44:44Z",
+        "category": "Military"
+      },
+      {
+        "_id": "79a4d646cef9",
+        "title": "Pakistan clarifies any military action under the Mecca Agreement",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429126",
+        "published_date": "2026-09-10T17:14:32Z",
+        "category": "Military"
+      },
       {
         "_id": "8c06bad25bb8",
         "title": "Do not let cancer force Yemenis to travel in search of a diagnosis!!",
@@ -163,58 +195,18 @@
         "url": "https://yemenat.net/archives/429040",
         "published_date": "2026-09-09T08:27:09Z",
         "category": "Military"
-      },
-      {
-        "_id": "a30cdca53302",
-        "title": "The Saudi Ministry of Energy announces that energy sector facilities and installations in the southern region have been targeted",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429016",
-        "published_date": "2026-09-08T08:48:53Z",
-        "category": "Military"
-      },
-      {
-        "_id": "43a0f9fe2366",
-        "title": "Saree announces a large military operation against Saudi targets",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429012",
-        "published_date": "2026-09-08T07:53:13Z",
-        "category": "Military"
-      },
-      {
-        "_id": "8320be879332",
-        "title": "Military escalation in Al-Jawf and Al-Bayda...and the official narratives are content with generalizations",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429009",
-        "published_date": "2026-09-08T07:24:01Z",
-        "category": "Military"
-      },
-      {
-        "_id": "d497bc8e8689",
-        "title": "Al-Jawi: Yemen is heading towards a darker stage unless strategic achievements are achieved that move the political path",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429000",
-        "published_date": "2026-09-08T04:30:47Z",
-        "category": "Military"
-      },
-      {
-        "_id": "0f2394f1fe82",
-        "title": "The Anti-Human Trafficking Foundation condemns the targeting of Al-Jawf prison and demands an international investigation",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428994",
-        "published_date": "2026-09-07T21:12:30Z",
-        "category": "Military"
-      },
-      {
-        "_id": "a6282312cb94",
-        "title": "The UN envoy calls for an end to the escalation in Yemen and warns against the return of widespread fighting",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428983",
-        "published_date": "2026-09-07T17:19:16Z",
-        "category": "Military"
       }
     ],
     "Energy": [],
     "Economy": [
+      {
+        "_id": "85811d493e19",
+        "title": "When competencies are excluded... corruption is born",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429137",
+        "published_date": "2026-09-10T20:13:14Z",
+        "category": "Economy"
+      },
       {
         "_id": "278a4af1e53c",
         "title": "The Republic does not wear the “sponsor’s headband” and is not managed by remote control from Riyadh",
@@ -241,6 +233,54 @@
       }
     ],
     "Local Events": [
+      {
+        "_id": "204a22de8801",
+        "title": "“Abu Walad” and “One Cash Wallet” celebrate a Yemeni child who received public interaction due to his resemblance to the image of the “Abu Walad” product, and they take the initiative to honor him.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429145",
+        "published_date": "2026-09-10T22:14:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "55212d333756",
+        "title": "Al-Khoudani accuses security points of violations against the displaced people of the coast and calls for an end to the humiliating dealings",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429142",
+        "published_date": "2026-09-10T21:12:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a5f25a16de01",
+        "title": "Hail Saeed Anam Group: A renewed humanity in the footsteps of the founder",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429132",
+        "published_date": "2026-09-10T18:11:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9427ff23e4f3",
+        "title": "Sanaa.. The Money Changers Association circulars about re-dealing with an exchange facility",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429129",
+        "published_date": "2026-09-10T17:34:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d4e355cca523",
+        "title": "Saree announces more than 60 air strikes targeting 4 governorates",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429124",
+        "published_date": "2026-09-10T16:58:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4aa974dde057",
+        "title": "The conflict of religion and love in the novel (Foolishness) by “Bassam Shams Al-Din” about the Jews of Yemen",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429118",
+        "published_date": "2026-09-10T16:06:18Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2f582b643579",
         "title": "Agency: The Houthis control the coastal city of Mokha",
@@ -351,54 +391,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429028",
         "published_date": "2026-09-09T04:51:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0348109fc95c",
-        "title": "Astronomer Al-Shawafi: Varied rain will fall on a number of Yemeni governorates during the next four days",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429026",
-        "published_date": "2026-09-09T04:06:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4066d978ada1",
-        "title": "Approval of the dates for the quarter-finals of the Republic Cup and the resumption of First Division matches",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429021",
-        "published_date": "2026-09-08T17:18:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a2f9b879f51f",
-        "title": "Two earthquakes in the Gulf of Aden and Lahj Governorate",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429018",
-        "published_date": "2026-09-08T09:25:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e0cc6e44aa01",
-        "title": "Meteorology: Thunderstorms and strong winds in a number of Yemeni governorates",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429014",
-        "published_date": "2026-09-08T08:12:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f5fc92ab55f",
-        "title": "Marib.. The execution of a sheep shepherd by the families of four victims who were killed and whose belongings were looted in Wadi Ubaida.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429002",
-        "published_date": "2026-09-08T05:03:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e851a27dad64",
-        "title": "Best talk",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/428992",
-        "published_date": "2026-09-07T20:18:11Z",
         "category": "Local Events"
       }
     ]
