@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-12T00:58:35Z",
+  "last_updated": "2026-09-12T13:57:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "44c61bb732f5",
+        "title": "Reading Khaled Al Yousef’s Novels: The Saudi Novel and Najdi Memory",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429193",
+        "published_date": "2026-09-12T04:06:33Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "5b122751eef8",
         "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -134,7 +142,7 @@
       },
       {
         "_id": "9b8823749f5f",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title": "Yemen between internal enemies and external enemies..?!",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429084",
         "published_date": "2026-09-10T00:58:04Z",
@@ -165,11 +173,20 @@
         "category": "Military"
       }
     ],
-    "Energy": [],
+    "Energy": [
+      {
+        "_id": "d58bb3dba3ac",
+        "title": "The Saudi Ministry of Energy announces the suspension of an oil pipeline after it was targeted",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429199",
+        "published_date": "2026-09-12T01:21:05Z",
+        "category": "Energy"
+      }
+    ],
     "Economy": [
       {
         "_id": "6ff70d80880b",
-        "title": "Shaab Ibb wins over May 22 and qualifies for the quarter-finals of the Republic Cup",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429184",
         "published_date": "2026-09-11T19:40:55Z",
@@ -192,15 +209,23 @@
         "category": "Economy"
       },
       {
-        "_id": "e363cff120a1",
-        "title": "Al-Tilal Club: We did not obstruct Adel Abbas’s transfer to Al-Shabab Saudi Arabia and we support his professional experience",
+        "_id": "58f4a3164ca9",
+        "title": "Yemen between the logic of the state and the logic of domination",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429058",
-        "published_date": "2026-09-09T19:27:05Z",
+        "url": "https://yemenat.net/archives/429080",
+        "published_date": "2026-09-09T23:18:55Z",
         "category": "Economy"
       }
     ],
     "Local Events": [
+      {
+        "_id": "de7ce276b663",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429195",
+        "published_date": "2026-09-12T03:04:36Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b7105fedc8b4",
         "title": "Two earthquakes were recorded west of the Gulf of Aden and Lahj Governorate",
@@ -234,27 +259,11 @@
         "category": "Local Events"
       },
       {
-        "_id": "d1c1b3678983",
-        "title": "An antiquities expert launches an urgent appeal to protect Yemen's antiquities from the flames of war",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429164",
-        "published_date": "2026-09-11T11:40:21Z",
-        "category": "Local Events"
-      },
-      {
         "_id": "77bfa897b901",
-        "title": "Meteorology: Thunderstorms of varying intensity over parts of the highlands and the Tihama Plain",
+        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429162",
         "published_date": "2026-09-11T10:48:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8bd050c58d04",
-        "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429155",
-        "published_date": "2026-09-11T01:39:23Z",
         "category": "Local Events"
       },
       {
