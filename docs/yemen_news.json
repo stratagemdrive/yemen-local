@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-14T00:51:19Z",
+  "last_updated": "2026-09-14T16:54:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "df6be2964e7b",
+        "title": "شركة النفط بصنعاء تبرر رفع أسعار الوقود وتتجنب تحديد أسعار جديدة وتبقي الباب مفتوحا لتحريك الأسعار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429312",
+        "published_date": "2026-09-14T15:13:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3de55027e317",
+        "title": "سريع يعلن استهداف قاعدة جوية سعودية بصواريخ ومسيرات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429309",
+        "published_date": "2026-09-14T12:51:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "41b88fa99549",
+        "title": "الضالع.. مسلحون يشلون حركة الأسواق ويقطعون الطرقات للمطالبة بقتلة جنود عادوا من الساحل الغربي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429306",
+        "published_date": "2026-09-14T12:26:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f9bb28e7f09a",
+        "title": "دون إعلان رسمي.. ارتفاع أسعار المشتقات النفطية بصنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429303",
+        "published_date": "2026-09-14T11:41:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6077aec6698",
+        "title": "الأرصاد يخفض التحذير إلى تنبيه ويتوقع توسع حالة عدم استقرار الأجواء خلال الساعات القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429299",
+        "published_date": "2026-09-14T11:14:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a5b415e1beb0",
+        "title": "جمعية الصرافين بصنعاء تعمم بإعادة التعامل مع منشأة صرافة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429297",
+        "published_date": "2026-09-14T10:39:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a0577ca89c27",
+        "title": "مستجدات الوضع العسكري في مناطق التماس قرب باب المندب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429293",
+        "published_date": "2026-09-14T04:00:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ce9f3ca6d923",
+        "title": "خبير في الطقس يتوقع موجة أمطار قادمة من البحر العربي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429290",
+        "published_date": "2026-09-14T01:17:52Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9a11dfe4b610",
         "title": "البيض: تطورات البوابة الجنوبية للبحر الأحمر تمهّد لمرحلة ومعادلة جديدة",
@@ -117,70 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429224",
         "published_date": "2026-09-13T03:22:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "967cd581a85f",
-        "title": "بعد يوم من إنذار الدفاع المدني.. سريع يعلن عن عملية عسكرية جنوب شرق السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429222",
-        "published_date": "2026-09-13T02:34:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cbab55751525",
-        "title": "بريكس تؤكد أولوية الحلول السلمية للنزاعات وتدعو لخفض التوترات عالمياً",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429219",
-        "published_date": "2026-09-12T17:29:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7d4e260f90ee",
-        "title": "سريع: أكثر من 120 غارة استهدفت 7 محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429217",
-        "published_date": "2026-09-12T17:10:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a7804c50cee7",
-        "title": "فتح طرق وإغلاق أخرى بعد المواجهات العسكرية غرب تعز وجنوب الحديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429214",
-        "published_date": "2026-09-12T14:38:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "162226696d63",
-        "title": "الأرصاد: أمطار رعدية على خمس محافظات وأجزاء من سهل تهامة وأجزاء محدودة من السواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429212",
-        "published_date": "2026-09-12T10:10:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1571cb482298",
-        "title": "السعودية: مسيرات استهدفت خط أنابيب شرق – غرب وملتزمون بالطلب العراقي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429206",
-        "published_date": "2026-09-12T05:09:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9fa1c4c79455",
-        "title": "سلاح الاحتواء ومراحل إجهاض الثورة من الملكيين إلى إعادة الأمل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429209",
-        "published_date": "2026-09-12T04:15:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "de7ce276b663",
-        "title": "خبير في الطقس يتوقع تجدد الأمطار وتفاوت غزارتها في عدة محافظات يمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429195",
-        "published_date": "2026-09-12T03:04:36Z",
         "category": "Local Events"
       }
     ]
