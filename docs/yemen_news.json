@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-13T14:53:11Z",
+  "last_updated": "2026-09-14T00:51:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,22 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "9a11dfe4b610",
+        "title": "البيض: تطورات البوابة الجنوبية للبحر الأحمر تمهّد لمرحلة ومعادلة جديدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429288",
+        "published_date": "2026-09-13T18:31:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4d2efe7c8b53",
+        "title": "ناتكو للسيارات تفتتح معرضها الجديد في عدن مول وتدشن علامتي «جيتور» و«ساويست» بحضور قيادات رسمية ورجال أعمال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429277",
+        "published_date": "2026-09-13T17:31:24Z",
+        "category": "Local Events"
+      },
       {
         "_id": "236c58cfdb00",
         "title": "تعز.. تعليق العمل في فرعي الهجرة والجوازات والاحوال المدنية",
@@ -165,22 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429195",
         "published_date": "2026-09-12T03:04:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d58bb3dba3ac",
-        "title": "وزارة الطاقة السعودية تعلن إيقاف خط أنابيب لنقل النفط بعد تعرضه للإستهداف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429199",
-        "published_date": "2026-09-12T01:21:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b7105fedc8b4",
-        "title": "تسجيل هزتين أرضيتين غرب خليج عدن ومحافظة لحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429187",
-        "published_date": "2026-09-12T00:41:45Z",
         "category": "Local Events"
       }
     ]
