@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-14T16:54:54Z",
+  "last_updated": "2026-09-15T01:17:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "3dd498a577ef",
+        "title": "استعادة العلاقة بالقلم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429341",
+        "published_date": "2026-09-14T20:59:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b67a175c309",
+        "title": "أنا لست جبانا… أريد وطنا لا ينسى من ماتوا من أجله",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429339",
+        "published_date": "2026-09-14T20:52:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "455d424e9ba2",
+        "title": "لا تحاربوا ضحايا الفقر وتتركوا أسباب الفقر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429337",
+        "published_date": "2026-09-14T20:48:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3f3e734af31",
+        "title": "أدب السجون (الحلقة الثالثة)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429335",
+        "published_date": "2026-09-14T20:42:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4ddb950364c4",
+        "title": "الحكومات التي تسيطر على الدولة ولا تبنيها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429329",
+        "published_date": "2026-09-14T20:22:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "07c786fc5f93",
+        "title": "مئات المسافرين وعشرات الأسر عالقة بعد انقطاع طريق رئيسي يربط تعز بـ«عدن»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429324",
+        "published_date": "2026-09-14T19:55:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "064a5def510c",
+        "title": "زبدة الكلام",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429322",
+        "published_date": "2026-09-14T19:37:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e3706983e114",
+        "title": "السفير الروسي يحذر من بلوغ اليمن «مرحلة حرجة» ويدعو إلى حرية الملاحة في البحر الاحمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429318",
+        "published_date": "2026-09-14T18:58:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ce76bd64d83",
+        "title": "السقلدي: العلاقات السعودية الإماراتية ما تزال في «العناية المركزة»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429315",
+        "published_date": "2026-09-14T18:37:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "df6be2964e7b",
         "title": "شركة النفط بصنعاء تبرر رفع أسعار الوقود وتتجنب تحديد أسعار جديدة وتبقي الباب مفتوحا لتحريك الأسعار",
@@ -88,6 +160,14 @@
         "category": "Local Events"
       },
       {
+        "_id": "f338287ed44a",
+        "title": "لماذا تخشى المجتمعات العربية العلوم الاجتماعية والفلسفة حتى اليوم؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429333",
+        "published_date": "2026-09-13T20:23:06Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "9a11dfe4b610",
         "title": "البيض: تطورات البوابة الجنوبية للبحر الأحمر تمهّد لمرحلة ومعادلة جديدة",
         "source": "Yemenat",
@@ -101,86 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429277",
         "published_date": "2026-09-13T17:31:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "236c58cfdb00",
-        "title": "تعز.. تعليق العمل في فرعي الهجرة والجوازات والاحوال المدنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429268",
-        "published_date": "2026-09-13T12:06:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8c71a5cd8f3a",
-        "title": "تأجيل مباريات دور الثمانية لكأس الجمهورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429266",
-        "published_date": "2026-09-13T11:00:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4364024e10d8",
-        "title": "مثقفون يمنيون يناشدون سلطة صنعاء وقف إنشاء مصنع إسمنت في أراضي زراعية بالحديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429248",
-        "published_date": "2026-09-13T10:20:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "31c049830aa9",
-        "title": "الإعلان عن وصول نازحين يمنيين إلى جيبوتي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429245",
-        "published_date": "2026-09-13T08:52:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a6c8ce6df057",
-        "title": "إعادة فتح طريق رئيسي يربط مدينة تعز باحيائها الشرقية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429240",
-        "published_date": "2026-09-13T08:13:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bbe0fc964816",
-        "title": "طارق صالح يصل الرياض وأنباء عن توجيهات بإعادة تجميع قواته في عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429238",
-        "published_date": "2026-09-13T07:41:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0008b723bd7b",
-        "title": "إغلاق طريق رئيسي يربط مدينة تعز بالأحياء الشرقية من المدينة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429234",
-        "published_date": "2026-09-13T06:18:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "843f7430efe1",
-        "title": "Al Mahwait Child Revives Yemenis’ Memories of “Abu Walad”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429232",
-        "published_date": "2026-09-13T04:55:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "71c02f1692d0",
-        "title": "فتح طريق المخا – عدن لغرض واحد فقط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429228",
-        "published_date": "2026-09-13T04:08:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "34adc3222e26",
-        "title": "قوات حكومة عدن تعلن تنفيذ عمليات غرب محافظة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429224",
-        "published_date": "2026-09-13T03:22:26Z",
         "category": "Local Events"
       }
     ]
