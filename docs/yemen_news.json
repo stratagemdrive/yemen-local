@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-15T01:17:40Z",
+  "last_updated": "2026-09-15T15:30:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "06cbd5fe74a5",
+        "title": "مسيرة تستهدف مركبات عسكرية في صحراء حضرموت وطيران حربي يقصف مجمعًا حكوميًا في تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429357",
+        "published_date": "2026-09-15T14:20:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "944a8bd61d44",
+        "title": "دويد يكشف تفاصيل عن معركة الساحل الغربي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429354",
+        "published_date": "2026-09-15T13:52:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "510ac14c6942",
+        "title": "الدفاع المدني السعودي يطلق إنذارات في ثلاث مدن غرب المملكة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429351",
+        "published_date": "2026-09-15T12:30:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6b9ca62375e6",
+        "title": "تقديم موعد مباراة شعب حضرموت وسلام الغرفة في الدور ربع النهائي لكأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429349",
+        "published_date": "2026-09-15T11:33:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d78ae8ac17d7",
+        "title": "الأرصاد: أمطار رعدية متفاوتة الشدة على أجزاء من بعض المحافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429347",
+        "published_date": "2026-09-15T10:58:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "491e7a286d83",
+        "title": "جيولوجية حضرموت توضح حقيقة وجود الذهب في جبل المعدي بالشحر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429343",
+        "published_date": "2026-09-15T04:27:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3dd498a577ef",
         "title": "استعادة العلاقة بالقلم",
@@ -133,54 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429299",
         "published_date": "2026-09-14T11:14:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a5b415e1beb0",
-        "title": "جمعية الصرافين بصنعاء تعمم بإعادة التعامل مع منشأة صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429297",
-        "published_date": "2026-09-14T10:39:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a0577ca89c27",
-        "title": "مستجدات الوضع العسكري في مناطق التماس قرب باب المندب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429293",
-        "published_date": "2026-09-14T04:00:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ce9f3ca6d923",
-        "title": "خبير في الطقس يتوقع موجة أمطار قادمة من البحر العربي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429290",
-        "published_date": "2026-09-14T01:17:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f338287ed44a",
-        "title": "لماذا تخشى المجتمعات العربية العلوم الاجتماعية والفلسفة حتى اليوم؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429333",
-        "published_date": "2026-09-13T20:23:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a11dfe4b610",
-        "title": "البيض: تطورات البوابة الجنوبية للبحر الأحمر تمهّد لمرحلة ومعادلة جديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429288",
-        "published_date": "2026-09-13T18:31:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4d2efe7c8b53",
-        "title": "ناتكو للسيارات تفتتح معرضها الجديد في عدن مول وتدشن علامتي «جيتور» و«ساويست» بحضور قيادات رسمية ورجال أعمال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429277",
-        "published_date": "2026-09-13T17:31:24Z",
         "category": "Local Events"
       }
     ]
