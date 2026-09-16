@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-15T15:30:46Z",
+  "last_updated": "2026-09-16T01:11:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,20 +9,75 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [
-      {
-        "_id": "44c61bb732f5",
-        "title": "Reading Khaled Al Yousef’s Novels: The Saudi Novel and Najdi Memory",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429193",
-        "published_date": "2026-09-12T04:06:33Z",
-        "category": "Diplomacy"
-      }
-    ],
+    "Diplomacy": [],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "88874d90f6cc",
+        "title": "مواجهات مستمرة في سلسلة جبلية مطلة على مضيق باب المندب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429387",
+        "published_date": "2026-09-15T22:10:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7ba6f84b5fcc",
+        "title": "مقابر الرموز وصمت المفردات: أزمة اللغة والوعي في عصر الخوارزميات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429384",
+        "published_date": "2026-09-15T21:42:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "979efe3f1982",
+        "title": "تسجيل هزتين من غرب خليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429375",
+        "published_date": "2026-09-15T21:37:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b946adf86d7e",
+        "title": "حين يخاف رجل الدين من الحقيقة وتتحالف الدوغمائية مع السلطة والمصلحة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429374",
+        "published_date": "2026-09-15T21:34:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "236e9949d650",
+        "title": "ياثوار الجرعة يكفي جرع هلكنا:  بنشكي من القضع قال: “قوم نوش”!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429371",
+        "published_date": "2026-09-15T21:18:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6fab5bc49f79",
+        "title": "شبكة محامون ضد الفساد تتضامن مع المحامي طارق الشرعبي وتؤكد ان نقد القضاء ليس جريمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429365",
+        "published_date": "2026-09-15T21:06:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "70739bb065a2",
+        "title": "الفلكي الشوافي يتوقع أمطاراً على مناطق واسعة من شرق ووسط اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429362",
+        "published_date": "2026-09-15T18:59:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5571cdc6e3ae",
+        "title": "بعد فتحها أمام حركة السير.. طريق تعز الحديدة بحاجة لصيانة عاجلة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429359",
+        "published_date": "2026-09-15T18:09:44Z",
+        "category": "Local Events"
+      },
       {
         "_id": "06cbd5fe74a5",
         "title": "مسيرة تستهدف مركبات عسكرية في صحراء حضرموت وطيران حربي يقصف مجمعًا حكوميًا في تعز",
@@ -117,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429324",
         "published_date": "2026-09-14T19:55:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "064a5def510c",
-        "title": "زبدة الكلام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429322",
-        "published_date": "2026-09-14T19:37:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e3706983e114",
-        "title": "السفير الروسي يحذر من بلوغ اليمن «مرحلة حرجة» ويدعو إلى حرية الملاحة في البحر الاحمر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429318",
-        "published_date": "2026-09-14T18:58:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0ce76bd64d83",
-        "title": "السقلدي: العلاقات السعودية الإماراتية ما تزال في «العناية المركزة»",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429315",
-        "published_date": "2026-09-14T18:37:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "df6be2964e7b",
-        "title": "شركة النفط بصنعاء تبرر رفع أسعار الوقود وتتجنب تحديد أسعار جديدة وتبقي الباب مفتوحا لتحريك الأسعار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429312",
-        "published_date": "2026-09-14T15:13:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3de55027e317",
-        "title": "سريع يعلن استهداف قاعدة جوية سعودية بصواريخ ومسيرات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429309",
-        "published_date": "2026-09-14T12:51:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41b88fa99549",
-        "title": "الضالع.. مسلحون يشلون حركة الأسواق ويقطعون الطرقات للمطالبة بقتلة جنود عادوا من الساحل الغربي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429306",
-        "published_date": "2026-09-14T12:26:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f9bb28e7f09a",
-        "title": "دون إعلان رسمي.. ارتفاع أسعار المشتقات النفطية بصنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429303",
-        "published_date": "2026-09-14T11:41:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b6077aec6698",
-        "title": "الأرصاد يخفض التحذير إلى تنبيه ويتوقع توسع حالة عدم استقرار الأجواء خلال الساعات القادمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429299",
-        "published_date": "2026-09-14T11:14:33Z",
         "category": "Local Events"
       }
     ]
