@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-17T01:13:12Z",
+  "last_updated": "2026-09-17T15:29:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "9ef04ca18921",
+        "title": "الأرصاد: استمرار الهطول المطري المصحوب بالرعد والرياح الهابطة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429437",
+        "published_date": "2026-09-17T10:12:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d264e899890d",
+        "title": "صنعاء.. البنك المركزي يوقف التعامل مع خمس منشآت صرافة ويعيد التعامل مع منشأتين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429435",
+        "published_date": "2026-09-17T07:43:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "72ea6670cbf9",
+        "title": "انهيار صخري وانزلاق طيني يقطع طريقًا رئيسيًا شرقي إب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429432",
+        "published_date": "2026-09-17T06:47:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d063a74cfd0e",
+        "title": "نائب رئيس جامعة تعز د. ياسر الصلوي: عزوف الطلاب عن الالتحاق بكليات التربية يهدد مستقبل الأجيال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429430",
+        "published_date": "2026-09-17T06:34:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c2ee4afe8ea",
+        "title": "الصحة العالمية: قرابة ثلاثة ألف ضحية في اليمن خلال شهر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429428",
+        "published_date": "2026-09-17T06:10:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a5d347b770f2",
+        "title": "أكاديمي يحذر من عزوف الطلاب عن كليات التربية ويكشف عن عجز متزايد في معلمي التخصصات العلمية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429425",
+        "published_date": "2026-09-17T04:11:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "ec1f3e4e76a3",
         "title": "تقرير دولي: نزوح جديد يفاقم أزمة المأوى في اليمن",
@@ -124,54 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429392",
         "published_date": "2026-09-16T05:10:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88874d90f6cc",
-        "title": "مواجهات مستمرة في سلسلة جبلية مطلة على مضيق باب المندب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429387",
-        "published_date": "2026-09-15T22:10:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7ba6f84b5fcc",
-        "title": "مقابر الرموز وصمت المفردات: أزمة اللغة والوعي في عصر الخوارزميات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429384",
-        "published_date": "2026-09-15T21:42:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "979efe3f1982",
-        "title": "تسجيل هزتين من غرب خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429375",
-        "published_date": "2026-09-15T21:37:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b946adf86d7e",
-        "title": "حين يخاف رجل الدين من الحقيقة وتتحالف الدوغمائية مع السلطة والمصلحة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429374",
-        "published_date": "2026-09-15T21:34:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "236e9949d650",
-        "title": "ياثوار الجرعة يكفي جرع هلكنا:  بنشكي من القضع قال: “قوم نوش”!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429371",
-        "published_date": "2026-09-15T21:18:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6fab5bc49f79",
-        "title": "شبكة محامون ضد الفساد تتضامن مع المحامي طارق الشرعبي وتؤكد ان نقد القضاء ليس جريمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429365",
-        "published_date": "2026-09-15T21:06:29Z",
         "category": "Local Events"
       }
     ]
