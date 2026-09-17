@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-16T15:23:04Z",
+  "last_updated": "2026-09-17T01:13:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,22 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "ec1f3e4e76a3",
+        "title": "تقرير دولي: نزوح جديد يفاقم أزمة المأوى في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429423",
+        "published_date": "2026-09-16T18:28:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6dc0fde21c89",
+        "title": "لقاء مسقط.. تحولات في حسابات واشنطن والحوثيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429421",
+        "published_date": "2026-09-16T17:56:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2e2a64a31e16",
         "title": "وكالة: مسؤولون أمريكيون يلتقون ممثلين عن الحوثيين في مسقط",
@@ -156,22 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429365",
         "published_date": "2026-09-15T21:06:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "70739bb065a2",
-        "title": "الفلكي الشوافي يتوقع أمطاراً على مناطق واسعة من شرق ووسط اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429362",
-        "published_date": "2026-09-15T18:59:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5571cdc6e3ae",
-        "title": "بعد فتحها أمام حركة السير.. طريق تعز الحديدة بحاجة لصيانة عاجلة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429359",
-        "published_date": "2026-09-15T18:09:44Z",
         "category": "Local Events"
       }
     ]
