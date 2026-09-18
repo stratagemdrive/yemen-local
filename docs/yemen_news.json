@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-17T15:29:46Z",
+  "last_updated": "2026-09-18T01:10:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,134 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "300a6f2fd7df",
+        "title": "من ينزفُ حبًا لا يموت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429483",
+        "published_date": "2026-09-18T00:29:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0a2a3c551a21",
+        "title": "قضية عقارية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429480",
+        "published_date": "2026-09-18T00:14:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7ed99d614435",
+        "title": "بلاغ للرأي العام",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429478",
+        "published_date": "2026-09-18T00:02:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "89e644790330",
+        "title": "صحيفة عبرية: ضربة إيران لم تستند إلى معلومات استثنائية عن برنامجها النووي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429476",
+        "published_date": "2026-09-17T23:38:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8e8876bccf17",
+        "title": "مواجهات بين قوة أمنية ومسلحين قبليين قرب مدينة مأرب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429473",
+        "published_date": "2026-09-17T23:12:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "da68c5f7f29a",
+        "title": "مأساة شقيقين يمنيين في حرب أوكرانيا.. قتيل ومصاب في معارك دونباس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429470",
+        "published_date": "2026-09-17T22:02:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4642bf0bc9c5",
+        "title": "هيئة بريطانية: زورق يعترض ناقلة نفط شرق خليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429467",
+        "published_date": "2026-09-17T21:22:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "61ed324147ba",
+        "title": "شعب حضرموت أول المتأهلين إلى نصف نهائي كأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429464",
+        "published_date": "2026-09-17T20:54:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6a89188a1e5f",
+        "title": "الدفاع المدني ينبه من أخطار على مدينتين ويعلن عن ضحايا جراء اعتراض مسيّرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429457",
+        "published_date": "2026-09-17T19:58:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45898afccf03",
+        "title": "شرعية الفنادق… وفضيحة الولاءات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429458",
+        "published_date": "2026-09-17T19:58:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "48ec27087048",
+        "title": "استعادة زمني المفقود",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429452",
+        "published_date": "2026-09-17T19:53:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "20e7e02a13c9",
+        "title": "شركة النفط لغير ابنائها بزمن السرية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429450",
+        "published_date": "2026-09-17T19:46:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e37ab0bd52b",
+        "title": "كفى حربًا.. كفى دمًا.. كفى دمارًا فقد هرمنا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429447",
+        "published_date": "2026-09-17T19:41:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6be4b86ec5d3",
+        "title": "كيف صنعت الواسطة جيلا لا يؤمن بالاجتهاد؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429445",
+        "published_date": "2026-09-17T19:36:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0b97ddfebf9c",
+        "title": "إلى الذين خذلوني يومًا…",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429442",
+        "published_date": "2026-09-17T19:25:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "dc0d2e3e68c6",
+        "title": "أعيش بالعمر الفائض الاحتياطي ..!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429439",
+        "published_date": "2026-09-17T19:11:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9ef04ca18921",
         "title": "الأرصاد: استمرار الهطول المطري المصحوب بالرعد والرياح الهابطة",
@@ -44,134 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429430",
         "published_date": "2026-09-17T06:34:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1c2ee4afe8ea",
-        "title": "الصحة العالمية: قرابة ثلاثة ألف ضحية في اليمن خلال شهر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429428",
-        "published_date": "2026-09-17T06:10:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a5d347b770f2",
-        "title": "أكاديمي يحذر من عزوف الطلاب عن كليات التربية ويكشف عن عجز متزايد في معلمي التخصصات العلمية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429425",
-        "published_date": "2026-09-17T04:11:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ec1f3e4e76a3",
-        "title": "تقرير دولي: نزوح جديد يفاقم أزمة المأوى في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429423",
-        "published_date": "2026-09-16T18:28:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6dc0fde21c89",
-        "title": "لقاء مسقط.. تحولات في حسابات واشنطن والحوثيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429421",
-        "published_date": "2026-09-16T17:56:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e2a64a31e16",
-        "title": "وكالة: مسؤولون أمريكيون يلتقون ممثلين عن الحوثيين في مسقط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429418",
-        "published_date": "2026-09-16T13:55:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5f6d59732e25",
-        "title": "تسجيل هزة أرضية من شرق خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429414",
-        "published_date": "2026-09-16T12:31:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0813cbe75a2f",
-        "title": "صنعاء.. البنك المركزي يعيد التعامل مع منشأة صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429408",
-        "published_date": "2026-09-16T12:02:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7eaeb059ea0f",
-        "title": "سريع يعلن استهداف أرامكو وقاعدة عسكرية سعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429410",
-        "published_date": "2026-09-16T11:47:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "60edead55952",
-        "title": "للغياب اسم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429406",
-        "published_date": "2026-09-16T11:29:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e4f644c8568",
-        "title": "تباين مواقف الدول الخمس دائمة العضوية في مجلس الأمن بشأن التصعيد في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429403",
-        "published_date": "2026-09-16T11:03:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4e41ede79ea5",
-        "title": "الارصاد: أمطار رعدية مصحوبة برياح هابطة على عدة محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429401",
-        "published_date": "2026-09-16T10:29:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "94e2c210bae9",
-        "title": "البرلماني بشر ينتقد رفع أسعار المشتقات النفطية ويصف القرار بالخاطئ",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429390",
-        "published_date": "2026-09-16T06:19:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bed2d2da49ae",
-        "title": "اليمن الذي كان لن يعود… وكيف يعود؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429398",
-        "published_date": "2026-09-16T06:16:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7717d401c697",
-        "title": "سريع يعلن اسقاط مقاتلة سعودية وينفي استهداف المقدسات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429396",
-        "published_date": "2026-09-16T05:49:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c31e27a071c",
-        "title": "المالكي يعلن اعتراض مسيّرة جنوب مكة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429394",
-        "published_date": "2026-09-16T05:40:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "56d63a5cc14c",
-        "title": "مجلس الأمن يبحث التصعيد المتسارع في اليمن والمستجدات في مضيق باب المندب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429392",
-        "published_date": "2026-09-16T05:10:56Z",
         "category": "Local Events"
       }
     ]
