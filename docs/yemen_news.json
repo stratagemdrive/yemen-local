@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-18T01:10:46Z",
+  "last_updated": "2026-09-18T14:53:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,14 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "6d4712dacee7",
+        "title": "إطلاق نار بالتزامن مع تحليق طيران في أجواء العاصمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429486",
+        "published_date": "2026-09-18T02:31:13Z",
+        "category": "Local Events"
+      },
       {
         "_id": "300a6f2fd7df",
         "title": "من ينزفُ حبًا لا يموت",
@@ -164,14 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429432",
         "published_date": "2026-09-17T06:47:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d063a74cfd0e",
-        "title": "نائب رئيس جامعة تعز د. ياسر الصلوي: عزوف الطلاب عن الالتحاق بكليات التربية يهدد مستقبل الأجيال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429430",
-        "published_date": "2026-09-17T06:34:52Z",
         "category": "Local Events"
       }
     ]
