@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-19T01:05:19Z",
+  "last_updated": "2026-09-19T14:17:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,11 +9,36 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
+    "Diplomacy": [
+      {
+        "_id": "b075119d619e",
+        "title": "Hasan Barın, Director of Barın Ajans, Talks About His Journalistic and Media Journey",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429535",
+        "published_date": "2026-09-19T14:14:29Z",
+        "category": "Diplomacy"
+      }
+    ],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "cfae46cf056c",
+        "title": "الأرصاد: أمطار رعدية على أجزاء من المرتفعات وسهل تهامة ومناطق محدودة من السواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429533",
+        "published_date": "2026-09-19T13:29:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1ead4cbb8b6a",
+        "title": "المرتضى: السعودية تتابعنا عبر وسيط ثالث لمعرفة مصير طياري F-15",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429529",
+        "published_date": "2026-09-19T01:14:59Z",
+        "category": "Local Events"
+      },
       {
         "_id": "cd3c7de39d59",
         "title": "أضرار بالغة تلحقها السيول بطريق رئيسي يربط بين عدن وتعز وسائقون يطالبون بإصلاحها",
@@ -156,22 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429467",
         "published_date": "2026-09-17T21:22:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "61ed324147ba",
-        "title": "شعب حضرموت أول المتأهلين إلى نصف نهائي كأس الجمهورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429464",
-        "published_date": "2026-09-17T20:54:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6a89188a1e5f",
-        "title": "الدفاع المدني ينبه من أخطار على مدينتين ويعلن عن ضحايا جراء اعتراض مسيّرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429457",
-        "published_date": "2026-09-17T19:58:20Z",
         "category": "Local Events"
       }
     ]
