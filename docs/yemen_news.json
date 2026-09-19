@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-18T14:53:55Z",
+  "last_updated": "2026-09-19T01:05:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,86 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "cd3c7de39d59",
+        "title": "أضرار بالغة تلحقها السيول بطريق رئيسي يربط بين عدن وتعز وسائقون يطالبون بإصلاحها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429524",
+        "published_date": "2026-09-18T22:36:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "35745e453999",
+        "title": "تصعيد إسرائيلي في جنوب لبنان.. قصف وتوغلات وإصابات في عدة بلدات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429521",
+        "published_date": "2026-09-18T22:06:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7d7221e209c1",
+        "title": "اليمن… معركة إنقاذ جيل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429516",
+        "published_date": "2026-09-18T21:42:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6e3164129da5",
+        "title": "مثقفون يمنيون يطالبون بفتح تحقيق عاجل حول الاعتداء على الصحفي القدمي بصنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429517",
+        "published_date": "2026-09-18T21:41:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0f5390d383e2",
+        "title": "من نار الحرب إلى شواطئ الجوار.. تقرير أممي يكشف أعداد اليمنيين الهاربين إلى جيبوتي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429514",
+        "published_date": "2026-09-18T21:03:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "437c84d2c835",
+        "title": "مدير وكالة “بارين أجانس” التركية حسن بارين.. يتحدث عن مسيرته الصحفية والإعلامية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429511",
+        "published_date": "2026-09-18T20:25:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f97035bfcc1b",
+        "title": "المنتخب اليمني يفوز على المنتخب الكويتي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429507",
+        "published_date": "2026-09-18T20:01:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "35133c870fa5",
+        "title": "أبو راس يطرح «خريطة طريق» للخروج من الحرب واستعادة الدولة في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429501",
+        "published_date": "2026-09-18T19:22:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9f25503ebb19",
+        "title": "الاتحاد الأوروبي يخصص تمويلا طارئا لموجات النزوح الجديدة في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429497",
+        "published_date": "2026-09-18T18:26:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a42fd554dcaf",
+        "title": "سريع يعلن إحباط محاولات اجرامية في صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429494",
+        "published_date": "2026-09-18T18:01:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6d4712dacee7",
         "title": "إطلاق نار بالتزامن مع تحليق طيران في أجواء العاصمة",
@@ -92,86 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429457",
         "published_date": "2026-09-17T19:58:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45898afccf03",
-        "title": "شرعية الفنادق… وفضيحة الولاءات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429458",
-        "published_date": "2026-09-17T19:58:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "48ec27087048",
-        "title": "استعادة زمني المفقود",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429452",
-        "published_date": "2026-09-17T19:53:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20e7e02a13c9",
-        "title": "شركة النفط لغير ابنائها بزمن السرية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429450",
-        "published_date": "2026-09-17T19:46:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6e37ab0bd52b",
-        "title": "كفى حربًا.. كفى دمًا.. كفى دمارًا فقد هرمنا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429447",
-        "published_date": "2026-09-17T19:41:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6be4b86ec5d3",
-        "title": "كيف صنعت الواسطة جيلا لا يؤمن بالاجتهاد؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429445",
-        "published_date": "2026-09-17T19:36:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0b97ddfebf9c",
-        "title": "إلى الذين خذلوني يومًا…",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429442",
-        "published_date": "2026-09-17T19:25:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dc0d2e3e68c6",
-        "title": "أعيش بالعمر الفائض الاحتياطي ..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429439",
-        "published_date": "2026-09-17T19:11:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9ef04ca18921",
-        "title": "الأرصاد: استمرار الهطول المطري المصحوب بالرعد والرياح الهابطة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429437",
-        "published_date": "2026-09-17T10:12:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d264e899890d",
-        "title": "صنعاء.. البنك المركزي يوقف التعامل مع خمس منشآت صرافة ويعيد التعامل مع منشأتين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429435",
-        "published_date": "2026-09-17T07:43:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "72ea6670cbf9",
-        "title": "انهيار صخري وانزلاق طيني يقطع طريقًا رئيسيًا شرقي إب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429432",
-        "published_date": "2026-09-17T06:47:35Z",
         "category": "Local Events"
       }
     ]
