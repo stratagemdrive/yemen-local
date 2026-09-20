@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-20T00:51:22Z",
+  "last_updated": "2026-09-20T14:38:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "56ea4eebf5ef",
+        "title": "موقع عسكري هندي يضع أربعة سيناريوهات لمصير طاقم مقاتلة سعودية اسقطت في مأرب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429562",
+        "published_date": "2026-09-20T09:38:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9ee1ecb4bc01",
+        "title": "منتخب الناشئين اليمني يتجاوز ديروط المصري بثلاثية مقابل هدف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429572",
+        "published_date": "2026-09-20T06:00:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cc186963d92c",
+        "title": "تسجيل هزة أرضية من محافظة لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429568",
+        "published_date": "2026-09-20T04:25:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1cf1c2226eb7",
+        "title": "فلكي يتوقع تراجع الهطول المطري في اليمن خلال الايام القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429565",
+        "published_date": "2026-09-20T03:57:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e210f0519038",
         "title": "جواز سفر “قصة قصيرة”",
@@ -149,38 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429517",
         "published_date": "2026-09-18T21:41:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f5390d383e2",
-        "title": "من نار الحرب إلى شواطئ الجوار.. تقرير أممي يكشف أعداد اليمنيين الهاربين إلى جيبوتي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429514",
-        "published_date": "2026-09-18T21:03:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "437c84d2c835",
-        "title": "مدير وكالة “بارين أجانس” التركية حسن بارين.. يتحدث عن مسيرته الصحفية والإعلامية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429511",
-        "published_date": "2026-09-18T20:25:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f97035bfcc1b",
-        "title": "المنتخب اليمني يفوز على المنتخب الكويتي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429507",
-        "published_date": "2026-09-18T20:01:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "35133c870fa5",
-        "title": "أبو راس يطرح «خريطة طريق» للخروج من الحرب واستعادة الدولة في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429501",
-        "published_date": "2026-09-18T19:22:43Z",
         "category": "Local Events"
       }
     ]
