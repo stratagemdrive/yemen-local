@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-19T14:17:12Z",
+  "last_updated": "2026-09-20T00:51:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,86 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "e210f0519038",
+        "title": "جواز سفر “قصة قصيرة”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429558",
+        "published_date": "2026-09-19T21:19:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d846942f19e0",
+        "title": "المقالح ينتقد بيان سريع بشأن إحباط محاولات «إجرامية» في صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429556",
+        "published_date": "2026-09-19T20:45:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6f156cbe0970",
+        "title": "توقفت عن محاولة شرح كل شيء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429553",
+        "published_date": "2026-09-19T20:39:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aa525359d9f0",
+        "title": "شكرا لكل شاب وشابة تزوجا من حبيبهما",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429550",
+        "published_date": "2026-09-19T20:36:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "36d670c310b8",
+        "title": "من كواليس التحقيق..؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429546",
+        "published_date": "2026-09-19T20:32:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "15eb926f3591",
+        "title": "زيف الذكريات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429547",
+        "published_date": "2026-09-19T20:29:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b64022d76029",
+        "title": "هربوا من الموت… فمن يحميهم من الموت الذي يلاحقهم؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429543",
+        "published_date": "2026-09-19T20:23:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3ffca349d986",
+        "title": "حوشٌ بلا قات… بيتٌ مليءٌ بالحياة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429541",
+        "published_date": "2026-09-19T20:20:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "be3850bd2843",
+        "title": "المالكي يعلن اعتراض صاروخ أطلق باتجاه الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429539",
+        "published_date": "2026-09-19T20:05:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c2b1ae6bb982",
+        "title": "سريع يعلن عن عمليتين في السعودية بصواريخ وطائرات مسيرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429537",
+        "published_date": "2026-09-19T19:33:03Z",
+        "category": "Local Events"
+      },
       {
         "_id": "cfae46cf056c",
         "title": "الأرصاد: أمطار رعدية على أجزاء من المرتفعات وسهل تهامة ومناطق محدودة من السواحل",
@@ -101,86 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429501",
         "published_date": "2026-09-18T19:22:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9f25503ebb19",
-        "title": "الاتحاد الأوروبي يخصص تمويلا طارئا لموجات النزوح الجديدة في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429497",
-        "published_date": "2026-09-18T18:26:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a42fd554dcaf",
-        "title": "سريع يعلن إحباط محاولات اجرامية في صنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429494",
-        "published_date": "2026-09-18T18:01:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6d4712dacee7",
-        "title": "إطلاق نار بالتزامن مع تحليق طيران في أجواء العاصمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429486",
-        "published_date": "2026-09-18T02:31:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "300a6f2fd7df",
-        "title": "من ينزفُ حبًا لا يموت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429483",
-        "published_date": "2026-09-18T00:29:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0a2a3c551a21",
-        "title": "قضية عقارية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429480",
-        "published_date": "2026-09-18T00:14:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7ed99d614435",
-        "title": "بلاغ للرأي العام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429478",
-        "published_date": "2026-09-18T00:02:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "89e644790330",
-        "title": "صحيفة عبرية: ضربة إيران لم تستند إلى معلومات استثنائية عن برنامجها النووي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429476",
-        "published_date": "2026-09-17T23:38:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8e8876bccf17",
-        "title": "مواجهات بين قوة أمنية ومسلحين قبليين قرب مدينة مأرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429473",
-        "published_date": "2026-09-17T23:12:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "da68c5f7f29a",
-        "title": "مأساة شقيقين يمنيين في حرب أوكرانيا.. قتيل ومصاب في معارك دونباس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429470",
-        "published_date": "2026-09-17T22:02:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4642bf0bc9c5",
-        "title": "هيئة بريطانية: زورق يعترض ناقلة نفط شرق خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429467",
-        "published_date": "2026-09-17T21:22:13Z",
         "category": "Local Events"
       }
     ]
