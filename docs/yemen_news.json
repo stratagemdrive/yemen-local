@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-20T14:38:28Z",
+  "last_updated": "2026-09-21T00:56:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "d7456c47a951",
+        "title": "مركز واشنطن للدراسات اليمنية: سيطرة الحوثيين على المخا وميون قد تعيد رسم معادلة الصراع في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429583",
+        "published_date": "2026-09-20T23:53:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aa7cf13e76f6",
+        "title": "حريق يلتهم سوقًا شعبيًا في المكلا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429580",
+        "published_date": "2026-09-20T18:11:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7bba6a84dc67",
+        "title": "بعد تصريحات رضائي.. فيدان: نقلنا مقترحات بشأن إنهاء القتال المرتبط باليمن إلى جميع الأطراف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429577",
+        "published_date": "2026-09-20T17:23:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "56ea4eebf5ef",
         "title": "موقع عسكري هندي يضع أربعة سيناريوهات لمصير طاقم مقاتلة سعودية اسقطت في مأرب",
@@ -157,30 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429524",
         "published_date": "2026-09-18T22:36:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "35745e453999",
-        "title": "تصعيد إسرائيلي في جنوب لبنان.. قصف وتوغلات وإصابات في عدة بلدات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429521",
-        "published_date": "2026-09-18T22:06:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7d7221e209c1",
-        "title": "اليمن… معركة إنقاذ جيل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429516",
-        "published_date": "2026-09-18T21:42:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6e3164129da5",
-        "title": "مثقفون يمنيون يطالبون بفتح تحقيق عاجل حول الاعتداء على الصحفي القدمي بصنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429517",
-        "published_date": "2026-09-18T21:41:29Z",
         "category": "Local Events"
       }
     ]
