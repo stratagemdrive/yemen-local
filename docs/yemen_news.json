@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-22T01:31:52Z",
+  "last_updated": "2026-09-22T15:28:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -22,6 +22,167 @@
     "Military": [],
     "Energy": [],
     "Economy": [],
-    "Local Events": []
+    "Local Events": [
+      {
+        "_id": "b1890cbef841",
+        "title": "تعز.. انهيار صخري يقطع طريقًا بين سامع وخدير",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429638",
+        "published_date": "2026-09-22T10:49:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0405312ace29",
+        "title": "الارصاد يخفض التحذير إلى تنبيه ويتوقع أمطارًا محدودة على بعض المحافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429631",
+        "published_date": "2026-09-22T09:30:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9463df3b0cc2",
+        "title": "بعثة شعب حضرموت تصل إلى السعودية لبدء المعسكر الإعدادي استعدادًا للاستحقاق الخليجي القادم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429625",
+        "published_date": "2026-09-22T09:02:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "86c8b2a70d46",
+        "title": "السقلدي ينتقد طلب العليمي تدخلاً عسكرياً أمريكياً في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429623",
+        "published_date": "2026-09-22T07:24:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "999c3dd7df39",
+        "title": "المقالح: تخلى عنها كل من شارك فيها من خارجهم فأصبحت ثورتهم وحدهم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429621",
+        "published_date": "2026-09-22T06:38:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2eb9cba70fa1",
+        "title": "خبير طقس يتوقع أمطاراً متفاوتة على مناطق محدودة من اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429618",
+        "published_date": "2026-09-22T05:57:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f5c4d76828a5",
+        "title": "وكالة: العليمي طلب من ترامب مساعدة عسكرية أمريكية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429616",
+        "published_date": "2026-09-22T03:20:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0c0d9c2135b5",
+        "title": "السامعي: وحدة اليمن وسيادته ثوابت وطنية لا تقبل المساومة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429610",
+        "published_date": "2026-09-22T01:21:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6546bfb8125d",
+        "title": "أقسى خيانة لسبتمبر أن نحتفل بها ونخون مبادئها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429607",
+        "published_date": "2026-09-21T21:22:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ab2e730f5bc8",
+        "title": "فعل الخير الإرتزاقي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429605",
+        "published_date": "2026-09-21T21:19:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9baad6bc0e35",
+        "title": "تعز.. مواجهات عنيفة غرب مديرية الشمايتين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429602",
+        "published_date": "2026-09-21T18:40:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "17df530fc3ba",
+        "title": "انا هنا … لكنني لست هنا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429600",
+        "published_date": "2026-09-21T18:02:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f76c00c9fd1b",
+        "title": "صنعاء.. جمعية الصرافين تعمم بإعادة التعامل مع منشأة صرافة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429598",
+        "published_date": "2026-09-21T17:50:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a02435468b77",
+        "title": "موقع امريكي: ترامب تراجع عن ضربة ضد الحوثيين لتجنب فتح جبهة جديدة بالشرق الأوسط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429595",
+        "published_date": "2026-09-21T15:23:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c934799f5bb3",
+        "title": "هزة أرضية من محافظة لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429591",
+        "published_date": "2026-09-21T13:12:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "43613c0bad4f",
+        "title": "لجنة المسابقات تقر مواعيد وملاعب دور ربع نهائي كأس الجمهورية وتوجه إنذارات وتنبيهات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429589",
+        "published_date": "2026-09-21T12:48:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "578c7599be55",
+        "title": "الأرصاد: أمطار مصحوبة بحبات البرد على أجزاء من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429587",
+        "published_date": "2026-09-21T10:48:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d7456c47a951",
+        "title": "مركز واشنطن للدراسات اليمنية: سيطرة الحوثيين على المخا وميون قد تعيد رسم معادلة الصراع في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429583",
+        "published_date": "2026-09-20T23:53:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aa7cf13e76f6",
+        "title": "حريق يلتهم سوقًا شعبيًا في المكلا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429580",
+        "published_date": "2026-09-20T18:11:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7bba6a84dc67",
+        "title": "بعد تصريحات رضائي.. فيدان: نقلنا مقترحات بشأن إنهاء القتال المرتبط باليمن إلى جميع الأطراف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429577",
+        "published_date": "2026-09-20T17:23:51Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
