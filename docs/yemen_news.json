@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-23T01:20:56Z",
+  "last_updated": "2026-09-23T15:23:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,20 +9,99 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [
-      {
-        "_id": "b075119d619e",
-        "title": "Hasan Barın, Director of Barın Ajans, Talks About His Journalistic and Media Journey",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429535",
-        "published_date": "2026-09-19T14:14:29Z",
-        "category": "Diplomacy"
-      }
-    ],
+    "Diplomacy": [],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "eb753ee28e21",
+        "title": "تقرير اممي يحذر من ارتفاع عدد النازحين في اليمن ويكشف عدد من وصلوا جيبوتي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429703",
+        "published_date": "2026-09-23T13:03:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "24e3be00a818",
+        "title": "من عدن بدأت الحكاية.. عادل باموسى بين الدراسة والعمل ونقل المعرفة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429691",
+        "published_date": "2026-09-23T12:30:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5366dae3a68f",
+        "title": "مثقفون يمنيون يناشدون سلطة صنعاء بالكشف عن مصير مواطن مخفي منذ 12 عامًا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429688",
+        "published_date": "2026-09-23T11:17:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b813b1a6707d",
+        "title": "نقابة المحامين اليمنيين تدين إجراءات بحق محامي وتطالب بالتحقيق مع قاضٍ بمحكمة معين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429685",
+        "published_date": "2026-09-23T10:59:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1b74dc8bd2dd",
+        "title": "الطقس: أمطار متفرقة على أجزاء محدودة من المرتفعات والسواحل وسهل تهامة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429683",
+        "published_date": "2026-09-23T10:53:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bb2700ea948d",
+        "title": "متوسط أسعار الذهب في صنعاء وعدن الأربعاء 23 سبتمبر/أيلول 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429681",
+        "published_date": "2026-09-23T09:47:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "468e53a36577",
+        "title": "اليمنية تعلن عن رحلات إلى مطار سعودي ثالث",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429679",
+        "published_date": "2026-09-23T08:41:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "01bc43e9fc6e",
+        "title": "طيران مسيّر يستهدف سيارة في ساحل حضرموت ويقتل عنصرًا في القاعدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429676",
+        "published_date": "2026-09-23T07:35:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0d2be5fb1b06",
+        "title": "خبير في الطقس يتوقع تبذبذب الأمطار خلال الايام القادمة وتفاوت غزارتها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429673",
+        "published_date": "2026-09-23T03:17:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4d94befa7430",
+        "title": "النزيلي يحمل الحوثيين مسؤولية سلامة الأسرى في الجوف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429671",
+        "published_date": "2026-09-23T02:53:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ff0290ad0791",
+        "title": "سريع يعلن إسقاط وينغ لونغ",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429669",
+        "published_date": "2026-09-23T02:29:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dbd4e67c8f0c",
         "title": "البنك المركزي بصنعاء يتلقى طلبات من الساحل الغربي لاستبدال عشرات المليارات من الطبعة الجديدة للريال اليمني",
@@ -93,94 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429631",
         "published_date": "2026-09-22T09:30:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9463df3b0cc2",
-        "title": "بعثة شعب حضرموت تصل إلى السعودية لبدء المعسكر الإعدادي استعدادًا للاستحقاق الخليجي القادم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429625",
-        "published_date": "2026-09-22T09:02:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "86c8b2a70d46",
-        "title": "السقلدي ينتقد طلب العليمي تدخلاً عسكرياً أمريكياً في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429623",
-        "published_date": "2026-09-22T07:24:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "999c3dd7df39",
-        "title": "المقالح: تخلى عنها كل من شارك فيها من خارجهم فأصبحت ثورتهم وحدهم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429621",
-        "published_date": "2026-09-22T06:38:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2eb9cba70fa1",
-        "title": "خبير طقس يتوقع أمطاراً متفاوتة على مناطق محدودة من اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429618",
-        "published_date": "2026-09-22T05:57:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f5c4d76828a5",
-        "title": "وكالة: العليمي طلب من ترامب مساعدة عسكرية أمريكية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429616",
-        "published_date": "2026-09-22T03:20:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0c0d9c2135b5",
-        "title": "السامعي: وحدة اليمن وسيادته ثوابت وطنية لا تقبل المساومة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429610",
-        "published_date": "2026-09-22T01:21:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6546bfb8125d",
-        "title": "أقسى خيانة لسبتمبر أن نحتفل بها ونخون مبادئها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429607",
-        "published_date": "2026-09-21T21:22:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ab2e730f5bc8",
-        "title": "فعل الخير الإرتزاقي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429605",
-        "published_date": "2026-09-21T21:19:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9baad6bc0e35",
-        "title": "تعز.. مواجهات عنيفة غرب مديرية الشمايتين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429602",
-        "published_date": "2026-09-21T18:40:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17df530fc3ba",
-        "title": "انا هنا … لكنني لست هنا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429600",
-        "published_date": "2026-09-21T18:02:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f76c00c9fd1b",
-        "title": "صنعاء.. جمعية الصرافين تعمم بإعادة التعامل مع منشأة صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429598",
-        "published_date": "2026-09-21T17:50:46Z",
         "category": "Local Events"
       }
     ]
