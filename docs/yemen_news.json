@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-22T15:28:41Z",
+  "last_updated": "2026-09-23T01:20:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "dbd4e67c8f0c",
+        "title": "البنك المركزي بصنعاء يتلقى طلبات من الساحل الغربي لاستبدال عشرات المليارات من الطبعة الجديدة للريال اليمني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429664",
+        "published_date": "2026-09-22T22:40:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3d0003d73758",
+        "title": "لا تقتلوا الأوقاف… بالإيجار المرتفع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429659",
+        "published_date": "2026-09-22T21:24:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a8388b515ccc",
+        "title": "انتهاك السيادة وتفكيك الدولة.. قراءة نقدية في انتكاسات الشرعية اليمنية (١)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429657",
+        "published_date": "2026-09-22T21:20:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a39949ff7c1f",
+        "title": "«محامون ضد الفساد» تدين تهديد محامٍ في تعز وتطالب بتحقيق عاجل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429655",
+        "published_date": "2026-09-22T21:16:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4f139a804527",
+        "title": "خبير مالي يحذر من موجة إفلاسات في اليمن بسبب تفاقم الديون",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429651",
+        "published_date": "2026-09-22T18:25:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e497e6138d1f",
+        "title": "في ختام معسكره بالقاهرة.. منتخب الناشئين يتعادل مع إنبي المصري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429646",
+        "published_date": "2026-09-22T17:49:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f0b13cad28a",
+        "title": "دوجاريك يحذر من تداعيات تجدد القتال في اليمن على المنطقة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429644",
+        "published_date": "2026-09-22T17:01:31Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b1890cbef841",
         "title": "تعز.. انهيار صخري يقطع طريقًا بين سامع وخدير",
@@ -125,62 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429598",
         "published_date": "2026-09-21T17:50:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a02435468b77",
-        "title": "موقع امريكي: ترامب تراجع عن ضربة ضد الحوثيين لتجنب فتح جبهة جديدة بالشرق الأوسط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429595",
-        "published_date": "2026-09-21T15:23:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c934799f5bb3",
-        "title": "هزة أرضية من محافظة لحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429591",
-        "published_date": "2026-09-21T13:12:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "43613c0bad4f",
-        "title": "لجنة المسابقات تقر مواعيد وملاعب دور ربع نهائي كأس الجمهورية وتوجه إنذارات وتنبيهات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429589",
-        "published_date": "2026-09-21T12:48:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "578c7599be55",
-        "title": "الأرصاد: أمطار مصحوبة بحبات البرد على أجزاء من المرتفعات والسواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429587",
-        "published_date": "2026-09-21T10:48:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7456c47a951",
-        "title": "مركز واشنطن للدراسات اليمنية: سيطرة الحوثيين على المخا وميون قد تعيد رسم معادلة الصراع في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429583",
-        "published_date": "2026-09-20T23:53:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aa7cf13e76f6",
-        "title": "حريق يلتهم سوقًا شعبيًا في المكلا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429580",
-        "published_date": "2026-09-20T18:11:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7bba6a84dc67",
-        "title": "بعد تصريحات رضائي.. فيدان: نقلنا مقترحات بشأن إنهاء القتال المرتبط باليمن إلى جميع الأطراف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429577",
-        "published_date": "2026-09-20T17:23:51Z",
         "category": "Local Events"
       }
     ]
