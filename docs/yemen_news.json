@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-23T15:23:26Z",
+  "last_updated": "2026-09-24T01:15:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,94 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "c0bea236f57f",
+        "title": "نقابة المحامين ترحب باحتواء الخلاف بين المحامي أحمد العلوي ورئيس محكمة بيت الفقيه الابتدائية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429746",
+        "published_date": "2026-09-23T23:53:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6df688123696",
+        "title": "البوابة القضائية ترد على نقابة المحامين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429733",
+        "published_date": "2026-09-23T22:02:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0e43b53a57ea",
+        "title": "26 سبتمبر.. المبتدأ والخبر في ذاكرة اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429731",
+        "published_date": "2026-09-23T21:44:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d9210d2a7958",
+        "title": "رشوة وليست هبة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429729",
+        "published_date": "2026-09-23T21:41:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "65c10bcab5a1",
+        "title": "لب الحديث",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429725",
+        "published_date": "2026-09-23T20:21:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e3200a2909d8",
+        "title": "السبت إجازة في صنعاء والأحد في عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429721",
+        "published_date": "2026-09-23T20:20:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "93a3f7816686",
+        "title": "ماذا أسقطنا بعد مرور 64 سنه ؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429722",
+        "published_date": "2026-09-23T20:15:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "96431064580c",
+        "title": "شبكة محامون ضد الفساد: كرامة المحامي وحق الدفاع خط أحمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429715",
+        "published_date": "2026-09-23T20:06:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4e37429c19b7",
+        "title": "متى تكتب الوصف ومتى تكتب السرد في الرواية؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429713",
+        "published_date": "2026-09-23T20:01:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6647e6beba22",
+        "title": "الفريق السامعي: 26 سبتمبر أعظم ثورة يمنية في العصر الحديث",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429711",
+        "published_date": "2026-09-23T19:17:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e0eca606fa21",
+        "title": "مسابح حول الأعناق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429707",
+        "published_date": "2026-09-23T16:22:14Z",
+        "category": "Local Events"
+      },
       {
         "_id": "eb753ee28e21",
         "title": "تقرير اممي يحذر من ارتفاع عدد النازحين في اليمن ويكشف عدد من وصلوا جيبوتي",
@@ -84,94 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429673",
         "published_date": "2026-09-23T03:17:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4d94befa7430",
-        "title": "النزيلي يحمل الحوثيين مسؤولية سلامة الأسرى في الجوف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429671",
-        "published_date": "2026-09-23T02:53:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ff0290ad0791",
-        "title": "سريع يعلن إسقاط وينغ لونغ",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429669",
-        "published_date": "2026-09-23T02:29:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dbd4e67c8f0c",
-        "title": "البنك المركزي بصنعاء يتلقى طلبات من الساحل الغربي لاستبدال عشرات المليارات من الطبعة الجديدة للريال اليمني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429664",
-        "published_date": "2026-09-22T22:40:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3d0003d73758",
-        "title": "لا تقتلوا الأوقاف… بالإيجار المرتفع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429659",
-        "published_date": "2026-09-22T21:24:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a8388b515ccc",
-        "title": "انتهاك السيادة وتفكيك الدولة.. قراءة نقدية في انتكاسات الشرعية اليمنية (١)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429657",
-        "published_date": "2026-09-22T21:20:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a39949ff7c1f",
-        "title": "«محامون ضد الفساد» تدين تهديد محامٍ في تعز وتطالب بتحقيق عاجل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429655",
-        "published_date": "2026-09-22T21:16:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4f139a804527",
-        "title": "خبير مالي يحذر من موجة إفلاسات في اليمن بسبب تفاقم الديون",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429651",
-        "published_date": "2026-09-22T18:25:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e497e6138d1f",
-        "title": "في ختام معسكره بالقاهرة.. منتخب الناشئين يتعادل مع إنبي المصري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429646",
-        "published_date": "2026-09-22T17:49:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f0b13cad28a",
-        "title": "دوجاريك يحذر من تداعيات تجدد القتال في اليمن على المنطقة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429644",
-        "published_date": "2026-09-22T17:01:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1890cbef841",
-        "title": "تعز.. انهيار صخري يقطع طريقًا بين سامع وخدير",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429638",
-        "published_date": "2026-09-22T10:49:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0405312ace29",
-        "title": "الارصاد يخفض التحذير إلى تنبيه ويتوقع أمطارًا محدودة على بعض المحافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429631",
-        "published_date": "2026-09-22T09:30:51Z",
         "category": "Local Events"
       }
     ]
