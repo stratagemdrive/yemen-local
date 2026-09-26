@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-26T01:20:03Z",
+  "last_updated": "2026-09-26T14:56:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -31,6 +31,102 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "bfb68a061e79",
+        "title": "السيول تقطع الطريق الوحيد الرابط بين تعز وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429851",
+        "published_date": "2026-09-26T14:37:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0502fe37c2d1",
+        "title": "المالكي يعلن اعتراض وتدمير مسيّرتين وصاروخ باليستي أُطلقت باتجاه السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429849",
+        "published_date": "2026-09-26T13:56:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebe8f7c6e75e",
+        "title": "والد أسير يدعو أنصار الله لإطلاق نجله وقريب له",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429844",
+        "published_date": "2026-09-26T12:52:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "998a086da3ba",
+        "title": "السقلدي: السعودية تبحث عن حل في اليمن وقد تلجأ لهيكلة الحكومة ومجلس القيادة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429840",
+        "published_date": "2026-09-26T12:15:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6efb9d9e489e",
+        "title": "الأرصاد: أمطار رعدية محدودة على أجزاء من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429838",
+        "published_date": "2026-09-26T11:40:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45556f9f3244",
+        "title": "حميدان: المشكلة ليست في ثورتي سبتمبر وأكتوبر والجمهورية وإنما في المنظومة السياسية التي أفسدت قيمها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429835",
+        "published_date": "2026-09-26T07:56:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1703d3e763ae",
+        "title": "إغلاق طريق رئيسي بين صنعاء وتعز جراء استهداف جسر بغارة جوية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429832",
+        "published_date": "2026-09-26T07:23:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81ac725f4ce1",
+        "title": "مثقفون يمنيون يناشدون بالإفراج عن التربوي المخضرم أحمد النونو المعتقل في صنعاء منذ عامين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429829",
+        "published_date": "2026-09-26T06:56:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7efd0a356e70",
+        "title": "صدور كتاب نقدي حول رواية (سيرة حمى) لـ”خالد اليوسف”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429825",
+        "published_date": "2026-09-26T06:25:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2798f929ea6d",
+        "title": "فلكي يتوقع أجواءً مشمسة وتوسعًا نسبيًا للأمطار على أجزاء محدودة من اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429823",
+        "published_date": "2026-09-26T06:02:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e5b71605cb10",
+        "title": "الدفاع المدني السعودي يعلن عن إطلاق إنذارات من أخطار في ثلاث محافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429819",
+        "published_date": "2026-09-26T02:00:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae30dbdcacc1",
+        "title": "وحدة عدن يتأهل إلى نصف نهائي كأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429816",
+        "published_date": "2026-09-26T01:28:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "94b764f64adc",
         "title": "تسجيل هزة أرضية من خليج عدن",
@@ -93,102 +189,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429797",
         "published_date": "2026-09-25T18:16:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b92e7938a1e6",
-        "title": "أبو راس: ثورة 26 سبتمبر كانت ثورة اليمنيين من مختلف المكونات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429793",
-        "published_date": "2026-09-25T16:29:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d358ce5d6d9f",
-        "title": "الأرصاد: أمطار رعدية ومتفرقة على أجزاء من المحافظات اليمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429791",
-        "published_date": "2026-09-25T16:08:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "388b50bbb202",
-        "title": "خليجي 27.. المنتخب اليمني يخسر أمام المنتخب الإماراتي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429788",
-        "published_date": "2026-09-24T22:26:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "101ed53601ac",
-        "title": "سريع يعلن تنفيذ عمليتين عسكريتين في الرياض وينبع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429783",
-        "published_date": "2026-09-24T20:47:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "439c860421e3",
-        "title": "معضلة التحالفات السعودية ضد اليمن: باب المندب يختبر نفوذ واشنطن وتل أبيب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429780",
-        "published_date": "2026-09-24T20:29:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4edc3883a409",
-        "title": "هائل سعيد أنعم وشركاه تحتفي بحصول عدد من شركاتها الصناعية على شهادات دولية في سلامة الغذاء والإدارة البيئية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429768",
-        "published_date": "2026-09-24T19:55:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cdbceb610946",
-        "title": "الفريق السامعي يطمئن على صحة مدير عام صندوق الرعاية الاجتماعية بمحافظة الضالع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429765",
-        "published_date": "2026-09-24T18:53:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e30ae7148a86",
-        "title": "عدن.. البنك المركزي يوقف شركة ومنشأتي صرافة ووكيل حوالة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429762",
-        "published_date": "2026-09-24T17:40:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c30e418c29a",
-        "title": "صنعاء.. البنك المركزي يعيد التعامل مع منشأتي صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429753",
-        "published_date": "2026-09-24T16:10:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "45d1eda33883",
-        "title": "سريع يعلن استهداف مواقع عسكرية سعودية في جيزان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429754",
-        "published_date": "2026-09-24T15:26:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "391ce9653c3c",
-        "title": "التحالف يعلن اعتراض وتدمير 6 صواريخ باليستية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429751",
-        "published_date": "2026-09-24T14:22:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a34108fa0ce0",
-        "title": "الطقس: سحب ممطرة تتركز على أجزاء من سهل تهامة والسواحل والمرتفعات المجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429749",
-        "published_date": "2026-09-24T13:39:08Z",
         "category": "Local Events"
       }
     ]
