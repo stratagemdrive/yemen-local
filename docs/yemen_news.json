@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-27T01:15:13Z",
+  "last_updated": "2026-09-27T15:35:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,10 +9,188 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
+    "Diplomacy": [
+      {
+        "_id": "b401c0ade416",
+        "title": "Ashraf Faqih Releases The Philosopher",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429785",
+        "published_date": "2026-09-24T21:21:41Z",
+        "category": "Diplomacy"
+      },
+      {
+        "_id": "5406bc71fe03",
+        "title": "From Aden, the Story Began…  Adel Bamousa: From Studying and Working to Sharing Knowledge",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429759",
+        "published_date": "2026-09-24T16:42:51Z",
+        "category": "Diplomacy"
+      }
+    ],
     "Military": [],
     "Energy": [],
     "Economy": [],
-    "Local Events": []
+    "Local Events": [
+      {
+        "_id": "9e2339d84d2a",
+        "title": "الأرصاد: أمطار رعدية على خمس محافظات وسهل تهامة وأجزاء من السواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429894",
+        "published_date": "2026-09-27T08:30:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4afbd72a7e9e",
+        "title": "أسرى بلا فدية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429892",
+        "published_date": "2026-09-27T08:16:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b4919e93f100",
+        "title": "إسطنبول التي لم أزرها بعد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429890",
+        "published_date": "2026-09-27T07:27:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7359e6b57f07",
+        "title": "جمعيات اليمنيين في المهجر الأوروبي: عندما يصبح اللقب أكبر من العمل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429887",
+        "published_date": "2026-09-27T06:43:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d8485a97d7ed",
+        "title": "مثقفون يمنيون يجددون مناشدتهم للإفراج عن المحامي عبد المجيد صبرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429884",
+        "published_date": "2026-09-27T06:20:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "01319cec8fbf",
+        "title": "تسجيل هزة أرضية في محافظة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429881",
+        "published_date": "2026-09-27T05:53:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "839fa9fee229",
+        "title": "فلكي يتوقع أجواءً حارة وأمطارًا محدودة على مناطق متفرقة من اليمن خلال الأيام القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429878",
+        "published_date": "2026-09-27T04:40:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "64712fe83849",
+        "title": "التعليم الجامعي لا يصنع المثقف بالضرورة.. لكنه لا يعجز عن صناعة المرأة أيضا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429874",
+        "published_date": "2026-09-26T23:21:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3071d28c7798",
+        "title": "مرآة الأنا في تجربة “والموت لا يكتب الخاتمات” لـ” سحر عبده “",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429872",
+        "published_date": "2026-09-26T23:18:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e31f29e005d7",
+        "title": "من تابوت الإمامة إلى أكفان الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429870",
+        "published_date": "2026-09-26T23:14:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "32113b76e9c0",
+        "title": "صداقة الرجل والمرأة ..؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429868",
+        "published_date": "2026-09-26T23:11:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "98493f0322e0",
+        "title": "شعب إب يتأهل إلى نصف نهائي كأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429864",
+        "published_date": "2026-09-26T21:54:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d981bb61fe3e",
+        "title": "زلزال يضرب خليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429861",
+        "published_date": "2026-09-26T20:22:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b3441ad27654",
+        "title": "صنعاء.. الدفاع المدني يبدأ بمعالجة صخور آيلة للسقوط تهدد مباني سكنية في بني الحارث",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429857",
+        "published_date": "2026-09-26T19:32:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5466dad95890",
+        "title": "منتخب الناشئين يستهل بطولة غرب آسيا بالفوز على منتخب فلسطين بثنائية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429854",
+        "published_date": "2026-09-26T18:59:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bfb68a061e79",
+        "title": "السيول تقطع الطريق الوحيد الرابط بين تعز وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429851",
+        "published_date": "2026-09-26T14:37:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0502fe37c2d1",
+        "title": "المالكي يعلن اعتراض وتدمير مسيّرتين وصاروخ باليستي أُطلقت باتجاه السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429849",
+        "published_date": "2026-09-26T13:56:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebe8f7c6e75e",
+        "title": "والد أسير يدعو أنصار الله لإطلاق نجله وقريب له",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429844",
+        "published_date": "2026-09-26T12:52:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "998a086da3ba",
+        "title": "السقلدي: السعودية تبحث عن حل في اليمن وقد تلجأ لهيكلة الحكومة ومجلس القيادة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429840",
+        "published_date": "2026-09-26T12:15:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6efb9d9e489e",
+        "title": "الأرصاد: أمطار رعدية محدودة على أجزاء من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429838",
+        "published_date": "2026-09-26T11:40:54Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
