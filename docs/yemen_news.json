@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-28T01:30:19Z",
+  "last_updated": "2026-09-28T18:33:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -13,6 +13,167 @@
     "Military": [],
     "Energy": [],
     "Economy": [],
-    "Local Events": []
+    "Local Events": [
+      {
+        "_id": "efa90bb26f4d",
+        "title": "عدن.. وزارة التربية والتعليم تتخذ قرارات حول المدارس اليمنية في مصر ونتائج تظلمات الثانوية العامة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429966",
+        "published_date": "2026-09-28T18:05:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb06e66b581f",
+        "title": "وزير الخارجية المصري يؤكد ضرورة استقرار اليمن وضمان أمن وحرية الملاحة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429962",
+        "published_date": "2026-09-28T17:32:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c06922f7e71a",
+        "title": "تقرير أممي يكشف عن ارتفاع عدد النازحين داخلياً في اليمن منذ تصاعد النزاع في الساحل الغربي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429960",
+        "published_date": "2026-09-28T16:59:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f8861b361e4",
+        "title": "العثور على يد مبتورة في مقبرة بصنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429957",
+        "published_date": "2026-09-28T09:43:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "145ae349d00f",
+        "title": "سائقو النقل الثقيل يطالبون بوقف الجبايات على طريق تعز – عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429954",
+        "published_date": "2026-09-28T07:10:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "515a1dd1ef62",
+        "title": "جيبوتي تحذر من موجة نزوح يمنية متصاعدة وتكشف رقمًا مقلقًا للاجئين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429952",
+        "published_date": "2026-09-28T06:39:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2f264309ef8b",
+        "title": "مثقفون يمنيون يناشدون سلطة صنعاء الإفراج عن الدكتور المضواحي وإعادة اعتباره",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429950",
+        "published_date": "2026-09-28T05:22:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "da9b74bd96a8",
+        "title": "خبير طقس يتوقع أمطارًا متفرقة وعواصف رعدية على مناطق واسعة من اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429946",
+        "published_date": "2026-09-28T04:42:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7732e5613cc9",
+        "title": "قراءة نص “ضمير هو” في ديوان “والموت لا يكتب الخاتمات” لـ “سحر عبده”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429930",
+        "published_date": "2026-09-28T01:12:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f95bcef7162a",
+        "title": "البردوني… الشاعر الذي لم يشبه عصره",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429926",
+        "published_date": "2026-09-28T01:02:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2c11051c945e",
+        "title": "محامون ضد الفساد: الاعتداء على الصحفيين اعتداء على الحقيقة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429924",
+        "published_date": "2026-09-28T00:58:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c14ce8e61d1",
+        "title": "بحث في المسافة بين المتكلم والمخاطب في ديوان ” والموت لا يكتب الخاتمات ” نص” انت ” لـ “سحر عبده”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429922",
+        "published_date": "2026-09-28T00:55:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "217251605d7b",
+        "title": "وحدة صنعاء يتأهل إلى الدور نصف النهائي لبطولة كأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429917",
+        "published_date": "2026-09-27T23:25:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3d6c4b11cc66",
+        "title": "تسجيل هزتين أرضيتين من خليج عدن ومحافظة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429914",
+        "published_date": "2026-09-27T22:29:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae24dbfe9092",
+        "title": "مواجهات عنيفة على امتداد مناطق التماس بين محافظتي تعز ولحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429912",
+        "published_date": "2026-09-27T21:39:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7de238cedbdb",
+        "title": "سفر الخلود السبمتري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429909",
+        "published_date": "2026-09-27T21:16:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e1e8da6906e9",
+        "title": "المنتخب اليمني يخسر مباراته الثانية في خليجي 27",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429906",
+        "published_date": "2026-09-27T20:47:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b71c9b3b3e2f",
+        "title": "السامعي يدين استهداف منشآت مدنية في تعز ويحمّل السعودية المسؤولية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429904",
+        "published_date": "2026-09-27T20:23:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4ce2057f19c3",
+        "title": "محور تعز العسكري يعلن استهداف معسكر شرق المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429900",
+        "published_date": "2026-09-27T20:03:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "64c3929ea85b",
+        "title": "سريع يعلن عن عدد من الأحداث العسكرية خلال الساعات الماضية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429897",
+        "published_date": "2026-09-27T19:21:44Z",
+        "category": "Local Events"
+      }
+    ]
   }
 }
