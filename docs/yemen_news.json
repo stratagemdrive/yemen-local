@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-29T02:32:04Z",
+  "last_updated": "2026-09-29T16:51:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,11 +15,51 @@
     "Economy": [],
     "Local Events": [
       {
-        "_id": "61c2feb16705",
-        "title": "كيف نجح المتحوثون ومتستفيدي الثورة في تأليب المجتمع ضد ايلول 2014 (1-2)",
+        "_id": "1dd3b291f792",
+        "title": "العنف الرقمي يلاحق الصحفيات اليمنيات.. 6 من كل 10 تعرضن للاستهداف",
         "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429975",
-        "published_date": "2026-09-28T22:55:59Z",
+        "url": "https://yemenat.net/archives/429993",
+        "published_date": "2026-09-29T15:49:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9a1bc9432609",
+        "title": "المقالح ينتقد سياسة سلطة صنعاء تجاه مراسلي وكالات الأنباء والقنوات العالمية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429991",
+        "published_date": "2026-09-29T15:30:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "57c670670e85",
+        "title": "المبعوث الأممي: مصر تدعم جهود الوساطة في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429989",
+        "published_date": "2026-09-29T13:42:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "af2a23b5056c",
+        "title": "إب.. مقتل قيادي محلي في تجمع الإصلاح بمديرية السبرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429986",
+        "published_date": "2026-09-29T13:28:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "18a54103e554",
+        "title": "مجموعة هائل سعيد أنعم وشركاه، مصدر فخر كل يمني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429981",
+        "published_date": "2026-09-29T13:00:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c03d9d911053",
+        "title": "الأرصاد: أمطار رعدية على أجزاء من عدة محافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429979",
+        "published_date": "2026-09-29T12:53:43Z",
         "category": "Local Events"
       },
       {
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429922",
         "published_date": "2026-09-28T00:55:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "217251605d7b",
-        "title": "وحدة صنعاء يتأهل إلى الدور نصف النهائي لبطولة كأس الجمهورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429917",
-        "published_date": "2026-09-27T23:25:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3d6c4b11cc66",
-        "title": "تسجيل هزتين أرضيتين من خليج عدن ومحافظة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429914",
-        "published_date": "2026-09-27T22:29:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae24dbfe9092",
-        "title": "مواجهات عنيفة على امتداد مناطق التماس بين محافظتي تعز ولحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429912",
-        "published_date": "2026-09-27T21:39:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7de238cedbdb",
-        "title": "سفر الخلود السبمتري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429909",
-        "published_date": "2026-09-27T21:16:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e1e8da6906e9",
-        "title": "المنتخب اليمني يخسر مباراته الثانية في خليجي 27",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429906",
-        "published_date": "2026-09-27T20:47:28Z",
         "category": "Local Events"
       }
     ]
