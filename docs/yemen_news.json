@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-28T18:33:34Z",
+  "last_updated": "2026-09-29T02:32:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "61c2feb16705",
+        "title": "كيف نجح المتحوثون ومتستفيدي الثورة في تأليب المجتمع ضد ايلول 2014 (1-2)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429975",
+        "published_date": "2026-09-28T22:55:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "77e9e59e60ce",
+        "title": "هجوم مسلح يستهدف حافلة تقل أكاديميين في العبر ويؤدي بحياة دكتور في الكيمياء الحيوية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429971",
+        "published_date": "2026-09-28T19:39:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "73b374a45876",
+        "title": "منتخب الناشئين يتأهل إلى نصف نهائي بطولة غرب آسيا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/429968",
+        "published_date": "2026-09-28T19:13:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "efa90bb26f4d",
         "title": "عدن.. وزارة التربية والتعليم تتخذ قرارات حول المدارس اليمنية في مصر ونتائج تظلمات الثانوية العامة",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429906",
         "published_date": "2026-09-27T20:47:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b71c9b3b3e2f",
-        "title": "السامعي يدين استهداف منشآت مدنية في تعز ويحمّل السعودية المسؤولية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429904",
-        "published_date": "2026-09-27T20:23:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4ce2057f19c3",
-        "title": "محور تعز العسكري يعلن استهداف معسكر شرق المدينة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429900",
-        "published_date": "2026-09-27T20:03:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "64c3929ea85b",
-        "title": "سريع يعلن عن عدد من الأحداث العسكرية خلال الساعات الماضية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429897",
-        "published_date": "2026-09-27T19:21:44Z",
         "category": "Local Events"
       }
     ]
