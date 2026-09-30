@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-30T01:54:37Z",
+  "last_updated": "2026-09-30T16:45:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,46 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "8b2907db0a60",
+        "title": "تعز.. قرار قضائي بوقف تحويل مدرسة إلى مقر لكلية المجتمع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430033",
+        "published_date": "2026-09-30T11:22:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d95b2d2256c2",
+        "title": "الأرصاد: استمرار الهطول المطري على مناطق متفرقة من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430031",
+        "published_date": "2026-09-30T10:55:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bf14847cb4ef",
+        "title": "السقلدي يقارب دوافع التقارب السعودي الإماراتي وامكانية أبوظبي إلى اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430028",
+        "published_date": "2026-09-30T05:59:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "17c8e35ad9fd",
+        "title": "مثقفون يمنيون يناشدون العليمي بصرف مرتبات الأديب والكاتب الصحفي منصور السروري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430020",
+        "published_date": "2026-09-30T04:15:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9630fcbaed29",
+        "title": "خبير طقس: أمطار وعواصف رعدية متوقعة وتأثير اضطرابات مدارية خفيفة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430023",
+        "published_date": "2026-09-30T04:02:43Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "bbd48a58a747",
         "title": "تسجيل هزة أرضية في خليج عدن",
         "source": "Yemenat",
@@ -28,14 +68,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430002",
         "published_date": "2026-09-29T20:50:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17604ba5245e",
-        "title": "حين يصبح النزوح جريمة أخرى في وطن أنهكته الحرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430000",
-        "published_date": "2026-09-29T20:42:36Z",
         "category": "Local Events"
       },
       {
@@ -95,6 +127,30 @@
         "category": "Local Events"
       },
       {
+        "_id": "718be1f11efe",
+        "title": "القصة ليست وصفة طبخ نقد كاتب يتعلم السرد من القواعد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430018",
+        "published_date": "2026-09-29T02:07:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "32d5d900be08",
+        "title": "محاولات إعادة الاعتبار للإمامة والتقليل من منجزات الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430016",
+        "published_date": "2026-09-29T02:03:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "77fcf4e4078d",
+        "title": "هزلت و رب الكعبة..؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430014",
+        "published_date": "2026-09-29T01:56:43Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "b6d8f4a82db4",
         "title": "إستهداف المدارس جريمة حرب..؟!",
         "source": "Yemenat",
@@ -103,75 +159,19 @@
         "category": "Local Events"
       },
       {
+        "_id": "17604ba5245e",
+        "title": "حين يصبح النزوح جريمة أخرى في وطن أنهكته الحرب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430000",
+        "published_date": "2026-09-28T20:42:36Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "77e9e59e60ce",
         "title": "هجوم مسلح يستهدف حافلة تقل أكاديميين في العبر ويؤدي بحياة دكتور في الكيمياء الحيوية",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429971",
         "published_date": "2026-09-28T19:39:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "73b374a45876",
-        "title": "منتخب الناشئين يتأهل إلى نصف نهائي بطولة غرب آسيا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429968",
-        "published_date": "2026-09-28T19:13:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "efa90bb26f4d",
-        "title": "عدن.. وزارة التربية والتعليم تتخذ قرارات حول المدارس اليمنية في مصر ونتائج تظلمات الثانوية العامة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429966",
-        "published_date": "2026-09-28T18:05:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fb06e66b581f",
-        "title": "وزير الخارجية المصري يؤكد ضرورة استقرار اليمن وضمان أمن وحرية الملاحة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429962",
-        "published_date": "2026-09-28T17:32:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c06922f7e71a",
-        "title": "تقرير أممي يكشف عن ارتفاع عدد النازحين داخلياً في اليمن منذ تصاعد النزاع في الساحل الغربي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429960",
-        "published_date": "2026-09-28T16:59:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f8861b361e4",
-        "title": "العثور على يد مبتورة في مقبرة بصنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429957",
-        "published_date": "2026-09-28T09:43:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "145ae349d00f",
-        "title": "سائقو النقل الثقيل يطالبون بوقف الجبايات على طريق تعز – عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429954",
-        "published_date": "2026-09-28T07:10:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "515a1dd1ef62",
-        "title": "جيبوتي تحذر من موجة نزوح يمنية متصاعدة وتكشف رقمًا مقلقًا للاجئين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429952",
-        "published_date": "2026-09-28T06:39:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2f264309ef8b",
-        "title": "مثقفون يمنيون يناشدون سلطة صنعاء الإفراج عن الدكتور المضواحي وإعادة اعتباره",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429950",
-        "published_date": "2026-09-28T05:22:08Z",
         "category": "Local Events"
       }
     ]
