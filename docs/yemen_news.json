@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-09-30T16:45:55Z",
+  "last_updated": "2026-10-01T01:55:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,86 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "018adc2725e7",
+        "title": "محامون ضد الفساد تدين ما تعرضت له المحامية نبيلة المفتي وتطالب بتحقيق عاجل ومحايد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430061",
+        "published_date": "2026-10-01T00:25:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "179c6249ceb7",
+        "title": "كارثة في محافظة حجة.. انهيار نفق لتعدين الذهب بطرق بدائية وبداخله 20 مواطنًا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430082",
+        "published_date": "2026-09-30T22:01:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7a9a4dac1527",
+        "title": "(كونفوشيوس في قطار المستقبل) .. صالح البيضاني يروي دهشته من الصين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430078",
+        "published_date": "2026-09-30T21:13:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f27d4a705b2",
+        "title": "لا تطلقها وأنت غاضب… لا تجعل أطفالك يدفعون ثمن خيانتكم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430073",
+        "published_date": "2026-09-30T21:02:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e385ce587e4c",
+        "title": "نقابة المحامين تدين منع محامية من الترافع في محكمة بصنعاء وتطالب بالتحقيق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430069",
+        "published_date": "2026-09-30T20:52:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3ae5485e961f",
+        "title": "ترامب يعلن اكتمال انسحاب القوات الأميركية من العراق ويصفه بيوم نصر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430070",
+        "published_date": "2026-09-30T20:51:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "edb78d0119da",
+        "title": "المنتخب اليمني يفوز على نظيره البحريني بخماسية في ختام مشاركته بخليجي 27",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430065",
+        "published_date": "2026-09-30T20:04:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "86ed95ec928f",
+        "title": "شبكة محامون ضد الفساد: استدعاء الصحفي عماد الديني بهذه الطريقة ترهيب مرفوض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430059",
+        "published_date": "2026-09-30T19:43:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "83a9c86f2f47",
+        "title": "ما زلت ألمحه من بعيد .. خالد اليوسف والذاكرة الأدبية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430054",
+        "published_date": "2026-09-30T19:10:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b61cc5258234",
+        "title": "منتخب الناشئين يتصدر مجموعته في بطولة غرب آسيا بالعلامة الكاملة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430051",
+        "published_date": "2026-09-30T18:56:49Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8b2907db0a60",
         "title": "تعز.. قرار قضائي بوقف تحويل مدرسة إلى مقر لكلية المجتمع",
@@ -92,86 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/429991",
         "published_date": "2026-09-29T15:30:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "57c670670e85",
-        "title": "المبعوث الأممي: مصر تدعم جهود الوساطة في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429989",
-        "published_date": "2026-09-29T13:42:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "af2a23b5056c",
-        "title": "إب.. مقتل قيادي محلي في تجمع الإصلاح بمديرية السبرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429986",
-        "published_date": "2026-09-29T13:28:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "18a54103e554",
-        "title": "مجموعة هائل سعيد أنعم وشركاه، مصدر فخر كل يمني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429981",
-        "published_date": "2026-09-29T13:00:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c03d9d911053",
-        "title": "الأرصاد: أمطار رعدية على أجزاء من عدة محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429979",
-        "published_date": "2026-09-29T12:53:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "718be1f11efe",
-        "title": "القصة ليست وصفة طبخ نقد كاتب يتعلم السرد من القواعد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430018",
-        "published_date": "2026-09-29T02:07:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "32d5d900be08",
-        "title": "محاولات إعادة الاعتبار للإمامة والتقليل من منجزات الجمهورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430016",
-        "published_date": "2026-09-29T02:03:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "77fcf4e4078d",
-        "title": "هزلت و رب الكعبة..؟!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430014",
-        "published_date": "2026-09-29T01:56:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b6d8f4a82db4",
-        "title": "إستهداف المدارس جريمة حرب..؟!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430003",
-        "published_date": "2026-09-28T20:55:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17604ba5245e",
-        "title": "حين يصبح النزوح جريمة أخرى في وطن أنهكته الحرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430000",
-        "published_date": "2026-09-28T20:42:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "77e9e59e60ce",
-        "title": "هجوم مسلح يستهدف حافلة تقل أكاديميين في العبر ويؤدي بحياة دكتور في الكيمياء الحيوية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429971",
-        "published_date": "2026-09-28T19:39:35Z",
         "category": "Local Events"
       }
     ]
