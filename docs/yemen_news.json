@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-01T01:55:10Z",
+  "last_updated": "2026-10-01T17:19:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "9a4b596f5950",
+        "title": "حجة.. الشرطة توضح حول انهيار نفق للتنقيب عن الذهب والمساحة الجيولوجية توجه دعوة للمواطنين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430110",
+        "published_date": "2026-10-01T11:23:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3e8db6bcbace",
+        "title": "أسعار صرف الريال اليمني مقابل العملات الاجنبية في صنعاء وعدن الخميس 01 اكتوبر 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430108",
+        "published_date": "2026-10-01T10:05:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9e58dac204d5",
+        "title": "الأرصاد: أمطار رعدية متوقعة على أجزاء محدودة من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430104",
+        "published_date": "2026-10-01T08:48:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5b90c58e7411",
+        "title": "صنعاء.. ثلاث جهات تعلن بدء تطبيق امتيازات للمستوردين عبر موانئ الحديدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430101",
+        "published_date": "2026-10-01T06:43:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ce163b93be7a",
+        "title": "فيما محامي محور تعز يتقدم بدعوى جديدة.. المحكمة تحجز قضية الصامت والعزب للاطلاع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430098",
+        "published_date": "2026-10-01T05:04:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "767cc87db366",
+        "title": "قطع طريق رئيسي يربط بين تعز وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430093",
+        "published_date": "2026-10-01T04:08:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a95b6b2958a8",
+        "title": "النزيلي يعلن تنفيذ 8 عمليات استهداف لمواقع وتعزيزات حوثية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430091",
+        "published_date": "2026-10-01T03:11:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5a3ca0aa8599",
+        "title": "خبير في الطقس: أمطار متفاوتة الشدة على اجزاء متفرقة من بعض المحافظات اليمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430088",
+        "published_date": "2026-10-01T02:43:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e3264f8fb0b9",
+        "title": "المهندس ناظم الصغير… حين يصير العطاءُ مقامًا، ويصير أثرُ الرجل حياةً تتجوّل بين الكادحين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430085",
+        "published_date": "2026-10-01T01:58:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "018adc2725e7",
         "title": "محامون ضد الفساد تدين ما تعرضت له المحامية نبيلة المفتي وتطالب بتحقيق عاجل ومحايد",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430033",
         "published_date": "2026-09-30T11:22:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d95b2d2256c2",
-        "title": "الأرصاد: استمرار الهطول المطري على مناطق متفرقة من المرتفعات والسواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430031",
-        "published_date": "2026-09-30T10:55:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bf14847cb4ef",
-        "title": "السقلدي يقارب دوافع التقارب السعودي الإماراتي وامكانية أبوظبي إلى اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430028",
-        "published_date": "2026-09-30T05:59:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17c8e35ad9fd",
-        "title": "مثقفون يمنيون يناشدون العليمي بصرف مرتبات الأديب والكاتب الصحفي منصور السروري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430020",
-        "published_date": "2026-09-30T04:15:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9630fcbaed29",
-        "title": "خبير طقس: أمطار وعواصف رعدية متوقعة وتأثير اضطرابات مدارية خفيفة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430023",
-        "published_date": "2026-09-30T04:02:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bbd48a58a747",
-        "title": "تسجيل هزة أرضية في خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430011",
-        "published_date": "2026-09-29T21:35:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f529c68f1ec",
-        "title": "نجل المعتقل خالد العراسي يناشد السماح لوالده بالعلاج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430002",
-        "published_date": "2026-09-29T20:50:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3763058eb0f0",
-        "title": "قوة الرقم واحد.. صمت الصفر ورياضيات القيادة الحقيقية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429996",
-        "published_date": "2026-09-29T17:29:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1dd3b291f792",
-        "title": "العنف الرقمي يلاحق الصحفيات اليمنيات.. 6 من كل 10 تعرضن للاستهداف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429993",
-        "published_date": "2026-09-29T15:49:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a1bc9432609",
-        "title": "المقالح ينتقد سياسة سلطة صنعاء تجاه مراسلي وكالات الأنباء والقنوات العالمية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/429991",
-        "published_date": "2026-09-29T15:30:42Z",
         "category": "Local Events"
       }
     ]
