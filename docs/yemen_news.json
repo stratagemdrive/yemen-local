@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-02T02:05:00Z",
+  "last_updated": "2026-10-02T16:35:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,22 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "9ad43f4c2a40",
+        "title": "لعل رسالتي تصل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430130",
+        "published_date": "2026-10-02T08:20:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b93707046842",
+        "title": "هجمات ليلية تستهدف مقرًا لقوات التحالف بمحافظة عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430128",
+        "published_date": "2026-10-02T07:03:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6b83173f3ed4",
         "title": "النزيلي: استهدفنا بعشرات الغارات أهدافًا في صنعاء وصعدة وتعز",
@@ -156,22 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430078",
         "published_date": "2026-09-30T21:13:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7f27d4a705b2",
-        "title": "لا تطلقها وأنت غاضب… لا تجعل أطفالك يدفعون ثمن خيانتكم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430073",
-        "published_date": "2026-09-30T21:02:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e385ce587e4c",
-        "title": "نقابة المحامين تدين منع محامية من الترافع في محكمة بصنعاء وتطالب بالتحقيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430069",
-        "published_date": "2026-09-30T20:52:40Z",
         "category": "Local Events"
       }
     ]
