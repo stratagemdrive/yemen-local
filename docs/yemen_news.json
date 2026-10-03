@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-02T16:35:09Z",
+  "last_updated": "2026-10-03T01:48:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "c9c3120dd2f8",
+        "title": "وزير خارجية باكستان يعلن عن اجتماع مرتقب لوزراء اتفاق مكة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430140",
+        "published_date": "2026-10-02T20:26:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ecbd95bcd9b",
+        "title": "المالكي يعلن اعتراض وتدمير صواريخ باليستية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430137",
+        "published_date": "2026-10-02T20:07:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "28a3fac5717f",
+        "title": "ناطق حكومة صنعاء: الضربات التي تنفذ تستهدف القوات السعودية والتحشيدات المرتبطة بها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430134",
+        "published_date": "2026-10-02T19:57:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "9ad43f4c2a40",
         "title": "لعل رسالتي تصل",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430085",
         "published_date": "2026-10-01T01:58:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "018adc2725e7",
-        "title": "محامون ضد الفساد تدين ما تعرضت له المحامية نبيلة المفتي وتطالب بتحقيق عاجل ومحايد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430061",
-        "published_date": "2026-10-01T00:25:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "179c6249ceb7",
-        "title": "كارثة في محافظة حجة.. انهيار نفق لتعدين الذهب بطرق بدائية وبداخله 20 مواطنًا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430082",
-        "published_date": "2026-09-30T22:01:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7a9a4dac1527",
-        "title": "(كونفوشيوس في قطار المستقبل) .. صالح البيضاني يروي دهشته من الصين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430078",
-        "published_date": "2026-09-30T21:13:30Z",
         "category": "Local Events"
       }
     ]
