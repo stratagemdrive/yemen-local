@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-03T01:48:55Z",
+  "last_updated": "2026-10-03T15:06:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,142 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "df1ec46bbf22",
+        "title": "تعز.. هنا تقف كرامة اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430186",
+        "published_date": "2026-10-03T15:01:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a4c1fc6c1e2d",
+        "title": "في ذكرى رحيل المناضل الأستاذ سعيد أحمد الجناحي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430184",
+        "published_date": "2026-10-03T14:58:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3eede2e2fda3",
+        "title": "المثقف المريض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430182",
+        "published_date": "2026-10-03T14:46:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "41b70d998613",
+        "title": "دخل المكان بحثًا عن العدالة… وخرج منه خبرٌ لا يشبه العدالة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430180",
+        "published_date": "2026-10-03T14:41:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bbcb4b5eca41",
+        "title": "حين بكت اليمن في عيون طفلة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430178",
+        "published_date": "2026-10-03T14:37:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "844da98e1e81",
+        "title": "أشياء ضرورية لكنها لا تشبهك",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430176",
+        "published_date": "2026-10-03T14:33:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "71fa7ea6934b",
+        "title": "الحاضر يُعلِّم الغائب…",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430174",
+        "published_date": "2026-10-03T14:27:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e1fcad3530e",
+        "title": "مجلس نواب خارج نطاق التغطية!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430171",
+        "published_date": "2026-10-03T14:23:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "31afe29bc419",
+        "title": "دوي انفجارات وتحليق طيران حربي في صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430167",
+        "published_date": "2026-10-03T10:12:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fae181f9e797",
+        "title": "الأرصاد: أمطار رعدية على مناطق متفرقة من بعض المحافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430165",
+        "published_date": "2026-10-03T09:16:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b0d94ca755da",
+        "title": "تحديد موعد استئناف دوري الدرجة الأولى وتأجيل نصف نهائي كأس الجمهورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430163",
+        "published_date": "2026-10-03T08:50:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5d168e1cceb1",
+        "title": "فنجان من البن… ومساحة من الوطن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430161",
+        "published_date": "2026-10-03T08:27:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "972377f515c5",
+        "title": "وكالة: ترتيبات سعودية لعملية عسكرية محتملة في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430151",
+        "published_date": "2026-10-03T08:08:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c91cd87fa304",
+        "title": "عيناكِ أقول… عيناكِ!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430155",
+        "published_date": "2026-10-03T07:52:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bcabba866e82",
+        "title": "تسجيل هزتين أرضيتين من خليج عدن ومحافظة أبين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430152",
+        "published_date": "2026-10-03T07:29:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8d1257b7deaa",
+        "title": "إغلاق طريقين يربطان مدينة تعز بالأجزاء الشرقية من المحافظة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430144",
+        "published_date": "2026-10-03T05:14:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "244e0156c648",
+        "title": "خبير في الطقس يتوقع أمطارًا متفاوتة الشدة على سقطرى ومناطق محدودة من البلاد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430147",
+        "published_date": "2026-10-03T04:41:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c9c3120dd2f8",
         "title": "وزير خارجية باكستان يعلن عن اجتماع مرتقب لوزراء اتفاق مكة",
@@ -36,142 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430134",
         "published_date": "2026-10-02T19:57:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9ad43f4c2a40",
-        "title": "لعل رسالتي تصل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430130",
-        "published_date": "2026-10-02T08:20:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b93707046842",
-        "title": "هجمات ليلية تستهدف مقرًا لقوات التحالف بمحافظة عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430128",
-        "published_date": "2026-10-02T07:03:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6b83173f3ed4",
-        "title": "النزيلي: استهدفنا بعشرات الغارات أهدافًا في صنعاء وصعدة وتعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430126",
-        "published_date": "2026-10-01T23:53:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f14bfd67a7e6",
-        "title": "المبعوث الاممي يبدي قلقًا بالغًا إزاء تصاعد القتال في محافظة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430124",
-        "published_date": "2026-10-01T21:47:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "97afc4069870",
-        "title": "المشاط يتهم السعودية باختلاق مزاعم بشأن استهداف المدينة المنورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430121",
-        "published_date": "2026-10-01T21:24:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96b8bf1c3507",
-        "title": "انفجارات في صنعاء وغارات في محافظات مجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430118",
-        "published_date": "2026-10-01T20:53:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a3ffb45c645a",
-        "title": "المالكي يعلن اعتراض صاروخين باليستيين و4 مسيّرات غرب السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430116",
-        "published_date": "2026-10-01T20:05:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0c2309300e9b",
-        "title": "اشتداد المواجهات في جبهات محافظة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430113",
-        "published_date": "2026-10-01T19:26:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9a4b596f5950",
-        "title": "حجة.. الشرطة توضح حول انهيار نفق للتنقيب عن الذهب والمساحة الجيولوجية توجه دعوة للمواطنين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430110",
-        "published_date": "2026-10-01T11:23:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3e8db6bcbace",
-        "title": "أسعار صرف الريال اليمني مقابل العملات الاجنبية في صنعاء وعدن الخميس 01 اكتوبر 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430108",
-        "published_date": "2026-10-01T10:05:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9e58dac204d5",
-        "title": "الأرصاد: أمطار رعدية متوقعة على أجزاء محدودة من المرتفعات والسواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430104",
-        "published_date": "2026-10-01T08:48:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5b90c58e7411",
-        "title": "صنعاء.. ثلاث جهات تعلن بدء تطبيق امتيازات للمستوردين عبر موانئ الحديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430101",
-        "published_date": "2026-10-01T06:43:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ce163b93be7a",
-        "title": "فيما محامي محور تعز يتقدم بدعوى جديدة.. المحكمة تحجز قضية الصامت والعزب للاطلاع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430098",
-        "published_date": "2026-10-01T05:04:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "767cc87db366",
-        "title": "قطع طريق رئيسي يربط بين تعز وعدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430093",
-        "published_date": "2026-10-01T04:08:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a95b6b2958a8",
-        "title": "النزيلي يعلن تنفيذ 8 عمليات استهداف لمواقع وتعزيزات حوثية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430091",
-        "published_date": "2026-10-01T03:11:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5a3ca0aa8599",
-        "title": "خبير في الطقس: أمطار متفاوتة الشدة على اجزاء متفرقة من بعض المحافظات اليمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430088",
-        "published_date": "2026-10-01T02:43:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e3264f8fb0b9",
-        "title": "المهندس ناظم الصغير… حين يصير العطاءُ مقامًا، ويصير أثرُ الرجل حياةً تتجوّل بين الكادحين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430085",
-        "published_date": "2026-10-01T01:58:08Z",
         "category": "Local Events"
       }
     ]
