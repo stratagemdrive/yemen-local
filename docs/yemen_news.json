@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-04T02:28:42Z",
+  "last_updated": "2026-10-04T15:43:45Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "b56516f4fae1",
+        "title": "سريع يعلن تنفيذ عمليتي استهداف في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430233",
+        "published_date": "2026-10-04T13:14:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "36d62f28edab",
+        "title": "بعد سيطرتهم على مناطق واسعة في ريف تعز الجنوبي.. العليمي يعلن بدء العمليات العسكرية لاستعادة المناطق الخاضعة لسيطرة الحوثيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430229",
+        "published_date": "2026-10-04T12:39:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "81292c9a9400",
+        "title": "سريع يعلن إحباط محاولات تقدم في الجوف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430227",
+        "published_date": "2026-10-04T12:25:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9d2223a898c8",
+        "title": "قوات حكومة صنعاء تسيطر على أجزاء واسعة من جنوب محافظة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430224",
+        "published_date": "2026-10-04T11:03:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6359ee2c8227",
+        "title": "موجات نزوح من مناطق المواجهات في ريف تعز الجنوبي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430221",
+        "published_date": "2026-10-04T09:43:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5c34714ec19d",
+        "title": "وكالة: باكستان ترسل أربع طائرات شحن عسكرية إلى عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430217",
+        "published_date": "2026-10-04T09:05:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "28c73c532a20",
+        "title": "حميدان: مشكلة اليمن ليست في الجغرافيا بل في عقلية الغلبة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430215",
+        "published_date": "2026-10-04T06:59:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3285bcadb374",
+        "title": "انقطاع طريق رئيسي يربط بين مدينتي تعز والتربة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430212",
+        "published_date": "2026-10-04T04:20:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "79d7e863b69a",
+        "title": "خبير طقس يتوقع أمطارًا متفاوتة على مناطق واسعة من اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430209",
+        "published_date": "2026-10-04T03:43:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "77cda6ec08ad",
         "title": "المقالح يحذر من خطورة الخطاب الطائفي ويدعو إلى خطاب وطني جامع",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430182",
         "published_date": "2026-10-03T14:46:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41b70d998613",
-        "title": "دخل المكان بحثًا عن العدالة… وخرج منه خبرٌ لا يشبه العدالة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430180",
-        "published_date": "2026-10-03T14:41:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bbcb4b5eca41",
-        "title": "حين بكت اليمن في عيون طفلة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430178",
-        "published_date": "2026-10-03T14:37:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "844da98e1e81",
-        "title": "أشياء ضرورية لكنها لا تشبهك",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430176",
-        "published_date": "2026-10-03T14:33:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "71fa7ea6934b",
-        "title": "الحاضر يُعلِّم الغائب…",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430174",
-        "published_date": "2026-10-03T14:27:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1e1fcad3530e",
-        "title": "مجلس نواب خارج نطاق التغطية!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430171",
-        "published_date": "2026-10-03T14:23:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "31afe29bc419",
-        "title": "دوي انفجارات وتحليق طيران حربي في صنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430167",
-        "published_date": "2026-10-03T10:12:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fae181f9e797",
-        "title": "الأرصاد: أمطار رعدية على مناطق متفرقة من بعض المحافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430165",
-        "published_date": "2026-10-03T09:16:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b0d94ca755da",
-        "title": "تحديد موعد استئناف دوري الدرجة الأولى وتأجيل نصف نهائي كأس الجمهورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430163",
-        "published_date": "2026-10-03T08:50:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d168e1cceb1",
-        "title": "فنجان من البن… ومساحة من الوطن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430161",
-        "published_date": "2026-10-03T08:27:10Z",
         "category": "Local Events"
       }
     ]
