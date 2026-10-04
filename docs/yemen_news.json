@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-03T15:06:24Z",
+  "last_updated": "2026-10-04T02:28:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "77cda6ec08ad",
+        "title": "المقالح يحذر من خطورة الخطاب الطائفي ويدعو إلى خطاب وطني جامع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430207",
+        "published_date": "2026-10-03T20:45:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1dc3b709b1c3",
+        "title": "ما زلتُ أبحرُ رغم الموجِ منفردًا في (فلسفة البحر) لرشيد الكندي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430205",
+        "published_date": "2026-10-03T19:52:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "76a51a94a1e5",
+        "title": "سريع يعلن عن عملية استهداف في الرياض بصواريخ باليستية وطائرات مسيّرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430202",
+        "published_date": "2026-10-03T19:02:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "72e1711cf938",
+        "title": "النزيلي يعلن تنفيذ أكثر من 200 عملية استهداف ضد مواقع وتحركات للحوثيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430200",
+        "published_date": "2026-10-03T18:54:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c5770508773c",
+        "title": "جامعة تعز تعلق الدراسة في كليات ومراكز الجامعة بمدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430198",
+        "published_date": "2026-10-03T17:52:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6971919d825e",
+        "title": "منتخب الناشئين يتأهل إلى نهائي كأس غرب آسيا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430194",
+        "published_date": "2026-10-03T17:26:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "03c4f8067a16",
+        "title": "تسجيل هزتين أرضيتين من خليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430191",
+        "published_date": "2026-10-03T16:58:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "916f10a71694",
+        "title": "أحتفي بطريقتي في اليوم العالمي للترجمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430188",
+        "published_date": "2026-10-03T15:57:39Z",
+        "category": "Local Events"
+      },
       {
         "_id": "df1ec46bbf22",
         "title": "تعز.. هنا تقف كرامة اليمن",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430161",
         "published_date": "2026-10-03T08:27:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "972377f515c5",
-        "title": "وكالة: ترتيبات سعودية لعملية عسكرية محتملة في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430151",
-        "published_date": "2026-10-03T08:08:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c91cd87fa304",
-        "title": "عيناكِ أقول… عيناكِ!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430155",
-        "published_date": "2026-10-03T07:52:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bcabba866e82",
-        "title": "تسجيل هزتين أرضيتين من خليج عدن ومحافظة أبين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430152",
-        "published_date": "2026-10-03T07:29:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8d1257b7deaa",
-        "title": "إغلاق طريقين يربطان مدينة تعز بالأجزاء الشرقية من المحافظة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430144",
-        "published_date": "2026-10-03T05:14:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "244e0156c648",
-        "title": "خبير في الطقس يتوقع أمطارًا متفاوتة الشدة على سقطرى ومناطق محدودة من البلاد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430147",
-        "published_date": "2026-10-03T04:41:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c9c3120dd2f8",
-        "title": "وزير خارجية باكستان يعلن عن اجتماع مرتقب لوزراء اتفاق مكة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430140",
-        "published_date": "2026-10-02T20:26:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0ecbd95bcd9b",
-        "title": "المالكي يعلن اعتراض وتدمير صواريخ باليستية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430137",
-        "published_date": "2026-10-02T20:07:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "28a3fac5717f",
-        "title": "ناطق حكومة صنعاء: الضربات التي تنفذ تستهدف القوات السعودية والتحشيدات المرتبطة بها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430134",
-        "published_date": "2026-10-02T19:57:33Z",
         "category": "Local Events"
       }
     ]
