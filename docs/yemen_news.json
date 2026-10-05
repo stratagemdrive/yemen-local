@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-04T15:43:45Z",
+  "last_updated": "2026-10-05T01:45:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "67409a118c12",
+        "title": "إقرار تأجيل مباريات دوري الدرجة الأولى إلى موعد لاحق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430238",
+        "published_date": "2026-10-04T22:17:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b753658c69a8",
+        "title": "المالكي يؤكد استمرار عمليات دعم الحكومة اليمنية وقواتها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430240",
+        "published_date": "2026-10-04T21:52:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7f537fc56b04",
+        "title": "قوات حكومة صنعاء تدخل مدينة التربة وتتجه نحو مسقط رأس العليمي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430235",
+        "published_date": "2026-10-04T21:00:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b56516f4fae1",
         "title": "سريع يعلن تنفيذ عمليتي استهداف في السعودية",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430188",
         "published_date": "2026-10-03T15:57:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "df1ec46bbf22",
-        "title": "تعز.. هنا تقف كرامة اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430186",
-        "published_date": "2026-10-03T15:01:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a4c1fc6c1e2d",
-        "title": "في ذكرى رحيل المناضل الأستاذ سعيد أحمد الجناحي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430184",
-        "published_date": "2026-10-03T14:58:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3eede2e2fda3",
-        "title": "المثقف المريض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430182",
-        "published_date": "2026-10-03T14:46:01Z",
         "category": "Local Events"
       }
     ]
