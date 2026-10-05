@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-05T01:45:54Z",
+  "last_updated": "2026-10-05T19:35:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,102 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "2cd9a40ae8b6",
+        "title": "حين تدخل المليشيا بيتك… يسقط بريق الشعارات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430273",
+        "published_date": "2026-10-05T18:23:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7100e61a9a5d",
+        "title": "غرفة لا تتسع للهزيمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430271",
+        "published_date": "2026-10-05T17:12:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9abdaa94a769",
+        "title": "قوات حكومة صنعاء تنفي ما يتم تداوله من أخبار ميدانية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430269",
+        "published_date": "2026-10-05T16:10:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d7c00628bca3",
+        "title": "قوات الحكومة المعترف بها دوليًا تعلن السيطرة على مدينة المخا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430266",
+        "published_date": "2026-10-05T15:42:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b36988377fb5",
+        "title": "تعز.. فتح طريق لسيارات النقل الخفيف فقط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430263",
+        "published_date": "2026-10-05T14:52:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0492cef0dc84",
+        "title": "سريع يعلن إسقاط طائرة استطلاع في تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430261",
+        "published_date": "2026-10-05T11:47:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c7b5ce0e6e31",
+        "title": "المالكي يعلن إطلاق عملية «فجر اليمن» والنزيلي يتحدث عن هجوم استراتيجي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430257",
+        "published_date": "2026-10-05T10:58:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fddc3547120d",
+        "title": "صنعاء.. الإعلان رسميًا عن السيطرة على مسقط رأس العليمي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430254",
+        "published_date": "2026-10-05T10:26:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c01641e05f57",
+        "title": "الإعلان رسميًا عن سيطرة العمالقة ودرع الوطن على أجزاء من ذوباب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430251",
+        "published_date": "2026-10-05T09:46:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b04a79606480",
+        "title": "الأرصاد يتوقع استمرار الهطولات المطرية المتفرقة على أجزاء من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430249",
+        "published_date": "2026-10-05T09:11:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "79b243228d1d",
+        "title": "أنباء متداولة عن تقدم العمالقة باتجاه باب المندب وصنعاء توضح حقيقة ما يتم تداوله",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430247",
+        "published_date": "2026-10-05T08:11:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44f6fdfd368a",
+        "title": "إغلاق الطرق المؤدية إلى مدينة تعز ومخاوف من أزمة تموينية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430244",
+        "published_date": "2026-10-05T05:44:17Z",
+        "category": "Local Events"
+      },
       {
         "_id": "67409a118c12",
         "title": "إقرار تأجيل مباريات دوري الدرجة الأولى إلى موعد لاحق",
@@ -76,102 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430221",
         "published_date": "2026-10-04T09:43:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c34714ec19d",
-        "title": "وكالة: باكستان ترسل أربع طائرات شحن عسكرية إلى عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430217",
-        "published_date": "2026-10-04T09:05:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "28c73c532a20",
-        "title": "حميدان: مشكلة اليمن ليست في الجغرافيا بل في عقلية الغلبة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430215",
-        "published_date": "2026-10-04T06:59:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3285bcadb374",
-        "title": "انقطاع طريق رئيسي يربط بين مدينتي تعز والتربة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430212",
-        "published_date": "2026-10-04T04:20:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "79d7e863b69a",
-        "title": "خبير طقس يتوقع أمطارًا متفاوتة على مناطق واسعة من اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430209",
-        "published_date": "2026-10-04T03:43:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "77cda6ec08ad",
-        "title": "المقالح يحذر من خطورة الخطاب الطائفي ويدعو إلى خطاب وطني جامع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430207",
-        "published_date": "2026-10-03T20:45:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1dc3b709b1c3",
-        "title": "ما زلتُ أبحرُ رغم الموجِ منفردًا في (فلسفة البحر) لرشيد الكندي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430205",
-        "published_date": "2026-10-03T19:52:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "76a51a94a1e5",
-        "title": "سريع يعلن عن عملية استهداف في الرياض بصواريخ باليستية وطائرات مسيّرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430202",
-        "published_date": "2026-10-03T19:02:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "72e1711cf938",
-        "title": "النزيلي يعلن تنفيذ أكثر من 200 عملية استهداف ضد مواقع وتحركات للحوثيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430200",
-        "published_date": "2026-10-03T18:54:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c5770508773c",
-        "title": "جامعة تعز تعلق الدراسة في كليات ومراكز الجامعة بمدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430198",
-        "published_date": "2026-10-03T17:52:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6971919d825e",
-        "title": "منتخب الناشئين يتأهل إلى نهائي كأس غرب آسيا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430194",
-        "published_date": "2026-10-03T17:26:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "03c4f8067a16",
-        "title": "تسجيل هزتين أرضيتين من خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430191",
-        "published_date": "2026-10-03T16:58:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "916f10a71694",
-        "title": "أحتفي بطريقتي في اليوم العالمي للترجمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430188",
-        "published_date": "2026-10-03T15:57:39Z",
         "category": "Local Events"
       }
     ]
