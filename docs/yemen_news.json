@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-05T19:35:25Z",
+  "last_updated": "2026-10-06T02:47:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "c77d366d315c",
+        "title": "الوضع العسكري الميداني لطرفي الصراع في باب المندب خلال الساعات الماضية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430285",
+        "published_date": "2026-10-05T23:10:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4294046e7fee",
+        "title": "أورويل لم يتنبأ بالمستقبل… بل وصفه",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430284",
+        "published_date": "2026-10-05T23:08:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "af88af73fb6b",
+        "title": "بعد خسارته بضربات الترجيح.. منتخب الناشئين وصيفاً لبطولة غرب آسيا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430278",
+        "published_date": "2026-10-05T21:20:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6880046ee924",
+        "title": "ترامب: العملية الجارية ضد الحوثيين ستمضي بشكل جيد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430275",
+        "published_date": "2026-10-05T19:53:40Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2cd9a40ae8b6",
         "title": "حين تدخل المليشيا بيتك… يسقط بريق الشعارات",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430233",
         "published_date": "2026-10-04T13:14:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "36d62f28edab",
-        "title": "بعد سيطرتهم على مناطق واسعة في ريف تعز الجنوبي.. العليمي يعلن بدء العمليات العسكرية لاستعادة المناطق الخاضعة لسيطرة الحوثيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430229",
-        "published_date": "2026-10-04T12:39:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81292c9a9400",
-        "title": "سريع يعلن إحباط محاولات تقدم في الجوف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430227",
-        "published_date": "2026-10-04T12:25:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9d2223a898c8",
-        "title": "قوات حكومة صنعاء تسيطر على أجزاء واسعة من جنوب محافظة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430224",
-        "published_date": "2026-10-04T11:03:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6359ee2c8227",
-        "title": "موجات نزوح من مناطق المواجهات في ريف تعز الجنوبي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430221",
-        "published_date": "2026-10-04T09:43:19Z",
         "category": "Local Events"
       }
     ]
