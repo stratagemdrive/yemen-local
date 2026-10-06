@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-06T02:47:51Z",
+  "last_updated": "2026-10-06T17:07:36Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "a9c5f38e1455",
+        "title": "أبو راس: اليمن بحاجة إلى وقف الحرب ومشاهد قتل العاجزين عن القتال تعمّق الانقسام",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430308",
+        "published_date": "2026-10-06T16:17:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "95aadc088522",
+        "title": "عدن.. اندلاع حريق في مول تجاري بالمنصورة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430305",
+        "published_date": "2026-10-06T16:02:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4f5acab842be",
+        "title": "الأرصاد: أمطار رعدية على أجزاء من بعض المحافظات الجبلية وأجزاء من سهل تهامة والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430302",
+        "published_date": "2026-10-06T10:07:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fb516eeab664",
+        "title": "السعودية تعلن بدء تصحيح أوضاع اليمنيين المقيمين بطرق غير نظامية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430300",
+        "published_date": "2026-10-06T09:22:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "050fa77d95ef",
+        "title": "المقالح: الحرب لن تنهي أي طرف يمني والانتصار والانكسار العسكري لحظتان مؤقتتان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430296",
+        "published_date": "2026-10-06T05:06:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d7eb2770d86c",
+        "title": "تصعيد متبادل.. سريع يعلن عن هجمات على السعودية والمالكي يعلن تنفيذ عملية في الحديدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430293",
+        "published_date": "2026-10-06T04:03:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f596c8fad06f",
+        "title": "خبير في الطقس يتوقع عودة أمطار غزيرة مرتبطة  بالاضطرابات المدارية خلال الأيام القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430290",
+        "published_date": "2026-10-06T03:00:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "c77d366d315c",
         "title": "الوضع العسكري الميداني لطرفي الصراع في باب المندب خلال الساعات الماضية",
@@ -116,62 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430251",
         "published_date": "2026-10-05T09:46:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b04a79606480",
-        "title": "الأرصاد يتوقع استمرار الهطولات المطرية المتفرقة على أجزاء من المرتفعات والسواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430249",
-        "published_date": "2026-10-05T09:11:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "79b243228d1d",
-        "title": "أنباء متداولة عن تقدم العمالقة باتجاه باب المندب وصنعاء توضح حقيقة ما يتم تداوله",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430247",
-        "published_date": "2026-10-05T08:11:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44f6fdfd368a",
-        "title": "إغلاق الطرق المؤدية إلى مدينة تعز ومخاوف من أزمة تموينية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430244",
-        "published_date": "2026-10-05T05:44:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "67409a118c12",
-        "title": "إقرار تأجيل مباريات دوري الدرجة الأولى إلى موعد لاحق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430238",
-        "published_date": "2026-10-04T22:17:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b753658c69a8",
-        "title": "المالكي يؤكد استمرار عمليات دعم الحكومة اليمنية وقواتها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430240",
-        "published_date": "2026-10-04T21:52:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7f537fc56b04",
-        "title": "قوات حكومة صنعاء تدخل مدينة التربة وتتجه نحو مسقط رأس العليمي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430235",
-        "published_date": "2026-10-04T21:00:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b56516f4fae1",
-        "title": "سريع يعلن تنفيذ عمليتي استهداف في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430233",
-        "published_date": "2026-10-04T13:14:09Z",
         "category": "Local Events"
       }
     ]
