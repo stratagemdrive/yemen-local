@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-07T02:11:24Z",
+  "last_updated": "2026-10-07T17:44:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,11 +15,83 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "20bc3e91d114",
+        "title": "القاضي الخبي يدعو سلطة صنعاء للاستجابة لأي مفاوضات جادة لإنهاء الحرب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430365",
+        "published_date": "2026-10-07T10:41:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "98c0907736bc",
+        "title": "الأرصاد يتوقع أمطارًا رعدية على 5 محافظات وأجزاء من سهل تهامة والسواحل المجاورة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430361",
+        "published_date": "2026-10-07T09:04:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "864c94dcb006",
+        "title": "بعد غياب “23” عاما.. المنتخب السعودي بطلا لـ «خليجي 27»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430353",
+        "published_date": "2026-10-07T06:53:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "08e9d28eaf98",
+        "title": "حين لم نعد ننتظر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430350",
+        "published_date": "2026-10-07T05:44:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1bc851ad1889",
+        "title": "تعز.. بائعو قات يشكون من متحصلي الضرائب في دمنة خدير",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430346",
+        "published_date": "2026-10-07T05:16:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9c567361dbe4",
+        "title": "“عمَّاءات الخيبة”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430344",
+        "published_date": "2026-10-07T03:45:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "83a0ed653bab",
+        "title": "البيض: اليمنيون بحاجة لدولة ومؤسسات تضمن الحقوق وتصون الكرامة وتحتكم للقانون",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430342",
+        "published_date": "2026-10-07T03:28:52Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "5402f04d0623",
         "title": "خبير طقس: أمطار غزيرة ومتوسطة على أجزاء من المرتفعات وسهل تهامة",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430334",
-        "published_date": "2026-10-07T02:10:06Z",
+        "published_date": "2026-10-07T03:10:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "539076124de5",
+        "title": "سريع يعلن إسقاط طائرة استطلاع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430339",
+        "published_date": "2026-10-07T02:36:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6bb2420277de",
+        "title": "المالكي يعلن اعتراض وتدمير صاروخ باليستي في أجواء الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430337",
+        "published_date": "2026-10-07T02:20:30Z",
         "category": "Local Events"
       },
       {
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430305",
         "published_date": "2026-10-06T16:02:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4f5acab842be",
-        "title": "الأرصاد: أمطار رعدية على أجزاء من بعض المحافظات الجبلية وأجزاء من سهل تهامة والسواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430302",
-        "published_date": "2026-10-06T10:07:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fb516eeab664",
-        "title": "السعودية تعلن بدء تصحيح أوضاع اليمنيين المقيمين بطرق غير نظامية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430300",
-        "published_date": "2026-10-06T09:22:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "050fa77d95ef",
-        "title": "المقالح: الحرب لن تنهي أي طرف يمني والانتصار والانكسار العسكري لحظتان مؤقتتان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430296",
-        "published_date": "2026-10-06T05:06:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7eb2770d86c",
-        "title": "تصعيد متبادل.. سريع يعلن عن هجمات على السعودية والمالكي يعلن تنفيذ عملية في الحديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430293",
-        "published_date": "2026-10-06T04:03:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f596c8fad06f",
-        "title": "خبير في الطقس يتوقع عودة أمطار غزيرة مرتبطة  بالاضطرابات المدارية خلال الأيام القادمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430290",
-        "published_date": "2026-10-06T03:00:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c77d366d315c",
-        "title": "الوضع العسكري الميداني لطرفي الصراع في باب المندب خلال الساعات الماضية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430285",
-        "published_date": "2026-10-05T23:10:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4294046e7fee",
-        "title": "أورويل لم يتنبأ بالمستقبل… بل وصفه",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430284",
-        "published_date": "2026-10-05T23:08:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "af88af73fb6b",
-        "title": "بعد خسارته بضربات الترجيح.. منتخب الناشئين وصيفاً لبطولة غرب آسيا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430278",
-        "published_date": "2026-10-05T21:20:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6880046ee924",
-        "title": "ترامب: العملية الجارية ضد الحوثيين ستمضي بشكل جيد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430275",
-        "published_date": "2026-10-05T19:53:40Z",
         "category": "Local Events"
       }
     ]
