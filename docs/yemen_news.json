@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-06T17:07:36Z",
+  "last_updated": "2026-10-07T02:11:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "5402f04d0623",
+        "title": "خبير طقس: أمطار غزيرة ومتوسطة على أجزاء من المرتفعات وسهل تهامة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430334",
+        "published_date": "2026-10-07T02:10:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7a887573ffd9",
+        "title": "ضحايا من المسافرين في حادثين منفصلين على طرقات تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430330",
+        "published_date": "2026-10-07T01:27:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a135158b7543",
+        "title": "كرامة اليمني ليست غنيمة حرب… ولا ثأرًا يُورَّث",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430328",
+        "published_date": "2026-10-07T00:58:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f5b0f1d33acb",
+        "title": "أكتوبر.. حين انتصرت إرادة اليمنيين على قوة الإمبراطورية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430325",
+        "published_date": "2026-10-07T00:55:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "df1c973ea413",
+        "title": "عدن.. الشرطة تعلن تعرض المطار لهجوم صاروخي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430323",
+        "published_date": "2026-10-07T00:34:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d41cde8ce220",
+        "title": "بعد قرار سحبها وإتلافها.. تحركات حثيثة للإفراج عن محاليل غير مطابقة لمرضى الأورام السرطانية والفشل الكلوي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430320",
+        "published_date": "2026-10-06T18:36:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80635cfe42a0",
+        "title": "مؤسسة مكافحة الاتجار بالبشر تحذر أطراف النزاع في اليمن من انتهاكات القانون الدولي والتمثيل بجثث الأسرى",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430316",
+        "published_date": "2026-10-06T18:27:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8febd2af54a3",
+        "title": "هل نسمح للذكاء الاصطناعي برسم التاريخ… جدارية توت عنخ آمون ونفرتيتي تفتح سؤال الذاكرة والهوية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430313",
+        "published_date": "2026-10-06T17:59:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "46f24a2ac7e4",
+        "title": "سريع يعلن تنفيذ هجمات في عدد من المحافظات اليمنية وعمليات في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430310",
+        "published_date": "2026-10-06T17:36:38Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a9c5f38e1455",
         "title": "أبو راس: اليمن بحاجة إلى وقف الحرب ومشاهد قتل العاجزين عن القتال تعمّق الانقسام",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430275",
         "published_date": "2026-10-05T19:53:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2cd9a40ae8b6",
-        "title": "حين تدخل المليشيا بيتك… يسقط بريق الشعارات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430273",
-        "published_date": "2026-10-05T18:23:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7100e61a9a5d",
-        "title": "غرفة لا تتسع للهزيمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430271",
-        "published_date": "2026-10-05T17:12:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9abdaa94a769",
-        "title": "قوات حكومة صنعاء تنفي ما يتم تداوله من أخبار ميدانية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430269",
-        "published_date": "2026-10-05T16:10:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7c00628bca3",
-        "title": "قوات الحكومة المعترف بها دوليًا تعلن السيطرة على مدينة المخا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430266",
-        "published_date": "2026-10-05T15:42:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b36988377fb5",
-        "title": "تعز.. فتح طريق لسيارات النقل الخفيف فقط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430263",
-        "published_date": "2026-10-05T14:52:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0492cef0dc84",
-        "title": "سريع يعلن إسقاط طائرة استطلاع في تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430261",
-        "published_date": "2026-10-05T11:47:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c7b5ce0e6e31",
-        "title": "المالكي يعلن إطلاق عملية «فجر اليمن» والنزيلي يتحدث عن هجوم استراتيجي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430257",
-        "published_date": "2026-10-05T10:58:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fddc3547120d",
-        "title": "صنعاء.. الإعلان رسميًا عن السيطرة على مسقط رأس العليمي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430254",
-        "published_date": "2026-10-05T10:26:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c01641e05f57",
-        "title": "الإعلان رسميًا عن سيطرة العمالقة ودرع الوطن على أجزاء من ذوباب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430251",
-        "published_date": "2026-10-05T09:46:18Z",
         "category": "Local Events"
       }
     ]
