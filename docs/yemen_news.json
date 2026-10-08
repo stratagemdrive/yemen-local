@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-08T02:37:03Z",
+  "last_updated": "2026-10-08T17:48:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "f33e4ebc0d17",
+        "title": "المالكي يعلن اعتراض صواريخ باليستية والدفاع المدني يتحدث عن أضرار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430402",
+        "published_date": "2026-10-08T14:42:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3fb778cc7956",
+        "title": "سريع يعلن استهداف مطار سعودي ويحذر العاملين في عدد من المنشآت السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430400",
+        "published_date": "2026-10-08T14:15:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f7bc95e33ac0",
+        "title": "الأرصاد: أمطار رعدية على سبع محافظات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430398",
+        "published_date": "2026-10-08T13:46:30Z",
+        "category": "Local Events"
+      },
       {
         "_id": "4771ddd59a2b",
         "title": "تدليس إبليس..",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430346",
         "published_date": "2026-10-07T05:16:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c567361dbe4",
-        "title": "“عمَّاءات الخيبة”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430344",
-        "published_date": "2026-10-07T03:45:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "83a0ed653bab",
-        "title": "البيض: اليمنيون بحاجة لدولة ومؤسسات تضمن الحقوق وتصون الكرامة وتحتكم للقانون",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430342",
-        "published_date": "2026-10-07T03:28:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5402f04d0623",
-        "title": "خبير طقس: أمطار غزيرة ومتوسطة على أجزاء من المرتفعات وسهل تهامة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430334",
-        "published_date": "2026-10-07T03:10:06Z",
         "category": "Local Events"
       }
     ]
