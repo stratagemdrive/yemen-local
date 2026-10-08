@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-07T17:44:08Z",
+  "last_updated": "2026-10-08T02:37:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,102 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "4771ddd59a2b",
+        "title": "تدليس إبليس..",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430396",
+        "published_date": "2026-10-08T01:43:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1472ada797a7",
+        "title": "القصة القصيرة ليست رواية ناقصة الفرق بين التكثيف والبناء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430392",
+        "published_date": "2026-10-08T01:35:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3578807c1ec7",
+        "title": "أي طريق مجهول نحن فيه سائرون؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430390",
+        "published_date": "2026-10-08T01:32:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "863bf020fb3b",
+        "title": "لمن يختلف معنا..؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430388",
+        "published_date": "2026-10-08T01:29:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a78d9289de33",
+        "title": "سفيان النشمة و تلك الليلة المقمرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430386",
+        "published_date": "2026-10-08T01:24:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6882a7f8a182",
+        "title": "اساسيات كتابة الرواية السياسية بشكل ادبي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430383",
+        "published_date": "2026-10-08T01:21:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f6a61d183191",
+        "title": "دعس الدعس..!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430381",
+        "published_date": "2026-10-08T01:17:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e2d7cee7e63b",
+        "title": "التصعيد العسكري في تعز يجبر السائقين على المخاطرة بسلوك طرق بديلة وطويلة ووعرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430378",
+        "published_date": "2026-10-08T00:51:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5d97bec60b7f",
+        "title": "نجم المنتخب اليمني عادل عباس يحصد جائزة أفضل لاعب واعد في خليجي 27",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430375",
+        "published_date": "2026-10-08T00:04:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e724f8184ff8",
+        "title": "الحقوقي النبهاني يتساءل عن دوافع نشر أخبار كاذبة تتعلق بأحداث تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430373",
+        "published_date": "2026-10-07T23:42:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "05d31cb059cc",
+        "title": "غصة اسمها أنت.. نص سردي وجداني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430370",
+        "published_date": "2026-10-07T23:24:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5be9e8395729",
+        "title": "المالكي يعلن استهداف 82 هدفًا في اليمن وسريع يتحدث عن ضرب 11 تجمعًا في الساحل الغربي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430367",
+        "published_date": "2026-10-07T23:07:05Z",
+        "category": "Local Events"
+      },
       {
         "_id": "20bc3e91d114",
         "title": "القاضي الخبي يدعو سلطة صنعاء للاستجابة لأي مفاوضات جادة لإنهاء الحرب",
@@ -76,102 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430334",
         "published_date": "2026-10-07T03:10:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "539076124de5",
-        "title": "سريع يعلن إسقاط طائرة استطلاع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430339",
-        "published_date": "2026-10-07T02:36:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6bb2420277de",
-        "title": "المالكي يعلن اعتراض وتدمير صاروخ باليستي في أجواء الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430337",
-        "published_date": "2026-10-07T02:20:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7a887573ffd9",
-        "title": "ضحايا من المسافرين في حادثين منفصلين على طرقات تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430330",
-        "published_date": "2026-10-07T01:27:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a135158b7543",
-        "title": "كرامة اليمني ليست غنيمة حرب… ولا ثأرًا يُورَّث",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430328",
-        "published_date": "2026-10-07T00:58:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f5b0f1d33acb",
-        "title": "أكتوبر.. حين انتصرت إرادة اليمنيين على قوة الإمبراطورية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430325",
-        "published_date": "2026-10-07T00:55:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "df1c973ea413",
-        "title": "عدن.. الشرطة تعلن تعرض المطار لهجوم صاروخي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430323",
-        "published_date": "2026-10-07T00:34:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d41cde8ce220",
-        "title": "بعد قرار سحبها وإتلافها.. تحركات حثيثة للإفراج عن محاليل غير مطابقة لمرضى الأورام السرطانية والفشل الكلوي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430320",
-        "published_date": "2026-10-06T18:36:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80635cfe42a0",
-        "title": "مؤسسة مكافحة الاتجار بالبشر تحذر أطراف النزاع في اليمن من انتهاكات القانون الدولي والتمثيل بجثث الأسرى",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430316",
-        "published_date": "2026-10-06T18:27:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8febd2af54a3",
-        "title": "هل نسمح للذكاء الاصطناعي برسم التاريخ… جدارية توت عنخ آمون ونفرتيتي تفتح سؤال الذاكرة والهوية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430313",
-        "published_date": "2026-10-06T17:59:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "46f24a2ac7e4",
-        "title": "سريع يعلن تنفيذ هجمات في عدد من المحافظات اليمنية وعمليات في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430310",
-        "published_date": "2026-10-06T17:36:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a9c5f38e1455",
-        "title": "أبو راس: اليمن بحاجة إلى وقف الحرب ومشاهد قتل العاجزين عن القتال تعمّق الانقسام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430308",
-        "published_date": "2026-10-06T16:17:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "95aadc088522",
-        "title": "عدن.. اندلاع حريق في مول تجاري بالمنصورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430305",
-        "published_date": "2026-10-06T16:02:02Z",
         "category": "Local Events"
       }
     ]
