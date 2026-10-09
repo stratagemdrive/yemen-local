@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-08T17:48:22Z",
+  "last_updated": "2026-10-09T02:51:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "252e01d080bc",
+        "title": "المقطري يحذر من تداعيات خطاب الكراهية على المجتمع اليمني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430415",
+        "published_date": "2026-10-08T21:24:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e4f02bbcd88c",
+        "title": "فرض إجراءات جديدة على تنقل المواطنين بين تعز وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430410",
+        "published_date": "2026-10-08T20:56:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "66f9010f8986",
+        "title": "غارات تستهدف العاصمة صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430412",
+        "published_date": "2026-10-08T20:35:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0e3dc7a9f5d",
+        "title": "“وثيقة”.. تشكيل لواء عسكري جديد في شبوة يحمل مسمى «سلفي»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430407",
+        "published_date": "2026-10-08T19:36:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e4310127ed4c",
+        "title": "الصليب الأحمر يعلن تلقيه قرابة ألفي طلب للبحث عن مفقودين في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430405",
+        "published_date": "2026-10-08T18:58:33Z",
+        "category": "Local Events"
+      },
       {
         "_id": "f33e4ebc0d17",
         "title": "المالكي يعلن اعتراض صواريخ باليستية والدفاع المدني يتحدث عن أضرار",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430367",
         "published_date": "2026-10-07T23:07:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "20bc3e91d114",
-        "title": "القاضي الخبي يدعو سلطة صنعاء للاستجابة لأي مفاوضات جادة لإنهاء الحرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430365",
-        "published_date": "2026-10-07T10:41:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "98c0907736bc",
-        "title": "الأرصاد يتوقع أمطارًا رعدية على 5 محافظات وأجزاء من سهل تهامة والسواحل المجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430361",
-        "published_date": "2026-10-07T09:04:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "864c94dcb006",
-        "title": "بعد غياب “23” عاما.. المنتخب السعودي بطلا لـ «خليجي 27»",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430353",
-        "published_date": "2026-10-07T06:53:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "08e9d28eaf98",
-        "title": "حين لم نعد ننتظر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430350",
-        "published_date": "2026-10-07T05:44:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1bc851ad1889",
-        "title": "تعز.. بائعو قات يشكون من متحصلي الضرائب في دمنة خدير",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430346",
-        "published_date": "2026-10-07T05:16:49Z",
         "category": "Local Events"
       }
     ]
