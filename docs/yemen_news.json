@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-09T02:51:48Z",
+  "last_updated": "2026-10-09T17:28:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,86 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "bed3af3cd1ad",
+        "title": "اليمن ليس حزبا.. والوطن لا يُورَّث للقيادات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430446",
+        "published_date": "2026-10-09T16:59:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e138e516e7d7",
+        "title": "سياسيون يحملون الدكتوراه ويديرون الدولة بعقلية القبيلة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430444",
+        "published_date": "2026-10-09T16:38:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "84b4a7a272da",
+        "title": "استمرار الصراع ليس قدرًا محتومًا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430440",
+        "published_date": "2026-10-09T16:34:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "97e22884fb08",
+        "title": "نص “عمَّاءات الخيبة”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430435",
+        "published_date": "2026-10-09T16:28:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3f9eae246e3f",
+        "title": "سريع يتحدث عن سماح مشروط بالرحلات إلى مطار الرياض والمالكي يعلن تدمير منصات صاروخية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430436",
+        "published_date": "2026-10-09T14:21:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "425b23234587",
+        "title": "أنباء عن سيطرة العمالقة ودرع الوطن على باب المندب وقوات حكومة صنعاء تعلن دحر تحشيدات قادمة من لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430429",
+        "published_date": "2026-10-09T11:39:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "79f62adafc87",
+        "title": "لجنة العقوبات الأممية تناقش التقرير النهائي لفريق الخبراء بشأن اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430427",
+        "published_date": "2026-10-09T10:21:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b9c453a3980f",
+        "title": "هيئة الطيران السعودي تعلن سقوط ضحايا جراء استهداف مطار وطائرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430423",
+        "published_date": "2026-10-09T09:38:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7224dda5f561",
+        "title": "مدينة تعز.. أزمة تموينية وأسعار جنونية وسط أنباء عن مفاوضات لتجنيب المدينة المواجهات المسلحة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430420",
+        "published_date": "2026-10-09T07:41:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b8fa87457a07",
+        "title": "خبير طقس: اضطرابات مدارية وأمطار متفاوتة على مناطق واسعة من اليمن خلال الأيام المقبلة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430417",
+        "published_date": "2026-10-09T06:42:12Z",
+        "category": "Local Events"
+      },
       {
         "_id": "252e01d080bc",
         "title": "المقطري يحذر من تداعيات خطاب الكراهية على المجتمع اليمني",
@@ -92,86 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430392",
         "published_date": "2026-10-08T01:35:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3578807c1ec7",
-        "title": "أي طريق مجهول نحن فيه سائرون؟!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430390",
-        "published_date": "2026-10-08T01:32:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "863bf020fb3b",
-        "title": "لمن يختلف معنا..؟!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430388",
-        "published_date": "2026-10-08T01:29:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a78d9289de33",
-        "title": "سفيان النشمة و تلك الليلة المقمرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430386",
-        "published_date": "2026-10-08T01:24:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6882a7f8a182",
-        "title": "اساسيات كتابة الرواية السياسية بشكل ادبي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430383",
-        "published_date": "2026-10-08T01:21:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6a61d183191",
-        "title": "دعس الدعس..!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430381",
-        "published_date": "2026-10-08T01:17:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e2d7cee7e63b",
-        "title": "التصعيد العسكري في تعز يجبر السائقين على المخاطرة بسلوك طرق بديلة وطويلة ووعرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430378",
-        "published_date": "2026-10-08T00:51:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d97bec60b7f",
-        "title": "نجم المنتخب اليمني عادل عباس يحصد جائزة أفضل لاعب واعد في خليجي 27",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430375",
-        "published_date": "2026-10-08T00:04:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e724f8184ff8",
-        "title": "الحقوقي النبهاني يتساءل عن دوافع نشر أخبار كاذبة تتعلق بأحداث تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430373",
-        "published_date": "2026-10-07T23:42:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "05d31cb059cc",
-        "title": "غصة اسمها أنت.. نص سردي وجداني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430370",
-        "published_date": "2026-10-07T23:24:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5be9e8395729",
-        "title": "المالكي يعلن استهداف 82 هدفًا في اليمن وسريع يتحدث عن ضرب 11 تجمعًا في الساحل الغربي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430367",
-        "published_date": "2026-10-07T23:07:05Z",
         "category": "Local Events"
       }
     ]
