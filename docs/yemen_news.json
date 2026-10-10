@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-09T17:28:44Z",
+  "last_updated": "2026-10-10T02:12:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "47dcd81eeba5",
+        "title": "طواحين الهواء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430459",
+        "published_date": "2026-10-09T21:09:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "222864adc1bd",
+        "title": "حريق يلتهم مساكن لاجئين في وادي حضرموت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430456",
+        "published_date": "2026-10-09T20:06:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0aed6938525",
+        "title": "غروندبرغ: اليمن انزلق مجدداً إلى حرب شاملة والعمليات العسكرية لا تغني عن المفاوضات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430452",
+        "published_date": "2026-10-09T17:33:56Z",
+        "category": "Local Events"
+      },
       {
         "_id": "bed3af3cd1ad",
         "title": "اليمن ليس حزبا.. والوطن لا يُورَّث للقيادات",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430400",
         "published_date": "2026-10-08T14:15:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f7bc95e33ac0",
-        "title": "الأرصاد: أمطار رعدية على سبع محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430398",
-        "published_date": "2026-10-08T13:46:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4771ddd59a2b",
-        "title": "تدليس إبليس..",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430396",
-        "published_date": "2026-10-08T01:43:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1472ada797a7",
-        "title": "القصة القصيرة ليست رواية ناقصة الفرق بين التكثيف والبناء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430392",
-        "published_date": "2026-10-08T01:35:36Z",
         "category": "Local Events"
       }
     ]
