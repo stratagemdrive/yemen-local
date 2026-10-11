@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-10T16:14:15Z",
+  "last_updated": "2026-10-11T01:43:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "72390684bb3a",
+        "title": "الاعلان رسميا عن تعليق العمليات التشغيلية في مطار الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430505",
+        "published_date": "2026-10-10T17:18:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b288f8734492",
+        "title": "تركوك وحيدًا… أحمد سيف حاشد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430508",
+        "published_date": "2026-10-10T17:05:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c7b3914e3b54",
+        "title": "مطار الملك خالد بالرياض يدعو المسافرين للتحقق من حالة رحلاتهم قبل التوجه إلى المطار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430503",
+        "published_date": "2026-10-10T16:38:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b7bddb915f66",
         "title": "السقلدي: الأموال الخليجية في اليمن تذهب لاستمالة قوى نافذة بدلاً من تمويل التنمية",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430446",
         "published_date": "2026-10-09T16:59:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e138e516e7d7",
-        "title": "سياسيون يحملون الدكتوراه ويديرون الدولة بعقلية القبيلة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430444",
-        "published_date": "2026-10-09T16:38:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "84b4a7a272da",
-        "title": "استمرار الصراع ليس قدرًا محتومًا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430440",
-        "published_date": "2026-10-09T16:34:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "97e22884fb08",
-        "title": "نص “عمَّاءات الخيبة”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430435",
-        "published_date": "2026-10-09T16:28:32Z",
         "category": "Local Events"
       }
     ]
