@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-11T01:43:23Z",
+  "last_updated": "2026-10-11T16:36:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,102 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "a38580db3928",
+        "title": "المالكي: اعتراض صاروخ كروز وسقوط مقذوف مجهول على صالة بمطار الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430539",
+        "published_date": "2026-10-11T16:32:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "026d85487303",
+        "title": "سريع يعلن استهداف مطارين ومنشآت نفطية في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430537",
+        "published_date": "2026-10-11T16:10:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a61ad95e8376",
+        "title": "ضحايا في هجومين استهدفا شاحنة وباص ركاب في شبوة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430534",
+        "published_date": "2026-10-11T11:18:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9b5c225deb42",
+        "title": "تعثر دخول شاحنات نقل البضائع إلى مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430531",
+        "published_date": "2026-10-11T10:19:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0af4451ccfaf",
+        "title": "الأرصاد يرفع التنبيه إلى تحذير ويتوقع أمطارًا رعدية على 3 محافظات ومتفرقة على محافظات أخرى",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430529",
+        "published_date": "2026-10-11T09:20:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6463cb6e3a55",
+        "title": "سريع يجدد التحذير من استخدام المطارات والأجواء السعودية ويستثني مطارين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430527",
+        "published_date": "2026-10-11T08:41:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "17ce7a4eaa13",
+        "title": "المبعوث الأممي يحذر من تداعيات قصف مطار الرياض على جهود السلام في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430525",
+        "published_date": "2026-10-11T07:39:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "df3441c98915",
+        "title": "سلسلة غارات تستهدف تباب شرق وشمال مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430521",
+        "published_date": "2026-10-11T07:10:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "410a15f18bb8",
+        "title": "حميدان: استبداد باسم الدين وآخر باسم الوطنية.. والضحية شراكة اليمنيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430519",
+        "published_date": "2026-10-11T05:56:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "54b5df8cf369",
+        "title": "هيئة الطيران المدني السعودية تكشف عن إحصائية بضحايا استهداف مطار الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430516",
+        "published_date": "2026-10-11T05:28:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2b87cba84e59",
+        "title": "أبو راس: القوى المتواجهة قد تكون جزءًا من معادلة إعادة تشكيل المنطقة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430514",
+        "published_date": "2026-10-11T03:56:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "38985b52230b",
+        "title": "خبير طقس: تشكل حالة مدارية في بحر العرب خلال الأسبوعين المقبلين سيؤثر على طقس اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430511",
+        "published_date": "2026-10-11T03:20:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "72390684bb3a",
         "title": "الاعلان رسميا عن تعليق العمليات التشغيلية في مطار الرياض",
@@ -76,102 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430491",
         "published_date": "2026-10-10T11:53:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c899e3f8b615",
-        "title": "مستقبل اليمن أكبر من منطق الغلبة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430489",
-        "published_date": "2026-10-10T11:26:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "732f3e189ddf",
-        "title": "مهرجان بابل للثقافات العالمية يكرّم الشاعرة اليمنية هدى أبلان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430483",
-        "published_date": "2026-10-10T09:29:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e944dd1e1824",
-        "title": "باب المندب.. معارك كر وفر ومحاولات لاستعادة السيطرة وسط تغير مستمر للوضع الميداني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430478",
-        "published_date": "2026-10-10T09:00:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "641835f0af01",
-        "title": "خبير مالي: تكلفة الحرب في اليمن تتجاوز 150 مليون دولار خلال شهر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430475",
-        "published_date": "2026-10-10T08:14:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "99586846e1f4",
-        "title": "تعز لا تدار بمنطق الساطور والبندقية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430473",
-        "published_date": "2026-10-10T07:53:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "99f82e08a538",
-        "title": "فتح طريق يربط بين تعز وعدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430470",
-        "published_date": "2026-10-10T07:16:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4a3b8a1a4c63",
-        "title": "منتخب الناشئين يستعد للمشاركة في بطولة الخليج للناشئين بمعسكر خارجي في الدمام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430467",
-        "published_date": "2026-10-10T06:44:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4bbf8f1a31b4",
-        "title": "توقعات خبير طقس للحالة الجوية المرافقة لتحرك المنخفص الجوي في بحر العرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430464",
-        "published_date": "2026-10-10T06:11:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "47dcd81eeba5",
-        "title": "طواحين الهواء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430459",
-        "published_date": "2026-10-09T21:09:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "222864adc1bd",
-        "title": "حريق يلتهم مساكن لاجئين في وادي حضرموت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430456",
-        "published_date": "2026-10-09T20:06:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f0aed6938525",
-        "title": "غروندبرغ: اليمن انزلق مجدداً إلى حرب شاملة والعمليات العسكرية لا تغني عن المفاوضات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430452",
-        "published_date": "2026-10-09T17:33:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bed3af3cd1ad",
-        "title": "اليمن ليس حزبا.. والوطن لا يُورَّث للقيادات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430446",
-        "published_date": "2026-10-09T16:59:58Z",
         "category": "Local Events"
       }
     ]
