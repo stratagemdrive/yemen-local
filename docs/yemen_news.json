@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-12T02:11:38Z",
+  "last_updated": "2026-10-12T20:12:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,94 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "541e3c8ff2fd",
+        "title": "تسجيل هزتين أرضيتين في محافظة ذمار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430578",
+        "published_date": "2026-10-12T19:36:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1e8a06eb9ec",
+        "title": "سريع يعلن استهداف مطار وقاعدة جوية في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430576",
+        "published_date": "2026-10-12T19:13:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "14c6133d901d",
+        "title": "الدفاع المدني السعودي يحذر من خطر على مدينة الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430574",
+        "published_date": "2026-10-12T18:59:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "acd1c93e056a",
+        "title": "حنداد: ما تواجهه السعودية في اليمن نتاج سياساتها على مدى خمسة عقود",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430572",
+        "published_date": "2026-10-12T18:29:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eb9c27c16208",
+        "title": "تعز.. إخلاء الإصلاحية المركزية من النزلاء مع اقتراب المواجهات من غرب المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430568",
+        "published_date": "2026-10-12T17:27:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "869fa142edd6",
+        "title": "الأرصاد: أمطار رعدية على 6 محافظات وأجزاء من السواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430566",
+        "published_date": "2026-10-12T09:54:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f456d4147c93",
+        "title": "تعز.. الإفراج عن شيخ قبلي بعد اقتحام منزله من قبل قوة أمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430563",
+        "published_date": "2026-10-12T09:19:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b61a98715377",
+        "title": "السعودية تمدد تعليق العمليات التشغيلية في مطار الملك خالد بالرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430561",
+        "published_date": "2026-10-12T08:52:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "84c61e21e2ba",
+        "title": "حميدان يتسأل: من هي الاطراف المستفيدة من استمرار ضعف اليمن وانقسامه..؟!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430559",
+        "published_date": "2026-10-12T08:35:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1020b09fd9ad",
+        "title": "بين النجاة والفقد: أنطولوجيا الحب والذاكرة في مجموعة (بِكَ أَنجو.. لكنْ لا شيء يبقى) للشاعرة أنسام جعفر الدباس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430554",
+        "published_date": "2026-10-12T07:10:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e764fbd48c1e",
+        "title": "خبير طقس: موجة برد تبدأ الأربعاء القادم وأخرى محتملة مع نهاية أكتوبر الجاري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430551",
+        "published_date": "2026-10-12T06:43:51Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5c693404f39c",
         "title": "تعز.. اقتحام منزل شيخ قبلي واقتياده إلى مكان مجهول",
@@ -84,94 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430529",
         "published_date": "2026-10-11T09:20:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6463cb6e3a55",
-        "title": "سريع يجدد التحذير من استخدام المطارات والأجواء السعودية ويستثني مطارين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430527",
-        "published_date": "2026-10-11T08:41:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17ce7a4eaa13",
-        "title": "المبعوث الأممي يحذر من تداعيات قصف مطار الرياض على جهود السلام في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430525",
-        "published_date": "2026-10-11T07:39:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "df3441c98915",
-        "title": "سلسلة غارات تستهدف تباب شرق وشمال مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430521",
-        "published_date": "2026-10-11T07:10:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "410a15f18bb8",
-        "title": "حميدان: استبداد باسم الدين وآخر باسم الوطنية.. والضحية شراكة اليمنيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430519",
-        "published_date": "2026-10-11T05:56:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "54b5df8cf369",
-        "title": "هيئة الطيران المدني السعودية تكشف عن إحصائية بضحايا استهداف مطار الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430516",
-        "published_date": "2026-10-11T05:28:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2b87cba84e59",
-        "title": "أبو راس: القوى المتواجهة قد تكون جزءًا من معادلة إعادة تشكيل المنطقة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430514",
-        "published_date": "2026-10-11T03:56:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "38985b52230b",
-        "title": "خبير طقس: تشكل حالة مدارية في بحر العرب خلال الأسبوعين المقبلين سيؤثر على طقس اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430511",
-        "published_date": "2026-10-11T03:20:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "72390684bb3a",
-        "title": "الاعلان رسميا عن تعليق العمليات التشغيلية في مطار الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430505",
-        "published_date": "2026-10-10T17:18:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b288f8734492",
-        "title": "تركوك وحيدًا… أحمد سيف حاشد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430508",
-        "published_date": "2026-10-10T17:05:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c7b3914e3b54",
-        "title": "مطار الملك خالد بالرياض يدعو المسافرين للتحقق من حالة رحلاتهم قبل التوجه إلى المطار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430503",
-        "published_date": "2026-10-10T16:38:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b7bddb915f66",
-        "title": "السقلدي: الأموال الخليجية في اليمن تذهب لاستمالة قوى نافذة بدلاً من تمويل التنمية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430501",
-        "published_date": "2026-10-10T15:53:03Z",
         "category": "Local Events"
       }
     ]
