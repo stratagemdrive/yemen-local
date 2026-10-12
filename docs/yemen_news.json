@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-11T16:36:44Z",
+  "last_updated": "2026-10-12T02:11:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "5c693404f39c",
+        "title": "تعز.. اقتحام منزل شيخ قبلي واقتياده إلى مكان مجهول",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430548",
+        "published_date": "2026-10-11T21:15:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "60a5c9b13622",
+        "title": "صراعُ النفوذ مستعرّ… ونزيفُ اليمنيين مستمرّ",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430546",
+        "published_date": "2026-10-11T20:46:23Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7490e0ef4889",
+        "title": "القاضي عمر الهمداني يطالب بالتحقيق في وقائع تحريض وتهديد وإساءة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430544",
+        "published_date": "2026-10-11T20:41:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bca578373ce3",
+        "title": "أكتوبر لم يمت.. اليمن ما زال يخوض معركة الحرية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430542",
+        "published_date": "2026-10-11T20:38:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a38580db3928",
         "title": "المالكي: اعتراض صاروخ كروز وسقوط مقذوف مجهول على صالة بمطار الرياض",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430501",
         "published_date": "2026-10-10T15:53:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "307889096d0f",
-        "title": "احتجاج في مركزي تعز يتحول إلى حالة شغب ومحاولة لتهريب سجناء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430499",
-        "published_date": "2026-10-10T14:25:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "89c9f53fcd31",
-        "title": "اليمن.. حين تصبح السلطة أكبر من الدولة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430497",
-        "published_date": "2026-10-10T13:59:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6898ca06a1fa",
-        "title": "فتح طريق الضباب يخفف من حدة الأزمة التموينية في مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430493",
-        "published_date": "2026-10-10T13:22:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6447b756015e",
-        "title": "أسعار صرف الريال اليمني مقابل العملات الأجنبية السبت 10 أكتوبر 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430491",
-        "published_date": "2026-10-10T11:53:59Z",
         "category": "Local Events"
       }
     ]
