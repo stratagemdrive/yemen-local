@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-13T03:26:02Z",
+  "last_updated": "2026-10-13T18:04:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,150 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "1ecec003b4e2",
+        "title": "“وثيقة”.. إيقاف مدير ميناء الوديعة البري وإحالته للتحقيق وتكليف آخر بتسيير العمل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430625",
+        "published_date": "2026-10-13T15:52:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "26ebb6d3657d",
+        "title": "المقالح: التنوع  في الخطاب الحربي لسلطة صنعاء غائب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430623",
+        "published_date": "2026-10-13T15:28:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b2f81b395a0e",
+        "title": "شركة النفط توضح حول منشآت الصباحة وسريع يعلن التصدي لتشكيلات قتالية وقصف جوي يستهدف صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430620",
+        "published_date": "2026-10-13T14:08:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ef2b607dce92",
+        "title": "دخول شاحنات نقل البضائع إلى مدينة تعز بعد انتظار لساعات طويلة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430616",
+        "published_date": "2026-10-13T13:26:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f6a384891870",
+        "title": "سريع يحذر العاملين في منشآت أرامكو من البقاء فيها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430613",
+        "published_date": "2026-10-13T12:59:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a6e05a7d2ae6",
+        "title": "التحالف يحدد المكان المطلوب إخلاؤه في صنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430610",
+        "published_date": "2026-10-13T12:44:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5f3a0de78e07",
+        "title": "سريع يحذر: أي استهداف لصنعاء سيقابل برد قاسٍ في الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430608",
+        "published_date": "2026-10-13T12:29:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebcb86a4148d",
+        "title": "المالكي يعلن اعتراض مسيرات في الرياض ويؤكد تنفيذ عملية نوعية بصنعاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430606",
+        "published_date": "2026-10-13T12:13:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "24a6cde7fc19",
+        "title": "سريع يعلن إسقاط طائرة استطلاع في أجواء محافظة صعدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430604",
+        "published_date": "2026-10-13T11:56:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c4501f2fbb55",
+        "title": "عندما تتطاول الجرذان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430602",
+        "published_date": "2026-10-13T10:23:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d24dd866f11b",
+        "title": "صنعاء.. جمعية الصرافين تعمم بإعادة التعامل مع منشأة صرافة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430600",
+        "published_date": "2026-10-13T10:02:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b927c874382c",
+        "title": "الأرصاد: أمطار رعدية ومتفرقة على مناطق واسعة من اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430598",
+        "published_date": "2026-10-13T09:34:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aaf3b40fc105",
+        "title": "الأربعاء القادم إجازة في صنعاء وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430594",
+        "published_date": "2026-10-13T07:48:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "58a221afced0",
+        "title": "نزلاء إصلاحية تعز المركزية يرفضون النقل وقوات مكافحة الشغب تستخدم الرصاص ومسيلات الدموع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430592",
+        "published_date": "2026-10-13T07:21:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "46c191312884",
+        "title": "مثقفون يمنيون يدعون السلطات في صنعاء وعدن لتوفير منحة علاجية للدبلوماسي عبد الله الحنكي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430589",
+        "published_date": "2026-10-13T06:51:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6f42790878b",
+        "title": "الهجرة الدولية تكشف عدد ضحايا غرق قارب مهاجرين كان متجها صوب اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430586",
+        "published_date": "2026-10-13T06:20:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9e5f6a2284f2",
+        "title": "المالكي يعلن اعتراض وتدمير صاروخين باليستيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430584",
+        "published_date": "2026-10-13T05:46:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0f242a918f42",
+        "title": "خبير طقس: أمطار غزيرة متوقعة على مناطق واسعة من اليمن وتحذيرات من تدفق السيول",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430581",
+        "published_date": "2026-10-13T05:15:57Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "541e3c8ff2fd",
         "title": "تسجيل هزتين أرضيتين في محافظة ذمار",
         "source": "Yemenat",
@@ -28,150 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430576",
         "published_date": "2026-10-12T19:13:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "14c6133d901d",
-        "title": "الدفاع المدني السعودي يحذر من خطر على مدينة الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430574",
-        "published_date": "2026-10-12T18:59:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "acd1c93e056a",
-        "title": "حنداد: ما تواجهه السعودية في اليمن نتاج سياساتها على مدى خمسة عقود",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430572",
-        "published_date": "2026-10-12T18:29:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eb9c27c16208",
-        "title": "تعز.. إخلاء الإصلاحية المركزية من النزلاء مع اقتراب المواجهات من غرب المدينة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430568",
-        "published_date": "2026-10-12T17:27:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "869fa142edd6",
-        "title": "الأرصاد: أمطار رعدية على 6 محافظات وأجزاء من السواحل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430566",
-        "published_date": "2026-10-12T09:54:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f456d4147c93",
-        "title": "تعز.. الإفراج عن شيخ قبلي بعد اقتحام منزله من قبل قوة أمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430563",
-        "published_date": "2026-10-12T09:19:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b61a98715377",
-        "title": "السعودية تمدد تعليق العمليات التشغيلية في مطار الملك خالد بالرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430561",
-        "published_date": "2026-10-12T08:52:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "84c61e21e2ba",
-        "title": "حميدان يتسأل: من هي الاطراف المستفيدة من استمرار ضعف اليمن وانقسامه..؟!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430559",
-        "published_date": "2026-10-12T08:35:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1020b09fd9ad",
-        "title": "بين النجاة والفقد: أنطولوجيا الحب والذاكرة في مجموعة (بِكَ أَنجو.. لكنْ لا شيء يبقى) للشاعرة أنسام جعفر الدباس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430554",
-        "published_date": "2026-10-12T07:10:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e764fbd48c1e",
-        "title": "خبير طقس: موجة برد تبدأ الأربعاء القادم وأخرى محتملة مع نهاية أكتوبر الجاري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430551",
-        "published_date": "2026-10-12T06:43:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c693404f39c",
-        "title": "تعز.. اقتحام منزل شيخ قبلي واقتياده إلى مكان مجهول",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430548",
-        "published_date": "2026-10-11T21:15:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "60a5c9b13622",
-        "title": "صراعُ النفوذ مستعرّ… ونزيفُ اليمنيين مستمرّ",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430546",
-        "published_date": "2026-10-11T20:46:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7490e0ef4889",
-        "title": "القاضي عمر الهمداني يطالب بالتحقيق في وقائع تحريض وتهديد وإساءة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430544",
-        "published_date": "2026-10-11T20:41:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bca578373ce3",
-        "title": "أكتوبر لم يمت.. اليمن ما زال يخوض معركة الحرية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430542",
-        "published_date": "2026-10-11T20:38:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a38580db3928",
-        "title": "المالكي: اعتراض صاروخ كروز وسقوط مقذوف مجهول على صالة بمطار الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430539",
-        "published_date": "2026-10-11T16:32:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "026d85487303",
-        "title": "سريع يعلن استهداف مطارين ومنشآت نفطية في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430537",
-        "published_date": "2026-10-11T16:10:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a61ad95e8376",
-        "title": "ضحايا في هجومين استهدفا شاحنة وباص ركاب في شبوة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430534",
-        "published_date": "2026-10-11T11:18:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9b5c225deb42",
-        "title": "تعثر دخول شاحنات نقل البضائع إلى مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430531",
-        "published_date": "2026-10-11T10:19:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0af4451ccfaf",
-        "title": "الأرصاد يرفع التنبيه إلى تحذير ويتوقع أمطارًا رعدية على 3 محافظات ومتفرقة على محافظات أخرى",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430529",
-        "published_date": "2026-10-11T09:20:17Z",
         "category": "Local Events"
       }
     ]
