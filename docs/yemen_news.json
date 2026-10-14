@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-14T01:42:34Z",
+  "last_updated": "2026-10-14T15:46:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,110 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "3d79ec24c605",
+        "title": "الدفاع المدني السعودي يعلن سقوط شظايا صاروخ باليستي في الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430679",
+        "published_date": "2026-10-14T15:05:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "12d8e98b5eac",
+        "title": "تطورات عسكرية في جبهة الصبيحة بمحافظة لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430675",
+        "published_date": "2026-10-14T13:54:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b80195e3177",
+        "title": "عسكريون يحرقون حافلة مركز ديني في لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430672",
+        "published_date": "2026-10-14T13:10:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b558a8332c18",
+        "title": "إغلاق طريق الضباب بتعز بعد ساعات من دخول شاحنات البضائع إلى المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430669",
+        "published_date": "2026-10-14T12:37:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c77575fb88f2",
+        "title": "الوضع العسكري في جبهات القتال على الحدود الإدارية بين محافظتي تعز ولحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430667",
+        "published_date": "2026-10-14T11:52:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4a360af7ea5a",
+        "title": "وزارة الطاقة السعودية: استهداف مبنى تابع لأرامكو في الظهران واندلاع حريق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430663",
+        "published_date": "2026-10-14T10:45:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ca4e0dc54d24",
+        "title": "الأرصاد: استمرار حالة عدم الاستقرار حول أرخبيل سقطرى والمرتفعات الجبلية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430659",
+        "published_date": "2026-10-14T09:56:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "854bf2c784e5",
+        "title": "السقلدي: ظهور الزبيدي يفتح باب التساؤلات بشأن تقارب محتمل مع السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430656",
+        "published_date": "2026-10-14T09:20:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f0c05e74fb9e",
+        "title": "سريع يعلن استهداف أرامكو ومطار ومصفاة نفط في الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430654",
+        "published_date": "2026-10-14T08:46:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "01de206b1bc8",
+        "title": "انا الذي تركته خلفي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430651",
+        "published_date": "2026-10-14T07:40:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "139659b0c3e5",
+        "title": "شعب حضرموت يستهل مشواره الخليجي بإخفاق أمام نيوم السعودي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430648",
+        "published_date": "2026-10-14T07:11:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "db5cfabffffa",
+        "title": "فتح طريق الضباب – تعز وسط تبادل إطلاق نار متقطع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430644",
+        "published_date": "2026-10-14T05:50:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6b84e4c280c4",
+        "title": "فلكي يتوقع حالة مطرية محدودة على اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430640",
+        "published_date": "2026-10-14T05:05:36Z",
+        "category": "Local Events"
+      },
       {
         "_id": "71349d68fa0e",
         "title": "المالكي يعلن اعتراض صواريخ باليستية ومجنحة ومسيّرات استهدفت مناطق سعودية",
@@ -68,110 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430620",
         "published_date": "2026-10-13T14:08:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ef2b607dce92",
-        "title": "دخول شاحنات نقل البضائع إلى مدينة تعز بعد انتظار لساعات طويلة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430616",
-        "published_date": "2026-10-13T13:26:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6a384891870",
-        "title": "سريع يحذر العاملين في منشآت أرامكو من البقاء فيها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430613",
-        "published_date": "2026-10-13T12:59:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a6e05a7d2ae6",
-        "title": "التحالف يحدد المكان المطلوب إخلاؤه في صنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430610",
-        "published_date": "2026-10-13T12:44:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5f3a0de78e07",
-        "title": "سريع يحذر: أي استهداف لصنعاء سيقابل برد قاسٍ في الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430608",
-        "published_date": "2026-10-13T12:29:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ebcb86a4148d",
-        "title": "المالكي يعلن اعتراض مسيرات في الرياض ويؤكد تنفيذ عملية نوعية بصنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430606",
-        "published_date": "2026-10-13T12:13:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "24a6cde7fc19",
-        "title": "سريع يعلن إسقاط طائرة استطلاع في أجواء محافظة صعدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430604",
-        "published_date": "2026-10-13T11:56:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c4501f2fbb55",
-        "title": "عندما تتطاول الجرذان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430602",
-        "published_date": "2026-10-13T10:23:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d24dd866f11b",
-        "title": "صنعاء.. جمعية الصرافين تعمم بإعادة التعامل مع منشأة صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430600",
-        "published_date": "2026-10-13T10:02:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b927c874382c",
-        "title": "الأرصاد: أمطار رعدية ومتفرقة على مناطق واسعة من اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430598",
-        "published_date": "2026-10-13T09:34:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aaf3b40fc105",
-        "title": "الأربعاء القادم إجازة في صنعاء وعدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430594",
-        "published_date": "2026-10-13T07:48:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "58a221afced0",
-        "title": "نزلاء إصلاحية تعز المركزية يرفضون النقل وقوات مكافحة الشغب تستخدم الرصاص ومسيلات الدموع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430592",
-        "published_date": "2026-10-13T07:21:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "46c191312884",
-        "title": "مثقفون يمنيون يدعون السلطات في صنعاء وعدن لتوفير منحة علاجية للدبلوماسي عبد الله الحنكي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430589",
-        "published_date": "2026-10-13T06:51:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b6f42790878b",
-        "title": "الهجرة الدولية تكشف عدد ضحايا غرق قارب مهاجرين كان متجها صوب اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430586",
-        "published_date": "2026-10-13T06:20:17Z",
         "category": "Local Events"
       }
     ]
