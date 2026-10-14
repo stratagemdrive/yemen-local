@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-13T18:04:44Z",
+  "last_updated": "2026-10-14T01:42:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "71349d68fa0e",
+        "title": "المالكي يعلن اعتراض صواريخ باليستية ومجنحة ومسيّرات استهدفت مناطق سعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430638",
+        "published_date": "2026-10-13T19:59:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8528631bd426",
+        "title": "في اول ظهور له منذ أحداث حضرموت.. الزبيدي يعلن التعبئة ويدين استهداف السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430635",
+        "published_date": "2026-10-13T19:30:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "532ff07b1fb1",
+        "title": "المشاط: اليمنيون يواجهون احتلالًا جديدًا وقتال السعودية سيستمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430632",
+        "published_date": "2026-10-13T18:57:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bb5e94d3bd4d",
+        "title": "العليمي: عملية «فجر اليمن» مستمرة حتى إنهاء التهديد الحوثي ونجدد الالتزام بالقضية الجنوبية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430629",
+        "published_date": "2026-10-13T18:38:47Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1ecec003b4e2",
         "title": "“وثيقة”.. إيقاف مدير ميناء الوديعة البري وإحالته للتحقيق وتكليف آخر بتسيير العمل",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430586",
         "published_date": "2026-10-13T06:20:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9e5f6a2284f2",
-        "title": "المالكي يعلن اعتراض وتدمير صاروخين باليستيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430584",
-        "published_date": "2026-10-13T05:46:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0f242a918f42",
-        "title": "خبير طقس: أمطار غزيرة متوقعة على مناطق واسعة من اليمن وتحذيرات من تدفق السيول",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430581",
-        "published_date": "2026-10-13T05:15:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "541e3c8ff2fd",
-        "title": "تسجيل هزتين أرضيتين في محافظة ذمار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430578",
-        "published_date": "2026-10-12T19:36:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1e8a06eb9ec",
-        "title": "سريع يعلن استهداف مطار وقاعدة جوية في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430576",
-        "published_date": "2026-10-12T19:13:32Z",
         "category": "Local Events"
       }
     ]
