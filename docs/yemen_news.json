@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-15T15:33:16Z",
+  "last_updated": "2026-10-16T01:04:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,22 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "b3a992e65c42",
+        "title": "١٤ اكتوبر و لقائي بابرز رموزها دعره سعيد نهاية التسعينات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430752",
+        "published_date": "2026-10-15T21:40:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "aab8cbb5fb03",
+        "title": "حكومة الزنداني: استهداف قصر معاشيق لن يثنينا عن مواصلة مهامنا في عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430748",
+        "published_date": "2026-10-15T16:41:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "bdc5ca94b8b2",
         "title": "مصدر عسكري يعلن استهداف مقر عمليات حربية في عدن وسريع يوضح",
@@ -156,22 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430694",
         "published_date": "2026-10-15T01:51:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "16cc23928c18",
-        "title": "سبتمبر وأكتوبر والوحدة… أحلامٌ دُفنت تحت أنقاض الحرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430692",
-        "published_date": "2026-10-15T01:38:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5361c4309465",
-        "title": "تعز تحت النار.. من ينقذ اليمن من حرب تأكل أبناءه؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430688",
-        "published_date": "2026-10-15T01:21:32Z",
         "category": "Local Events"
       }
     ]
