@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-17T01:11:34Z",
+  "last_updated": "2026-10-17T14:08:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "6d3ccf9a5f80",
+        "title": "تسجيل ثلاث هزات أرضية من خليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430806",
+        "published_date": "2026-10-17T11:42:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a341518b6059",
+        "title": "الصليب الأحمر يعلن الإفراج عن أكثر من 150 محتجزًا في صنعاء بمبادرة أحادية الجانب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430803",
+        "published_date": "2026-10-17T11:08:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1ef6ddfe2e5",
+        "title": "تعز.. طريق الضباب مفتوحة باتجاه واحد والشاحنات عالقة خارج المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430800",
+        "published_date": "2026-10-17T10:36:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1ee31948c378",
+        "title": "مثقفون يمنيون يناشدون سلطات صنعاء وعدن بتوفير منحة علاجية للصحفي عبده عائش",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430797",
+        "published_date": "2026-10-17T07:26:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1b4b17ae0fd9",
+        "title": "قضايا هامشية.. حين تعجز الحضارة عن حماية نفسها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430794",
+        "published_date": "2026-10-17T07:06:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "dbf8329c6457",
         "title": "خبير طقس: بدء تشكل منخفض جوي قبالة سواحل الصومال ومساره ما يزال غير واضح",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430748",
         "published_date": "2026-10-15T16:41:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bdc5ca94b8b2",
-        "title": "مصدر عسكري يعلن استهداف مقر عمليات حربية في عدن وسريع يوضح",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430743",
-        "published_date": "2026-10-15T15:31:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b7e28ce98ffd",
-        "title": "المالكي عن حصيلة العمليات التي نفذها التحالف في اليمن وضحايا استهداف السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430737",
-        "published_date": "2026-10-15T15:03:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6575798885b1",
-        "title": "انفجارات تدوي في عدن وأنباء عن قصف يطال قصر معاشيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430733",
-        "published_date": "2026-10-15T14:20:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6afd5b774f73",
-        "title": "المبعوث الأممي يعلن الإفراج عن موظف أممي اعتُقل قبل أكثر من عامين في صنعاء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430730",
-        "published_date": "2026-10-15T13:59:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b0e2cd79a378",
-        "title": "الاتحاد الأوروبي يدعو إلى إنهاء الحصار على تعز وتسهيل دخول المساعدات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430727",
-        "published_date": "2026-10-15T13:26:51Z",
         "category": "Local Events"
       }
     ]
