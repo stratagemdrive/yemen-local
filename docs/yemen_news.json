@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-16T15:19:27Z",
+  "last_updated": "2026-10-17T01:11:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,14 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "dbf8329c6457",
+        "title": "خبير طقس: بدء تشكل منخفض جوي قبالة سواحل الصومال ومساره ما يزال غير واضح",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430789",
+        "published_date": "2026-10-16T23:25:58Z",
+        "category": "Local Events"
+      },
       {
         "_id": "548d515bd02b",
         "title": "المالكي يعلن اعتراض صاروخ باليستي وصاروخين مجنحين ومسيّرات",
@@ -164,14 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430727",
         "published_date": "2026-10-15T13:26:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "225e24f69b95",
-        "title": "المرتضى: أبلغنا الصليب الأحمر أن الطريق إلى مدينة تعز مفتوح من جهتنا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430725",
-        "published_date": "2026-10-15T12:47:16Z",
         "category": "Local Events"
       }
     ]
