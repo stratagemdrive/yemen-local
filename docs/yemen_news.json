@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-18T00:45:12Z",
+  "last_updated": "2026-10-18T14:25:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "828e840f1121",
+        "title": "السفير الصيني لدى السعودية يوضح بشأن اتهام بلاده بتزويد الحوثيين بقطع تُستخدم في الصناعات الحربية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430858",
+        "published_date": "2026-10-18T11:11:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4038925a680d",
+        "title": "مثقفون يمنيون يناشدون سلطات صنعاء بالكشف عن مصير محمد الشامي والإفراج عنه",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430853",
+        "published_date": "2026-10-18T10:26:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4f748d6cf838",
+        "title": "I Feel Cold",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430851",
+        "published_date": "2026-10-18T09:13:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b37c8180c3c1",
+        "title": "خلف أسوار الوهم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430849",
+        "published_date": "2026-10-18T09:06:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "12286f763e98",
+        "title": "إغلاق طريق جبلي يربط بين محافظتي تعز وعدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430846",
+        "published_date": "2026-10-18T05:45:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7b24b073be72",
+        "title": "سريع يعلن إسقاط طائرة استطلاع مسلّحة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430844",
+        "published_date": "2026-10-18T05:16:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8d4ee28c698c",
+        "title": "التحالف يعلن تحطم طائرة عمودية استطلاعية في نجران ومصرع طاقمها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430841",
+        "published_date": "2026-10-18T04:49:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d4d98a3b4947",
+        "title": "فلكي يتوقع تراجعاً ملحوظاً للأمطار في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430837",
+        "published_date": "2026-10-18T04:08:59Z",
+        "category": "Local Events"
+      },
       {
         "_id": "641f08060cd6",
         "title": "منتخب الناشئين يفوز على نظيره العراقي بثنائية في مستهل مشاركته بكأس الخليج",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430800",
         "published_date": "2026-10-17T10:36:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1ee31948c378",
-        "title": "مثقفون يمنيون يناشدون سلطات صنعاء وعدن بتوفير منحة علاجية للصحفي عبده عائش",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430797",
-        "published_date": "2026-10-17T07:26:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1b4b17ae0fd9",
-        "title": "قضايا هامشية.. حين تعجز الحضارة عن حماية نفسها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430794",
-        "published_date": "2026-10-17T07:06:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dbf8329c6457",
-        "title": "خبير طقس: بدء تشكل منخفض جوي قبالة سواحل الصومال ومساره ما يزال غير واضح",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430789",
-        "published_date": "2026-10-16T23:25:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "548d515bd02b",
-        "title": "المالكي يعلن اعتراض صاروخ باليستي وصاروخين مجنحين ومسيّرات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430787",
-        "published_date": "2026-10-16T14:22:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "85ec216e90ed",
-        "title": "البخيتي يكشف عن تحركات إقليمية ودولية لاستئناف المفاوضات بين صنعاء والرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430784",
-        "published_date": "2026-10-16T13:46:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "286ff6ee7eb4",
-        "title": "حركة متقطعة في طريق الضباب وأزمة الوقود تتفاقم في مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430779",
-        "published_date": "2026-10-16T12:34:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9dc802f895b8",
-        "title": "الأرصاد يخفض التحذير إلى تنبيه ويتوقع أمطارًا متفرقة على مناطق محدودة من المرتفعات وسهل تهامة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430777",
-        "published_date": "2026-10-16T10:52:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1fd740876ffc",
-        "title": "مجلس الأمن يدين هجمات الحوثيين على السعودية ويدعو إلى وقف التصعيد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430775",
-        "published_date": "2026-10-16T10:19:21Z",
         "category": "Local Events"
       }
     ]
