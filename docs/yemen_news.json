@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-17T14:08:21Z",
+  "last_updated": "2026-10-18T00:45:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "641f08060cd6",
+        "title": "منتخب الناشئين يفوز على نظيره العراقي بثنائية في مستهل مشاركته بكأس الخليج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430834",
+        "published_date": "2026-10-17T21:50:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "90789f7654c4",
+        "title": "الاتصالات: خروج أكثر من 900 موقع ومحطة عن الخدمة جراء الغارات السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430830",
+        "published_date": "2026-10-17T21:10:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0ee6a57e2d30",
+        "title": "أشعر بالبرد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430827",
+        "published_date": "2026-10-17T18:40:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d2af84467202",
+        "title": "سريع يعلن إسقاط طائرة حربية عمودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430825",
+        "published_date": "2026-10-17T18:00:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "76e6c874430d",
+        "title": "نقاط أمنية وعسكرية تمنع الدخول إلى عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430822",
+        "published_date": "2026-10-17T17:18:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "998d9f00afd1",
+        "title": "صحيفة بريطانية: اتفاق سعودي إماراتي لتمويل قوات سلفية تقاتل الحوثيين في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430819",
+        "published_date": "2026-10-17T17:08:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6b7d52168e07",
+        "title": "تطور في مسار المواجهات في أطراف مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430815",
+        "published_date": "2026-10-17T15:53:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a92a49dc3949",
+        "title": "هيئة بريطانية تعلن عن حادث بحري قبالة سواحل حضرموت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430812",
+        "published_date": "2026-10-17T15:07:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "78cbc3d6d74b",
+        "title": "المالكي يعلن اعتراض وتدمير مسيّرات في الأجواء السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430810",
+        "published_date": "2026-10-17T14:40:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "6d3ccf9a5f80",
         "title": "تسجيل ثلاث هزات أرضية من خليج عدن",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430775",
         "published_date": "2026-10-16T10:19:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "707e2cb73ad7",
-        "title": "المالكي يعلن اعتراض وتدمير مسيّرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430773",
-        "published_date": "2026-10-16T09:05:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d5224651e863",
-        "title": "سريع يعلن إسقاط طائرة استطلاع مسلّحة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430771",
-        "published_date": "2026-10-16T08:45:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d11dda831313",
-        "title": "إغلاق متنزهات ومعالم سياحية في عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430764",
-        "published_date": "2026-10-16T08:20:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23320371836d",
-        "title": "داخلية صنعاء تعلن تفكيك خلية متهمة بتنفيذ تفجيرات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430767",
-        "published_date": "2026-10-16T08:01:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6cc48324f0ed",
-        "title": "عدن.. اعتقال صحفي ومصورين على ذمة تسجيلات مصورة ومرئية توثق قصف معاشيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430761",
-        "published_date": "2026-10-16T07:36:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7dfb4c3e65f6",
-        "title": "تعز جُزْءٌ مني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430757",
-        "published_date": "2026-10-16T06:40:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f2fe52b8deb8",
-        "title": "خبير طقس: مسار الحالة المدارية المرتقبة في بحر العرب ما يزال غير واضح",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430754",
-        "published_date": "2026-10-16T06:00:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b3a992e65c42",
-        "title": "١٤ اكتوبر و لقائي بابرز رموزها دعره سعيد نهاية التسعينات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430752",
-        "published_date": "2026-10-15T21:40:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aab8cbb5fb03",
-        "title": "حكومة الزنداني: استهداف قصر معاشيق لن يثنينا عن مواصلة مهامنا في عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430748",
-        "published_date": "2026-10-15T16:41:41Z",
         "category": "Local Events"
       }
     ]
