@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-18T14:25:41Z",
+  "last_updated": "2026-10-19T00:58:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,118 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "1f97d9204ff4",
+        "title": "الهروب من الحرب إلى سمسرة باب الكبير",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430898",
+        "published_date": "2026-10-18T21:48:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "32293a82f642",
+        "title": "بزشكيان يبدي استعداد إيران للمشاركة في حلف مكة للدفاع المشترك",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430895",
+        "published_date": "2026-10-18T21:21:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f248a0d104cc",
+        "title": "الدفاع المدني السعودي يعلن أضرارًا جراء سقوط مقذوف في نجران ويطلق إنذار من خطر في أبها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430892",
+        "published_date": "2026-10-18T21:01:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e28b85d064e",
+        "title": "رئيس اتحاد طلبة جامعة حضرموت يهنئ الجامعة بتحقيق مركز متقدم في تصنيف QS وإدراج ثلاثة من أساتذتها ضمن قائمة أفضل علماء العالم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430888",
+        "published_date": "2026-10-18T20:44:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "80e188eee227",
+        "title": "شبوة.. استهداف رتل عسكري بعبوات ناسفة في عرماء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430885",
+        "published_date": "2026-10-18T20:20:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b8e45a29d4ff",
+        "title": "الراعي يخاطب البدوي بشأن انخراط مصر في أي تحركات عسكرية لدعم السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430882",
+        "published_date": "2026-10-18T19:58:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "037bb31a6a75",
+        "title": "من هو المثقف؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430879",
+        "published_date": "2026-10-18T19:45:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3aa1bd041614",
+        "title": "من ردفان إلى (فجر اليمن)… وطن يقاتل كي لا يموت مرتين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430876",
+        "published_date": "2026-10-18T19:32:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f6c451cf1036",
+        "title": "مالكو ناقلات المازوت يعلنون منع نقل المشتقات النفطية إلى شبوة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430875",
+        "published_date": "2026-10-18T19:31:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "938940457d94",
+        "title": "شبكة محامون ضد الفساد: لا تجعلوا من الإجراءات التأديبية سيفا على المحامين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430872",
+        "published_date": "2026-10-18T19:24:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "299f3b0b78d1",
+        "title": "المثقف الذي يبيع عقله مقابل التصفيق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430870",
+        "published_date": "2026-10-18T19:16:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e3ded94b7ab",
+        "title": "غياب خيار الفعل الجماعي..",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430867",
+        "published_date": "2026-10-18T19:13:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "086493d1ee4a",
+        "title": "مجلس الدفاع الوطني المصري يقر تقديم الدعم للسعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430863",
+        "published_date": "2026-10-18T19:09:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "28f7d32b9e3f",
+        "title": "أقرأ كتباً قصيرة دائماً بعد أكمالك لكتب طويلة كي تتجنب مواسم الفتور الفكري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430864",
+        "published_date": "2026-10-18T19:08:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "828e840f1121",
         "title": "السفير الصيني لدى السعودية يوضح بشأن اتهام بلاده بتزويد الحوثيين بقطع تُستخدم في الصناعات الحربية",
@@ -60,118 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430844",
         "published_date": "2026-10-18T05:16:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8d4ee28c698c",
-        "title": "التحالف يعلن تحطم طائرة عمودية استطلاعية في نجران ومصرع طاقمها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430841",
-        "published_date": "2026-10-18T04:49:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d4d98a3b4947",
-        "title": "فلكي يتوقع تراجعاً ملحوظاً للأمطار في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430837",
-        "published_date": "2026-10-18T04:08:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "641f08060cd6",
-        "title": "منتخب الناشئين يفوز على نظيره العراقي بثنائية في مستهل مشاركته بكأس الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430834",
-        "published_date": "2026-10-17T21:50:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "90789f7654c4",
-        "title": "الاتصالات: خروج أكثر من 900 موقع ومحطة عن الخدمة جراء الغارات السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430830",
-        "published_date": "2026-10-17T21:10:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0ee6a57e2d30",
-        "title": "أشعر بالبرد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430827",
-        "published_date": "2026-10-17T18:40:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d2af84467202",
-        "title": "سريع يعلن إسقاط طائرة حربية عمودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430825",
-        "published_date": "2026-10-17T18:00:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "76e6c874430d",
-        "title": "نقاط أمنية وعسكرية تمنع الدخول إلى عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430822",
-        "published_date": "2026-10-17T17:18:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "998d9f00afd1",
-        "title": "صحيفة بريطانية: اتفاق سعودي إماراتي لتمويل قوات سلفية تقاتل الحوثيين في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430819",
-        "published_date": "2026-10-17T17:08:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6b7d52168e07",
-        "title": "تطور في مسار المواجهات في أطراف مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430815",
-        "published_date": "2026-10-17T15:53:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a92a49dc3949",
-        "title": "هيئة بريطانية تعلن عن حادث بحري قبالة سواحل حضرموت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430812",
-        "published_date": "2026-10-17T15:07:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "78cbc3d6d74b",
-        "title": "المالكي يعلن اعتراض وتدمير مسيّرات في الأجواء السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430810",
-        "published_date": "2026-10-17T14:40:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6d3ccf9a5f80",
-        "title": "تسجيل ثلاث هزات أرضية من خليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430806",
-        "published_date": "2026-10-17T11:42:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a341518b6059",
-        "title": "الصليب الأحمر يعلن الإفراج عن أكثر من 150 محتجزًا في صنعاء بمبادرة أحادية الجانب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430803",
-        "published_date": "2026-10-17T11:08:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1ef6ddfe2e5",
-        "title": "تعز.. طريق الضباب مفتوحة باتجاه واحد والشاحنات عالقة خارج المدينة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430800",
-        "published_date": "2026-10-17T10:36:54Z",
         "category": "Local Events"
       }
     ]
