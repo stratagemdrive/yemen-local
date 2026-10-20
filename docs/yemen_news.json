@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-20T01:39:31Z",
+  "last_updated": "2026-10-20T15:36:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "81c238fcd926",
+        "title": "إغلاق الطريق الوحيد الرابط بين مدينة تعز ومحافظة عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430936",
+        "published_date": "2026-10-20T12:04:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "96815abf394f",
+        "title": "زوجة الدكتور المضواحي تطالب بالإفراج عنه وتتساءل عن أسباب استمرار اعتقاله دون الإعلان عن نتائج التحقيق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430934",
+        "published_date": "2026-10-20T11:33:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b0154c1150e0",
+        "title": "فتح طريق رئيسي يربط مدينة تعز بمحيطها والمحافظات المجاورة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430932",
+        "published_date": "2026-10-20T11:02:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "42cab7e208c5",
+        "title": "متوسط أسعار الذهب في صنعاء وعدن الثلاثاء 20 أكتوبر 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430930",
+        "published_date": "2026-10-20T09:49:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "135ff1cbad6e",
+        "title": "الأرصاد يرفع التنبيه إلى تحذير ويتوقع أمطارًا رعدية ورياحًا هابطة مرتبطة بمنخفض جوي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430927",
+        "published_date": "2026-10-20T09:31:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "3b0c96962fbd",
         "title": "نقابة المحامين تطالب بكف الأذى عن محامية وتشكك في قانونية إحالتها للمجلس التأديبي",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430885",
         "published_date": "2026-10-18T20:20:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b8e45a29d4ff",
-        "title": "الراعي يخاطب البدوي بشأن انخراط مصر في أي تحركات عسكرية لدعم السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430882",
-        "published_date": "2026-10-18T19:58:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "037bb31a6a75",
-        "title": "من هو المثقف؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430879",
-        "published_date": "2026-10-18T19:45:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3aa1bd041614",
-        "title": "من ردفان إلى (فجر اليمن)… وطن يقاتل كي لا يموت مرتين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430876",
-        "published_date": "2026-10-18T19:32:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6c451cf1036",
-        "title": "مالكو ناقلات المازوت يعلنون منع نقل المشتقات النفطية إلى شبوة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430875",
-        "published_date": "2026-10-18T19:31:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "938940457d94",
-        "title": "شبكة محامون ضد الفساد: لا تجعلوا من الإجراءات التأديبية سيفا على المحامين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430872",
-        "published_date": "2026-10-18T19:24:52Z",
         "category": "Local Events"
       }
     ]
