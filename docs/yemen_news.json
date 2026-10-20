@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-19T17:24:08Z",
+  "last_updated": "2026-10-20T01:39:31Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "3b0c96962fbd",
+        "title": "نقابة المحامين تطالب بكف الأذى عن محامية وتشكك في قانونية إحالتها للمجلس التأديبي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430925",
+        "published_date": "2026-10-19T21:52:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "75e4dfd9ec5b",
+        "title": "فلكي يمني: أمطار متوقعة على اليمن متاثرة بالمنخفض الجوي في بحر العرب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430921",
+        "published_date": "2026-10-19T21:24:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4295d032f126",
+        "title": "المقالح: ينبغي ان تكون مدينة تعز ساحة للسلام والأخوة والهدوء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430919",
+        "published_date": "2026-10-19T20:56:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "34c7ab713bf8",
+        "title": "اغتيال قاضٍ في وادي حضرموت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430916",
+        "published_date": "2026-10-19T20:31:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "11e057f7819b",
+        "title": "إحصائية أولية لضحايا الهجوم الصاروخي على معسكر بشبوة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430913",
+        "published_date": "2026-10-19T19:55:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f84d0b031649",
+        "title": "Marginal Issues",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430911",
+        "published_date": "2026-10-19T19:26:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "65d6166162a0",
+        "title": "التحالف يحذر ملاك الوسائط البحرية من تهريب الأسلحة إلى اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430909",
+        "published_date": "2026-10-19T19:13:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1dc2d34d596",
+        "title": "سريع يعلن تنفيذ 6 عمليات عسكرية استهدفت مواقع ومنشآت سعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430907",
+        "published_date": "2026-10-19T18:52:26Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8c3179bf2883",
         "title": "هجوم صاروخي يستهدف معسكرًا في شبوة ومستشفى عتق يطلق نداءً للتبرع بالدم",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430872",
         "published_date": "2026-10-18T19:24:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "299f3b0b78d1",
-        "title": "المثقف الذي يبيع عقله مقابل التصفيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430870",
-        "published_date": "2026-10-18T19:16:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1e3ded94b7ab",
-        "title": "غياب خيار الفعل الجماعي..",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430867",
-        "published_date": "2026-10-18T19:13:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "086493d1ee4a",
-        "title": "مجلس الدفاع الوطني المصري يقر تقديم الدعم للسعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430863",
-        "published_date": "2026-10-18T19:09:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "28f7d32b9e3f",
-        "title": "أقرأ كتباً قصيرة دائماً بعد أكمالك لكتب طويلة كي تتجنب مواسم الفتور الفكري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430864",
-        "published_date": "2026-10-18T19:08:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "828e840f1121",
-        "title": "السفير الصيني لدى السعودية يوضح بشأن اتهام بلاده بتزويد الحوثيين بقطع تُستخدم في الصناعات الحربية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430858",
-        "published_date": "2026-10-18T11:11:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4038925a680d",
-        "title": "مثقفون يمنيون يناشدون سلطات صنعاء بالكشف عن مصير محمد الشامي والإفراج عنه",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430853",
-        "published_date": "2026-10-18T10:26:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4f748d6cf838",
-        "title": "I Feel Cold",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430851",
-        "published_date": "2026-10-18T09:13:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b37c8180c3c1",
-        "title": "خلف أسوار الوهم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430849",
-        "published_date": "2026-10-18T09:06:24Z",
         "category": "Local Events"
       }
     ]
