@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-21T01:24:37Z",
+  "last_updated": "2026-10-21T15:53:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,86 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "1dee1c689d6f",
+        "title": "وزارة النقل بعدن تعلن استهداف مطارين وتحذر من تهديد سلامة الطيران المدني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430981",
+        "published_date": "2026-10-21T14:54:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c46fc942ded0",
+        "title": "سريع يعلن استهداف معدات عسكرية في مطار بحضرموت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430979",
+        "published_date": "2026-10-21T14:35:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88c1bdbaa675",
+        "title": "الصحفي خالد سلمان: افتتاحية «عكاظ» تعكس تذمر الرياض من أداء الحكومة اليمنية وتثير تساؤلات بشأن مستقبل دعمها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430977",
+        "published_date": "2026-10-21T14:08:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5088379deec1",
+        "title": "صنعاء.. البنك المركزي يوقف التعامل مع منشأة وشركة صرافة ويعيد التعامل مع منشأة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430974",
+        "published_date": "2026-10-21T13:24:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7ddc24a9e3c1",
+        "title": "صحيفة سعودية تهاجم مسؤولي الشرعية وتصفهم بـ«العايشين في المنافي»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430971",
+        "published_date": "2026-10-21T12:33:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9c2e2fdfb6a7",
+        "title": "اندلاع مواجهات عنيفة غرب وشمال مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430967",
+        "published_date": "2026-10-21T11:02:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d05a082cffc5",
+        "title": "الأرصاد: استمرار تحرك المنخفض الجوي في بحر العرب مع استمرار الهطول المطري على سقطرى والسواحل الشرقية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430965",
+        "published_date": "2026-10-21T09:54:40Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f0bfd9bd9e2",
+        "title": "قلبي معك ياتعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430963",
+        "published_date": "2026-10-21T09:12:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8f6ab00ccf9a",
+        "title": "سريع ينفي تنفيذ عمليات باتجاه السعودية ويتهم الرياض بترويج ادعاءات كاذبة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430961",
+        "published_date": "2026-10-21T09:03:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bc7573312b3f",
+        "title": "المالكي يعلن اعتراض وتدمير 5 مسيّرات استهدفت السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430958",
+        "published_date": "2026-10-21T04:32:53Z",
+        "category": "Local Events"
+      },
       {
         "_id": "78f6caa89b99",
         "title": "المحامي أسامة الأصبحي: ما يجري في تعز يستوجب تحقيقا دوليا ومساءلة لا تُسقطها السياسة ولا يحتمل مزيدا من الصمت",
@@ -92,86 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430930",
         "published_date": "2026-10-20T09:49:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "135ff1cbad6e",
-        "title": "الأرصاد يرفع التنبيه إلى تحذير ويتوقع أمطارًا رعدية ورياحًا هابطة مرتبطة بمنخفض جوي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430927",
-        "published_date": "2026-10-20T09:31:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3b0c96962fbd",
-        "title": "نقابة المحامين تطالب بكف الأذى عن محامية وتشكك في قانونية إحالتها للمجلس التأديبي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430925",
-        "published_date": "2026-10-19T21:52:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "75e4dfd9ec5b",
-        "title": "فلكي يمني: أمطار متوقعة على اليمن متاثرة بالمنخفض الجوي في بحر العرب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430921",
-        "published_date": "2026-10-19T21:24:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4295d032f126",
-        "title": "المقالح: ينبغي ان تكون مدينة تعز ساحة للسلام والأخوة والهدوء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430919",
-        "published_date": "2026-10-19T20:56:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "34c7ab713bf8",
-        "title": "اغتيال قاضٍ في وادي حضرموت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430916",
-        "published_date": "2026-10-19T20:31:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "11e057f7819b",
-        "title": "إحصائية أولية لضحايا الهجوم الصاروخي على معسكر بشبوة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430913",
-        "published_date": "2026-10-19T19:55:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f84d0b031649",
-        "title": "Marginal Issues",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430911",
-        "published_date": "2026-10-19T19:26:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "65d6166162a0",
-        "title": "التحالف يحذر ملاك الوسائط البحرية من تهريب الأسلحة إلى اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430909",
-        "published_date": "2026-10-19T19:13:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1dc2d34d596",
-        "title": "سريع يعلن تنفيذ 6 عمليات عسكرية استهدفت مواقع ومنشآت سعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430907",
-        "published_date": "2026-10-19T18:52:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8c3179bf2883",
-        "title": "هجوم صاروخي يستهدف معسكرًا في شبوة ومستشفى عتق يطلق نداءً للتبرع بالدم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430904",
-        "published_date": "2026-10-19T09:40:43Z",
         "category": "Local Events"
       }
     ]
