@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-20T15:36:23Z",
+  "last_updated": "2026-10-21T01:24:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "78f6caa89b99",
+        "title": "المحامي أسامة الأصبحي: ما يجري في تعز يستوجب تحقيقا دوليا ومساءلة لا تُسقطها السياسة ولا يحتمل مزيدا من الصمت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430953",
+        "published_date": "2026-10-20T20:59:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2dc020011ad1",
+        "title": "حين تُحاصر المدن من الخارج.. لا تتركوا أبوابها مفتوحة من الداخل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430950",
+        "published_date": "2026-10-20T20:56:35Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8002fbe31864",
+        "title": "منتخب الناشئين اليمني يتعادل مع نظيره السعودي ويحافظ على وصافة مجموعته في كأس الخليج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430947",
+        "published_date": "2026-10-20T19:37:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7e2af5cbdd15",
+        "title": "نفوق أسماك ودلافين في سواحل المهرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430944",
+        "published_date": "2026-10-20T19:07:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fdfb1c15403f",
+        "title": "الصحة العالمية تحذر من نفاد وقود مستشفيات مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430941",
+        "published_date": "2026-10-20T18:30:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b92185e34d98",
+        "title": "المالكي يعلن اعتراض مسيرة وصاروخ باليستي باتجاه الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430939",
+        "published_date": "2026-10-20T17:18:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "81c238fcd926",
         "title": "إغلاق الطريق الوحيد الرابط بين مدينة تعز ومحافظة عدن",
@@ -124,54 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430904",
         "published_date": "2026-10-19T09:40:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f199a562fb7b",
-        "title": "الأرصاد: منخفض جوي يتشكل جنوب غرب بحر العرب وأمطار غزيرة متوقعة على سقطرى والسواحل المجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430901",
-        "published_date": "2026-10-19T09:13:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1f97d9204ff4",
-        "title": "الهروب من الحرب إلى سمسرة باب الكبير",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430898",
-        "published_date": "2026-10-18T21:48:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "32293a82f642",
-        "title": "بزشكيان يبدي استعداد إيران للمشاركة في حلف مكة للدفاع المشترك",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430895",
-        "published_date": "2026-10-18T21:21:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f248a0d104cc",
-        "title": "الدفاع المدني السعودي يعلن أضرارًا جراء سقوط مقذوف في نجران ويطلق إنذار من خطر في أبها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430892",
-        "published_date": "2026-10-18T21:01:01Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1e28b85d064e",
-        "title": "رئيس اتحاد طلبة جامعة حضرموت يهنئ الجامعة بتحقيق مركز متقدم في تصنيف QS وإدراج ثلاثة من أساتذتها ضمن قائمة أفضل علماء العالم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430888",
-        "published_date": "2026-10-18T20:44:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "80e188eee227",
-        "title": "شبوة.. استهداف رتل عسكري بعبوات ناسفة في عرماء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430885",
-        "published_date": "2026-10-18T20:20:40Z",
         "category": "Local Events"
       }
     ]
