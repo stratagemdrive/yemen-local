@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-22T01:22:44Z",
+  "last_updated": "2026-10-22T15:55:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "b179696c7f26",
+        "title": "سريع يعلن استهداف وزارة الدفاع السعودية ومطارات وشركة أرامكو",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431007",
+        "published_date": "2026-10-22T12:33:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5d5ff36d03d7",
+        "title": "أسعار صرف الريال اليمني في صنعاء وعدن الخميس 22 أكتوبر/تشرين اول 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431003",
+        "published_date": "2026-10-22T12:08:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2a307aa4d52f",
+        "title": "طيفك",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431001",
+        "published_date": "2026-10-22T10:42:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e361e966f88c",
+        "title": "سريع يعلن إنقاذ هنود استُهدف يخت كان يقلّهم في البحر الأحمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430999",
+        "published_date": "2026-10-22T10:29:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebd578610153",
+        "title": "تعز.. فتح طريق الضباب وازدحام خانق على طريق الصحى",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430996",
+        "published_date": "2026-10-22T09:49:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a6894cba99aa",
+        "title": "صنعاء.. البنك المركزي يوقف التعامل مع أكثر من 30 منشأة صرافة ويعيد التعامل مع منشأة واحدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430994",
+        "published_date": "2026-10-22T09:20:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eb850a443af6",
+        "title": "خبير طقس: المنخفض المداري يستعيد قوته وتوقعات بأمطار غزيرة على غرب وجنوب غرب اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430991",
+        "published_date": "2026-10-22T07:46:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "51ee6d15bc35",
         "title": "فهل يخشى بعض المتدينين العلمانية لأنها تهدد الدين",
@@ -116,62 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430958",
         "published_date": "2026-10-21T04:32:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "78f6caa89b99",
-        "title": "المحامي أسامة الأصبحي: ما يجري في تعز يستوجب تحقيقا دوليا ومساءلة لا تُسقطها السياسة ولا يحتمل مزيدا من الصمت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430953",
-        "published_date": "2026-10-20T20:59:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2dc020011ad1",
-        "title": "حين تُحاصر المدن من الخارج.. لا تتركوا أبوابها مفتوحة من الداخل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430950",
-        "published_date": "2026-10-20T20:56:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8002fbe31864",
-        "title": "منتخب الناشئين اليمني يتعادل مع نظيره السعودي ويحافظ على وصافة مجموعته في كأس الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430947",
-        "published_date": "2026-10-20T19:37:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7e2af5cbdd15",
-        "title": "نفوق أسماك ودلافين في سواحل المهرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430944",
-        "published_date": "2026-10-20T19:07:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fdfb1c15403f",
-        "title": "الصحة العالمية تحذر من نفاد وقود مستشفيات مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430941",
-        "published_date": "2026-10-20T18:30:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b92185e34d98",
-        "title": "المالكي يعلن اعتراض مسيرة وصاروخ باليستي باتجاه الرياض",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430939",
-        "published_date": "2026-10-20T17:18:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "81c238fcd926",
-        "title": "إغلاق الطريق الوحيد الرابط بين مدينة تعز ومحافظة عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430936",
-        "published_date": "2026-10-20T12:04:59Z",
         "category": "Local Events"
       }
     ]
