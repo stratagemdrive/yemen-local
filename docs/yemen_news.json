@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-21T15:53:55Z",
+  "last_updated": "2026-10-22T01:22:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "51ee6d15bc35",
+        "title": "فهل يخشى بعض المتدينين العلمانية لأنها تهدد الدين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430989",
+        "published_date": "2026-10-22T00:00:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c444155ef519",
+        "title": "الوجه الآخر للمصادفة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430987",
+        "published_date": "2026-10-21T18:06:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b4b65cb00f46",
+        "title": "فلكي يمني يتوقع أمطارًا متفاوتة الغزارة بتاثير المنخفض الجوي في بحر العرب ورياح مثيرة للغبار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/430984",
+        "published_date": "2026-10-21T16:07:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1dee1c689d6f",
         "title": "وزارة النقل بعدن تعلن استهداف مطارين وتحذر من تهديد سلامة الطيران المدني",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430936",
         "published_date": "2026-10-20T12:04:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96815abf394f",
-        "title": "زوجة الدكتور المضواحي تطالب بالإفراج عنه وتتساءل عن أسباب استمرار اعتقاله دون الإعلان عن نتائج التحقيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430934",
-        "published_date": "2026-10-20T11:33:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b0154c1150e0",
-        "title": "فتح طريق رئيسي يربط مدينة تعز بمحيطها والمحافظات المجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430932",
-        "published_date": "2026-10-20T11:02:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "42cab7e208c5",
-        "title": "متوسط أسعار الذهب في صنعاء وعدن الثلاثاء 20 أكتوبر 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430930",
-        "published_date": "2026-10-20T09:49:52Z",
         "category": "Local Events"
       }
     ]
