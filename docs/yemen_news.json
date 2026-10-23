@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-23T01:21:14Z",
+  "last_updated": "2026-10-23T15:41:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "aeb9e5357dd0",
+        "title": "تعز.. اختناقات في طريق الضباب تعيق حركة السير وأنباء عن فتح طريق مجاورة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431047",
+        "published_date": "2026-10-23T13:49:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8117acbc9140",
+        "title": "الأرصاد: أمطار رعدية ورياح هابطة على سقطرى وأجزاء من السواحل والمرتفعات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431044",
+        "published_date": "2026-10-23T11:08:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cbcbcdd649d3",
+        "title": "فن إعادة اكتشاف القراءة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431042",
+        "published_date": "2026-10-23T03:09:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f993256343ef",
+        "title": "تعز تختنق.. والعالم يكتفي بمشاهدة موت الإنسان خلف الطرق المغلقة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431040",
+        "published_date": "2026-10-23T03:06:05Z",
+        "category": "Local Events"
+      },
       {
         "_id": "31bcebe1e8f0",
         "title": "“وثائق”.. فرار أكثر من 600 سجين من إصلاحية تعز المركزية” أسماء”",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430979",
         "published_date": "2026-10-21T14:35:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88c1bdbaa675",
-        "title": "الصحفي خالد سلمان: افتتاحية «عكاظ» تعكس تذمر الرياض من أداء الحكومة اليمنية وتثير تساؤلات بشأن مستقبل دعمها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430977",
-        "published_date": "2026-10-21T14:08:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5088379deec1",
-        "title": "صنعاء.. البنك المركزي يوقف التعامل مع منشأة وشركة صرافة ويعيد التعامل مع منشأة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430974",
-        "published_date": "2026-10-21T13:24:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7ddc24a9e3c1",
-        "title": "صحيفة سعودية تهاجم مسؤولي الشرعية وتصفهم بـ«العايشين في المنافي»",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430971",
-        "published_date": "2026-10-21T12:33:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c2e2fdfb6a7",
-        "title": "اندلاع مواجهات عنيفة غرب وشمال مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430967",
-        "published_date": "2026-10-21T11:02:06Z",
         "category": "Local Events"
       }
     ]
