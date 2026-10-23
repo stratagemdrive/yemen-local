@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-22T15:55:10Z",
+  "last_updated": "2026-10-23T01:21:14Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "31bcebe1e8f0",
+        "title": "“وثائق”.. فرار أكثر من 600 سجين من إصلاحية تعز المركزية” أسماء”",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431019",
+        "published_date": "2026-10-22T21:19:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3e63a16e0a5e",
+        "title": "المقالح يحذر من حروب المدن وإخضاعها بالقوة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431017",
+        "published_date": "2026-10-22T20:21:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea39b4c88915",
+        "title": "زراعة المهرة تصدر تحذيراً احترازياً للمزارعين ومربي الثروة الحيوانية تحسباً للتقلبات الجوية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431013",
+        "published_date": "2026-10-22T19:38:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5847576e7988",
+        "title": "المالكي يعلن اعتراض وتدمير صاروخ باليستي وخمس مسيّرات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431011",
+        "published_date": "2026-10-22T18:55:16Z",
+        "category": "Local Events"
+      },
       {
         "_id": "b179696c7f26",
         "title": "سريع يعلن استهداف وزارة الدفاع السعودية ومطارات وشركة أرامكو",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430967",
         "published_date": "2026-10-21T11:02:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d05a082cffc5",
-        "title": "الأرصاد: استمرار تحرك المنخفض الجوي في بحر العرب مع استمرار الهطول المطري على سقطرى والسواحل الشرقية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430965",
-        "published_date": "2026-10-21T09:54:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f0bfd9bd9e2",
-        "title": "قلبي معك ياتعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430963",
-        "published_date": "2026-10-21T09:12:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f6ab00ccf9a",
-        "title": "سريع ينفي تنفيذ عمليات باتجاه السعودية ويتهم الرياض بترويج ادعاءات كاذبة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430961",
-        "published_date": "2026-10-21T09:03:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bc7573312b3f",
-        "title": "المالكي يعلن اعتراض وتدمير 5 مسيّرات استهدفت السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430958",
-        "published_date": "2026-10-21T04:32:53Z",
         "category": "Local Events"
       }
     ]
