@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-24T01:25:47Z",
+  "last_updated": "2026-10-24T14:24:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "1d57b7c0d923",
+        "title": "حين باع الكاتب ظله",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431069",
+        "published_date": "2026-10-24T11:46:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "27ff9324c1fd",
+        "title": "منتخب الناشئين يخسر أمام مصر بخماسية في كأس الخليج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431064",
+        "published_date": "2026-10-24T10:11:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "33be77d3c574",
+        "title": "صنعاء.. ارتفاع أسعار المشتقات النفطية دون توضيح من شركة النفط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431061",
+        "published_date": "2026-10-24T09:44:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1c3eaf960504",
+        "title": "منتخب قدامى اللاعبين يواصل معسكره الداخلي في المكلا استعدادًا لبطولة الخليج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431058",
+        "published_date": "2026-10-24T05:38:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "30b17c79c309",
+        "title": "استئناف حركة سير المركبات على طريق رابط بين عدن وتعز بعد توقفها ليلاً",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431056",
+        "published_date": "2026-10-24T05:21:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ab18515ca1a2",
+        "title": "فلكي يمني: حالة ماطرة في اليمن ستبدأ السبت مع احتمال امتداد الأمطار إلى عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431053",
+        "published_date": "2026-10-24T04:42:10Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8509d0dd2925",
         "title": "مثقفون يمنيون يناشدون بالإفراج عن العفيف وأبو أصبع",
@@ -124,54 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430996",
         "published_date": "2026-10-22T09:49:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a6894cba99aa",
-        "title": "صنعاء.. البنك المركزي يوقف التعامل مع أكثر من 30 منشأة صرافة ويعيد التعامل مع منشأة واحدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430994",
-        "published_date": "2026-10-22T09:20:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eb850a443af6",
-        "title": "خبير طقس: المنخفض المداري يستعيد قوته وتوقعات بأمطار غزيرة على غرب وجنوب غرب اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430991",
-        "published_date": "2026-10-22T07:46:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "51ee6d15bc35",
-        "title": "فهل يخشى بعض المتدينين العلمانية لأنها تهدد الدين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430989",
-        "published_date": "2026-10-22T00:00:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c444155ef519",
-        "title": "الوجه الآخر للمصادفة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430987",
-        "published_date": "2026-10-21T18:06:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b4b65cb00f46",
-        "title": "فلكي يمني يتوقع أمطارًا متفاوتة الغزارة بتاثير المنخفض الجوي في بحر العرب ورياح مثيرة للغبار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430984",
-        "published_date": "2026-10-21T16:07:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1dee1c689d6f",
-        "title": "وزارة النقل بعدن تعلن استهداف مطارين وتحذر من تهديد سلامة الطيران المدني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430981",
-        "published_date": "2026-10-21T14:54:56Z",
         "category": "Local Events"
       }
     ]
