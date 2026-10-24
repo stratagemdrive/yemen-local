@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-23T15:41:57Z",
+  "last_updated": "2026-10-24T01:25:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,14 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "8509d0dd2925",
+        "title": "مثقفون يمنيون يناشدون بالإفراج عن العفيف وأبو أصبع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431049",
+        "published_date": "2026-10-23T19:02:15Z",
+        "category": "Local Events"
+      },
       {
         "_id": "aeb9e5357dd0",
         "title": "تعز.. اختناقات في طريق الضباب تعيق حركة السير وأنباء عن فتح طريق مجاورة",
@@ -164,14 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/430981",
         "published_date": "2026-10-21T14:54:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c46fc942ded0",
-        "title": "سريع يعلن استهداف معدات عسكرية في مطار بحضرموت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430979",
-        "published_date": "2026-10-21T14:35:17Z",
         "category": "Local Events"
       }
     ]
