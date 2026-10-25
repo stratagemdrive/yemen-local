@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-24T14:24:08Z",
+  "last_updated": "2026-10-25T00:56:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "f7bb366e63ab",
+        "title": "السلام الحقيقي هو أن يتوقف خوف الإنسان من الغد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431088",
+        "published_date": "2026-10-25T00:32:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "fc4147b50605",
+        "title": "من قال إن الوصول إلى السلطة باسم الإسلام عبادة؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431086",
+        "published_date": "2026-10-25T00:00:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88e39c229eb4",
+        "title": "شبكة محامون ضد الفساد: استمرار تعطيل المحاكم والنيابات يهدد ما تبقى من منظومة العدالة في تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431084",
+        "published_date": "2026-10-24T23:57:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "eee488911cec",
+        "title": "مدينة تعز مهددة بكارثة بيئية وسط استمرار التصعيد العسكري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431081",
+        "published_date": "2026-10-24T19:42:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2c56e88c855f",
+        "title": "مثقفون يمنيون يناشدون سلطات تعز الكشف عن مصير أيوب الصالحي وأكرم حميد والإفراج عنهما",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431078",
+        "published_date": "2026-10-24T18:59:34Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebece2460b4d",
+        "title": "واشنطن تجدد تحذير السفر إلى السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431076",
+        "published_date": "2026-10-24T18:12:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1834196fb11",
+        "title": "المالكي يعلن اعتراض وتدمير صواريخ ومسيرات في الأجواء السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431074",
+        "published_date": "2026-10-24T17:46:56Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e13d43cadf4a",
+        "title": "سريع يعلن تنفيذ 7 عمليات عسكرية استهدفت مطارات ومنشآت نفطية سعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431072",
+        "published_date": "2026-10-24T17:12:04Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1d57b7c0d923",
         "title": "حين باع الكاتب ظله",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431019",
         "published_date": "2026-10-22T21:19:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3e63a16e0a5e",
-        "title": "المقالح يحذر من حروب المدن وإخضاعها بالقوة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431017",
-        "published_date": "2026-10-22T20:21:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ea39b4c88915",
-        "title": "زراعة المهرة تصدر تحذيراً احترازياً للمزارعين ومربي الثروة الحيوانية تحسباً للتقلبات الجوية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431013",
-        "published_date": "2026-10-22T19:38:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5847576e7988",
-        "title": "المالكي يعلن اعتراض وتدمير صاروخ باليستي وخمس مسيّرات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431011",
-        "published_date": "2026-10-22T18:55:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b179696c7f26",
-        "title": "سريع يعلن استهداف وزارة الدفاع السعودية ومطارات وشركة أرامكو",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431007",
-        "published_date": "2026-10-22T12:33:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d5ff36d03d7",
-        "title": "أسعار صرف الريال اليمني في صنعاء وعدن الخميس 22 أكتوبر/تشرين اول 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431003",
-        "published_date": "2026-10-22T12:08:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2a307aa4d52f",
-        "title": "طيفك",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431001",
-        "published_date": "2026-10-22T10:42:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e361e966f88c",
-        "title": "سريع يعلن إنقاذ هنود استُهدف يخت كان يقلّهم في البحر الأحمر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430999",
-        "published_date": "2026-10-22T10:29:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ebd578610153",
-        "title": "تعز.. فتح طريق الضباب وازدحام خانق على طريق الصحى",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/430996",
-        "published_date": "2026-10-22T09:49:26Z",
         "category": "Local Events"
       }
     ]
