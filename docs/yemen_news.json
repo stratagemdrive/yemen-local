@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-25T00:56:07Z",
+  "last_updated": "2026-10-25T14:55:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,8 +15,56 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "d911702d52d7",
+        "title": "الأرصاد: أمطار رعدية على أجزاء من المرتفعات والسواحل وسهل تهامة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431111",
+        "published_date": "2026-10-25T14:28:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "38a584293504",
+        "title": "عدن.. الخدمة المدنية تعلن بدء صرف الزيادة والعلاوات لموظفي القطاع العام",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431106",
+        "published_date": "2026-10-25T13:51:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "03a0ae5baf02",
+        "title": "ازدحام طريق رابط بين عدن وتعز وشحنات وقود تدخل المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431100",
+        "published_date": "2026-10-25T11:31:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c8019bf0cda6",
+        "title": "بعد فوزه على منتخب أوروبا.. المنتخب اليمني تحت سن 15 عامًا يفوز على فلسطين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431097",
+        "published_date": "2026-10-25T10:19:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d5a8e11e7179",
+        "title": "المالكي: اعتراض وتدمير 12 صاروخًا باليستيًا وصاروخ كروز في الاجواء السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431095",
+        "published_date": "2026-10-25T09:34:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "07d3644814fc",
+        "title": "خبير طقس: أمطار غزيرة على مناطق واسعة من اليمن خلال الساعات القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431091",
+        "published_date": "2026-10-25T04:51:00Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "f7bb366e63ab",
-        "title": "السلام الحقيقي هو أن يتوقف خوف الإنسان من الغد",
+        "title": "اليمن.. جرح مفتوح وملف لم يُغلق",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431088",
         "published_date": "2026-10-25T00:32:47Z",
@@ -124,54 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431053",
         "published_date": "2026-10-24T04:42:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8509d0dd2925",
-        "title": "مثقفون يمنيون يناشدون بالإفراج عن العفيف وأبو أصبع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431049",
-        "published_date": "2026-10-23T19:02:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "aeb9e5357dd0",
-        "title": "تعز.. اختناقات في طريق الضباب تعيق حركة السير وأنباء عن فتح طريق مجاورة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431047",
-        "published_date": "2026-10-23T13:49:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8117acbc9140",
-        "title": "الأرصاد: أمطار رعدية ورياح هابطة على سقطرى وأجزاء من السواحل والمرتفعات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431044",
-        "published_date": "2026-10-23T11:08:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "cbcbcdd649d3",
-        "title": "فن إعادة اكتشاف القراءة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431042",
-        "published_date": "2026-10-23T03:09:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f993256343ef",
-        "title": "تعز تختنق.. والعالم يكتفي بمشاهدة موت الإنسان خلف الطرق المغلقة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431040",
-        "published_date": "2026-10-23T03:06:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "31bcebe1e8f0",
-        "title": "“وثائق”.. فرار أكثر من 600 سجين من إصلاحية تعز المركزية” أسماء”",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431019",
-        "published_date": "2026-10-22T21:19:34Z",
         "category": "Local Events"
       }
     ]
