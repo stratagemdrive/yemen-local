@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-25T14:55:35Z",
+  "last_updated": "2026-10-26T01:04:04Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "5f4c2c378fd5",
+        "title": "اضطراب الأحوال الجوية يعيق حركة سير المركبات بين عدن وتعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431124",
+        "published_date": "2026-10-25T17:05:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "826b8d9dc35d",
+        "title": "منتخب الأشبال يفوز على سانت لوسيا ويتصدر مجموعته",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431121",
+        "published_date": "2026-10-25T16:20:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6abcdc29887a",
+        "title": "الدفاع المدني السعودي يعلن عن أضرار جراء سقوط شظايا صاروخين باليستيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431118",
+        "published_date": "2026-10-25T15:35:22Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae3f4d637e87",
+        "title": "تسجيل هزتين أرضيتين في صنعاء وخليج عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431114",
+        "published_date": "2026-10-25T15:12:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "d911702d52d7",
         "title": "الأرصاد: أمطار رعدية على أجزاء من المرتفعات والسواحل وسهل تهامة",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431064",
         "published_date": "2026-10-24T10:11:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "33be77d3c574",
-        "title": "صنعاء.. ارتفاع أسعار المشتقات النفطية دون توضيح من شركة النفط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431061",
-        "published_date": "2026-10-24T09:44:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1c3eaf960504",
-        "title": "منتخب قدامى اللاعبين يواصل معسكره الداخلي في المكلا استعدادًا لبطولة الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431058",
-        "published_date": "2026-10-24T05:38:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "30b17c79c309",
-        "title": "استئناف حركة سير المركبات على طريق رابط بين عدن وتعز بعد توقفها ليلاً",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431056",
-        "published_date": "2026-10-24T05:21:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ab18515ca1a2",
-        "title": "فلكي يمني: حالة ماطرة في اليمن ستبدأ السبت مع احتمال امتداد الأمطار إلى عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431053",
-        "published_date": "2026-10-24T04:42:10Z",
         "category": "Local Events"
       }
     ]
