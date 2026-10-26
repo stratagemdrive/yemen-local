@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-26T01:04:04Z",
+  "last_updated": "2026-10-26T17:14:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "50e134339aed",
+        "title": "الخارجية السعودية تصدر بيان بشأن زيارة وزير الدفاع وممثلي اتفاقية مكة إلى طهران",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431149",
+        "published_date": "2026-10-26T14:43:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "607870dd7258",
+        "title": "البرلمان المصري يصوت بشأن تفويض السيسي باتخاذ إجراءات لدعم السعودية عسكريا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431146",
+        "published_date": "2026-10-26T14:14:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "cadf1d82864d",
+        "title": "منتخب الأشبال يخسر أمام اليونان في مهرجان كأس العالم للمواهب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431143",
+        "published_date": "2026-10-26T13:45:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f1ffbf4d508e",
+        "title": "تعز.. إغلاق طريق الضباب وسط تجدد المواجهات غرب المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431141",
+        "published_date": "2026-10-26T12:19:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "24915c5cae0a",
+        "title": "الأرصاد: استمرار الأمطار الرعدية على أجزاء من المرتفعات والسواحل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431139",
+        "published_date": "2026-10-26T11:58:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ab532dfa64a",
+        "title": "تعز.. فتح طريق الضباب أمام مختلف المركبات باستثناء شاحنات مواد البناء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431135",
+        "published_date": "2026-10-26T06:21:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2f2327fbeded",
+        "title": "سلسلة غارات على صنعاء وتعز والمالكي يعلن عن عملية نوعية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431132",
+        "published_date": "2026-10-26T05:37:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2bdd026fb921",
+        "title": "سريع يعلن استهداف مطار ومحطات ضخ النفط السعودي وأهداف عسكرية في عدن ولحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431130",
+        "published_date": "2026-10-26T05:00:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2affb265d204",
+        "title": "فلكي يمني بتوقع تراجع الهطول المطري في معظم مناطق اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431128",
+        "published_date": "2026-10-26T04:34:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5f4c2c378fd5",
         "title": "اضطراب الأحوال الجوية يعيق حركة سير المركبات بين عدن وتعز",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431088",
         "published_date": "2026-10-25T00:32:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fc4147b50605",
-        "title": "من قال إن الوصول إلى السلطة باسم الإسلام عبادة؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431086",
-        "published_date": "2026-10-25T00:00:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "88e39c229eb4",
-        "title": "شبكة محامون ضد الفساد: استمرار تعطيل المحاكم والنيابات يهدد ما تبقى من منظومة العدالة في تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431084",
-        "published_date": "2026-10-24T23:57:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eee488911cec",
-        "title": "مدينة تعز مهددة بكارثة بيئية وسط استمرار التصعيد العسكري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431081",
-        "published_date": "2026-10-24T19:42:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2c56e88c855f",
-        "title": "مثقفون يمنيون يناشدون سلطات تعز الكشف عن مصير أيوب الصالحي وأكرم حميد والإفراج عنهما",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431078",
-        "published_date": "2026-10-24T18:59:34Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ebece2460b4d",
-        "title": "واشنطن تجدد تحذير السفر إلى السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431076",
-        "published_date": "2026-10-24T18:12:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1834196fb11",
-        "title": "المالكي يعلن اعتراض وتدمير صواريخ ومسيرات في الأجواء السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431074",
-        "published_date": "2026-10-24T17:46:56Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e13d43cadf4a",
-        "title": "سريع يعلن تنفيذ 7 عمليات عسكرية استهدفت مطارات ومنشآت نفطية سعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431072",
-        "published_date": "2026-10-24T17:12:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1d57b7c0d923",
-        "title": "حين باع الكاتب ظله",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431069",
-        "published_date": "2026-10-24T11:46:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "27ff9324c1fd",
-        "title": "منتخب الناشئين يخسر أمام مصر بخماسية في كأس الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431064",
-        "published_date": "2026-10-24T10:11:05Z",
         "category": "Local Events"
       }
     ]
