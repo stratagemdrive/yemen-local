@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-27T01:54:42Z",
+  "last_updated": "2026-10-27T16:19:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "8f0287f3f871",
+        "title": "تعز.. استمرار فتح طريق الضباب وهدوء حذر في جبهات القتال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431181",
+        "published_date": "2026-10-27T13:18:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c302c55dc6e5",
+        "title": "الدفاع المدني السعودي يطلق إنذارات في ثلاث مدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431179",
+        "published_date": "2026-10-27T11:53:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7e4be61b0d47",
+        "title": "سريع يعلن استهداف مصفاة نفطية سعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431176",
+        "published_date": "2026-10-27T11:04:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c9fa167a28c9",
+        "title": "الأستاذ محمد محمود الحكيمي.. سيرة النزاهة وعبق الرجال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431173",
+        "published_date": "2026-10-27T10:39:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4bbdd95f0846",
+        "title": "مثقفون يمنيون يناشدون الإفراج عن الدكتور عبد الرحمن محمد الشرجبي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431170",
+        "published_date": "2026-10-27T10:03:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b6db56bedeb7",
+        "title": "فلكي يمني تراجع متوقع للأمطار على معظم مناطق اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431167",
+        "published_date": "2026-10-27T05:24:39Z",
+        "category": "Local Events"
+      },
       {
         "_id": "70f1e5c5a7ca",
         "title": "المستجدات الميدانية في جبهة كهبوب المطلة على باب المندب",
@@ -124,54 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431128",
         "published_date": "2026-10-26T04:34:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5f4c2c378fd5",
-        "title": "اضطراب الأحوال الجوية يعيق حركة سير المركبات بين عدن وتعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431124",
-        "published_date": "2026-10-25T17:05:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "826b8d9dc35d",
-        "title": "منتخب الأشبال يفوز على سانت لوسيا ويتصدر مجموعته",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431121",
-        "published_date": "2026-10-25T16:20:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6abcdc29887a",
-        "title": "الدفاع المدني السعودي يعلن عن أضرار جراء سقوط شظايا صاروخين باليستيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431118",
-        "published_date": "2026-10-25T15:35:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae3f4d637e87",
-        "title": "تسجيل هزتين أرضيتين في صنعاء وخليج عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431114",
-        "published_date": "2026-10-25T15:12:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d911702d52d7",
-        "title": "الأرصاد: أمطار رعدية على أجزاء من المرتفعات والسواحل وسهل تهامة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431111",
-        "published_date": "2026-10-25T14:28:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "38a584293504",
-        "title": "عدن.. الخدمة المدنية تعلن بدء صرف الزيادة والعلاوات لموظفي القطاع العام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431106",
-        "published_date": "2026-10-25T13:51:58Z",
         "category": "Local Events"
       }
     ]
