@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-26T17:14:37Z",
+  "last_updated": "2026-10-27T01:54:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "70f1e5c5a7ca",
+        "title": "المستجدات الميدانية في جبهة كهبوب المطلة على باب المندب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431165",
+        "published_date": "2026-10-26T21:57:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "03fa7089dea6",
+        "title": "الفريق السامعي يطلع على الاستعدادات لإقامة مهرجان «خيرات اليمن»",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431162",
+        "published_date": "2026-10-26T21:22:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8234a330e9ed",
+        "title": "جرعة جديدة تثقل كاهل المواطن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431160",
+        "published_date": "2026-10-26T20:41:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "319c332fd4a2",
+        "title": "منتخب الأشبال يخسر أمام كرواتيا في ختام المرحلة الأولى لمهرجان كأس العالم للمواهب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431157",
+        "published_date": "2026-10-26T20:01:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1450c0a9aa7a",
+        "title": "الفريق السامعي يبحث مع الصليب الأحمر تسهيل وصول المساعدات الطبية إلى تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431152",
+        "published_date": "2026-10-26T19:28:27Z",
+        "category": "Local Events"
+      },
       {
         "_id": "50e134339aed",
         "title": "الخارجية السعودية تصدر بيان بشأن زيارة وزير الدفاع وممثلي اتفاقية مكة إلى طهران",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431106",
         "published_date": "2026-10-25T13:51:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "03a0ae5baf02",
-        "title": "ازدحام طريق رابط بين عدن وتعز وشحنات وقود تدخل المدينة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431100",
-        "published_date": "2026-10-25T11:31:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c8019bf0cda6",
-        "title": "بعد فوزه على منتخب أوروبا.. المنتخب اليمني تحت سن 15 عامًا يفوز على فلسطين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431097",
-        "published_date": "2026-10-25T10:19:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d5a8e11e7179",
-        "title": "المالكي: اعتراض وتدمير 12 صاروخًا باليستيًا وصاروخ كروز في الاجواء السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431095",
-        "published_date": "2026-10-25T09:34:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "07d3644814fc",
-        "title": "خبير طقس: أمطار غزيرة على مناطق واسعة من اليمن خلال الساعات القادمة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431091",
-        "published_date": "2026-10-25T04:51:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f7bb366e63ab",
-        "title": "اليمن.. جرح مفتوح وملف لم يُغلق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431088",
-        "published_date": "2026-10-25T00:32:47Z",
         "category": "Local Events"
       }
     ]
