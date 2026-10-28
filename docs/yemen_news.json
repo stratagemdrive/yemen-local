@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-27T16:19:53Z",
+  "last_updated": "2026-10-28T02:04:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "8046dd4f8244",
+        "title": "منتخب الأشبال يستهل المرحلة الثانية في مهرجان كأس العالم للمواهب بمواجهة أوغندا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431192",
+        "published_date": "2026-10-27T20:55:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "56981cc9d4dc",
+        "title": "درع الوطن والعمالقة تعلنان السيطرة على مواقع في باب المندب وسريع يعلن التصدي لها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431189",
+        "published_date": "2026-10-27T20:23:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8d55757136f0",
+        "title": "السقلدي: زيادة ابن سلمان إلى طهران مؤشر على ميل سعودي نحو إنهاء حرب اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431187",
+        "published_date": "2026-10-27T19:25:18Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e4d3b6fc73b3",
+        "title": "اليمنية تحيل طائرة تعرضت لعارض جوي إلى الصيانة دون تشكيل لجنة تحقيق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431183",
+        "published_date": "2026-10-27T19:02:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8f0287f3f871",
         "title": "تعز.. استمرار فتح طريق الضباب وهدوء حذر في جبهات القتال",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431139",
         "published_date": "2026-10-26T11:58:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6ab532dfa64a",
-        "title": "تعز.. فتح طريق الضباب أمام مختلف المركبات باستثناء شاحنات مواد البناء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431135",
-        "published_date": "2026-10-26T06:21:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2f2327fbeded",
-        "title": "سلسلة غارات على صنعاء وتعز والمالكي يعلن عن عملية نوعية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431132",
-        "published_date": "2026-10-26T05:37:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2bdd026fb921",
-        "title": "سريع يعلن استهداف مطار ومحطات ضخ النفط السعودي وأهداف عسكرية في عدن ولحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431130",
-        "published_date": "2026-10-26T05:00:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2affb265d204",
-        "title": "فلكي يمني بتوقع تراجع الهطول المطري في معظم مناطق اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431128",
-        "published_date": "2026-10-26T04:34:00Z",
         "category": "Local Events"
       }
     ]
