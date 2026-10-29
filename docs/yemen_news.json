@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-28T17:04:15Z",
+  "last_updated": "2026-10-29T02:14:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "798af48f2ad3",
+        "title": "تسجيل هزة أرضية من البحر الأحمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431265",
+        "published_date": "2026-10-28T21:17:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a85f703d3b24",
+        "title": "أصحابها ضيّعوها… كسّروا الميزان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431256",
+        "published_date": "2026-10-28T20:36:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e06bf8618a6c",
+        "title": "عشرون مليون «هارون عبده» يساقون الى الموت تباعاً لاطماع المتحاربين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431254",
+        "published_date": "2026-10-28T20:30:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f9e8ab068eee",
+        "title": "حين يقتل الحوثي اليمني باسم اليمن… تعز تنزف والجمهورية تقاوم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431252",
+        "published_date": "2026-10-28T20:22:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f90e226865a0",
+        "title": "القراءة الروايات ليست مضيعة للوقت",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431250",
+        "published_date": "2026-10-28T20:17:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4c117ad8f2f9",
+        "title": "«خارج التغطية»: حين تُباع السيادة الرقمية على مائدة الهيمنة ونفوذ الفساد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431248",
+        "published_date": "2026-10-28T20:14:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a167ae361a8d",
+        "title": "عدن.. وزارة النقل تشكل لجنة للتحقيق في تعرض طائرة اليمنية لعاصفة ثلجية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431242",
+        "published_date": "2026-10-28T20:06:25Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "824d7ca23513",
+        "title": "البخيتي: السعودية حولت المطارات المدنية لحشد الأسلحة والمعدات الحربية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431240",
+        "published_date": "2026-10-28T19:38:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "23c3dfbb1c9a",
+        "title": "خسارة أخرى لمنتخب الأشبال أمام موزمبيق في المرحلة الثانية لمهرجان كأس العالم للمواهب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431238",
+        "published_date": "2026-10-28T19:02:37Z",
+        "category": "Local Events"
+      },
       {
         "_id": "fb8f9bbc02ff",
         "title": "الحقوقي النبهاني: قصف المطارات والتهجير القسري وحصار تعز مدان",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431200",
         "published_date": "2026-10-28T05:06:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "eac5975d683c",
-        "title": "إلى العظيم أبي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431198",
-        "published_date": "2026-10-28T04:54:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "efb860434aa0",
-        "title": "فلكي يمني: انخفاض ملحوظ في درجات الحرارة وتحذير للمزارعين من برودة الصباح",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431195",
-        "published_date": "2026-10-28T04:29:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8046dd4f8244",
-        "title": "منتخب الأشبال يستهل المرحلة الثانية في مهرجان كأس العالم للمواهب بمواجهة أوغندا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431192",
-        "published_date": "2026-10-27T20:55:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "56981cc9d4dc",
-        "title": "درع الوطن والعمالقة تعلنان السيطرة على مواقع في باب المندب وسريع يعلن التصدي لها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431189",
-        "published_date": "2026-10-27T20:23:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8d55757136f0",
-        "title": "السقلدي: زيادة ابن سلمان إلى طهران مؤشر على ميل سعودي نحو إنهاء حرب اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431187",
-        "published_date": "2026-10-27T19:25:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e4d3b6fc73b3",
-        "title": "اليمنية تحيل طائرة تعرضت لعارض جوي إلى الصيانة دون تشكيل لجنة تحقيق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431183",
-        "published_date": "2026-10-27T19:02:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8f0287f3f871",
-        "title": "تعز.. استمرار فتح طريق الضباب وهدوء حذر في جبهات القتال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431181",
-        "published_date": "2026-10-27T13:18:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c302c55dc6e5",
-        "title": "الدفاع المدني السعودي يطلق إنذارات في ثلاث مدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431179",
-        "published_date": "2026-10-27T11:53:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7e4be61b0d47",
-        "title": "سريع يعلن استهداف مصفاة نفطية سعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431176",
-        "published_date": "2026-10-27T11:04:17Z",
         "category": "Local Events"
       }
     ]
