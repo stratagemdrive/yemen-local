@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-29T02:14:46Z",
+  "last_updated": "2026-10-29T17:22:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "8f2c4916ac62",
+        "title": "منتخب الناشئين يتأهل إلى نصف نهائي كأس الخليج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431289",
+        "published_date": "2026-10-29T16:49:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e1cba676c29a",
+        "title": "شبوة.. مسلحون يستهدفون ناقلة وقود",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431286",
+        "published_date": "2026-10-29T16:28:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b9fabe31a6f6",
+        "title": "إطلاق ميثاق شرف قبلي يمني في جنيف وسط انتقادات لمنظمي الفعالية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431283",
+        "published_date": "2026-10-29T12:40:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "081d38bc8639",
+        "title": "مثقفون يمنيون يناشدون تنفيذ أحكام القضاء القاضية بالإفراج عن صدام الصوفي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431280",
+        "published_date": "2026-10-29T11:01:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "08089fabc20e",
+        "title": "حادث سير يعرقل حركة السير على طريق رابط بين عدن وتعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431277",
+        "published_date": "2026-10-29T10:21:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "07f0dcf0c931",
+        "title": "فلكي يمني: أجواء باردة وانخفاض طفيف في درجات الحرارة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431274",
+        "published_date": "2026-10-29T09:57:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f6af80e200c2",
+        "title": "وسط هدوء حذر في الجبهات.. انتظام حركة المركبات إلى مدينة تعز لليوم الثالث وفتح طريقين آخرين إلى عدن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431272",
+        "published_date": "2026-10-29T09:36:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6825cfd041a9",
+        "title": "شعب حضرموت يخسر أمام الدحيل القطري في ثاني لقاءاته ببطولة كأس الخليج للأندية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431269",
+        "published_date": "2026-10-29T08:44:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "798af48f2ad3",
         "title": "تسجيل هزة أرضية من البحر الأحمر",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431229",
         "published_date": "2026-10-28T15:39:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "74f0d399b1d0",
-        "title": "عدن.. انفجارات عنيفة بعد دعوة لإخلاء المطار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431225",
-        "published_date": "2026-10-28T13:35:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "141506f4ed2c",
-        "title": "سريع يدعو إلى إخلاء مطار عدن الدولي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431223",
-        "published_date": "2026-10-28T11:46:33Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "39770872dd78",
-        "title": "الأرصاد: انخفاض درجات الحرارة على اغلب المرتفعات والصحاري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431219",
-        "published_date": "2026-10-28T11:27:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9fd1d7aab4e3",
-        "title": "توقف حركة السير على طريق رابط بين عدن وتعز بسبب حادث سير",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431213",
-        "published_date": "2026-10-28T09:37:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ad8308e3b2c5",
-        "title": "نقابة المحامين تستغرب استدعاء محامٍ للتحقيق بعد شكواه من الاعتداء عليه في مكتب النائب العام",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431211",
-        "published_date": "2026-10-28T09:23:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "19327dec05e7",
-        "title": "حميدان ينتقد الممارسات المناطقية ضد المنتمين للمحافظات الشمالية ويدعو لوقفة جادة أمام الأسباب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431207",
-        "published_date": "2026-10-28T06:04:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c8765b524520",
-        "title": "لليوم الثاني.. انتظام فتح طريق مؤدٍ إلى مدينة تعز وسط هدوء حذر في جبهات القتال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431204",
-        "published_date": "2026-10-28T05:33:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "240afc31cf73",
-        "title": "الفريق سلطان السامعي.. قراءة سبقت تحولات المشهد الإقليمي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431200",
-        "published_date": "2026-10-28T05:06:44Z",
         "category": "Local Events"
       }
     ]
