@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-29T17:22:22Z",
+  "last_updated": "2026-10-30T02:28:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,8 +15,40 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "390d02b43ad9",
+        "title": "الفلكي الشوافي: تحسن درجات الحرارة خلال اليومين القادمين وفرص الأمطار محدودة على بعض المناطق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431301",
+        "published_date": "2026-10-29T22:21:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5677da9b349b",
+        "title": "سريع يعلن تنفيذ 6 عمليات عسكرية استهدفت مواقع ومنشآت سعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431299",
+        "published_date": "2026-10-29T20:01:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "68af88e0c812",
+        "title": "المالكي يعلن اعتراض وتدمير صاروخين باليستيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431297",
+        "published_date": "2026-10-29T19:45:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1e94de089de2",
+        "title": "عدن.. البنك المركزي يوقف تراخيص خمس شركات صرافة ويغلق مقراتها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431295",
+        "published_date": "2026-10-29T19:36:21Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "8f2c4916ac62",
-        "title": "منتخب الناشئين يتأهل إلى نصف نهائي كأس الخليج",
+        "title": "منتخب الناشئين يهزم الكويت بثنائية ويتأهل إلى نصف نهائي بطولة الخليج",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431289",
         "published_date": "2026-10-29T16:49:33Z",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431240",
         "published_date": "2026-10-28T19:38:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23c3dfbb1c9a",
-        "title": "خسارة أخرى لمنتخب الأشبال أمام موزمبيق في المرحلة الثانية لمهرجان كأس العالم للمواهب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431238",
-        "published_date": "2026-10-28T19:02:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "fb8f9bbc02ff",
-        "title": "الحقوقي النبهاني: قصف المطارات والتهجير القسري وحصار تعز مدان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431235",
-        "published_date": "2026-10-28T16:26:18Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "99fc61220afb",
-        "title": "شرطة الضالع تعترف بترحيل مواطنين من المحافظات الشمالية وتحدد موقفها من العملية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431232",
-        "published_date": "2026-10-28T15:57:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "dad45468580b",
-        "title": "منتخب الأشبال يخسر أمام أوغندا في المرحلة الثانية لمهرجان كأس العالم للمواهب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431229",
-        "published_date": "2026-10-28T15:39:08Z",
         "category": "Local Events"
       }
     ]
