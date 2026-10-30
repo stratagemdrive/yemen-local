@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-30T02:28:08Z",
+  "last_updated": "2026-10-30T16:59:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,78 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "96234a979785",
+        "title": "المالكي: اعتراض وتدمير مسيّرة وصاروخ باليستي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431324",
+        "published_date": "2026-10-30T16:40:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "63be0297f95b",
+        "title": "منتخب الأشبال يختتم مشاركته في مهرجان كأس العالم بخسارة أمام مولدوفا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431322",
+        "published_date": "2026-10-30T16:15:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "45c39b13d0f1",
+        "title": "نقابة الصحفيين تدعو للتحقيق في تهديدات طالت الصحفي المعمري وممتلكاته",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431320",
+        "published_date": "2026-10-30T13:49:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1539da3021a0",
+        "title": "دروس تتكرر وأوهام تتجذر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431318",
+        "published_date": "2026-10-30T12:49:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d12963287e4c",
+        "title": "لحج.. اشتباكات عنيفة في المقاطرة تقطع طريق عدن–تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431313",
+        "published_date": "2026-10-30T11:55:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3624b7b1545b",
+        "title": "المالكي يعلن اعتراض مسيّرة وصاروخ كروز.. وسريع ينفي تنفيذ أي هجوم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431310",
+        "published_date": "2026-10-30T09:01:14Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b2e523f5fd77",
+        "title": "أبو راس: ميثاق الشرف القبلي في جنيف يجب أن يكون خطوة نحو إنهاء الحرب لا مناسبة لإعادة إنتاج الانقسام",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431308",
+        "published_date": "2026-10-30T08:20:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1905c13482c0",
+        "title": "حادث سير يغلق طريقاً رابطاً بين عدن وتعز وسط انتظام فتح طريق الضباب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431305",
+        "published_date": "2026-10-30T07:55:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4044adec3185",
+        "title": "منتخب الأشبال يفوز على نيكاراغوا بخماسية في مهرجان كأس العالم للمواهب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431303",
+        "published_date": "2026-10-30T07:10:06Z",
+        "category": "Local Events"
+      },
       {
         "_id": "390d02b43ad9",
         "title": "الفلكي الشوافي: تحسن درجات الحرارة خلال اليومين القادمين وفرص الأمطار محدودة على بعض المناطق",
@@ -100,78 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431272",
         "published_date": "2026-10-29T09:36:06Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6825cfd041a9",
-        "title": "شعب حضرموت يخسر أمام الدحيل القطري في ثاني لقاءاته ببطولة كأس الخليج للأندية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431269",
-        "published_date": "2026-10-29T08:44:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "798af48f2ad3",
-        "title": "تسجيل هزة أرضية من البحر الأحمر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431265",
-        "published_date": "2026-10-28T21:17:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a85f703d3b24",
-        "title": "أصحابها ضيّعوها… كسّروا الميزان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431256",
-        "published_date": "2026-10-28T20:36:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e06bf8618a6c",
-        "title": "عشرون مليون «هارون عبده» يساقون الى الموت تباعاً لاطماع المتحاربين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431254",
-        "published_date": "2026-10-28T20:30:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f9e8ab068eee",
-        "title": "حين يقتل الحوثي اليمني باسم اليمن… تعز تنزف والجمهورية تقاوم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431252",
-        "published_date": "2026-10-28T20:22:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f90e226865a0",
-        "title": "القراءة الروايات ليست مضيعة للوقت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431250",
-        "published_date": "2026-10-28T20:17:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4c117ad8f2f9",
-        "title": "«خارج التغطية»: حين تُباع السيادة الرقمية على مائدة الهيمنة ونفوذ الفساد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431248",
-        "published_date": "2026-10-28T20:14:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a167ae361a8d",
-        "title": "عدن.. وزارة النقل تشكل لجنة للتحقيق في تعرض طائرة اليمنية لعاصفة ثلجية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431242",
-        "published_date": "2026-10-28T20:06:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "824d7ca23513",
-        "title": "البخيتي: السعودية حولت المطارات المدنية لحشد الأسلحة والمعدات الحربية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431240",
-        "published_date": "2026-10-28T19:38:38Z",
         "category": "Local Events"
       }
     ]
