@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-10-30T16:59:03Z",
+  "last_updated": "2026-10-31T02:08:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,14 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "5f18c9da215b",
+        "title": "نقابة سائقي ناقلات النفط والغاز تطالب بملاحقة قتلة سائقين وتأمين الطرق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431326",
+        "published_date": "2026-10-30T19:00:22Z",
+        "category": "Local Events"
+      },
       {
         "_id": "96234a979785",
         "title": "المالكي: اعتراض وتدمير مسيّرة وصاروخ باليستي",
@@ -164,14 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431274",
         "published_date": "2026-10-29T09:57:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f6af80e200c2",
-        "title": "وسط هدوء حذر في الجبهات.. انتظام حركة المركبات إلى مدينة تعز لليوم الثالث وفتح طريقين آخرين إلى عدن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431272",
-        "published_date": "2026-10-29T09:36:06Z",
         "category": "Local Events"
       }
     ]
