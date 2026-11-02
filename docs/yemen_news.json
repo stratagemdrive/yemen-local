@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-01T17:03:55Z",
+  "last_updated": "2026-11-02T20:42:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,8 +15,112 @@
     "Economy": [],
     "Local Events": [
       {
+        "_id": "abcf833fca89",
+        "title": "تعديل وزاري يطال حكومة الزنداني وتعيين سفير بوزارة الخارجية ومستشارين لوزير النقل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431441",
+        "published_date": "2026-11-02T20:12:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8bda515c70b9",
+        "title": "السماح بدخول شاحنات البضائع إلى مدينة تعز بعد حجزها لمدة يوم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431438",
+        "published_date": "2026-11-02T19:15:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9cc24ab55145",
+        "title": "سريع يعلن استهداف مطار الدمام ورادار للإنذار المبكر وطائرة نقل عسكرية في جيزان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431436",
+        "published_date": "2026-11-02T18:19:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6319557438a4",
+        "title": "عدن.. تعيين قيادة جديدة لجبهة تعز ومحور طور الباحة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431433",
+        "published_date": "2026-11-02T17:33:00Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d43d819b4bf3",
+        "title": "استمرار إغلاق معظم الطرق الرابطة بين عدن وتعز وانتظام فتح طريق الضباب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431427",
+        "published_date": "2026-11-02T09:11:17Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9c6c4e6e9d83",
+        "title": "لحج.. مستجدات المواجهات العسكرية في الصبيحة بعد سيطرة الحوثيين على المقاطرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431421",
+        "published_date": "2026-11-02T06:10:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bb15b88fe451",
+        "title": "مثقفون يمنيون يناشدون سلطة صنعاء الإفراج عن العشاري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431418",
+        "published_date": "2026-11-02T05:51:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "089e7564a596",
+        "title": "خبير أرصاد يتوقع توسع الاضطرابات الجوية وهطول أمطار على سقطرى والسواحل والمرتفعات اليمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431415",
+        "published_date": "2026-11-02T04:31:15Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5242cc81463f",
+        "title": "عدن.. تعيين قيادات عسكرية وأمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431412",
+        "published_date": "2026-11-01T20:20:29Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1ef3899293d7",
+        "title": "الذين يسكنوننا بعد الرحيل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431410",
+        "published_date": "2026-11-01T19:48:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a9cf2893d03",
+        "title": "استقالتك شرف لك ولليمن (1-2)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431408",
+        "published_date": "2026-11-01T19:43:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ae08868771f2",
+        "title": "عدن.. البنك المركزي يوقف تراخيص ويغلق مقرات عشر كيانات مصرفية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431406",
+        "published_date": "2026-11-01T19:11:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "743ca1b7145b",
+        "title": "صنعاء.. البنك المركزي يحدد موعد بدء صرف نصف مرتب يونيو 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431403",
+        "published_date": "2026-11-01T17:57:47Z",
+        "category": "Local Events"
+      },
+      {
         "_id": "ec821d6cec29",
-        "title": "منتخب الناشئين يخسر امام المنتخب الاماراتي",
+        "title": "منتخب الناشئين يخسر أمام الإمارات في نصف نهائي بطولة الخليج",
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431397",
         "published_date": "2026-11-01T16:53:54Z",
@@ -68,110 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431378",
         "published_date": "2026-11-01T09:24:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "03bf64902c81",
-        "title": "المقالح: قصف مطار عدن يحرم آلاف اليمنيين من منفذهم الجوي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431376",
-        "published_date": "2026-11-01T08:32:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6c3fcfca199a",
-        "title": "أبين.. مسلحون يستهدفون طقماً عسكرياً ويقتلون ويجرحون أفراده",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431371",
-        "published_date": "2026-11-01T07:23:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ae14427b9801",
-        "title": "الحقوقي النبهاني يدعو للتحقيق في وفاة موظف أممي بصنعاء والإسراع في الإفراج عن جميع المعتقلين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431369",
-        "published_date": "2026-11-01T06:37:35Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6df8ee02028f",
-        "title": "منتخب الناشئين يواجه منتخب الإمارات بحثاً عن بطاقة التأهل إلى نهائي كأس الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431366",
-        "published_date": "2026-11-01T05:56:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "721feded2d7e",
-        "title": "الاشتباكات تتجاوز المقاطرة والطرق الرابطة بين عدن وتعز مغلقة باستثناء طريق واحدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431363",
-        "published_date": "2026-11-01T05:11:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "522011f6166e",
-        "title": "اليمن بحاجة لإرادة صادقة توحّد الجهود",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431361",
-        "published_date": "2026-10-31T19:54:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e5b44bdf0501",
-        "title": "السقلدي: التوتر السعودي الإماراتي يتصاعد والجنوب يدفع ثمن الصراع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431358",
-        "published_date": "2026-10-31T18:01:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "73dd6dafc9ef",
-        "title": "منتخب القدامى يخسر مباراته الثانية أمام قطر في بطولة الخليج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431354",
-        "published_date": "2026-10-31T16:07:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3ac20682dfa8",
-        "title": "مثقفون يمنيون يناشدون بتوفير منحة علاجية للدكتور رصين الرصين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431351",
-        "published_date": "2026-10-31T15:39:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bacf47d298e4",
-        "title": "ما بين الصوت الأول وصمت الكون.. هل أدى اتساع المعرفة الإنسانية إلى تعميق فهمنا للوجود، أم أنه أبعدنا عن الإحساس الأول بقداسته وغموضه؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431346",
-        "published_date": "2026-10-31T14:24:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "765ea88e0fab",
-        "title": "حفل شاي على حافة الهاوية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431343",
-        "published_date": "2026-10-31T12:56:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2247dd41e6e6",
-        "title": "متوسط أسعار الذهب في صنعاء وعدن السبت 31 أكتوبر/تشرين أول 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431341",
-        "published_date": "2026-10-31T12:38:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4f671d3954c5",
-        "title": "دخول شحنة وقود إلى مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431338",
-        "published_date": "2026-10-31T11:37:48Z",
         "category": "Local Events"
       }
     ]
