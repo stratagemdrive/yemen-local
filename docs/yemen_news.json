@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-02T20:42:35Z",
+  "last_updated": "2026-11-03T03:55:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "39b9b2521867",
+        "title": "“وثيقة”.. سلطات المكلا تضع شروط قبل إبرام أو تجديد عقود إيجار العقارات والشقق السكنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431454",
+        "published_date": "2026-11-02T22:19:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8091b37643c9",
+        "title": "سائقون يشكون من أعطال تُصيب مركباتهم بسبب البنزين المغشوش",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431451",
+        "published_date": "2026-11-02T21:51:58Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6fbd393ef19a",
+        "title": "نحو معركة الوجود الأولى.. لماذا يقف «مركز حُلول» خلف «المبادرة الوطنية لإعادة بناء التعليم» في اليمن؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431448",
+        "published_date": "2026-11-02T21:27:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "58fe251794d3",
+        "title": "المساوى يعلن عن مبادرة من طرف واحد لفتح طرق لنقل النفايات من مدينة تعز إلى المقلب الرئيسي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431445",
+        "published_date": "2026-11-02T20:51:15Z",
+        "category": "Local Events"
+      },
       {
         "_id": "abcf833fca89",
         "title": "تعديل وزاري يطال حكومة الزنداني وتعيين سفير بوزارة الخارجية ومستشارين لوزير النقل",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431389",
         "published_date": "2026-11-01T15:34:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "42b762af3c36",
-        "title": "حجز شاحنات بضائع على طريق الضباب ومنعها من الدخول إلى مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431386",
-        "published_date": "2026-11-01T14:35:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "037f668a3125",
-        "title": "صنعاء.. وزارة المالية تعلن استكمال إجراءات التعزيز بالمرتبات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431384",
-        "published_date": "2026-11-01T12:32:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8e6b986ec77c",
-        "title": "تعيين محافظين لمحافظتي البيضاء والجوف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431382",
-        "published_date": "2026-11-01T10:17:42Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9cf9d093d113",
-        "title": "جامعة تعز تعلق الدراسة والامتحانات في كليات فرع التربة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431378",
-        "published_date": "2026-11-01T09:24:51Z",
         "category": "Local Events"
       }
     ]
