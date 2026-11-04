@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-04T02:57:53Z",
+  "last_updated": "2026-11-04T18:32:20Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "1558eb811d29",
+        "title": "دخول شحنة إمدادات طبية إلى مدينة تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431521",
+        "published_date": "2026-11-04T17:37:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b856d78b9c34",
+        "title": "صنعاء.. البنك المركزي يوقف التعامل مع شركة صرافة وشبكة تحويلات مالية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431519",
+        "published_date": "2026-11-04T14:14:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3e1aa181db2f",
+        "title": "المبادرة الوطنية لإعادة بناء التعليم في اليمن.. شعلة أمل لإنقاذ مستقبل الأجيال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431516",
+        "published_date": "2026-11-04T13:58:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f9ce3ab3a663",
+        "title": "سريع يعلن إسقاط طائرة استطلاع واستهداف تحشيدات في الجوف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431513",
+        "published_date": "2026-11-04T13:32:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c548f04c8ad7",
+        "title": "أسعار صرف الريال اليمني مقابل العملات الاجنبية الأربعاء 04 نوفمبر/تشرين ثاني 2026",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431511",
+        "published_date": "2026-11-04T11:56:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4fa2c743c804",
+        "title": "سلطات إب تفرج عن قياديين في الاشتراكي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431509",
+        "published_date": "2026-11-04T11:04:39Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2bada82f7d27",
+        "title": "عشرات الشاحنات عالقة في طور الباحة بلحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431506",
+        "published_date": "2026-11-04T10:20:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "66d95d540f9b",
+        "title": "الديمقراطيون يحققون مكاسب أولية في السباق للسيطرة على الكونغرس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431503",
+        "published_date": "2026-11-04T05:08:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "7de12d3ce3ca",
         "title": "الفلسفة التعليمية",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431459",
         "published_date": "2026-11-03T10:01:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c8cc96b7e197",
-        "title": "الأرصاد: انخفاض في درجات الحرارة على أجزاء من المرتفعات والهضاب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431457",
-        "published_date": "2026-11-03T09:43:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "39b9b2521867",
-        "title": "“وثيقة”.. سلطات المكلا تضع شروط قبل إبرام أو تجديد عقود إيجار العقارات والشقق السكنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431454",
-        "published_date": "2026-11-02T22:19:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8091b37643c9",
-        "title": "سائقون يشكون من أعطال تُصيب مركباتهم بسبب البنزين المغشوش",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431451",
-        "published_date": "2026-11-02T21:51:58Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6fbd393ef19a",
-        "title": "نحو معركة الوجود الأولى.. لماذا يقف «مركز حُلول» خلف «المبادرة الوطنية لإعادة بناء التعليم» في اليمن؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431448",
-        "published_date": "2026-11-02T21:27:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "58fe251794d3",
-        "title": "المساوى يعلن عن مبادرة من طرف واحد لفتح طرق لنقل النفايات من مدينة تعز إلى المقلب الرئيسي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431445",
-        "published_date": "2026-11-02T20:51:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "abcf833fca89",
-        "title": "تعديل وزاري يطال حكومة الزنداني وتعيين سفير بوزارة الخارجية ومستشارين لوزير النقل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431441",
-        "published_date": "2026-11-02T20:12:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8bda515c70b9",
-        "title": "السماح بدخول شاحنات البضائع إلى مدينة تعز بعد حجزها لمدة يوم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431438",
-        "published_date": "2026-11-02T19:15:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9cc24ab55145",
-        "title": "سريع يعلن استهداف مطار الدمام ورادار للإنذار المبكر وطائرة نقل عسكرية في جيزان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431436",
-        "published_date": "2026-11-02T18:19:52Z",
         "category": "Local Events"
       }
     ]
