@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-03T18:20:14Z",
+  "last_updated": "2026-11-04T02:57:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "7de12d3ce3ca",
+        "title": "الفلسفة التعليمية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431501",
+        "published_date": "2026-11-04T01:21:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "034282abdfec",
+        "title": "تعثر نقل النفايات من مدينة تعز وسط استمرار الجهود لإنفاذ تفاهمات رعاها القطاع الخاص",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431498",
+        "published_date": "2026-11-03T22:32:37Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b0c43bfe50d8",
+        "title": "بدء انتخابات التجديد النصفي الأمريكية وسط مخاوف الجمهوريين من تقدم خصومهم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431495",
+        "published_date": "2026-11-03T22:17:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "44932ec2a74c",
+        "title": "خبير طقس يتوقع تحسن الهطول المطري الأسبوع المقبل وينبه مزارعي الخضروات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431492",
+        "published_date": "2026-11-03T21:20:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1d79e204b8e2",
+        "title": "الأمم المتحدة تعيّن أردني منسقاً مقيماً جديداً في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431488",
+        "published_date": "2026-11-03T20:30:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "120bf4c8f551",
+        "title": "صرخة من أجل مستقبل الأجيال",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431486",
+        "published_date": "2026-11-03T20:14:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "bbe91b07ce2a",
+        "title": "خبير مالي يكشف بالأرقام استغلال محطات الكهرباء التجارية في اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431483",
+        "published_date": "2026-11-03T19:56:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "482a56bfd8b8",
+        "title": "لم أحمل معي سوى حقيبتي وسيرتي الذاتية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431472",
+        "published_date": "2026-11-03T19:10:20Z",
+        "category": "Local Events"
+      },
       {
         "_id": "23eb7e5881ab",
         "title": "شعب حضرموت يخسر مباراته الثالثة أمام الشباب العُماني",
@@ -108,70 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431436",
         "published_date": "2026-11-02T18:19:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6319557438a4",
-        "title": "عدن.. تعيين قيادة جديدة لجبهة تعز ومحور طور الباحة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431433",
-        "published_date": "2026-11-02T17:33:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d43d819b4bf3",
-        "title": "استمرار إغلاق معظم الطرق الرابطة بين عدن وتعز وانتظام فتح طريق الضباب",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431427",
-        "published_date": "2026-11-02T09:11:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c6c4e6e9d83",
-        "title": "لحج.. مستجدات المواجهات العسكرية في الصبيحة بعد سيطرة الحوثيين على المقاطرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431421",
-        "published_date": "2026-11-02T06:10:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bb15b88fe451",
-        "title": "مثقفون يمنيون يناشدون سلطة صنعاء الإفراج عن العشاري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431418",
-        "published_date": "2026-11-02T05:51:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "089e7564a596",
-        "title": "خبير أرصاد يتوقع توسع الاضطرابات الجوية وهطول أمطار على سقطرى والسواحل والمرتفعات اليمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431415",
-        "published_date": "2026-11-02T04:31:15Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5242cc81463f",
-        "title": "عدن.. تعيين قيادات عسكرية وأمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431412",
-        "published_date": "2026-11-01T20:20:29Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1ef3899293d7",
-        "title": "الذين يسكنوننا بعد الرحيل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431410",
-        "published_date": "2026-11-01T19:48:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a9cf2893d03",
-        "title": "استقالتك شرف لك ولليمن (1-2)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431408",
-        "published_date": "2026-11-01T19:43:03Z",
         "category": "Local Events"
       }
     ]
