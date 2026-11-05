@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-05T03:20:22Z",
+  "last_updated": "2026-11-05T18:38:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "637e889e9934",
+        "title": "مثقفون يمنيون يناشدون إطلاق سراح الطبيبين الرباعي والمضواحي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431547",
+        "published_date": "2026-11-05T16:33:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "be67b53d1a55",
+        "title": "المالكي يتهم الحوثيين باستهداف المدينة المنورة وسريع ينفي ويكشف عن أهداف قواته في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431545",
+        "published_date": "2026-11-05T15:52:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "90e7b73f1943",
+        "title": "ما أجمل روح هذا الإنسان وما أطيبه!",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431542",
+        "published_date": "2026-11-05T13:30:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1dda7b2eff16",
+        "title": "فتح طريق رابط بين عدن وتعز وهدوء حذر يسود جبهة حيفان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431540",
+        "published_date": "2026-11-05T12:33:08Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9cce05ae2300",
+        "title": "الأرصاد: أمطار على سقطرى وأجزاء من السواحل والمناطق المحاذية وأجواء باردة نسبياً على المرتفعات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431538",
+        "published_date": "2026-11-05T11:44:00Z",
+        "category": "Local Events"
+      },
       {
         "_id": "2a287026fbce",
         "title": "حين دفع اليمنيون ثمن الوطن… وباعه آخرون بثمن بخس",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431492",
         "published_date": "2026-11-03T21:20:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1d79e204b8e2",
-        "title": "الأمم المتحدة تعيّن أردني منسقاً مقيماً جديداً في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431488",
-        "published_date": "2026-11-03T20:30:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "120bf4c8f551",
-        "title": "صرخة من أجل مستقبل الأجيال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431486",
-        "published_date": "2026-11-03T20:14:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "bbe91b07ce2a",
-        "title": "خبير مالي يكشف بالأرقام استغلال محطات الكهرباء التجارية في اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431483",
-        "published_date": "2026-11-03T19:56:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "482a56bfd8b8",
-        "title": "لم أحمل معي سوى حقيبتي وسيرتي الذاتية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431472",
-        "published_date": "2026-11-03T19:10:20Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "23eb7e5881ab",
-        "title": "شعب حضرموت يخسر مباراته الثالثة أمام الشباب العُماني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431469",
-        "published_date": "2026-11-03T18:09:11Z",
         "category": "Local Events"
       }
     ]
