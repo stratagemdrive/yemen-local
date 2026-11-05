@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-04T18:32:20Z",
+  "last_updated": "2026-11-05T03:20:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,30 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "2a287026fbce",
+        "title": "حين دفع اليمنيون ثمن الوطن… وباعه آخرون بثمن بخس",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431532",
+        "published_date": "2026-11-04T22:11:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "35f9eae14d2d",
+        "title": "تغير جدول مباريات منتخب الناشئين في التصفيات المؤهلة لنهائيات كأس آسيا للناشئين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431528",
+        "published_date": "2026-11-04T20:32:48Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a0e8f46d423",
+        "title": "“وثيقة”.. قرار بتحصيل الرسوم الجمركية والضريبية مقدماً على البضائع الواصلة إلى الموانئ الواقعة تحت سيطرة الحوثيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431524",
+        "published_date": "2026-11-04T19:11:25Z",
+        "category": "Local Events"
+      },
       {
         "_id": "1558eb811d29",
         "title": "دخول شحنة إمدادات طبية إلى مدينة تعز",
@@ -148,30 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431469",
         "published_date": "2026-11-03T18:09:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c90149212ac4",
-        "title": "سريع يعلن تنفيذ هجمات صاروخية وبطائرات مسيرة على أهداف في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431467",
-        "published_date": "2026-11-03T15:29:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e8b0596ff336",
-        "title": "“وثيقة”.. صنعاء.. الكهرباء تعلن رسمياً رفع تعرفة الكيلوواط من الكهرباء التجارية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431463",
-        "published_date": "2026-11-03T10:25:10Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4c8ed1d889c3",
-        "title": "الاتحاد الآسيوي يعلن تأجيل موعد كأس آسيا 2027 في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431459",
-        "published_date": "2026-11-03T10:01:55Z",
         "category": "Local Events"
       }
     ]
