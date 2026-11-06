@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-05T18:38:30Z",
+  "last_updated": "2026-11-06T03:18:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,11 +9,68 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
+    "Diplomacy": [
+      {
+        "_id": "e3d5fbd34c84",
+        "title": "All I Had with Me Was My Bag and My CV",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431568",
+        "published_date": "2026-11-05T21:38:57Z",
+        "category": "Diplomacy"
+      }
+    ],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "530b903a58c7",
+        "title": "مؤسسة مكافحة الاتجار بالبشر تطلق مبادرة مجتمعية لإنشاء منظومات كهرباء تعاونية في الأحياء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431573",
+        "published_date": "2026-11-05T22:34:19Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "02090442e829",
+        "title": "منتخب الناشئين يكثف تحضيراته لخوض التصفيات الآسيوية في قيرغيزستان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431570",
+        "published_date": "2026-11-05T22:02:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "52a2c8894610",
+        "title": "التعليم في اليمن: معركة استعادة المستقبل",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431565",
+        "published_date": "2026-11-05T21:27:13Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5955c4f227e6",
+        "title": "فلكي يمني: حالة جوية ماطرة مرتقبة في اليمن وتحسن تدريجي في درجات الحرارة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431562",
+        "published_date": "2026-11-05T21:05:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "91ad9c2e5774",
+        "title": "سريع يعلن استهداف مطار سعودي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431560",
+        "published_date": "2026-11-05T20:48:36Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d0087c861cb",
+        "title": "الصحة العالمية: ارتفاع عدد ضحايا التصعيد في اليمن خلال ثلاثة أشهر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431558",
+        "published_date": "2026-11-05T20:01:02Z",
+        "category": "Local Events"
+      },
       {
         "_id": "637e889e9934",
         "title": "مثقفون يمنيون يناشدون إطلاق سراح الطبيبين الرباعي والمضواحي",
@@ -124,54 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431509",
         "published_date": "2026-11-04T11:04:39Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2bada82f7d27",
-        "title": "عشرات الشاحنات عالقة في طور الباحة بلحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431506",
-        "published_date": "2026-11-04T10:20:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "66d95d540f9b",
-        "title": "الديمقراطيون يحققون مكاسب أولية في السباق للسيطرة على الكونغرس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431503",
-        "published_date": "2026-11-04T05:08:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7de12d3ce3ca",
-        "title": "الفلسفة التعليمية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431501",
-        "published_date": "2026-11-04T01:21:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "034282abdfec",
-        "title": "تعثر نقل النفايات من مدينة تعز وسط استمرار الجهود لإنفاذ تفاهمات رعاها القطاع الخاص",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431498",
-        "published_date": "2026-11-03T22:32:37Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b0c43bfe50d8",
-        "title": "بدء انتخابات التجديد النصفي الأمريكية وسط مخاوف الجمهوريين من تقدم خصومهم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431495",
-        "published_date": "2026-11-03T22:17:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "44932ec2a74c",
-        "title": "خبير طقس يتوقع تحسن الهطول المطري الأسبوع المقبل وينبه مزارعي الخضروات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431492",
-        "published_date": "2026-11-03T21:20:41Z",
         "category": "Local Events"
       }
     ]
