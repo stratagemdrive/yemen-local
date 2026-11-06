@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-06T03:18:22Z",
+  "last_updated": "2026-11-06T17:53:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "860f1beb9e6b",
+        "title": "إغلاق طريق رابط بين محافظتي عدن وتعز بعد ساعات من إعادة فتحها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431594",
+        "published_date": "2026-11-06T11:39:53Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "67105af00617",
+        "title": "مثقفون يناشدون بالإفراج عن الناشط المدني عبد الحكيم العفيري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431591",
+        "published_date": "2026-11-06T11:13:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "75cef25cc790",
+        "title": "المالكي يعلن اعتراض وتدمير مسيرة وصاروخين باليستيين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431588",
+        "published_date": "2026-11-06T10:36:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "900117ae3785",
+        "title": "فتح طريق ثالث يربط بين عدن وتعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431584",
+        "published_date": "2026-11-06T09:40:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "3d0b62c21657",
+        "title": "حين تعثّر الشوق في دمشق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431581",
+        "published_date": "2026-11-06T09:34:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7708d45ea03a",
+        "title": "الأرصاد: أمطار متفاوتة الشدة على سقطرى والسواحل الشرقية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431578",
+        "published_date": "2026-11-06T08:56:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a2f6ac192013",
+        "title": "طريقان جبليان يربطان عدن وتعز احدهما للنقل الخفيف وسط استمرار حالة الهدوء الحذر في حيفان والمقاطرة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431575",
+        "published_date": "2026-11-06T08:28:41Z",
+        "category": "Local Events"
+      },
       {
         "_id": "530b903a58c7",
         "title": "مؤسسة مكافحة الاتجار بالبشر تطلق مبادرة مجتمعية لإنشاء منظومات كهرباء تعاونية في الأحياء",
@@ -125,62 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431528",
         "published_date": "2026-11-04T20:32:48Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a0e8f46d423",
-        "title": "“وثيقة”.. قرار بتحصيل الرسوم الجمركية والضريبية مقدماً على البضائع الواصلة إلى الموانئ الواقعة تحت سيطرة الحوثيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431524",
-        "published_date": "2026-11-04T19:11:25Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1558eb811d29",
-        "title": "دخول شحنة إمدادات طبية إلى مدينة تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431521",
-        "published_date": "2026-11-04T17:37:03Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b856d78b9c34",
-        "title": "صنعاء.. البنك المركزي يوقف التعامل مع شركة صرافة وشبكة تحويلات مالية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431519",
-        "published_date": "2026-11-04T14:14:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3e1aa181db2f",
-        "title": "المبادرة الوطنية لإعادة بناء التعليم في اليمن.. شعلة أمل لإنقاذ مستقبل الأجيال",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431516",
-        "published_date": "2026-11-04T13:58:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "f9ce3ab3a663",
-        "title": "سريع يعلن إسقاط طائرة استطلاع واستهداف تحشيدات في الجوف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431513",
-        "published_date": "2026-11-04T13:32:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c548f04c8ad7",
-        "title": "أسعار صرف الريال اليمني مقابل العملات الاجنبية الأربعاء 04 نوفمبر/تشرين ثاني 2026",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431511",
-        "published_date": "2026-11-04T11:56:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4fa2c743c804",
-        "title": "سلطات إب تفرج عن قياديين في الاشتراكي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431509",
-        "published_date": "2026-11-04T11:04:39Z",
         "category": "Local Events"
       }
     ]
