@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-07T02:38:15Z",
+  "last_updated": "2026-11-07T16:47:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,14 @@
   ],
   "stories": {
     "Diplomacy": [
+      {
+        "_id": "442473413645",
+        "title": "Between the First Voice and the Silence of the Universe",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431621",
+        "published_date": "2026-11-07T05:31:52Z",
+        "category": "Diplomacy"
+      },
       {
         "_id": "e3d5fbd34c84",
         "title": "All I Had with Me Was My Bag and My CV",
@@ -23,6 +31,94 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "024ca256f09b",
+        "title": "السماح لشاحنات نقل البضائع العالقة في طور الباحة بالمغادرة صوب تعز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431645",
+        "published_date": "2026-11-07T16:23:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "84849cd9d355",
+        "title": "سريع يعلن تنفيذ 6 عمليات عسكرية استهدفت مواقع ومنشآت سعودية وتحشيدات في مأرب والجوف",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431643",
+        "published_date": "2026-11-07T15:42:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ff9d82db487c",
+        "title": "فلكي يمني: توسع مرتقب للأمطار غرب اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431641",
+        "published_date": "2026-11-07T15:17:50Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "19697dfe990f",
+        "title": "المقالح: الصراع على السلطة في اليمن أشد شراسة من القتال من أجل الوطن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431638",
+        "published_date": "2026-11-07T14:55:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7a4dc832426d",
+        "title": "فتح طريق رابط بين عدن وتعز في اتجاه واحد وتخصيص طريق مفتوحة للعوائل فقط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431634",
+        "published_date": "2026-11-07T13:15:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8fa55b45eaee",
+        "title": "هزة أرضية من محافظة ذمار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431631",
+        "published_date": "2026-11-07T11:07:43Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "e76759051f70",
+        "title": "الأرصاد: كتلة هوائية رطبة تؤدي إلى حالة من عدم الاستقرار في الأجواء اليمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431629",
+        "published_date": "2026-11-07T10:22:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a76af550ec72",
+        "title": "زوجة الدكتور المضواحي تناشد سلطات صنعاء السماح له بالتواصل مع أسرته بعد 3 أشهر من انقطاع أخباره",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431626",
+        "published_date": "2026-11-07T09:50:41Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "69a2189b0438",
+        "title": "استمرار إغلاق طريقين يربطان عدن بتعز وسائقون يضطرون لاستخدام طريق جديدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431623",
+        "published_date": "2026-11-07T06:14:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5b021149befe",
+        "title": "اليمنية تلغي عدداً من رحلاتها إلى عدد من الوجهات الخارجية والداخلية خلال نوفمبر الجاري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431619",
+        "published_date": "2026-11-07T04:55:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2e8a9e23f060",
+        "title": "خبير طقس: منخفض جوي يتوغل شرق خليج عدن وأمطار على المهرة وحضرموت ومناطق أخرى",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431616",
+        "published_date": "2026-11-07T04:26:23Z",
+        "category": "Local Events"
+      },
       {
         "_id": "16bc38da37e2",
         "title": "من منح الإسلاميين حق احتكار معركة الاستشراق؟",
@@ -93,94 +189,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431588",
         "published_date": "2026-11-06T10:36:04Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "900117ae3785",
-        "title": "فتح طريق ثالث يربط بين عدن وتعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431584",
-        "published_date": "2026-11-06T09:40:11Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "3d0b62c21657",
-        "title": "حين تعثّر الشوق في دمشق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431581",
-        "published_date": "2026-11-06T09:34:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7708d45ea03a",
-        "title": "الأرصاد: أمطار متفاوتة الشدة على سقطرى والسواحل الشرقية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431578",
-        "published_date": "2026-11-06T08:56:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a2f6ac192013",
-        "title": "طريقان جبليان يربطان عدن وتعز احدهما للنقل الخفيف وسط استمرار حالة الهدوء الحذر في حيفان والمقاطرة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431575",
-        "published_date": "2026-11-06T08:28:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "530b903a58c7",
-        "title": "مؤسسة مكافحة الاتجار بالبشر تطلق مبادرة مجتمعية لإنشاء منظومات كهرباء تعاونية في الأحياء",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431573",
-        "published_date": "2026-11-05T22:34:19Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "02090442e829",
-        "title": "منتخب الناشئين يكثف تحضيراته لخوض التصفيات الآسيوية في قيرغيزستان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431570",
-        "published_date": "2026-11-05T22:02:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "52a2c8894610",
-        "title": "التعليم في اليمن: معركة استعادة المستقبل",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431565",
-        "published_date": "2026-11-05T21:27:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5955c4f227e6",
-        "title": "فلكي يمني: حالة جوية ماطرة مرتقبة في اليمن وتحسن تدريجي في درجات الحرارة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431562",
-        "published_date": "2026-11-05T21:05:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "91ad9c2e5774",
-        "title": "سريع يعلن استهداف مطار سعودي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431560",
-        "published_date": "2026-11-05T20:48:36Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2d0087c861cb",
-        "title": "الصحة العالمية: ارتفاع عدد ضحايا التصعيد في اليمن خلال ثلاثة أشهر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431558",
-        "published_date": "2026-11-05T20:01:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "637e889e9934",
-        "title": "مثقفون يمنيون يناشدون إطلاق سراح الطبيبين الرباعي والمضواحي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431547",
-        "published_date": "2026-11-05T16:33:24Z",
         "category": "Local Events"
       }
     ]
