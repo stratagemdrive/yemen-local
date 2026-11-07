@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-06T17:53:09Z",
+  "last_updated": "2026-11-07T02:38:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "16bc38da37e2",
+        "title": "من منح الإسلاميين حق احتكار معركة الاستشراق؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431613",
+        "published_date": "2026-11-07T00:41:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "29ce3b725954",
+        "title": "حين يصبح الصمت خذلانا وتتحول الكلمة إلى واجب إنساني",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431611",
+        "published_date": "2026-11-07T00:38:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "28a3635d0a7d",
+        "title": "شبكة محامون ضد الفساد: محاصرة منزل قاضٍ بالأطقم المسلحة انتهاك خطير لهيبة القضاء واستقلاله",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431609",
+        "published_date": "2026-11-07T00:35:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b1a838022e83",
+        "title": "تسجيل هزة ارضية من محافظة ذمار",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431605",
+        "published_date": "2026-11-06T21:39:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "562d793a8787",
+        "title": "(وفي الليلة الظلماء يُفتقد البدر)",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431600",
+        "published_date": "2026-11-06T20:20:05Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8b3615bec60e",
+        "title": "نقطة أمنية تحتجز موظفاً في جامعة صنعاء بسبب عدم وجود لقب في اسمه",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431597",
+        "published_date": "2026-11-06T19:18:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "860f1beb9e6b",
         "title": "إغلاق طريق رابط بين محافظتي عدن وتعز بعد ساعات من إعادة فتحها",
@@ -133,54 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431547",
         "published_date": "2026-11-05T16:33:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "be67b53d1a55",
-        "title": "المالكي يتهم الحوثيين باستهداف المدينة المنورة وسريع ينفي ويكشف عن أهداف قواته في السعودية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431545",
-        "published_date": "2026-11-05T15:52:13Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "90e7b73f1943",
-        "title": "ما أجمل روح هذا الإنسان وما أطيبه!",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431542",
-        "published_date": "2026-11-05T13:30:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1dda7b2eff16",
-        "title": "فتح طريق رابط بين عدن وتعز وهدوء حذر يسود جبهة حيفان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431540",
-        "published_date": "2026-11-05T12:33:08Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9cce05ae2300",
-        "title": "الأرصاد: أمطار على سقطرى وأجزاء من السواحل والمناطق المحاذية وأجواء باردة نسبياً على المرتفعات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431538",
-        "published_date": "2026-11-05T11:44:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2a287026fbce",
-        "title": "حين دفع اليمنيون ثمن الوطن… وباعه آخرون بثمن بخس",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431532",
-        "published_date": "2026-11-04T22:11:55Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "35f9eae14d2d",
-        "title": "تغير جدول مباريات منتخب الناشئين في التصفيات المؤهلة لنهائيات كأس آسيا للناشئين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431528",
-        "published_date": "2026-11-04T20:32:48Z",
         "category": "Local Events"
       }
     ]
