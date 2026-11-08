@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-07T16:47:33Z",
+  "last_updated": "2026-11-08T02:10:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -31,6 +31,22 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "0d09fe73c48c",
+        "title": "مثقفون يمنيون يناشدون بالإفراج عن التربوي المخضرم أحمد النونو",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431649",
+        "published_date": "2026-11-07T23:19:28Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0c8f4bbfed8f",
+        "title": "حاشد.. وسام شرف رفيع",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431647",
+        "published_date": "2026-11-07T21:39:44Z",
+        "category": "Local Events"
+      },
       {
         "_id": "024ca256f09b",
         "title": "السماح لشاحنات نقل البضائع العالقة في طور الباحة بالمغادرة صوب تعز",
@@ -173,22 +189,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431594",
         "published_date": "2026-11-06T11:39:53Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "67105af00617",
-        "title": "مثقفون يناشدون بالإفراج عن الناشط المدني عبد الحكيم العفيري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431591",
-        "published_date": "2026-11-06T11:13:02Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "75cef25cc790",
-        "title": "المالكي يعلن اعتراض وتدمير مسيرة وصاروخين باليستيين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431588",
-        "published_date": "2026-11-06T10:36:04Z",
         "category": "Local Events"
       }
     ]
