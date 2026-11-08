@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-08T02:10:26Z",
+  "last_updated": "2026-11-08T16:59:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -31,6 +31,70 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "5c7e6c90e512",
+        "title": "قراءة نقدية في قرار السلطة المحلية بتعز بشأن تعليق التعليم النظامي وإقرار التعليم عن بُعد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431668",
+        "published_date": "2026-11-08T15:04:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "d6bec89cadc0",
+        "title": "صنعاء.. البنك المركزي يعيد التعامل مع ثلاث منشآت صرافة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431666",
+        "published_date": "2026-11-08T14:31:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7903eeb48916",
+        "title": "سريع يعلن تنفيذ أربع عمليات عسكرية في السعودية واليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431664",
+        "published_date": "2026-11-08T13:57:51Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "96445ac9a9bd",
+        "title": "منتخب الناشئين يخوض الحصة التدريبية الأولى في قيرغيزستان",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431661",
+        "published_date": "2026-11-08T13:35:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1fbfd8477cdb",
+        "title": "المالكي يعلن عن أربع عمليات اعتراض وتدمير لصواريخ ومسيّرات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431659",
+        "published_date": "2026-11-08T13:04:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "015f8800590d",
+        "title": "المقالح: كسب تعز واليمن مرهون بالتخلي عن مفهوم الولاية والاحتكام إلى المواطنة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431657",
+        "published_date": "2026-11-08T11:26:54Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9c9c30b29e38",
+        "title": "فتح طريق رابط بين محافظتي عدن وتعز في الاتجاهين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431654",
+        "published_date": "2026-11-08T10:56:52Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9c1d4bd7f97d",
+        "title": "الأرصاد: استمرار تأثير الكتلة الهوائية الرطبة على عدد من المحافظات اليمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431651",
+        "published_date": "2026-11-08T10:01:50Z",
+        "category": "Local Events"
+      },
       {
         "_id": "0d09fe73c48c",
         "title": "مثقفون يمنيون يناشدون بالإفراج عن التربوي المخضرم أحمد النونو",
@@ -125,70 +189,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431619",
         "published_date": "2026-11-07T04:55:30Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2e8a9e23f060",
-        "title": "خبير طقس: منخفض جوي يتوغل شرق خليج عدن وأمطار على المهرة وحضرموت ومناطق أخرى",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431616",
-        "published_date": "2026-11-07T04:26:23Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "16bc38da37e2",
-        "title": "من منح الإسلاميين حق احتكار معركة الاستشراق؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431613",
-        "published_date": "2026-11-07T00:41:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "29ce3b725954",
-        "title": "حين يصبح الصمت خذلانا وتتحول الكلمة إلى واجب إنساني",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431611",
-        "published_date": "2026-11-07T00:38:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "28a3635d0a7d",
-        "title": "شبكة محامون ضد الفساد: محاصرة منزل قاضٍ بالأطقم المسلحة انتهاك خطير لهيبة القضاء واستقلاله",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431609",
-        "published_date": "2026-11-07T00:35:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "b1a838022e83",
-        "title": "تسجيل هزة ارضية من محافظة ذمار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431605",
-        "published_date": "2026-11-06T21:39:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "562d793a8787",
-        "title": "(وفي الليلة الظلماء يُفتقد البدر)",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431600",
-        "published_date": "2026-11-06T20:20:05Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8b3615bec60e",
-        "title": "نقطة أمنية تحتجز موظفاً في جامعة صنعاء بسبب عدم وجود لقب في اسمه",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431597",
-        "published_date": "2026-11-06T19:18:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "860f1beb9e6b",
-        "title": "إغلاق طريق رابط بين محافظتي عدن وتعز بعد ساعات من إعادة فتحها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431594",
-        "published_date": "2026-11-06T11:39:53Z",
         "category": "Local Events"
       }
     ]
