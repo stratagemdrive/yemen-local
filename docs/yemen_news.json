@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-09T02:29:53Z",
+  "last_updated": "2026-11-09T21:22:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -17,20 +17,108 @@
         "url": "https://yemenat.net/archives/431621",
         "published_date": "2026-11-07T05:31:52Z",
         "category": "Diplomacy"
-      },
-      {
-        "_id": "e3d5fbd34c84",
-        "title": "All I Had with Me Was My Bag and My CV",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431568",
-        "published_date": "2026-11-05T21:38:57Z",
-        "category": "Diplomacy"
       }
     ],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "be909db4c7f8",
+        "title": "المالكي يعلن تدمير ثلاثة مصانع تابعة للحوثيين مرتبطة بالصناعات الصاروخية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431725",
+        "published_date": "2026-11-09T19:22:24Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ebe551dd1ce2",
+        "title": "مباحثات أممية عُمانية بشأن اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431722",
+        "published_date": "2026-11-09T15:46:49Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c9bd42fb5872",
+        "title": "تركني وحيداً..",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431716",
+        "published_date": "2026-11-09T15:00:06Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0807956982e5",
+        "title": "لحج.. هدوء حذر في المضاربة بعد مواجهات عنيفة في المجزاع بالمضاربة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431710",
+        "published_date": "2026-11-09T12:26:03Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2853feba0b35",
+        "title": "إطلاق إنذار للتحذير من خطر على العاصمة السعودية الرياض",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431707",
+        "published_date": "2026-11-09T11:25:46Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1abbf45ee369",
+        "title": "مثقفون يمنيون يوجهون مناشدة عاجلة لسلطات صنعاء وعدن لتوفير منحة علاجية للدبلوماسي عبد الله الحنكي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431705",
+        "published_date": "2026-11-09T10:02:16Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7913a22f4ff9",
+        "title": "الأرصاد: استمرار تأثيرات الكتلة الرطبة على الأجواء اليمنية وتوقعات باستمرار الهطول المطري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431702",
+        "published_date": "2026-11-09T09:27:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "df6b4c2a77e6",
+        "title": "تعز.. فتح طريق الصحى–كربة أمام سيارات النقل الخفيف فقط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431699",
+        "published_date": "2026-11-09T08:51:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5c19bc21bc74",
+        "title": "أبو راس: السفارات اليمنية مؤسسات دولة وليست أدوات للإقصاء وتصفية الحسابات السياسية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431697",
+        "published_date": "2026-11-09T06:28:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2385ac64cd37",
+        "title": "حادث سير يوقف حركة السير على طريق رابط بين عدن وتعز.. وشروط لدخول شاحنات البضائع إلى المدينة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431694",
+        "published_date": "2026-11-09T05:08:44Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "30582888ad71",
+        "title": "السقلدي: السعودية تبحث عن مخرج من اليمن والحوثيون يتمسكون بخريطة طريق مسقط",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431691",
+        "published_date": "2026-11-09T04:30:27Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "f658b383261e",
+        "title": "خبير طقس يتوقع أمطارًا غزيرة وسيولًا في عدد من المحافظات اليمنية خلال الساعات القادمة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431688",
+        "published_date": "2026-11-09T03:00:54Z",
+        "category": "Local Events"
+      },
       {
         "_id": "e022ddb8708f",
         "title": "برشلونة يقلب تأخره أمام أتلتيكو مدريد بثنائية لوبيز ويعزز موقعه في صدارة الليغا",
@@ -93,102 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431666",
         "published_date": "2026-11-08T14:31:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7903eeb48916",
-        "title": "سريع يعلن تنفيذ أربع عمليات عسكرية في السعودية واليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431664",
-        "published_date": "2026-11-08T13:57:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "96445ac9a9bd",
-        "title": "منتخب الناشئين يخوض الحصة التدريبية الأولى في قيرغيزستان",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431661",
-        "published_date": "2026-11-08T13:35:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1fbfd8477cdb",
-        "title": "المالكي يعلن عن أربع عمليات اعتراض وتدمير لصواريخ ومسيّرات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431659",
-        "published_date": "2026-11-08T13:04:31Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "015f8800590d",
-        "title": "المقالح: كسب تعز واليمن مرهون بالتخلي عن مفهوم الولاية والاحتكام إلى المواطنة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431657",
-        "published_date": "2026-11-08T11:26:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c9c30b29e38",
-        "title": "فتح طريق رابط بين محافظتي عدن وتعز في الاتجاهين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431654",
-        "published_date": "2026-11-08T10:56:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9c1d4bd7f97d",
-        "title": "الأرصاد: استمرار تأثير الكتلة الهوائية الرطبة على عدد من المحافظات اليمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431651",
-        "published_date": "2026-11-08T10:01:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0d09fe73c48c",
-        "title": "مثقفون يمنيون يناشدون بالإفراج عن التربوي المخضرم أحمد النونو",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431649",
-        "published_date": "2026-11-07T23:19:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0c8f4bbfed8f",
-        "title": "حاشد.. وسام شرف رفيع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431647",
-        "published_date": "2026-11-07T21:39:44Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "024ca256f09b",
-        "title": "السماح لشاحنات نقل البضائع العالقة في طور الباحة بالمغادرة صوب تعز",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431645",
-        "published_date": "2026-11-07T16:23:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "84849cd9d355",
-        "title": "سريع يعلن تنفيذ 6 عمليات عسكرية استهدفت مواقع ومنشآت سعودية وتحشيدات في مأرب والجوف",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431643",
-        "published_date": "2026-11-07T15:42:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ff9d82db487c",
-        "title": "فلكي يمني: توسع مرتقب للأمطار غرب اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431641",
-        "published_date": "2026-11-07T15:17:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "19697dfe990f",
-        "title": "المقالح: الصراع على السلطة في اليمن أشد شراسة من القتال من أجل الوطن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431638",
-        "published_date": "2026-11-07T14:55:45Z",
         "category": "Local Events"
       }
     ]
