@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-08T16:59:12Z",
+  "last_updated": "2026-11-09T02:29:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -31,6 +31,54 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "e022ddb8708f",
+        "title": "برشلونة يقلب تأخره أمام أتلتيكو مدريد بثنائية لوبيز ويعزز موقعه في صدارة الليغا",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431684",
+        "published_date": "2026-11-08T22:39:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "2d179e748b65",
+        "title": "حاشد الذي لم ينحنِ للسلطة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431681",
+        "published_date": "2026-11-08T21:51:30Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "57b07b1ab441",
+        "title": "المعبقي ينتقد قرار تعليق التعليم النظامي في تعز واعتماد التعليم عن بُعد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431679",
+        "published_date": "2026-11-08T21:04:11Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "88f82af4d18c",
+        "title": "عدن وماناغوا.. عندما كان اليمن في قلب العالم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431677",
+        "published_date": "2026-11-08T19:39:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "17f3b0387298",
+        "title": "عدن.. تعيينات في قيادة وزارة الداخلية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431674",
+        "published_date": "2026-11-08T19:15:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5e2da15507c0",
+        "title": "صحيفة: الحوثيون يفرضون آلية لتصاريح عبور السفن في البحر الأحمر",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431670",
+        "published_date": "2026-11-08T18:37:27Z",
+        "category": "Local Events"
+      },
       {
         "_id": "5c7e6c90e512",
         "title": "قراءة نقدية في قرار السلطة المحلية بتعز بشأن تعليق التعليم النظامي وإقرار التعليم عن بُعد",
@@ -141,54 +189,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431638",
         "published_date": "2026-11-07T14:55:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "7a4dc832426d",
-        "title": "فتح طريق رابط بين عدن وتعز في اتجاه واحد وتخصيص طريق مفتوحة للعوائل فقط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431634",
-        "published_date": "2026-11-07T13:15:52Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8fa55b45eaee",
-        "title": "هزة أرضية من محافظة ذمار",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431631",
-        "published_date": "2026-11-07T11:07:43Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e76759051f70",
-        "title": "الأرصاد: كتلة هوائية رطبة تؤدي إلى حالة من عدم الاستقرار في الأجواء اليمنية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431629",
-        "published_date": "2026-11-07T10:22:57Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a76af550ec72",
-        "title": "زوجة الدكتور المضواحي تناشد سلطات صنعاء السماح له بالتواصل مع أسرته بعد 3 أشهر من انقطاع أخباره",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431626",
-        "published_date": "2026-11-07T09:50:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69a2189b0438",
-        "title": "استمرار إغلاق طريقين يربطان عدن بتعز وسائقون يضطرون لاستخدام طريق جديدة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431623",
-        "published_date": "2026-11-07T06:14:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5b021149befe",
-        "title": "اليمنية تلغي عدداً من رحلاتها إلى عدد من الوجهات الخارجية والداخلية خلال نوفمبر الجاري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431619",
-        "published_date": "2026-11-07T04:55:30Z",
         "category": "Local Events"
       }
     ]
