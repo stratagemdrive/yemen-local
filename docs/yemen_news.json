@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-09T21:22:11Z",
+  "last_updated": "2026-11-10T04:32:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "484917098fae",
+        "title": "صنعاء.. غارتان تستهدفان شركة النفط ومحطة غاز",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431736",
+        "published_date": "2026-11-10T04:31:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "23973e446e61",
+        "title": "خبير طقس: أمطار متفاوتة متوقعة على مناطق واسعة غرب اليمن وتحذيرات من سيول شمال شرق الحديدة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431733",
+        "published_date": "2026-11-10T03:28:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "12faf75f871d",
+        "title": "حين يُختطف الوطن ثم تُختطف الحقيقة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431730",
+        "published_date": "2026-11-09T22:34:45Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ce404c914747",
+        "title": "لماذا نجحت الثورات الغربية وتعثر الربيع العربي؟",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431727",
+        "published_date": "2026-11-09T22:27:14Z",
+        "category": "Local Events"
+      },
       {
         "_id": "be909db4c7f8",
         "title": "المالكي يعلن تدمير ثلاثة مصانع تابعة للحوثيين مرتبطة بالصناعات الصاروخية",
@@ -149,38 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431677",
         "published_date": "2026-11-08T19:39:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "17f3b0387298",
-        "title": "عدن.. تعيينات في قيادة وزارة الداخلية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431674",
-        "published_date": "2026-11-08T19:15:07Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5e2da15507c0",
-        "title": "صحيفة: الحوثيون يفرضون آلية لتصاريح عبور السفن في البحر الأحمر",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431670",
-        "published_date": "2026-11-08T18:37:27Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5c7e6c90e512",
-        "title": "قراءة نقدية في قرار السلطة المحلية بتعز بشأن تعليق التعليم النظامي وإقرار التعليم عن بُعد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431668",
-        "published_date": "2026-11-08T15:04:59Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d6bec89cadc0",
-        "title": "صنعاء.. البنك المركزي يعيد التعامل مع ثلاث منشآت صرافة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431666",
-        "published_date": "2026-11-08T14:31:52Z",
         "category": "Local Events"
       }
     ]
