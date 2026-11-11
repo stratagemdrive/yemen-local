@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-10T18:33:21Z",
+  "last_updated": "2026-11-11T02:38:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,38 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "e90f669e13e8",
+        "title": "في ظل استمرار التصعيد العسكري.. تقرير أممي يرصد انتقال أكثر من 2500 أسرة يمنية داخل البلاد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431784",
+        "published_date": "2026-11-10T23:11:21Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "8a4395e11142",
+        "title": "روبيو يعلن الإبقاء على الحصار البحري على إيران وطهران تشترط تنفيذ المطالب السبعة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431781",
+        "published_date": "2026-11-10T22:23:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1a45ea7c65a2",
+        "title": "الفريق السامعي: قضية تعز معقدة وتحتاج إلى قراءة متأنية لتاريخها ومكانتها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431776",
+        "published_date": "2026-11-10T21:27:32Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "0fc20c954fd0",
+        "title": "مثقفون يمنيون يعلنون تضامنهم مع الدكتور علي المضواحي المعتقل منذ 888 يوماً",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431774",
+        "published_date": "2026-11-10T21:07:32Z",
+        "category": "Local Events"
+      },
       {
         "_id": "69e10a01ba36",
         "title": "السقلدي: الهوية اليمنية لم تكن عائقاً أمام الجنوبيين.. واتحاد الجنوب العربي لم يكن دولة مستقلة",
@@ -140,38 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431730",
         "published_date": "2026-11-09T22:34:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ce404c914747",
-        "title": "لماذا نجحت الثورات الغربية وتعثر الربيع العربي؟",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431727",
-        "published_date": "2026-11-09T22:27:14Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "be909db4c7f8",
-        "title": "المالكي يعلن تدمير ثلاثة مصانع تابعة للحوثيين مرتبطة بالصناعات الصاروخية",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431725",
-        "published_date": "2026-11-09T19:22:24Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ebe551dd1ce2",
-        "title": "مباحثات أممية عُمانية بشأن اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431722",
-        "published_date": "2026-11-09T15:46:49Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "c9bd42fb5872",
-        "title": "تركني وحيداً..",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431716",
-        "published_date": "2026-11-09T15:00:06Z",
         "category": "Local Events"
       }
     ]
