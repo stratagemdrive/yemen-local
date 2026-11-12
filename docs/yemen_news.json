@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-12T03:41:28Z",
+  "last_updated": "2026-11-12T18:46:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "8b7d2dee8077",
+        "title": "صنعاء.. البنك المركزي يوقف سبعة كيانات مصرفية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431845",
+        "published_date": "2026-11-12T13:21:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "4abc860f3ec8",
+        "title": "مثقفون يمنيون يجددون مناشدتهم للإفراج عن الطبيبين الرباعي والمضواحي",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431842",
+        "published_date": "2026-11-12T10:36:12Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "47b6d0412799",
+        "title": "ما بين الصوت الأول وصمت الكون",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431840",
+        "published_date": "2026-11-12T09:53:31Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6a0762c592d9",
+        "title": "الأرصاد: استمرار الهطول المطري على أجزاء من المرتفعات والسواحل وسهل تهامة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431837",
+        "published_date": "2026-11-12T09:22:26Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6624a09c0aa9",
+        "title": "تعثر حركة السير بين عدن وتعز.. طريق بحاجة إلى الإصلاح وأخرى تواجه مخاطر التزحلق",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431831",
+        "published_date": "2026-11-12T08:58:09Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "62d726beeb9e",
+        "title": "المالكي يعلن اعتراض وتدمير مسيّرات والدفاع المدني السعودي يتحدث عن سقوط شظايا صاروخين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431829",
+        "published_date": "2026-11-12T08:11:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a10d5052ffe3",
+        "title": "خبير أنواء جوية يتوقع أمطاراً متفاوتة الغزارة على مناطق واسعة من غرب اليمن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431826",
+        "published_date": "2026-11-12T07:33:45Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a0377b649088",
         "title": "يوميات شِعب الضبع",
@@ -116,62 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431786",
         "published_date": "2026-11-11T03:29:40Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "e90f669e13e8",
-        "title": "في ظل استمرار التصعيد العسكري.. تقرير أممي يرصد انتقال أكثر من 2500 أسرة يمنية داخل البلاد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431784",
-        "published_date": "2026-11-10T23:11:21Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8a4395e11142",
-        "title": "روبيو يعلن الإبقاء على الحصار البحري على إيران وطهران تشترط تنفيذ المطالب السبعة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431781",
-        "published_date": "2026-11-10T22:23:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "1a45ea7c65a2",
-        "title": "الفريق السامعي: قضية تعز معقدة وتحتاج إلى قراءة متأنية لتاريخها ومكانتها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431776",
-        "published_date": "2026-11-10T21:27:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "0fc20c954fd0",
-        "title": "مثقفون يمنيون يعلنون تضامنهم مع الدكتور علي المضواحي المعتقل منذ 888 يوماً",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431774",
-        "published_date": "2026-11-10T21:07:32Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "69e10a01ba36",
-        "title": "السقلدي: الهوية اليمنية لم تكن عائقاً أمام الجنوبيين.. واتحاد الجنوب العربي لم يكن دولة مستقلة",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431771",
-        "published_date": "2026-11-10T16:11:00Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "11f73843c6d1",
-        "title": "أدباء سعوديون يستعيدون تجاربهم في القصة القصيرة ويتحدثون عن زيارتهم للزلفي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431767",
-        "published_date": "2026-11-10T15:48:41Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "75889393e00a",
-        "title": "سريع يعلن تنفيذ أربع عمليات عسكرية استهدفت مواقع في الرياض وبقيق وتحشيدات في لحج",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431765",
-        "published_date": "2026-11-10T14:26:39Z",
         "category": "Local Events"
       }
     ]
