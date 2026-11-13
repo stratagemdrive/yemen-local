@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-13T03:18:36Z",
+  "last_updated": "2026-11-13T18:28:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,46 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "55ad2d6ff071",
+        "title": "النزيلي يعلن استهداف عدن بصواريخ باليستية ويتوعد بالتعامل مع مصادر التهديد",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431880",
+        "published_date": "2026-11-13T17:25:38Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "6ca9c42a3743",
+        "title": "زوجة الاديب اليمني مروان الغفوري تناشد حاكم الشارقة التدخل لكشف مصيره بعد انقطاع الاتصال به في الإمارات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431877",
+        "published_date": "2026-11-13T11:11:20Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "54dd5dea291d",
+        "title": "استمرار حركة المركبات بين عدن وتعز رغم المخاطر التي تواجه الطرقات وغياب الصيانة",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431874",
+        "published_date": "2026-11-13T10:37:02Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "9138506a8bd9",
+        "title": "مجلس الأمن الدولي يمدد الجزاءات المتعلقة باليمن لمدة عام ويضيف خبراء متخصصين في الامن البحري",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431872",
+        "published_date": "2026-11-13T10:01:07Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "89f2faab8215",
+        "title": "الأرصاد يخفض الإنذار إلى تنبيه ويتوقع انخفاضًا ملحوظًا في درجات الحرارة وهطول أمطار متفرقة على المرتفعات",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431869",
+        "published_date": "2026-11-13T08:47:08Z",
+        "category": "Local Events"
+      },
       {
         "_id": "a25c9147e6c6",
         "title": "الضحك بالمقلوب",
@@ -132,46 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431819",
         "published_date": "2026-11-11T22:03:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d4142a229d92",
-        "title": "عندما يغادر الذين لا يشبهون أحد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431816",
-        "published_date": "2026-11-11T21:43:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "5d5df26f7ff3",
-        "title": "غزة.. على حافة الماء الأخير",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431814",
-        "published_date": "2026-11-11T21:33:17Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "2c98b0cbe420",
-        "title": "سريع يعلن استهداف مقر قيادة وغرفة عمليات في عدن وتحشيدات عسكرية في ثلاث محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431811",
-        "published_date": "2026-11-11T21:02:22Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "41201880f512",
-        "title": "المالكي يعلن اعتراض وتدمير صاروخين.. والدفاع المدني السعودي يطلق إنذارات في ثلاث محافظات",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431809",
-        "published_date": "2026-11-11T20:35:47Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "8814e6c3d1fa",
-        "title": "الصحة العالمية ترصد أكثر من 11 ألف ضحية في اليمن جراء التصعيد العسكري",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431807",
-        "published_date": "2026-11-11T20:08:46Z",
         "category": "Local Events"
       }
     ]
