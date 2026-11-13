@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-12T18:46:30Z",
+  "last_updated": "2026-11-13T03:18:36Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -14,6 +14,62 @@
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "a25c9147e6c6",
+        "title": "الضحك بالمقلوب",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431866",
+        "published_date": "2026-11-12T22:34:55Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "b99bbeb80d13",
+        "title": "باسط روحه على أرض الوطن.. حكاية رجل لم تهزمه الأوجاع.. عن (أحمد سيف حاشد) أتكلم",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431863",
+        "published_date": "2026-11-12T22:06:33Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7fcdb46a31fb",
+        "title": "Diaries of Shi‘b al-Dhab‘",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431861",
+        "published_date": "2026-11-12T21:50:04Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "ea515ee9bb3a",
+        "title": "المالكي يعلن اعتراض وتدمير مسيّرتين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431859",
+        "published_date": "2026-11-12T21:23:10Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "7a02c8739b2c",
+        "title": "سريع يعلن استهداف منشآت نفطية وعسكرية في السعودية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431856",
+        "published_date": "2026-11-12T20:56:01Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "095c67423ba1",
+        "title": "ستبقى معشوق الفقراء وثورة الكادحين",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431853",
+        "published_date": "2026-11-12T20:00:59Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "5be6416749d0",
+        "title": "مناضل سياسي حقوقي بحجم وطن",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431847",
+        "published_date": "2026-11-12T19:34:07Z",
+        "category": "Local Events"
+      },
       {
         "_id": "8b7d2dee8077",
         "title": "صنعاء.. البنك المركزي يوقف سبعة كيانات مصرفية",
@@ -116,62 +172,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431807",
         "published_date": "2026-11-11T20:08:46Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "196a390305cc",
-        "title": "المالكي يعلن اعتراض وتدمير مسيرات وصواريخ وسريع يعلن استهداف مطار ومحطة ضخ نفط",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431803",
-        "published_date": "2026-11-11T19:01:12Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "63742e94eebb",
-        "title": "أحبطونا.. جيل كله هزائم",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431799",
-        "published_date": "2026-11-11T14:11:51Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "ac1150f57d77",
-        "title": "صنعاء.. الإفراج عن الكاتب الصحفي خالد العراسي",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431797",
-        "published_date": "2026-11-11T14:02:54Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6907a693f3b5",
-        "title": "منتخب الناشئين يستهل مشواره الآسيوي بالفوز على منغوليا",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431794",
-        "published_date": "2026-11-11T13:54:16Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "4cc7bbf471f0",
-        "title": "مثقفون يمنيون يناشدون سلطات صنعاء وعدن توفير منحة علاجية للمناضل راشد محمد ثابت",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431792",
-        "published_date": "2026-11-11T13:37:50Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "9649ad320f6d",
-        "title": "الأمطار تعيق حركة سير المركبات بين عدن وتعز.. وطريق هيجة العبد فُتح باتجاه واحد",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431789",
-        "published_date": "2026-11-11T13:12:28Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "d7cceb1a0bb1",
-        "title": "خبير طقس يتوقع أمطاراً غزيرة وسيولاً في عدد من المحافظات اليمنية ويحذر من اشتدادها",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431786",
-        "published_date": "2026-11-11T03:29:40Z",
         "category": "Local Events"
       }
     ]
