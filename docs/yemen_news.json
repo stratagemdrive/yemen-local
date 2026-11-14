@@ -1,6 +1,6 @@
 {
   "country": "yemen",
-  "last_updated": "2026-11-13T18:28:19Z",
+  "last_updated": "2026-11-14T02:57:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,11 +9,52 @@
     "Local Events"
   ],
   "stories": {
-    "Diplomacy": [],
+    "Diplomacy": [
+      {
+        "_id": "e67ca12672a2",
+        "title": "Al-Harf Al-Arabi Forum Discusses Khalid Al-Yousef’s Novel Seerat Huma",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431882",
+        "published_date": "2026-11-13T19:06:50Z",
+        "category": "Diplomacy"
+      }
+    ],
     "Military": [],
     "Energy": [],
     "Economy": [],
     "Local Events": [
+      {
+        "_id": "9b016dcd1a41",
+        "title": "مستجدات المواجهات العسكرية غرب محافظة لحج",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431894",
+        "published_date": "2026-11-14T00:30:47Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "1afc14b0d8bb",
+        "title": "سريع يعلن استهداف مواقع عسكرية ومنشآت نفطية في السعودية وثلاث محافظات يمنية",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431892",
+        "published_date": "2026-11-13T23:15:42Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "c8ebbaf6883b",
+        "title": "مروان الغفوري يظهر في تسجيل مرئي معتذرا للإمارات وحاكمها ويبدي رغبته في الانتقال إليها",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431888",
+        "published_date": "2026-11-13T22:10:57Z",
+        "category": "Local Events"
+      },
+      {
+        "_id": "a7d91e17d1ef",
+        "title": "وفاة صحفي يمني مخضرم بعد أربعة عقود من العطاء",
+        "source": "Yemenat",
+        "url": "https://yemenat.net/archives/431885",
+        "published_date": "2026-11-13T19:45:49Z",
+        "category": "Local Events"
+      },
       {
         "_id": "55ad2d6ff071",
         "title": "النزيلي يعلن استهداف عدن بصواريخ باليستية ويتوعد بالتعامل مع مصادر التهديد",
@@ -140,38 +181,6 @@
         "source": "Yemenat",
         "url": "https://yemenat.net/archives/431837",
         "published_date": "2026-11-12T09:22:26Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "6624a09c0aa9",
-        "title": "تعثر حركة السير بين عدن وتعز.. طريق بحاجة إلى الإصلاح وأخرى تواجه مخاطر التزحلق",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431831",
-        "published_date": "2026-11-12T08:58:09Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "62d726beeb9e",
-        "title": "المالكي يعلن اعتراض وتدمير مسيّرات والدفاع المدني السعودي يتحدث عن سقوط شظايا صاروخين",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431829",
-        "published_date": "2026-11-12T08:11:38Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a10d5052ffe3",
-        "title": "خبير أنواء جوية يتوقع أمطاراً متفاوتة الغزارة على مناطق واسعة من غرب اليمن",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431826",
-        "published_date": "2026-11-12T07:33:45Z",
-        "category": "Local Events"
-      },
-      {
-        "_id": "a0377b649088",
-        "title": "يوميات شِعب الضبع",
-        "source": "Yemenat",
-        "url": "https://yemenat.net/archives/431819",
-        "published_date": "2026-11-11T22:03:17Z",
         "category": "Local Events"
       }
     ]
